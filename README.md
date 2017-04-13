@@ -15,4 +15,4 @@ The result is a text file in which each line is an entry of the form
 
 ## Me talking for a bit
 
-Welcome! the interesting / usable part you are probably here for is the [database](https://github.com/kitchWWW/guitarTabsDatabase/blob/master/g_files/database.txt) in `g_files/database.txt`. That is where we have a stash of all the chords in all the songs we could get our hands on.
+Welcome! the interesting thing you are probably here for is the [database](https://github.com/kitchWWW/guitarTabsDatabase/blob/master/g_files/database.txt) in `g_files/database.txt`. That is where we have a stash of all the chords in all the songs we could get our hands on.

@@ -1,0 +1,16 @@
+AUTHORS.txt
+bs4
+doc.zh
+scripts
+COPYING.txt
+build
+setup.cfg
+MANIFEST.in
+convert-py3k
+setup.py
+PKG-INFO
+dist
+test-all-versions
+beautifulsoup4.egg-info
+doc
+.DS_Store

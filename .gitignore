@@ -14,3 +14,5 @@ test-all-versions
 beautifulsoup4.egg-info
 doc
 .DS_Store
+g_files/bandsToDo.txt
+g_files/songsToDo.txt

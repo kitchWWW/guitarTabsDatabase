@@ -1,17 +1,16 @@
 from bs4 import BeautifulSoup
-import urllib2,cookielib
+import urllib2,cookielib,sys
 
 sites = []
-sites.append('https://www.ultimate-guitar.com/bands/a')
 
-fd = open('g_files/bandsToDo.txt','w')
-fd.seek(0)
-fd.truncate()
-fd.close()
+letter = sys.argv[1]
 
+siteBase = 'https://www.ultimate-guitar.com/bands/'+letter
 
-for pageNumber in range(10,91):
-    site = sites[0]+str(pageNumber)+'.htm'
+pageNumber = -1
+while True:
+    pageNumber +=1
+    site = siteBase+str(pageNumber)+'.htm'
     hdr = {
     	'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -27,12 +26,14 @@ for pageNumber in range(10,91):
         page = urllib2.urlopen(req)
     except urllib2.HTTPError, e:
         print e.fp.read()
-
     htmlpage = page.read()
-    #print htmlpage
+
+    print site
+
+    added = False
     while True:
         try:
-            i = htmlpage.index('/tabs/a');
+            i = htmlpage.index('/tabs/'+letter);
             htmlpage = htmlpage[i:]
             i = htmlpage.index('"');
             tab_url = htmlpage[:i]
@@ -41,8 +42,11 @@ for pageNumber in range(10,91):
             fd = open('g_files/bandsToDo.txt','a')
             fd.write(tab_url+'\n')
             fd.close
+            added = True
         except:
             break
+    if not added:
+        break
 
 
 

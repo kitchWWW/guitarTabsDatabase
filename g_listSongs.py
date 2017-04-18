@@ -1,3 +1,5 @@
+#for each band and all their listings, puts the url of the pages with tabs into songsToDo
+
 from bs4 import BeautifulSoup
 import urllib2,cookielib
 

@@ -1,3 +1,7 @@
+#traverses the 'bands starting with <letter>' pages
+#lists all bands in the 'bandsToDo'
+
+
 from bs4 import BeautifulSoup
 import urllib2,cookielib,sys
 

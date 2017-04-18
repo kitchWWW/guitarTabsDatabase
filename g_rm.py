@@ -1,3 +1,8 @@
+#In short: 
+# - assumes that the database has been built from a linear read/traversal of songsToDo
+# - seeks through songsToDo and keeps only the ones after the last entry in the db
+
+
 db = open('g_files/database.txt','r')
 entries = db.readlines()
 lastCompleteURL = entries[len(entries)-1].split('\t')[0]

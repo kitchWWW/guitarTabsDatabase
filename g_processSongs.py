@@ -1,3 +1,6 @@
+#goes through the list of songsToDo
+#steals info
+
 from bs4 import BeautifulSoup
 import urllib2,cookielib
 

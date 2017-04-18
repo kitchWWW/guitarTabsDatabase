@@ -1,3 +1,5 @@
+#not even sure what this does tbh
+
 import urllib2,cookielib,sys
 
 siteBase = 'https://www.ultimate-guitar.com/bands/a'

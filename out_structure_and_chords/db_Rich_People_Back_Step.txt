@@ -1,0 +1,42 @@
+{
+    "verse-1": [
+        "E",
+        "Bsus4",
+        "C5",
+        "A2",
+        "E",
+        "Bsus4",
+        "C5",
+        "A2"
+    ],
+    "verse-2": [
+        "E",
+        "Bsus4",
+        "C5",
+        "A2"
+    ],
+    "chorus-1": [
+        "E",
+        "Bsus4",
+        "C5",
+        "Bsus4",
+        "A2"
+    ],
+    "chorus-2": [
+        "E",
+        "Bsus4",
+        "C5",
+        "Bsus4",
+        "A2",
+        "E",
+        "Bsus4",
+        "C5",
+        "Bsus4",
+        "A"
+    ],
+    "bridge": [
+        "C5",
+        "Bsus4",
+        "A"
+    ]
+}

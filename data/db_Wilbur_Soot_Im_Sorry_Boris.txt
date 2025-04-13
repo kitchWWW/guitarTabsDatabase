@@ -1,0 +1,98 @@
+URL: https://tabs.ultimate-guitar.com/tab/wilbur-soot/im-sorry-boris-chords-3738785
+Artist: Wilbur Soot
+Song: Im Sorry Boris
+Genre: 
+Key: Eb
+
+
+Tuning: CGDGBE
+
+In this tab accents will be representing playing the chord and immediately muting the chord. In addition to
+that I will be adding either a (1) or (2) to chords in the intro to represent which strumming pattern to play,
+when there are no parentheses you play the third strumming pattern. In all of the verses and in the bridge
+you play the Ebmaj6 chord three times. If you want to you can also do some fills on the low E string or in
+this case the low C string, some examples of these fills are 6 to 5 to 4 and 9 to 0 to 5.
+
+I also want to give a big thank you to Justin Rothberg whose tutorial I am basing this tab off of.
+You can check out his tutorial here: https://bit.ly/3ckYowV
+
+[tab]     [ch]Bb6[/ch]    [ch]Ebmaj6[/ch]  [ch]F6sus[/ch]   [ch]Cm11[/ch]   [ch]Bb6sus[/ch]  [ch]C7sus2[/ch]
+e|----0-------0-------0-------0-------0-------0----|
+B|----0-------0-------0-------1-------1-------0----|
+G|----0-------0-------0-------0-------0-------0----|
+D|----0-------0-------0-------0-------2-------1----|
+G|----5-------0-------7-------2-------0-------2----|
+C|----x-------x-------x-------x-------x-------x----|[/tab]
+
+[Intro]
+
+(1)  (2)
+[tab][ch]Bb6[/ch] [ch]Ebmaj6[/ch]
+(1)  (2)[/tab]
+[tab][ch]Bb6[/ch] [ch]Ebmaj6[/ch]
+(1)       (1)[/tab]
+[tab][ch]Bb6[/ch] [ch]F6sus[/ch] [ch]Ebmaj6[/ch] [ch]Cm11[/ch]
+(1)  (2)[/tab]
+[ch]Bb6[/ch] [ch]Ebmaj6[/ch]
+
+
+[ch]Bb6sus[/ch] [ch]C7sus2[/ch] [ch]Ebmaj6[/ch] [ch]Ebmaj6[/ch]   6x
+
+[Verse 1]
+[tab][ch]Bb6sus[/ch]    [ch]C7sus2[/ch]       [ch]Ebmaj6[/ch]
+I figured out what can move me[/tab]
+[tab][ch]Bb6sus[/ch]          [ch]C7sus2[/ch]           [ch]Ebmaj6[/ch]
+It's trains and hugs, planes and sushi[/tab]
+[tab]       [ch]Bb6sus[/ch]     [ch]C7sus2[/ch]     [ch]Ebmaj6[/ch]
+And I'm sorry, but Boris, I'm leaving[/tab]
+[tab][ch]Bb6sus[/ch] [ch]C7sus2[/ch]          [ch]Ebmaj6[/ch]
+I'm not good for anyone here[/tab]
+
+
+[Verse 2]
+[tab][ch]Bb6sus[/ch]        [ch]C7sus2[/ch]   [ch]Ebmaj6[/ch]
+We reached the end of a decade[/tab]
+[tab][ch]Bb6sus[/ch]    [ch]C7sus2[/ch]       [ch]Ebmaj6[/ch]
+Greenwich morphs to an arcade[/tab]
+[tab][ch]Bb6sus[/ch]  [ch]C7sus2[/ch]     [ch]Ebmaj6[/ch]
+Suffolk turns into a highway[/tab]
+[tab]                [ch]Bb6sus[/ch]
+Up to Hamlet's a tax break[/tab]
+[tab]   [ch]C7sus2[/ch]       [ch]Ebmaj6[/ch]
+New Islington, a headache[/tab]
+[tab]                     [ch]Bb6sus[/ch] [ch]C7sus2[/ch] [ch]Ebmaj6[/ch]
+And Richmond's still shit[/tab]
+
+
+[Verse 3]
+[tab]                         [ch]Bb6sus[/ch] [ch]C7sus2[/ch] [ch]Ebmaj6[/ch]
+I can't believe that I'm leaving[/tab]
+[tab]                         [ch]Bb6sus[/ch] [ch]C7sus2[/ch] [ch]Ebmaj6[/ch]
+I can't believe that I'm leaving[/tab]
+[tab]                        [ch]Bb6sus[/ch] [ch]C7sus2[/ch] [ch]Ebmaj6[/ch]
+I don't think I want to leave you[/tab]
+[tab]                        [ch]Bb6sus[/ch] [ch]C7sus2[/ch] [ch]Ebmaj6[/ch]
+I don't think I want to leave you here alone[/tab]
+
+
+[Bridge]
+[tab][ch]Bb6sus[/ch]      [ch]C7sus2[/ch]         [ch]Ebmaj6[/ch]                       [ch]Bb6sus[/ch]
+But they'll knock down the pubs before helping you[/tab]
+[tab]        [ch]C7sus2[/ch]         [ch]Ebmaj6[/ch]                           [ch]Bb6sus[/ch]
+They'll burn down your towers before helping you[/tab]
+[tab][ch]C7sus2[/ch]                  [ch]Ebmaj6[/ch]                          [ch]Bb6sus[/ch]
+They'll charge for your healthcare before helping you[/tab]
+[tab]                 [ch]C7sus2[/ch]     [ch]Ebmaj6[/ch]
+They'll make you jump under trains before helping you[/tab]
+
+[ch]Bb6sus[/ch] [ch]C7sus2[/ch]
+
+[Outro]
+[tab][ch]Ebmaj6[/ch]                                  [ch]Bb6sus[/ch]
+And even though I'm finished, I'm not quite done with it[/tab]
+[tab][ch]C7sus2[/ch]        [ch]Ebmaj6[/ch]           [ch]Bb6sus[/ch]
+No matter how far I run south, I'm always there[/tab]
+[tab][ch]C7sus2[/ch]     [ch]Ebmaj6[/ch]         [ch]Bb6sus[/ch]                        [ch]Bb6sus[/ch]
+My lovers, my colleagues, my best friends and enemies[/tab]
+[tab]                        [ch]Bb6sus[/ch]
+I don't think I want to leave you[/tab]

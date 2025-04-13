@@ -1,0 +1,74 @@
+{
+    "verse-1": [
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4",
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4"
+    ],
+    "verse-2": [
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4",
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4"
+    ],
+    "chorus-1": [
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4",
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4",
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4"
+    ],
+    "chorus-2": [
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4",
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4",
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4"
+    ],
+    "chorus-3": [
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4",
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4",
+        "A6",
+        "Esus4",
+        "A",
+        "Esus4"
+    ],
+    "bridge": [
+        "A6",
+        "Esus4",
+        "Amaj7",
+        "E",
+        "A6",
+        "Esus4",
+        "Amaj7",
+        "E"
+    ]
+}

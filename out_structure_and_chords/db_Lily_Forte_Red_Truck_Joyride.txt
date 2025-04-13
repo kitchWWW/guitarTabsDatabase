@@ -1,0 +1,51 @@
+{
+    "intro": [],
+    "verse-1": [
+        "A",
+        "Asus2",
+        "A",
+        "D",
+        "A",
+        "A",
+        "Asus2",
+        "A",
+        "D",
+        "Asus2",
+        "A"
+    ],
+    "verse-2": [
+        "A",
+        "Asus2",
+        "A",
+        "D",
+        "A",
+        "Asus2",
+        "Asus2",
+        "D",
+        "Asus2",
+        "A"
+    ],
+    "chorus-1": [
+        "D",
+        "A",
+        "D",
+        "Asus2",
+        "A"
+    ],
+    "chorus-2": [
+        "D",
+        "A",
+        "D",
+        "Asus2",
+        "A"
+    ],
+    "outro": [
+        "A",
+        "Asus2",
+        "D",
+        "A",
+        "Asus2",
+        "D",
+        "A"
+    ]
+}

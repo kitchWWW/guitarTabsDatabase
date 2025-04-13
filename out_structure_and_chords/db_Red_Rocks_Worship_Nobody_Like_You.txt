@@ -1,0 +1,144 @@
+{
+    "intro": [
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Db2",
+        "Ab",
+        "Ebsus"
+    ],
+    "verse-1": [
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Db2",
+        "Ab",
+        "Ebsus"
+    ],
+    "verse-2": [
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Db2",
+        "Ab",
+        "Ebsus"
+    ],
+    "chorus-1": [
+        "Ab",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Db2",
+        "Ab",
+        "Ebsus"
+    ],
+    "chorus-2": [
+        "Ab",
+        "Fm7",
+        "Db2",
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab"
+    ],
+    "chorus-3": [
+        "Ab",
+        "Fm7",
+        "Db2"
+    ],
+    "chorus-4": [
+        "Ab",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ab",
+        "Fm7",
+        "Db2",
+        "Ab"
+    ],
+    "chorus-5": [
+        "Ab",
+        "Fm7",
+        "Db2"
+    ],
+    "chorus-6": [
+        "Ab",
+        "Fm7",
+        "Db2"
+    ],
+    "bridge-1": [
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2"
+    ],
+    "bridge-2": [
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2"
+    ],
+    "bridge-3": [
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ebsus",
+        "Fm7",
+        "Db2"
+    ],
+    "outro": [
+        "Ab",
+        "Fm7",
+        "Db2",
+        "Ab"
+    ]
+}

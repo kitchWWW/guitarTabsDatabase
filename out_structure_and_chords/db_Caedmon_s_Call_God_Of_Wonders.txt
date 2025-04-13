@@ -1,0 +1,45 @@
+{
+    "verse": [
+        "Dsus",
+        "Em7",
+        "C2",
+        "Dsus",
+        "Em7",
+        "C2",
+        "Dsus",
+        "Em7",
+        "C2",
+        "Dsus",
+        "Em7",
+        "C2"
+    ],
+    "chorus": [
+        "G",
+        "D/F#",
+        "Am7",
+        "C",
+        "G",
+        "D/F#",
+        "Am7",
+        "C",
+        "C",
+        "C",
+        "Dsus",
+        "Em7",
+        "C2",
+        "Dsus",
+        "Em7",
+        "C2",
+        "Dsus",
+        "Em7",
+        "C2",
+        "Dsus",
+        "Em7",
+        "C2"
+    ],
+    "bridge": [
+        "Dsus",
+        "Em7",
+        "C2"
+    ]
+}

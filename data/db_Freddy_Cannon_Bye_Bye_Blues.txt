@@ -1,0 +1,97 @@
+URL: https://tabs.ultimate-guitar.com/tab/freddy-cannon/bye-bye-blues-chords-5554809
+Artist: Freddy Cannon
+Song: Bye Bye Blues
+Genre: 
+Key: C
+
+
+***Big thanks to martink12au for his input into creating this Tab.***
+Tabbed by Robert Da Prato, December 7th, 2024
+
+Define:
+No Capo
+B.p.m. 140
+4/4 Time Signature
+Original Key – C
+
+*    Single Strum
+N.C. No Chords
+
+[ch]D9[/ch] xx0210   [ch]Ebdim7[/ch] xx1212   [ch]C6[/ch] x32210   [ch]FM7/C[/ch] x33210   [ch]F/C[/ch] x33211  [ch]A7[/ch] ^ x02023
+
+******************************************
+
+[Intro]
+| N.C.      | N.C.      |
+ (Drums)
+
+
+[Chorus] 0:04
+[tab][ch]C[/ch]               [ch]C/G[/ch]   [ch]Ab[/ch]               [ch]Ab7[/ch]
+Bye,  bye-bye,  bye,  blues,  bye-bye,[/tab]
+[tab][ch]C[/ch]               [ch]C/G[/ch]   [ch]A[/ch]                [ch]A7[/ch]   [ch]A7[/ch] ^
+Bye,  bye-bye,  bye,  blues,  bye-bye,[/tab]
+
+
+[Verse 1] 0:17
+[tab][ch]D9[/ch]
+Bells are going to ring ring ring[/tab]
+[tab][ch]G7[/ch]
+Birds are gonna sing sing sing[/tab]
+[tab][ch]C[/ch]         [ch]Ebdim7[/ch]   [ch]Dm7[/ch] [ch]Dm7/A[/ch]  [ch]G7[/ch]
+Health is shining, no  more   crying.[/tab]
+[tab][ch]C[/ch]             [ch]C/G[/ch]  [ch]Ab[/ch]          [ch]Ab7[/ch]
+Just bye-bye, we   two bye-bye[/tab]
+[tab][ch]C[/ch]              [ch]C/G[/ch]  [ch]A[/ch]       [ch]A7/E[/ch]
+Smile bye-bye, were through bye-bye[/tab]
+[tab][ch]D9[/ch]
+Don't, don't be shy to fly...y[/tab]
+[tab][ch]G7[/ch]
+Don't, don't be shy to fly...y[/tab]
+[tab][ch]C6[/ch]              [ch]Ab7[/ch]   [ch]C6[/ch]            [ch]FM7[/ch]* [ch]FM7/C[/ch]* [ch]G[/ch]*
+Bye,  bye-bye,  bye,  blues,  Yeah!               Whoa!!![/tab]
+
+
+[Instrumental] 0:58
+| [ch]C[/ch]         | [ch]C[/ch]         | [ch]C[/ch]         | [ch]C[/ch]         |
+| [ch]F7[/ch]        | [ch]F7[/ch]        | [ch]C[/ch]         | [ch]C[/ch]         |
+| [ch]C/G[/ch]       | [ch]F[/ch]         | [ch]C[/ch]         | [ch]C[/ch]* [ch]F/C[/ch]* [ch]G[/ch]*|
+
+
+[Verse 2] 1:19
+[tab][ch]C6[/ch]            [ch]C/G[/ch]  [ch]Ab[/ch]  [ch]Ab7[/ch]     [ch]Ab[/ch]
+Just bye-bye, we   two bye-bye[/tab]
+[tab][ch]C6[/ch]             [ch]C[/ch]    [ch]A[/ch]       [ch]A7/E[/ch]
+Smile bye-bye, were through bye-bye[/tab]
+[tab]      [ch]D7[/ch]
+Well, don't, don't be shy to fly...y[/tab]
+[tab][ch]G7[/ch]
+Don't, don't be shy to fly...y[/tab]
+[tab][ch]C6[/ch]              [ch]Ab[/ch]    [ch]C[/ch]
+Bye,  bye-bye,  bye,  blues,[/tab]
+[tab]                   [ch]C[/ch]*  [ch]FM7/C[/ch]*   [ch]G[/ch]*
+Yeah one more baby                 whoa![/tab]
+
+
+[Bridge] 1:46
+[tab][ch]C[/ch]*         [ch]Ab[/ch]*
+   Bye-bye baby[/tab]
+[tab]         [ch]C[/ch]*  [ch]C/G[/ch]*  [ch]A[/ch]*
+Don't be              I'm moving honey[/tab]
+[tab]N.C.          [ch]D7[/ch]                [ch]G7[/ch]
+One time yeah!       Oh, do it![/tab]
+[tab]                          [ch]C[/ch]      [ch]Ebdim7[/ch]     [ch]Dm7[/ch]  [ch]G7[/ch]
+Oh, move a little further baby[/tab]
+[tab]         [ch]C[/ch]                             [ch]Ab[/ch]       [ch]Ab[/ch]
+One time    All those that join me now[/tab]
+[tab][ch]C[/ch]                                    [ch]A[/ch]       [ch]A[/ch]
+   Yeah, I'm flying through now baby[/tab]
+[tab][ch]D7[/ch]                       [ch]G7[/ch]
+   Yeah, a little closer    Yeah, a little bit closer[/tab]
+[tab]       [ch]C[/ch]                 [ch]Ab[/ch]         [ch]C[/ch]      [ch]C[/ch]* [ch]F/C[/ch]* [ch]G[/ch]*
+I said why, you said bye bye, go on baby[/tab]
+
+
+[Outro] 2:41
+[tab][ch]G[/ch]* [ch]F/C[/ch]* [ch]C[/ch]      [ch]Ab[/ch]
+(Fades out............)[/tab]

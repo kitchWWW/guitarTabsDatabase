@@ -1,0 +1,25 @@
+{
+    "verse": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Gm",
+        "C",
+        "Gm",
+        "C7",
+        "Bbmaj7"
+    ],
+    "chorus": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Gm",
+        "C",
+        "Gm",
+        "C7",
+        "Bbmaj7",
+        "Fmaj7"
+    ]
+}

@@ -1,0 +1,82 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-sound/hour-of-need-tabs-1916951
+Artist: The Sound
+Song: Hour Of Need
+Genre: 
+Key: 
+
+
+From the Album: Jeopardy (1980)
+
+TUNING=E Standard (EADGBE)
+
+GENERAL NOTES: Adrian Borland uses a flanger pedal on this song with a very slow sweep and high feedback.
+I believe the original was recorded using his Gibson SG.
+
+I wrote out the structure at the bottom, for the most part, the riffs on this song are very simple.
+
+
+[tab][Intro/verse]
+  RIFF A                                             Lead-In to Bridge
+e|------------------------------------------------||---------------------|
+B|-----------------------------------------------.||---------------------|
+G|-0----------0------------0-----------0----------||--0------------------|
+D|---0----------0------------0-----------0--------||----0----------------|
+A|-----9-----------9-----------9-----------9-----.||------9\-------------|
+E|-------0-----------0-----------0-----------0----||---------------------|[/tab]
+
+
+[tab][BRIDGE/GUITAR INTERLUDE]
+   C5                         C5                      let ring...
+e|----------------------------------------------------||
+B|---------------------------------------------------.||
+G|--------------------------0-------------------------||
+D|-----0--0--------0-----0---------0--0-----0------0--||
+A|--3--------3--3-----3-------3--3------3-3---(3)----.||
+E|----------------------------------------------------||[/tab]
+
+
+[tab][Chorus]
+                               2X
+e|--------8---------------8----||------|
+B|----------------------------.||------|
+G|--9-----------9--------------||------|
+D|------9----------------------||------|
+A|-------------------7--------.||------|
+E|-----------------------------||---0--|[/tab]
+
+
+SONG STRUCTURE
+
+INTRO/VERSE 1
+
+RIFF A is played through 8 times, but the third time of this run changes to the Lead-In to Bridge
+(Basically put, the low E is left off before going to the Bridge)
+
+BRIDGE 1X
+
+Verse 2 - first part only played through once
+
+BRIDGE 1X
+
+Chorus 2X
+
+Verse 3 - same as verse 2
+
+BRIDGE 1X
+
+Chorus 2X
+
+Rest (Bass guitar Part)
+
+Play the first four notes of intro/verse riff one last time and let ring out
+
+
+Original Recording on Youtube = https://www.youtube.com/watch?v=dIYWE2cA_OA
+
+
+************************************
+
+| \    Slide down
+| (n)  Ghost note  
+
+************************************

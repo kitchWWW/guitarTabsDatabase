@@ -1,0 +1,95 @@
+{
+    "verse-1": [
+        "Dsus2",
+        "Asus4",
+        "Em",
+        "G",
+        "D",
+        "A",
+        "Em",
+        "Dsus2",
+        "Asus4",
+        "Em",
+        "G",
+        "D",
+        "A",
+        "Em"
+    ],
+    "verse-2": [
+        "Dsus2",
+        "Asus4",
+        "Em",
+        "G",
+        "D",
+        "A",
+        "Em",
+        "G",
+        "Dsus2",
+        "Asus4",
+        "Em",
+        "G",
+        "D",
+        "A",
+        "Emadd9"
+    ],
+    "pre-chorus-1": [
+        "Dsus2",
+        "Asus4",
+        "A",
+        "Em",
+        "G",
+        "D",
+        "A",
+        "Em",
+        "Gmaj7"
+    ],
+    "pre-chorus-2": [
+        "Dsus2",
+        "Asus4",
+        "A",
+        "Em",
+        "G",
+        "D",
+        "A",
+        "Emadd9",
+        "Gmaj7"
+    ],
+    "chorus-1": [
+        "D",
+        "A",
+        "Em",
+        "G",
+        "D",
+        "A",
+        "Em",
+        "Gmaj7"
+    ],
+    "chorus-2": [
+        "D",
+        "A",
+        "Em",
+        "G",
+        "D",
+        "A",
+        "Em",
+        "Gmaj7"
+    ],
+    "bridge": [
+        "D",
+        "Asus4",
+        "A",
+        "Em",
+        "G",
+        "D",
+        "Asus4",
+        "A",
+        "Em",
+        "Gmaj7"
+    ],
+    "outro": [
+        "Dsus2",
+        "Asus4",
+        "Em",
+        "G"
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "intro": [
+        "C",
+        "Am",
+        "F",
+        "C",
+        "Em",
+        "C"
+    ],
+    "verse-1": [
+        "C",
+        "Em",
+        "Am",
+        "F",
+        "C",
+        "Em",
+        "Am",
+        "F"
+    ],
+    "verse-2": [
+        "C",
+        "Em",
+        "Am",
+        "F",
+        "C",
+        "Em",
+        "Am",
+        "F"
+    ],
+    "verse-3": [
+        "C",
+        "Em",
+        "Am",
+        "F",
+        "C",
+        "Em",
+        "Am",
+        "F"
+    ],
+    "pre-chorus-1": [
+        "C",
+        "Em",
+        "Am",
+        "F",
+        "C",
+        "Em",
+        "Am",
+        "F"
+    ],
+    "pre-chorus-2": [
+        "C",
+        "Em",
+        "Am",
+        "F",
+        "C",
+        "Em",
+        "Am",
+        "F"
+    ],
+    "pre-chorus-3": [
+        "C",
+        "Em",
+        "Am",
+        "F",
+        "C",
+        "Em",
+        "Am",
+        "F"
+    ],
+    "chorus-1": [
+        "Am",
+        "Am/G",
+        "Em",
+        "F",
+        "Am",
+        "Am/G",
+        "Em",
+        "F"
+    ],
+    "chorus-2": [
+        "Am",
+        "Am/G",
+        "Em",
+        "Em",
+        "F",
+        "Am",
+        "Am/G",
+        "Em",
+        "F"
+    ],
+    "chorus-3": [
+        "Am",
+        "Am/G",
+        "Em",
+        "Em",
+        "F",
+        "Am",
+        "Am/G",
+        "Em",
+        "F"
+    ],
+    "bridge-1": [
+        "Am",
+        "Am/G",
+        "F",
+        "F6",
+        "Am",
+        "Am/G",
+        "G",
+        "F"
+    ],
+    "bridge-2": [
+        "Am",
+        "Am/G",
+        "F",
+        "F6",
+        "Am",
+        "Am/G",
+        "G",
+        "Em",
+        "F"
+    ],
+    "outro": [
+        "Am",
+        "Am/G",
+        "Am",
+        "Am/G",
+        "Em",
+        "F"
+    ]
+}

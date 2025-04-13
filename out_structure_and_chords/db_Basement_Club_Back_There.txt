@@ -1,0 +1,72 @@
+{
+    "intro": [
+        "F#maj7",
+        "C#",
+        "C#",
+        "Ab/Db"
+    ],
+    "verse-1": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#",
+        "Ab/Db"
+    ],
+    "verse-2": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#",
+        "Ab/Db"
+    ],
+    "pre-chorus-1": [
+        "F#maj7",
+        "Db",
+        "F#maj7",
+        "C#",
+        "D#m7b5"
+    ],
+    "pre-chorus-2": [
+        "F#maj7",
+        "Db",
+        "F#maj7",
+        "C#",
+        "D#m7b5"
+    ],
+    "chorus-1": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#"
+    ],
+    "chorus-2": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#"
+    ],
+    "chorus-3": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#"
+    ],
+    "bridge": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#",
+        "D#m7b5",
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#",
+        "D#m7b5"
+    ],
+    "outro": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#"
+    ]
+}

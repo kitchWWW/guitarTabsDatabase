@@ -1,0 +1,87 @@
+{
+    "intro": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "verse-1": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "verse-2": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "verse-3": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E",
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "verse-4": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "verse-5": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "verse-6": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "verse-7": [
+        "C#",
+        "Bb",
+        "Gma7"
+    ],
+    "verse-8": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "chorus-1": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "chorus-2": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E",
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "chorus-3": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ],
+    "chorus-4": [
+        "C#",
+        "Bb",
+        "Gma7",
+        "E"
+    ]
+}

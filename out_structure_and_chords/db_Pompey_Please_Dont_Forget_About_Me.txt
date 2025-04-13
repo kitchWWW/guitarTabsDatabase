@@ -1,0 +1,95 @@
+{
+    "intro": [
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F"
+    ],
+    "verse-1": [
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F",
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F"
+    ],
+    "verse-2": [
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F",
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F"
+    ],
+    "verse-3": [
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F",
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F"
+    ],
+    "chorus-1": [
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F"
+    ],
+    "chorus-2": [
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F"
+    ],
+    "chorus-3": [
+        "Am/F",
+        "Gm9",
+        "F",
+        "F/Bb",
+        "Am/F",
+        "Gm9",
+        "Am/F"
+    ],
+    "bridge": [
+        "Gm9",
+        "Am/F",
+        "Gm9",
+        "Am/F",
+        "Am/F",
+        "Gm9",
+        "Am/F"
+    ]
+}

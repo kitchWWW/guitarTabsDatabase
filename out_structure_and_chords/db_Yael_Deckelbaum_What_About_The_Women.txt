@@ -1,0 +1,117 @@
+{
+    "chorus-1": [
+        "Dm",
+        "Gm",
+        "Am7",
+        "Gm",
+        "Dm",
+        "Dm",
+        "Gm",
+        "Am7",
+        "Am7",
+        "Dm"
+    ],
+    "chorus-2": [
+        "Dm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Dm",
+        "Gm",
+        "Am7",
+        "Am7",
+        "Gm"
+    ],
+    "chorus-3": [
+        "Dm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Dm",
+        "Dm",
+        "Gm",
+        "Am7",
+        "Am7",
+        "Gm"
+    ],
+    "chorus-4": [
+        "Dm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Dm",
+        "Dm",
+        "Gm",
+        "Am7",
+        "Am7",
+        "Gm",
+        "Dm"
+    ],
+    "verse-1": [
+        "Dm",
+        "Dm",
+        "Gm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Dm"
+    ],
+    "verse-2": [
+        "Dm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Dm"
+    ],
+    "verse-3": [
+        "Dm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Dm"
+    ],
+    "verse-4": [
+        "Dm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Dm"
+    ],
+    "pre-chorus-1": [
+        "Am",
+        "Bb",
+        "Gm",
+        "A"
+    ],
+    "pre-chorus-2": [
+        "Am",
+        "Bb",
+        "Gm",
+        "A"
+    ],
+    "bridge": [
+        "Dm",
+        "C",
+        "Gm",
+        "Gm",
+        "Bb",
+        "Am",
+        "C",
+        "Gm",
+        "C",
+        "Dm",
+        "C",
+        "Dm",
+        "Dm",
+        "Gm",
+        "Am",
+        "Gm"
+    ],
+    "outro": [
+        "Dm",
+        "Gm",
+        "Am7",
+        "Gm",
+        "Dm"
+    ]
+}

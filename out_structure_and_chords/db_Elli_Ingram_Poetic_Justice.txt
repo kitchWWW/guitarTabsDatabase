@@ -1,0 +1,55 @@
+{
+    "verse-1": [
+        "Emin7",
+        "Cmaj7",
+        "Emin7",
+        "Cmaj7",
+        "Emin7",
+        "Cmaj7",
+        "Emin7",
+        "Cmaj7",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "Amin7"
+    ],
+    "verse-2": [
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "Amin7",
+        "D"
+    ],
+    "chorus-1": [
+        "D",
+        "Ebdim7",
+        "Emin",
+        "Amin"
+    ],
+    "chorus-2": [
+        "D",
+        "Ebdim7",
+        "Emin",
+        "Amin"
+    ],
+    "outro": [
+        "Emin",
+        "Amin"
+    ]
+}

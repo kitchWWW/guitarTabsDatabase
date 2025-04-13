@@ -1,0 +1,100 @@
+{
+    "verse-1": [
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7"
+    ],
+    "verse-2": [
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7"
+    ],
+    "pre-chorus-1": [
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7"
+    ],
+    "pre-chorus-2": [
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7"
+    ],
+    "chorus-1": [
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7"
+    ],
+    "chorus-2": [
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7"
+    ],
+    "chorus-3": [
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7"
+    ],
+    "bridge": [
+        "EbM7",
+        "Dm7",
+        "Dm7",
+        "Cm7",
+        "EbM7",
+        "Dm7",
+        "Dm7",
+        "Cm7"
+    ],
+    "solo": [
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7",
+        "EbM7",
+        "Dm7",
+        "Cm7",
+        "D7"
+    ]
+}

@@ -1,0 +1,93 @@
+URL: https://tabs.ultimate-guitar.com/tab/w/shiroi-iro-wa-koibito-no-iro-ukulele-1297433
+Artist: W
+Song: Shiroi Iro Wa Koibito No Iro
+Genre: 
+Key: 
+
+
+Song: Shiroi Iro wa Koibito no Iro (White is my Lover's Color)
+Adaptation by: W (Double U)
+Originally Sung by: Betsy and Chris
+Lyrics: Kitayama Osamu
+Composer: Katou Kazuhiko
+
+Tabbed by: kadamczy@gmail.com
+
+Tuning: (half step down) [ch]Eb[/ch] [ch]Ab[/ch] [ch]Db[/ch] [ch]Gb[/ch] [ch]Bb[/ch] [ch]Eb[/ch]
+
+Intro:
+[ch]C[/ch] [ch]Cmaj7[/ch] [ch]Esus4[/ch]/[ch]C[/ch]
+
+[tab][ch]C[/ch]    [ch]Cmaj7[/ch]     [ch]Dsus2[/ch]   [ch]Dm[/ch]   [ch]G[/ch]           [ch]G[/ch]
+hanabira no shiroi iro wa   koibito no iro[/tab]
+[tab][ch]C[/ch]     [ch]Cmaj7[/ch] [ch]Dsus2[/ch]     [ch]Dm[/ch]  [ch]G[/ch]           [ch]C[/ch]
+natsukashii shirayuri wa   koibito no iro[/tab]
+
+[tab][ch]G[/ch]           [ch]Am[/ch]
+furusato no ano hito no[/tab]
+[tab]                [ch]Em[/ch]      [ch]F[/ch]               [ch]G[/ch]
+ano hito no ashimoto ni saku  shirayuri no[/tab]
+
+[tab][ch]C[/ch]     [ch]Cmaj7[/ch] [ch]Dsus2[/ch]      [ch]Dm[/ch]    [ch]G[/ch]            [ch]Cmaj7[/ch] [ch]Esus4[/ch]/[ch]C[/ch]
+hanabira no shiroi iro wa    koibito no iro[/tab]
+
+[tab][ch]C[/ch]   [ch]Cmaj7[/ch] [ch]Dsus2[/ch]     [ch]Dm[/ch]  [ch]G[/ch]           [ch]G[/ch]
+aozora no sunda iro wa  hatsukoi no iro[/tab]
+[tab][ch]C[/ch]   [ch]Cmaj7[/ch]    [ch]Dsus2[/ch]  [ch]Dm[/ch]   [ch]G[/ch]           [ch]C[/ch]
+dokomade mo utsukushii   hatsukoi no iro[/tab]
+
+[tab][ch]G[/ch]            [ch]Am[/ch]
+furusato no  ano hito to[/tab]
+[tab]                 [ch]Em[/ch]     [ch]F[/ch]              [ch]G[/ch]*
+ano hito to kata narabe mita  ano toki no[/tab]
+
+[tab][ch]C[/ch]   [ch]Cmaj7[/ch] [ch]Dsus2[/ch]     [ch]Dm[/ch] [ch]G[/ch]             [ch]Cmaj7[/ch] [ch]Esus4[/ch]/[ch]C[/ch]
+aozora no sunda iro wa  hatsukoi no iro[/tab]
+
+Transition:
+[ch]C[/ch] [ch]Em[/ch] [ch]G[/ch] [ch]A[/ch] [ch]D[/ch]
+
+[tab][ch]D[/ch]             [ch]E[/ch]        [ch]A[/ch]          [ch]D[/ch] [ch]A[/ch]
+yuuyake no akai iro wa  omoide no iro[/tab]
+[tab][ch]D[/ch]           [ch]E[/ch]        [ch]A[/ch]          [ch]D[/ch]
+namida de yurete ita  omoide no iro[/tab]
+
+[tab][ch]A[/ch]           [ch]Bm[/ch]
+furusato no ano hito no[/tab]
+[tab]               [ch]F#m[/ch]        [ch]G[/ch]        [ch]A[/ch]
+ano hito no urunde ita  hitomi ni utsuru[/tab]
+
+[tab][ch]D[/ch]            [ch]E[/ch]         [ch]A[/ch]          [ch]D[/ch]
+yuuyake no akai iro wa  omoide no iro[/tab]
+
+[tab][ch]A[/ch]          [ch]D[/ch]
+ omoide no iro[/tab]
+[tab][ch]A[/ch]          [ch]D[/ch]
+ omoide no iro[/tab]
+
+Outro:
+[ch]D[/ch] [ch]Dmaj7[/ch] [ch]Dadd9[/ch] [ch]D[/ch] x2
+
+NOTE: this should be fingerpicked, 
+the pattern is pretty simple if you have ever done folk
+music before. 
+When you see it switch from various shapes,
+you should do a quick hammeron between them.
+I just threw in the chord that the hammeron makes.
+
+ENJOY!
+
+CHORDS:
+[ch]C[/ch]       [032010]
+[ch]Cmaj7[/ch]   [032000]
+[ch]Esus4[/ch]/[ch]C[/ch] [032200]
+[ch]Dsus2[/ch]   [xx0230]
+[ch]Dm[/ch]      [xx0231]
+[ch]G[/ch]       [320003]
+[ch]F[/ch]       [133211]
+[ch]G[/ch]*      [355433]
+[ch]A[/ch]       [002220]
+[ch]Bm[/ch]      [224432]
+[ch]F#m[/ch]     [244222]
+[ch]Dmaj7[/ch]   [xx0222]
+[ch]Dadd9[/ch]   [xx0252]

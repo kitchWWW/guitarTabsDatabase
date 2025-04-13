@@ -1,0 +1,50 @@
+{
+    "intro": [
+        "Fm",
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm",
+        "Gm",
+        "Bbm",
+        "Fm",
+        "Bbm"
+    ],
+    "verse": [
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Fm",
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm",
+        "Gm",
+        "Fm",
+        "Bbm"
+    ],
+    "outro": [
+        "Bbm",
+        "Dm",
+        "Eb",
+        "Bbm"
+    ]
+}

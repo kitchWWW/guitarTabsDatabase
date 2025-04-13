@@ -1,0 +1,54 @@
+{
+    "verse-1": [
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "D"
+    ],
+    "verse-2": [
+        "Em",
+        "Am",
+        "Em",
+        "D",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "D"
+    ],
+    "verse-3": [
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "D"
+    ],
+    "chorus-1": [
+        "Em",
+        "Am",
+        "Em",
+        "D"
+    ],
+    "chorus-2": [
+        "Em",
+        "Am",
+        "Em",
+        "D"
+    ],
+    "chorus-3": [
+        "Em",
+        "Am",
+        "Em",
+        "D"
+    ],
+    "bridge": [
+        "Em",
+        "C",
+        "Em",
+        "C"
+    ]
+}

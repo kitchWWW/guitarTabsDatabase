@@ -1,0 +1,50 @@
+{
+    "intro": [
+        "Bbm",
+        "G#",
+        "Bbm",
+        "Ebm",
+        "C#"
+    ],
+    "verse-1": [
+        "Bbm",
+        "Ebm",
+        "F#",
+        "Bbm",
+        "Ebm",
+        "F#",
+        "Bbm",
+        "G#",
+        "Bbm",
+        "Ebm",
+        "C#"
+    ],
+    "verse-2": [
+        "Bbm",
+        "Ebm",
+        "F#",
+        "Bbm",
+        "Ebm",
+        "F#"
+    ],
+    "chorus-1": [
+        "Bbm",
+        "G#",
+        "Ebm",
+        "C#",
+        "Bbm",
+        "G#",
+        "F#",
+        "G#"
+    ],
+    "chorus-2": [
+        "Bbm",
+        "G#",
+        "Ebm",
+        "C#",
+        "Bbm",
+        "G#",
+        "F#",
+        "C#"
+    ]
+}

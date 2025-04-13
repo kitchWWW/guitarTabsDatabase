@@ -1,0 +1,30 @@
+{
+    "intro": [
+        "Dm7",
+        "Cmaj7",
+        "Dm7",
+        "Cmaj7",
+        "Dm7",
+        "Cmaj7",
+        "Dm7",
+        "Cmaj7",
+        "Dm7",
+        "Cmaj7",
+        "Dm7",
+        "Cmaj7",
+        "Dm7",
+        "Dm7",
+        "Cmaj7",
+        "Dm7",
+        "Cmaj7",
+        "Dm7",
+        "Dm7",
+        "Dm7",
+        "Dm7",
+        "Dm7",
+        "Cmaj7",
+        "Cmaj7",
+        "Cmaj7",
+        "Cmaj7"
+    ]
+}

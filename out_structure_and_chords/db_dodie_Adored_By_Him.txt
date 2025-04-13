@@ -1,0 +1,49 @@
+{
+    "verse-1": [
+        "Bb",
+        "Fadd9",
+        "Bb",
+        "Fadd9"
+    ],
+    "verse-2": [
+        "Bb",
+        "Fadd9",
+        "Bb",
+        "Fadd9"
+    ],
+    "chorus-1": [
+        "Cm",
+        "Bb",
+        "Gm",
+        "F",
+        "Bb",
+        "Bb",
+        "Fadd9",
+        "Bb",
+        "Bb",
+        "Fadd9"
+    ],
+    "chorus-2": [
+        "Cm",
+        "Bb",
+        "Gm",
+        "F",
+        "Bb",
+        "Bb",
+        "Fadd9",
+        "Bb",
+        "Bb",
+        "Fadd9"
+    ],
+    "chorus-3": [
+        "Cm",
+        "Bb",
+        "Gm",
+        "F"
+    ],
+    "bridge": [
+        "Cm7",
+        "Bb",
+        "F"
+    ]
+}

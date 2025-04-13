@@ -1,0 +1,22 @@
+{
+    "outro": [
+        "Bbm",
+        "Bb",
+        "Dm",
+        "Cm",
+        "Gm",
+        "Bb",
+        "Dm",
+        "Dbm",
+        "Cm",
+        "Gm",
+        "Bb",
+        "Dm",
+        "Dbm7",
+        "Cm",
+        "Eb",
+        "Gm",
+        "Bb",
+        "G"
+    ]
+}

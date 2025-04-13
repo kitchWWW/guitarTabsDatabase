@@ -1,0 +1,123 @@
+{
+    "intro": [
+        "Bb",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb"
+    ],
+    "verse-1": [
+        "Bb",
+        "Eb",
+        "Bb",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Bb",
+        "Ab",
+        "E",
+        "A",
+        "E",
+        "E",
+        "A",
+        "E"
+    ],
+    "verse-2": [
+        "Bb",
+        "Bb",
+        "F",
+        "Bb",
+        "Bb",
+        "Bb",
+        "Ab",
+        "Ab",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A"
+    ],
+    "bridge": [
+        "E",
+        "A"
+    ],
+    "chorus-1": [
+        "Bb",
+        "Ab",
+        "Gm",
+        "F",
+        "Eb",
+        "Ab",
+        "Gm",
+        "Ab"
+    ],
+    "chorus-2": [
+        "Bb",
+        "Ab",
+        "Gm",
+        "F",
+        "Eb",
+        "Ab",
+        "Gm",
+        "Ab"
+    ],
+    "chorus-3": [
+        "Bb",
+        "Ab",
+        "Gm",
+        "F",
+        "Eb",
+        "Ab",
+        "Gm",
+        "Ab",
+        "F",
+        "Eb",
+        "F",
+        "Gm",
+        "A",
+        "Eb"
+    ],
+    "chorus-4": [
+        "Bb",
+        "Ab",
+        "Gm",
+        "F",
+        "Eb",
+        "Ab",
+        "Gm",
+        "Ab"
+    ],
+    "chorus-5": [
+        "Bb",
+        "Ab",
+        "Gm",
+        "F",
+        "Eb",
+        "Ab",
+        "Gm",
+        "Ab"
+    ],
+    "chorus-6": [
+        "Bb",
+        "Ab",
+        "Gm",
+        "F",
+        "Eb",
+        "Ab",
+        "Gm",
+        "Ab"
+    ],
+    "outro": [
+        "Bb",
+        "Eb/Bb",
+        "Eb/Bb",
+        "Eb/Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "verse-1": [
+        "Dadd9",
+        "B7sus4",
+        "Am",
+        "Dadd9",
+        "B7sus4",
+        "Am",
+        "Dadd9",
+        "B7sus4",
+        "Am",
+        "Dadd9",
+        "B7sus4",
+        "Am",
+        "D"
+    ],
+    "verse-2": [],
+    "chorus-1": [
+        "G",
+        "Em",
+        "C",
+        "G",
+        "G",
+        "Em",
+        "C",
+        "G"
+    ],
+    "chorus-2": [],
+    "chorus-3": [
+        "Am",
+        "H",
+        "B"
+    ],
+    "bridge": [
+        "Am",
+        "C",
+        "Am",
+        "D",
+        "Am",
+        "D",
+        "Am",
+        "D"
+    ]
+}

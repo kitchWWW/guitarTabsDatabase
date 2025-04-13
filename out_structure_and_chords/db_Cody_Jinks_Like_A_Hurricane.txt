@@ -1,0 +1,102 @@
+{
+    "intro": [
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9"
+    ],
+    "chorus-1": [
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em"
+    ],
+    "chorus-2": [
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9"
+    ],
+    "chorus-3": [
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "C",
+        "Dadd4add9",
+        "Em",
+        "Dadd4add9",
+        "C",
+        "Dadd4add9"
+    ],
+    "chorus-4": [
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em",
+        "Dadd4add9",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em"
+    ],
+    "verse-1": [
+        "Em",
+        "G",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em",
+        "G",
+        "Am",
+        "C",
+        "Dadd4add9"
+    ],
+    "verse-2": [
+        "Em",
+        "G",
+        "Am",
+        "C",
+        "Dadd4add9",
+        "Em",
+        "G",
+        "Am",
+        "C",
+        "Dadd4add9"
+    ],
+    "solo": [
+        "C",
+        "Dadd4add9",
+        "Em",
+        "Dadd4add9",
+        "C",
+        "Dadd4add9"
+    ]
+}

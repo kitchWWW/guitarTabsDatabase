@@ -1,0 +1,88 @@
+{
+    "verse-1": [
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb"
+    ],
+    "verse-2": [
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb"
+    ],
+    "verse-3": [
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb"
+    ],
+    "chorus-1": [
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb"
+    ],
+    "chorus-2": [
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb"
+    ],
+    "chorus-3": [
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb",
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb"
+    ],
+    "outro": [
+        "Db",
+        "Db/C",
+        "Db/B",
+        "Db/Bb"
+    ]
+}

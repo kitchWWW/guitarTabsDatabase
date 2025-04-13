@@ -1,0 +1,111 @@
+{
+    "intro": [
+        "Asus2",
+        "Dm",
+        "Asus2",
+        "Dm"
+    ],
+    "verse-1": [
+        "G",
+        "Gb",
+        "Bbm",
+        "Asus2",
+        "G",
+        "Fmaj7",
+        "E/F#"
+    ],
+    "verse-2": [
+        "G",
+        "Gb",
+        "Bbm",
+        "Asus2",
+        "G",
+        "Fmaj7",
+        "E/F#"
+    ],
+    "verse-3": [
+        "G",
+        "Gb",
+        "Bbm",
+        "Asus2",
+        "G",
+        "Fmaj7",
+        "E/F#"
+    ],
+    "chorus-1": [
+        "Ab",
+        "Cm",
+        "Fm",
+        "D5",
+        "F",
+        "Ab",
+        "Cm",
+        "Fm",
+        "D5",
+        "F"
+    ],
+    "chorus-2": [
+        "Ab",
+        "Cm",
+        "Fm",
+        "D5",
+        "F",
+        "Ab",
+        "Cm",
+        "Fm",
+        "D5",
+        "F"
+    ],
+    "chorus-3": [
+        "Ab",
+        "Cm",
+        "Fm",
+        "D5",
+        "F",
+        "Ab",
+        "Cm",
+        "Fm",
+        "D5",
+        "F",
+        "G",
+        "Gb",
+        "Bbm",
+        "Asus2",
+        "G",
+        "Fmaj7",
+        "E/F#"
+    ],
+    "chorus-4": [
+        "Ab",
+        "Cm",
+        "Fm",
+        "D5",
+        "F",
+        "Ab",
+        "Cm",
+        "Fm",
+        "D5",
+        "F"
+    ],
+    "bridge": [
+        "B",
+        "C#m",
+        "B/D#",
+        "B",
+        "C#m",
+        "B/D#",
+        "A",
+        "Dm/A"
+    ],
+    "outro": [
+        "B",
+        "C#m",
+        "B/D#",
+        "A",
+        "Dm/A",
+        "A",
+        "Dm/A",
+        "A",
+        "Dm/A"
+    ]
+}

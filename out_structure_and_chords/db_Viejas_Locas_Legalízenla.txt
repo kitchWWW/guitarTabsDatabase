@@ -1,0 +1,23 @@
+{
+    "intro": [
+        "Am",
+        "Em",
+        "Dm)(LAm",
+        "Em",
+        "Dm",
+        "MIm",
+        "Am",
+        "Em",
+        "Dm",
+        "Am",
+        "Em",
+        "Dm",
+        "Am",
+        "Em",
+        "Dm",
+        "Am",
+        "Em",
+        "Dm",
+        "Em"
+    ]
+}

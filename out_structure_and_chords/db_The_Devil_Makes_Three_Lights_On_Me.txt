@@ -1,0 +1,105 @@
+{
+    "intro": [
+        "Am",
+        "Fmaj7",
+        "Am",
+        "Em",
+        "Am"
+    ],
+    "verse-1": [
+        "Am",
+        "Dm",
+        "Am",
+        "B7",
+        "E7",
+        "Am",
+        "Dm",
+        "Am",
+        "B7",
+        "E7"
+    ],
+    "verse-2": [
+        "Am",
+        "Dm",
+        "Am",
+        "B7",
+        "E7",
+        "Am",
+        "Dm",
+        "Am",
+        "B7",
+        "E7"
+    ],
+    "verse-3": [
+        "Am",
+        "Dm",
+        "Am",
+        "B7",
+        "E7",
+        "Am",
+        "Dm",
+        "Am",
+        "B7",
+        "E7",
+        "Bb",
+        "Am",
+        "Bb",
+        "Am",
+        "Bb",
+        "E7"
+    ],
+    "pre-chorus-1": [
+        "Bb",
+        "Am",
+        "Bb",
+        "Am"
+    ],
+    "pre-chorus-2": [
+        "Bb",
+        "Am",
+        "Bb",
+        "Am"
+    ],
+    "chorus-1": [
+        "G",
+        "F",
+        "E7",
+        "D7",
+        "Am",
+        "Fmaj7",
+        "Am",
+        "Em",
+        "Am"
+    ],
+    "chorus-2": [
+        "G",
+        "F",
+        "E7",
+        "D7",
+        "Am",
+        "F",
+        "G",
+        "Am",
+        "Em",
+        "Am"
+    ],
+    "chorus-3": [
+        "G",
+        "F",
+        "G",
+        "F",
+        "E7",
+        "D7",
+        "Am",
+        "F",
+        "Am",
+        "E7"
+    ],
+    "outro": [
+        "Am",
+        "Fmaj7",
+        "Am",
+        "Em",
+        "Am"
+    ]
+}

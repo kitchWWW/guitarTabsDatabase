@@ -1,0 +1,101 @@
+{
+    "intro": [
+        "Bsus4"
+    ],
+    "verse-1": [
+        "Bsus4",
+        "Bsus4",
+        "Bsus4",
+        "B7sus4",
+        "B7sus4",
+        "Bsus4",
+        "Bsus4",
+        "Bsus4"
+    ],
+    "verse-2": [
+        "Bsus4",
+        "Bsus4",
+        "Bsus4",
+        "B7sus4",
+        "B7sus4",
+        "Bsus4",
+        "Bsus4",
+        "Bsus4"
+    ],
+    "verse-3": [
+        "Bsus4",
+        "Bsus4",
+        "Bsus4"
+    ],
+    "chorus-1": [
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Bsus4"
+    ],
+    "chorus-2": [
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E"
+    ],
+    "chorus-3": [
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E",
+        "Esus4",
+        "A",
+        "Bsus4",
+        "Bm",
+        "E"
+    ],
+    "bridge": [
+        "B7sus4",
+        "B7sus4"
+    ],
+    "outro": [
+        "Bsus4"
+    ]
+}

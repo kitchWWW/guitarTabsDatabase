@@ -1,0 +1,81 @@
+{
+    "intro": [
+        "G"
+    ],
+    "chorus-1": [
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C"
+    ],
+    "chorus-2": [
+        "D7",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C"
+    ],
+    "chorus-3": [
+        "D7",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C",
+        "G",
+        "G/C"
+    ],
+    "verse-1": [
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7"
+    ],
+    "verse-2": [
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7"
+    ]
+}

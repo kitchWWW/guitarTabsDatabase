@@ -1,0 +1,64 @@
+{
+    "intro": [
+        "Dsus2"
+    ],
+    "chorus-1": [
+        "Dsus2",
+        "F",
+        "Dm/Bb",
+        "G"
+    ],
+    "chorus-2": [
+        "Dsus2",
+        "F",
+        "Dm/Bb",
+        "G"
+    ],
+    "chorus-3": [
+        "Dsus2",
+        "F",
+        "Dm/Bb",
+        "G"
+    ],
+    "chorus-4": [
+        "Dsus2",
+        "F",
+        "Dm",
+        "G",
+        "Dsus2",
+        "Dsus2",
+        "Dsus2"
+    ],
+    "verse-1": [
+        "D",
+        "G",
+        "Bm",
+        "G",
+        "D",
+        "G",
+        "Bm",
+        "D",
+        "G",
+        "Dsus2"
+    ],
+    "verse-2": [
+        "D",
+        "G",
+        "Bm",
+        "G"
+    ],
+    "verse-3": [
+        "D",
+        "G",
+        "Bm",
+        "G",
+        "Dsus2"
+    ],
+    "bridge": [
+        "D",
+        "G",
+        "Bm",
+        "G",
+        "G"
+    ]
+}

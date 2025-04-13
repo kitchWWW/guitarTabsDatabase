@@ -1,0 +1,16 @@
+{
+    "intro": [
+        "E",
+        "Esus4",
+        "Esus4",
+        "E",
+        "E",
+        "Esus4",
+        "Esus4",
+        "E",
+        "E",
+        "Esus4",
+        "Esus4",
+        "E"
+    ]
+}

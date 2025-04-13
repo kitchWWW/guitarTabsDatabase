@@ -1,0 +1,56 @@
+{
+    "chorus-1": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ],
+    "chorus-2": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ],
+    "chorus-3": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ],
+    "chorus-4": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ],
+    "chorus-5": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ],
+    "verse-1": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ],
+    "verse-2": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ],
+    "verse-3": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ],
+    "verse-4": [
+        "G",
+        "Bm",
+        "Am",
+        "D"
+    ]
+}

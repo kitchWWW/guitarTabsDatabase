@@ -1,0 +1,69 @@
+{
+    "intro": [
+        "F",
+        "Gm7",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb",
+        "Bb"
+    ],
+    "chorus-1": [
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb"
+    ],
+    "chorus-2": [
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb",
+        "Bb",
+        "C",
+        "Dm",
+        "Dm",
+        "F"
+    ],
+    "chorus-3": [
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb"
+    ],
+    "bridge": [
+        "F",
+        "Csus4",
+        "Bb",
+        "F",
+        "Gm7",
+        "Bb"
+    ]
+}

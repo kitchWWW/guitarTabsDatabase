@@ -1,0 +1,5 @@
+{
+    "intro": [],
+    "pre-chorus": [],
+    "chorus": []
+}

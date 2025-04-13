@@ -1,0 +1,140 @@
+{
+    "intro": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-1": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-2": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-3": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-4": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-5": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-6": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "Emi"
+    ],
+    "verse-7": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-8": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-9": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-10": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-11": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "verse-12": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ],
+    "chorus-1": [
+        "F",
+        "Ami",
+        "F",
+        "Ami",
+        "F",
+        "Ami",
+        "F",
+        "E7"
+    ],
+    "chorus-2": [
+        "F",
+        "Ami",
+        "F",
+        "Ami",
+        "F",
+        "Ami",
+        "F",
+        "E7"
+    ],
+    "outro": [
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F",
+        "Ami",
+        "G",
+        "F"
+    ]
+}

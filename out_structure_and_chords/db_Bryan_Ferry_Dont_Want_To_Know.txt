@@ -1,0 +1,28 @@
+{
+    "intro": [
+        "Bbsus4",
+        "Bb",
+        "Bbm",
+        "Bbsus4",
+        "Bb",
+        "Bbm",
+        "D#m",
+        "C#",
+        "B",
+        "D#m",
+        "C#",
+        "B",
+        "D#m",
+        "C#",
+        "B",
+        "D#m",
+        "C#",
+        "B",
+        "Bbsus4",
+        "Bb",
+        "Bbm",
+        "Bbsus4",
+        "Bb",
+        "Bbm"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "intro": [
+        "A/E",
+        "B",
+        "E",
+        "E",
+        "A",
+        "Bsus",
+        "C#m",
+        "C#m",
+        "Bsus",
+        "E",
+        "A",
+        "C#m",
+        "Bsus",
+        "E",
+        "A",
+        "A"
+    ],
+    "chorus": [
+        "E",
+        "A",
+        "C#m",
+        "Bsus",
+        "A",
+        "E",
+        "A",
+        "C#m",
+        "Bsus",
+        "A",
+        "C#m",
+        "Bsus",
+        "E",
+        "A",
+        "C#m",
+        "Bsus",
+        "E",
+        "A",
+        "A"
+    ],
+    "bridge": [
+        "Bsus",
+        "A",
+        "Bsus",
+        "A",
+        "A",
+        "A"
+    ]
+}

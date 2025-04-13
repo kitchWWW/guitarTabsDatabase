@@ -1,0 +1,11 @@
+{
+    "intro": [],
+    "chorus": [],
+    "bridge-1": [],
+    "bridge-2": [],
+    "verse-1": [],
+    "verse-2": [],
+    "verse-3": [],
+    "solo": [],
+    "outro": []
+}

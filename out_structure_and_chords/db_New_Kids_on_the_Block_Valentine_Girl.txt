@@ -1,0 +1,45 @@
+{
+    "intro": [
+        "Gadd9",
+        "Cmaj7",
+        "Bm7",
+        "Cmaj7",
+        "Bm7",
+        "Bm7",
+        "Am7",
+        "C/D"
+    ],
+    "verse": [
+        "Bm7",
+        "Cmaj7",
+        "Bm7",
+        "Am7",
+        "C/D",
+        "Gmaj7",
+        "Bm7",
+        "Cmaj7",
+        "C/D"
+    ],
+    "chorus": [
+        "Eb",
+        "F",
+        "Cmaj7",
+        "Bm7",
+        "Cmaj7",
+        "Bm7",
+        "Am7",
+        "C/D",
+        "Cmaj7",
+        "Bm7",
+        "Cmaj7",
+        "Bm7",
+        "Am7",
+        "C/D"
+    ],
+    "outro": [
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7"
+    ]
+}

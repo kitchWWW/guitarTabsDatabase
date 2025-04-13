@@ -1,0 +1,94 @@
+{
+    "intro": [
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab"
+    ],
+    "verse-1": [
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab",
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab"
+    ],
+    "verse-2": [
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab",
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab"
+    ],
+    "chorus-1": [
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab",
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab"
+    ],
+    "chorus-2": [
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab",
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab"
+    ],
+    "chorus-3": [
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab",
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab"
+    ],
+    "bridge": [
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab",
+        "Dbmaj7",
+        "Bbm7",
+        "Eb7sus2",
+        "F",
+        "F7"
+    ],
+    "outro": [
+        "Dbmaj7",
+        "Cm7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6",
+        "Ab",
+        "Dbmaj7",
+        "Cm7",
+        "Bbm7",
+        "Eb7sus2",
+        "Ab6"
+    ]
+}

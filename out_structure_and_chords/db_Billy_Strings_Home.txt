@@ -1,0 +1,108 @@
+{
+    "intro": [
+        "Em7",
+        "A",
+        "Em",
+        "Em7"
+    ],
+    "verse-1": [
+        "Em",
+        "F#",
+        "Em7",
+        "Asus2",
+        "Em",
+        "F#",
+        "Em7",
+        "Em",
+        "F#7",
+        "Em7",
+        "Em6",
+        "Em",
+        "F#7",
+        "Em",
+        "Em7",
+        "Em6"
+    ],
+    "verse-2": [
+        "Em",
+        "F#",
+        "Em7",
+        "Em6",
+        "Em",
+        "F#",
+        "Em7",
+        "Em",
+        "F#7",
+        "Em7",
+        "Em6",
+        "Em",
+        "F#7",
+        "Em",
+        "Em7",
+        "Em6"
+    ],
+    "verse-3": [
+        "Em",
+        "F#",
+        "Em7",
+        "Asus2",
+        "Em",
+        "F#",
+        "Em7",
+        "Em",
+        "F#7",
+        "Em7",
+        "Em6",
+        "Em",
+        "F#7",
+        "Em",
+        "Em7",
+        "Em6"
+    ],
+    "verse-4": [
+        "Em",
+        "F#",
+        "Em7",
+        "Asus2",
+        "Em",
+        "F#",
+        "Em7",
+        "Em",
+        "F#7",
+        "Em7",
+        "Em6",
+        "Em",
+        "F#7",
+        "Em",
+        "Em7",
+        "Em6"
+    ],
+    "chorus-1": [
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2"
+    ],
+    "chorus-2": [
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2"
+    ],
+    "chorus-3": [
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2"
+    ],
+    "chorus-4": [
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2"
+    ]
+}

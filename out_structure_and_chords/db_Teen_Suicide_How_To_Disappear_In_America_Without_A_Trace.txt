@@ -1,0 +1,57 @@
+{
+    "verse-1": [
+        "B",
+        "A",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "E"
+    ],
+    "verse-2": [
+        "B",
+        "A",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "E"
+    ],
+    "verse-3": [
+        "B",
+        "A",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "E"
+    ],
+    "verse-4": [
+        "B",
+        "A",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "E"
+    ],
+    "verse-5": [
+        "B",
+        "A",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "Abm",
+        "Gb",
+        "E"
+    ]
+}

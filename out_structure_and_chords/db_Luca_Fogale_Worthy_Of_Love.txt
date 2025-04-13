@@ -1,0 +1,103 @@
+{
+    "intro": [
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Gadd11"
+    ],
+    "verse-1": [
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Fsus2",
+        "C",
+        "Gadd11"
+    ],
+    "verse-2": [
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G"
+    ],
+    "chorus-1": [
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2"
+    ],
+    "chorus-2": [
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G"
+    ],
+    "chorus-3": [
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G"
+    ],
+    "bridge": [
+        "Dm7",
+        "Am7/E",
+        "Fsus2",
+        "Am7/E",
+        "Dm7",
+        "Am7/E",
+        "Fsus2"
+    ],
+    "outro": [
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2",
+        "C",
+        "Gadd11",
+        "Am",
+        "Am7/G",
+        "Fsus2"
+    ]
+}

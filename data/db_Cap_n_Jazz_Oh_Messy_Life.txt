@@ -1,0 +1,66 @@
+URL: https://tabs.ultimate-guitar.com/tab/capn-jazz/oh-messy-life-tabs-1673807
+Artist: Cap'n Jazz
+Song: Oh Messy Life
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------------
+                           My Messy Life - Cap N' Jazz
+-------------------------------------------------------------------------------
+Tabbed by: somewhat_here from the now defunct joanofarc.com forums
+
+Tuning: Standard
+
+This is for one guitar, but it mixes the two guitar's parts. 
+
+[tab]Intro &amp; Verse
+I wont go into the precise rhythm. I'll leave gaps for that.
+e|--15---------------------------------------15----------------------
+B|---x--------15--12--12--12---10---12--15----x---15---10--12--10-12-
+G|--12---------x--12--14--------x----x---x---12----x----x---x---x--x-
+D|------------12--12--12--------7----9--12--------12----7---9---7--9-
+A|-------------------------------------------------------------------
+E|-------------------------------------------------------------------
+somewhat p.m.ed, there's room for variation. sometimes the g and d octaves are played again. 
+(the 12x15 ones)[/tab]
+
+
+[tab]Chorus (too much happening there. I can only figure out the chords g and c)
+e|-------------------|-------------------------
+B|-------------------|-------------------------
+G|------------5------|-------------------------
+D|--5---------5------|---5---------4-5---------
+A|--5---------3------|---5-5555----5-5---------
+E|--3----------------|---3-3333----3-3---------[/tab]
+
+
+[tab]Verse 2 (just variations of this part from the chorus I think)
+e|-----------------------------------
+B|-----------------------------------
+G|-----------------------------------
+D|---5--x--------4-5----x-----4--5---
+A|---5--x--------5-5----x-----5--5---
+E|---3--x--------3-3----x-----3--3---[/tab]
+
+
+well that was the best I could do, hope you guys like it.
+someone should really tab out little league....
+
+
+************************************
+
+| /   slide up
+| \   slide down
+| h   hammer-on
+| p   pull-off
+| ~   vibrato
+| +   harmonic
+| x   Mute note
+| b   Bend
+| pb  Pre-bend
+| br  Bend release
+| pbr Pre-bend release
+| brb Bend release bend
+
+************************************

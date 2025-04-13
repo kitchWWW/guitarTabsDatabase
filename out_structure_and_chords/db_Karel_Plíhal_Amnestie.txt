@@ -1,0 +1,128 @@
+{
+    "verse-1": [
+        "C",
+        "Am",
+        "G",
+        "C",
+        "Am",
+        "G",
+        "G6",
+        "Gdim",
+        "Dm",
+        "Fm"
+    ],
+    "verse-2": [
+        "C",
+        "Am",
+        "G",
+        "C",
+        "Am",
+        "G",
+        "G6",
+        "Gdim",
+        "Dm",
+        "Fm"
+    ],
+    "verse-3": [
+        "C",
+        "Am",
+        "G",
+        "C",
+        "Am",
+        "G",
+        "G6",
+        "Gdim",
+        "Dm",
+        "Fm"
+    ],
+    "verse-4": [
+        "C",
+        "Am",
+        "G",
+        "C",
+        "Am",
+        "G",
+        "G6",
+        "Gdim",
+        "Dm",
+        "Fm"
+    ],
+    "verse-5": [
+        "C",
+        "Am",
+        "G",
+        "C",
+        "Am",
+        "G",
+        "G6",
+        "Gdim",
+        "Dm",
+        "Fm"
+    ],
+    "verse-6": [
+        "C",
+        "Am",
+        "G",
+        "C",
+        "Am",
+        "G",
+        "G6",
+        "Gdim",
+        "Dm",
+        "Fm"
+    ],
+    "verse-7": [
+        "C",
+        "Am",
+        "G",
+        "C",
+        "Am",
+        "G",
+        "G6",
+        "Gdim",
+        "Dm",
+        "Fm"
+    ],
+    "chorus-1": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "chorus-2": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "chorus-3": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "chorus-4": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "chorus-5": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "chorus-6": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "chorus-7": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+    ]
+}

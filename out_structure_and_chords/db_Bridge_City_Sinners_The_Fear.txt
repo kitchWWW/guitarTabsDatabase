@@ -1,0 +1,53 @@
+{
+    "intro": [
+        "Am",
+        "Bb",
+        "Am",
+        "Bb",
+        "Gm"
+    ],
+    "verse-1": [
+        "Am",
+        "Bb",
+        "Gm",
+        "Am",
+        "Bb",
+        "Gm",
+        "Am",
+        "Bb",
+        "Gm",
+        "Am",
+        "Bb",
+        "Gm",
+        "Bb",
+        "Am",
+        "Bb",
+        "Am",
+        "Am",
+        "Bb",
+        "Gm"
+    ],
+    "verse-2": [
+        "Am",
+        "Bb",
+        "Gm",
+        "Am",
+        "Bb",
+        "Gm",
+        "Am",
+        "Bb",
+        "Gm",
+        "Am",
+        "Bb",
+        "Gm",
+        "Bb",
+        "Am",
+        "Bb",
+        "Am",
+        "Am",
+        "Am",
+        "Am",
+        "Gm",
+        "Bb"
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "intro": [
+        "A",
+        "C#m",
+        "B",
+        "B",
+        "A",
+        "C#m",
+        "B",
+        "B"
+    ],
+    "verse-1": [
+        "A",
+        "C#m",
+        "B",
+        "B",
+        "A",
+        "C#m",
+        "B",
+        "B"
+    ],
+    "verse-2": [
+        "A",
+        "C#m",
+        "B",
+        "B",
+        "A",
+        "C#m",
+        "B",
+        "B"
+    ],
+    "verse-3": [
+        "A",
+        "C#m",
+        "B",
+        "B",
+        "A",
+        "C#m",
+        "B",
+        "B"
+    ],
+    "chorus-1": [
+        "E",
+        "F#sus2",
+        "Asus2",
+        "E",
+        "F#sus2",
+        "Asus2"
+    ],
+    "chorus-2": [
+        "E",
+        "F#sus2",
+        "Asus2",
+        "E",
+        "F#sus2",
+        "Asus2",
+        "E",
+        "F#sus2",
+        "Asus2"
+    ],
+    "chorus-3": [
+        "E",
+        "F#sus2",
+        "Asus2",
+        "E",
+        "F#sus2",
+        "Asus2",
+        "E",
+        "F#sus2",
+        "Asus2"
+    ],
+    "chorus-4": [
+        "E",
+        "F#sus2",
+        "Asus2",
+        "E",
+        "F#sus2",
+        "Asus2",
+        "E",
+        "F#sus2",
+        "Asus2"
+    ],
+    "bridge-1": [
+        "A",
+        "C#m",
+        "B",
+        "B"
+    ],
+    "bridge-2": [
+        "E",
+        "D",
+        "B",
+        "E",
+        "D",
+        "B",
+        "C",
+        "E",
+        "EM7"
+    ],
+    "outro": [
+        "E5",
+        "F#5",
+        "A5",
+        "E5",
+        "F#5",
+        "A5"
+    ]
+}

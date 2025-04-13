@@ -1,0 +1,67 @@
+URL: https://tabs.ultimate-guitar.com/tab/phil-cunningham/the-pearl-chords-3634280
+Artist: Phil Cunningham
+Song: The Pearl
+Genre: 
+Key: D
+
+
+[Instrumental]
+
+[Chords Used]
+[ch]D[/ch] -    2x0232
+[ch]A[/ch] -    x02220
+[ch]Bm[/ch] -   224432
+[ch]G[/ch] -    320033
+[ch]Em[/ch] -   022000
+[ch]F#m[/ch] -  244222
+
+[Intro]
+[ch]D[/ch]   [ch]A[/ch]   [ch]Bm[/ch]
+[ch]Bm[/ch]  [ch]A[/ch]   [ch]G[/ch]
+
+[ch]D[/ch]   [ch]A[/ch]   [ch]Bm[/ch]
+[ch]Bm[/ch]  [ch]A[/ch]   [ch]G[/ch]
+
+[Verse 1]
+[ch]D[/ch]   [ch]A[/ch]   [ch]Bm[/ch]  [ch]G[/ch]
+[ch]D[/ch]   [ch]A[/ch]   [ch]D[/ch]   [ch]Em[/ch]
+[ch]G[/ch]   [ch]F#m[/ch] [ch]G[/ch]   [ch]D[/ch]
+[ch]Bm[/ch]  [ch]A[/ch]   [ch]G[/ch]
+
+[ch]D[/ch]   [ch]A[/ch]   [ch]Bm[/ch]  [ch]G[/ch]
+[ch]D[/ch]   [ch]A[/ch]   [ch]D[/ch]   [ch]Em[/ch]
+[ch]G[/ch]   [ch]F#m[/ch] [ch]G[/ch]   [ch]D[/ch]
+[ch]Bm[/ch]  [ch]A[/ch]   [ch]G[/ch]
+
+[Chorus]
+[ch]D[/ch]   [ch]A[/ch]   [ch]D[/ch]   [ch]Em[/ch]
+[ch]G[/ch]       [ch]F#m[/ch] [ch]D[/ch]
+[ch]G[/ch]       [ch]D[/ch]   [ch]Bm[/ch]
+[ch]D[/ch]   [ch]A[/ch]   [ch]G[/ch]
+
+[ch]D[/ch]   [ch]A[/ch]   [ch]D[/ch]   [ch]Em[/ch]
+[ch]G[/ch]       [ch]F#m[/ch] [ch]D[/ch]
+[ch]G[/ch]       [ch]D[/ch]   [ch]Bm[/ch]
+[ch]D[/ch]   [ch]A[/ch]   [ch]G[/ch]
+
+[Verse 2]
+[ch]D[/ch]   [ch]A[/ch]   [ch]Bm[/ch]  [ch]G[/ch]
+[ch]D[/ch]   [ch]A[/ch]   [ch]D[/ch]   [ch]Em[/ch]
+[ch]G[/ch]   [ch]F#m[/ch] [ch]G[/ch]   [ch]D[/ch]
+[ch]Bm[/ch]  [ch]A[/ch]   [ch]G[/ch]
+
+[ch]D[/ch]   [ch]A[/ch]   [ch]Bm[/ch]  [ch]G[/ch]
+[ch]D[/ch]   [ch]A[/ch]   [ch]D[/ch]   [ch]Em[/ch]
+[ch]G[/ch]   [ch]F#m[/ch] [ch]G[/ch]   [ch]D[/ch]
+[ch]Bm[/ch]  [ch]A[/ch]   [ch]G[/ch]
+
+[Outro]
+[ch]D[/ch]   [ch]A[/ch]   [ch]D[/ch]   [ch]Em[/ch]
+[ch]G[/ch]       [ch]F#m[/ch] [ch]D[/ch]
+[ch]G[/ch]       [ch]D[/ch]   [ch]Bm[/ch]
+[ch]D[/ch]   [ch]A[/ch]   [ch]G[/ch]
+
+[ch]D[/ch]   [ch]A[/ch]   [ch]D[/ch]   [ch]Em[/ch]
+[ch]G[/ch]       [ch]F#m[/ch] [ch]D[/ch]
+[ch]G[/ch]       [ch]D[/ch]   [ch]Bm[/ch]
+[ch]D[/ch]   [ch]A[/ch]   [ch]G[/ch]

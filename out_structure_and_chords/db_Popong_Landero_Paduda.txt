@@ -1,0 +1,104 @@
+{
+    "intro": [
+        "AM7",
+        "A",
+        "DM7",
+        "AM7",
+        "DM7"
+    ],
+    "chorus-1": [
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7"
+    ],
+    "chorus-2": [
+        "A7",
+        "DM7",
+        "AM7",
+        "DM7"
+    ],
+    "chorus-3": [
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "AM7"
+    ],
+    "chorus-4": [
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "AM7"
+    ],
+    "verse-1": [
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "C#m",
+        "Bm",
+        "C#m",
+        "Bm",
+        "Bm7",
+        "C#m",
+        "Bm",
+        "C#m",
+        "E",
+        "AM7"
+    ],
+    "verse-2": [
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "C#m",
+        "Bm",
+        "C#m",
+        "Bm",
+        "Bm7",
+        "C#m",
+        "Bm",
+        "C#m",
+        "E",
+        "AM7"
+    ],
+    "bridge-1": [
+        "DM7",
+        "AM7",
+        "AM7",
+        "DM7",
+        "C#m",
+        "Bm",
+        "C#m",
+        "Bm",
+        "Bm7",
+        "C#m",
+        "Bm",
+        "C#m",
+        "E",
+        "AM7"
+    ],
+    "bridge-2": [
+        "DM7",
+        "AM7",
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "AM7"
+    ],
+    "outro": [
+        "AM7",
+        "DM7"
+    ]
+}

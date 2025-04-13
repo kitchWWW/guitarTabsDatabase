@@ -1,0 +1,145 @@
+{
+    "verse-1": [
+        "C",
+        "Am",
+        "Em",
+        "C",
+        "Am",
+        "Em"
+    ],
+    "verse-2": [
+        "C",
+        "Am",
+        "Em",
+        "C",
+        "Am",
+        "Em"
+    ],
+    "verse-3": [
+        "C",
+        "Am",
+        "Em",
+        "C",
+        "Am",
+        "Em"
+    ],
+    "verse-4": [
+        "C",
+        "Am",
+        "Em",
+        "C",
+        "Am",
+        "Em"
+    ],
+    "verse-5": [
+        "C",
+        "Am",
+        "Em",
+        "C",
+        "Am",
+        "Em"
+    ],
+    "verse-6": [
+        "C",
+        "Am",
+        "Em",
+        "C",
+        "Am",
+        "Em"
+    ],
+    "verse-7": [
+        "C",
+        "Am",
+        "Em",
+        "C",
+        "Am",
+        "Em"
+    ],
+    "chorus-1": [
+        "Am",
+        "C",
+        "Dm",
+        "C",
+        "Em",
+        "Am",
+        "C/B",
+        "C"
+    ],
+    "chorus-2": [
+        "Am",
+        "C",
+        "Dm",
+        "C",
+        "Em",
+        "Am",
+        "C/B",
+        "C"
+    ],
+    "chorus-3": [
+        "Am",
+        "C",
+        "Dm",
+        "C",
+        "Em",
+        "Am",
+        "C/B",
+        "C"
+    ],
+    "chorus-4": [
+        "Am",
+        "C",
+        "Dm",
+        "C",
+        "Em",
+        "Am",
+        "C/B",
+        "C",
+        "C",
+        "C",
+        "Am",
+        "Em",
+        "C",
+        "C",
+        "Am",
+        "Em",
+        "Am",
+        "C/B",
+        "C"
+    ],
+    "chorus-5": [
+        "Am",
+        "C",
+        "Dm",
+        "C",
+        "Em",
+        "Am",
+        "C/B",
+        "C"
+    ],
+    "chorus-6": [
+        "Am",
+        "C",
+        "Dm",
+        "C",
+        "Em",
+        "Am",
+        "C/B",
+        "C"
+    ],
+    "chorus-7": [
+        "Am",
+        "C",
+        "Dm",
+        "C",
+        "Em",
+        "Am"
+    ],
+    "chorus-8": [
+        "Am",
+        "C",
+        "Dm",
+        "C",
+        "Em",
+        "Am"
+    ]
+}

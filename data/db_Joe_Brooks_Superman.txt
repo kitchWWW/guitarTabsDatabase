@@ -1,0 +1,117 @@
+URL: https://tabs.ultimate-guitar.com/tab/joe-brooks/superman-chords-1464206
+Artist: Joe Brooks
+Song: Superman
+Genre: 
+Key: F#
+
+
+Either tune half-step down or use standard tuning with capo on 11th fret (Key of F#)
+
+[Chords]
+[ch]G[/ch] = 320033
+[ch]G/F#[/ch] = 2x0033
+[ch]G/F[/ch] = 1x0033
+[ch]Cadd9[/ch] = 032033
+[ch]Em[/ch] = 022033
+[ch]Dsus4[/ch] = x00233
+[ch]E7[/ch] = 020100
+[ch]Am7[/ch] = 002013
+[ch]Cm[/ch] = 031033
+
+[Intro]
+[ch]G[/ch]   [ch]G/F#[/ch]   [ch]G/F[/ch]   [ch]Cadd9[/ch] x2
+
+[Verse 1]
+[tab][ch]Em[/ch]    [ch]Dsus4[/ch]  [ch]Cadd9[/ch]
+ There are no words, to paint a picture of you girl[/tab]
+[tab][ch]Em[/ch]    [ch]Dsus4[/ch]     [ch]Cadd9[/ch]
+ Your eyes, those curves, it's like you're from some other world [/tab]
+[tab][ch]Em[/ch]   [ch]Dsus4[/ch]    [ch]Cadd9[/ch]   
+ You walk my way, oh God its so frustrating[/tab]
+
+[Pre-Chorus]
+[tab][ch]Cadd9[/ch]
+ So why do I disappear when you come near[/tab]
+[tab][ch]Dsus4[/ch]
+It makes me feel so small[/tab]
+[tab][ch]Cadd9[/ch]
+ Why do I blow my lines, most every time[/tab]
+[tab]          [ch]Dsus4[/ch]
+Like I've got no chance at all[/tab]
+
+[Chorus]
+[tab][ch]G[/ch]                   [ch]G/F#[/ch]
+If I could be your superman[/tab]
+[tab]    [ch]G/F[/ch]             [ch]Cadd9[/ch]         
+I'd fly you to the stars and back again[/tab]
+[tab][ch]G[/ch]                     [ch]G/F#[/ch]
+'Cause everytime you touched my hand[/tab]
+[tab]    [ch]G/F[/ch]             [ch]Cadd9[/ch]       
+You feel my powers running through your veins[/tab]
+[tab][ch]G[/ch]              [ch]G/F#[/ch]
+But I can only write this song, [/tab]
+[tab]    [ch]G/F[/ch]               [ch]E7[/ch]
+And tell you that I'm not that strong[/tab]
+[tab]       [ch]Am7[/ch]         [ch]Cm[/ch]
+'Cause I'm no superman, I hope you like me as I am[/tab]
+
+[Intro]
+[ch]G[/ch]   [ch]G/F#[/ch]   [ch]G/F[/ch]   [ch]Cadd9[/ch] x2
+
+[Verse 2]
+[tab][ch]Em[/ch]   [ch]Dsus4[/ch]    [ch]Cadd9[/ch] 
+ It ain't no lie, I have to tell you how I feel[/tab]
+[tab][ch]Em[/ch]         [ch]Dsus4[/ch]       [ch]Cadd9[/ch]
+ But each time that I try, It gets a little more unreal[/tab]
+[tab][ch]Em[/ch]    [ch]Dsus4[/ch]  [ch]Cadd9[/ch]
+ You say my name, Oh God, I can't stop shaking[/tab]
+
+[Pre-Chorus 2]
+[tab][ch]Cadd9[/ch]
+ So why do I disappear when you come near[/tab]
+[tab][ch]Dsus4[/ch]
+It makes me feel so small[/tab]
+[tab][ch]Cadd9[/ch]
+ If I could read your mind[/tab]
+[tab]                        [ch]Dsus4[/ch]
+Girl, would I find any trace of me at all[/tab]
+
+[Chorus]
+[tab][ch]G[/ch]                   [ch]G/F#[/ch]
+If I could be your superman[/tab]
+[tab]    [ch]G/F[/ch]             [ch]Cadd9[/ch]         
+I'd fly you to the stars and back again[/tab]
+[tab][ch]G[/ch]                     [ch]G/F#[/ch]
+'Cause everytime you touched my hand[/tab]
+[tab]    [ch]G/F[/ch]             [ch]Cadd9[/ch]       
+You feel my powers running through your veins[/tab]
+[tab][ch]G[/ch]              [ch]G/F#[/ch]
+But I can only write this song, [/tab]
+[tab]    [ch]G/F[/ch]               [ch]E7[/ch]
+And tell you that I'm not that strong[/tab]
+[tab]       [ch]Am7[/ch]         [ch]Cm[/ch]
+'Cause I'm no superman, I hope you like me as I am[/tab]
+
+[Bridge]
+[ch]G[/ch] [ch]G/F#[/ch] [ch]Dsus4[/ch]
+[ch]G[/ch] [ch]G/F#[/ch] [ch]Dsus4[/ch]
+[ch]G[/ch] [ch]G/F#[/ch] [ch]G/F[/ch] [ch]Cadd9[/ch]
+
+[Chorus]
+[tab][ch]G[/ch]                   [ch]G/F#[/ch]
+If I could be your superman[/tab]
+[tab]    [ch]G/F[/ch]             [ch]Cadd9[/ch]         
+I'd fly you to the stars and back again[/tab]
+[tab][ch]G[/ch]                     [ch]G/F#[/ch]
+'Cause everytime you touched my hand[/tab]
+[tab]    [ch]G/F[/ch]             [ch]Cadd9[/ch]       
+You feel my powers running through your veins[/tab]
+[tab][ch]G[/ch]              [ch]G/F#[/ch]
+But I can only write this song, [/tab]
+[tab]    [ch]G/F[/ch]               [ch]E7[/ch]
+And tell you that I'm not that strong[/tab]
+[tab]       [ch]Am7[/ch]         [ch]Cm[/ch]
+'Cause I'm no superman, I hope you like me as I am[/tab]
+
+[Outro]
+[ch]G[/ch] [ch]G/F#[/ch] [ch]G/F[/ch] [ch]Cadd9[/ch] [ch]G[/ch]

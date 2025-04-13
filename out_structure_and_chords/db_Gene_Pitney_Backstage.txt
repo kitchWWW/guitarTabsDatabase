@@ -1,0 +1,78 @@
+{
+    "intro": [
+        "Eb",
+        "Ab",
+        "Eb",
+        "Eb"
+    ],
+    "verse-1": [
+        "Ebsus4",
+        "Eb",
+        "Ebsus4",
+        "Eb",
+        "Fsus4",
+        "Fm",
+        "Fsus4",
+        "Fm",
+        "Gsus4",
+        "Gm",
+        "Ab",
+        "Bb7sus4"
+    ],
+    "verse-2": [],
+    "verse-3": [
+        "Eb",
+        "Cm",
+        "Ab",
+        "Bb",
+        "Cm",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Eb7",
+        "Db",
+        "Ab",
+        "C",
+        "Bb",
+        "Eb",
+        "Eb7",
+        "Db",
+        "Ab",
+        "C",
+        "Bb",
+        "Ebsus4",
+        "Eb"
+    ],
+    "chorus-1": [
+        "Eb",
+        "Cm",
+        "Ab",
+        "Bb",
+        "C"
+    ],
+    "chorus-2": [
+        "Eb",
+        "Cm",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Eb",
+        "Cm",
+        "Ab",
+        "Bb"
+    ],
+    "bridge": [
+        "Db",
+        "C",
+        "Bb",
+        "C",
+        "Eb",
+        "Cm",
+        "Ab",
+        "C",
+        "Gb",
+        "C",
+        "Ab",
+        "Bb"
+    ]
+}

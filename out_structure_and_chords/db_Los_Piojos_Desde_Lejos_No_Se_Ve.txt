@@ -1,0 +1,25 @@
+{
+    "intro": [
+        "Dm",
+        "F",
+        "Em7",
+        "A7",
+        "Gm",
+        "C7",
+        "Gm",
+        "Gm",
+        "Gm",
+        "A",
+        "Ebmrutecida",
+        "Gm",
+        "Gm",
+        "A",
+        "Gm",
+        "Gm",
+        "Gm",
+        "F",
+        "Gm",
+        "Gm",
+        "Gm"
+    ]
+}

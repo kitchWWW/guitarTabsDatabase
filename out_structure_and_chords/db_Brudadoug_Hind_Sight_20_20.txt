@@ -1,0 +1,39 @@
+{
+    "intro": [
+        "Bm",
+        "A2"
+    ],
+    "chorus-1": [
+        "Bm",
+        "Bm",
+        "A2",
+        "Bm",
+        "Bm",
+        "Bm",
+        "Bm",
+        "Bm",
+        "Bm",
+        "Bm"
+    ],
+    "chorus-2": [],
+    "pre-chorus": [
+        "A2",
+        "A2",
+        "D",
+        "C#m",
+        "A2",
+        "A2",
+        "D",
+        "C#m"
+    ],
+    "verse": [
+        "Bm",
+        "Bm",
+        "Bm",
+        "Bm",
+        "Bm",
+        "Bm",
+        "A2",
+        "Bm"
+    ]
+}

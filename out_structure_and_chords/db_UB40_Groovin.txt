@@ -1,0 +1,28 @@
+{
+    "verse-1": [
+        "Ab",
+        "Cm",
+        "Db",
+        "Eb",
+        "Ab",
+        "Cm",
+        "Db",
+        "Eb",
+        "Ab",
+        "Cm",
+        "Db",
+        "Eb"
+    ],
+    "verse-2": [],
+    "chorus": [
+        "Ab",
+        "Cm",
+        "Db",
+        "Eb",
+        "Ab",
+        "Cm",
+        "Db",
+        "Eb",
+        "Ab"
+    ]
+}

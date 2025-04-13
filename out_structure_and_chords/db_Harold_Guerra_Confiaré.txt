@@ -1,0 +1,36 @@
+{
+    "intro": [
+        "Gm",
+        "Eb/G",
+        "Gm",
+        "Eb/G",
+        "Gm",
+        "Eb/G",
+        "Gm",
+        "Eb/G",
+        "Gm",
+        "Eb/G",
+        "Cm",
+        "Bb",
+        "F/A",
+        "Eb"
+    ],
+    "coro": [
+        "Gm",
+        "Eb/G",
+        "Gm",
+        "Eb",
+        "C",
+        "Dm",
+        "Eb",
+        "Gm",
+        "Gm",
+        "Eb/G",
+        "Gm",
+        "Eb/G",
+        "Gm",
+        "Eb/G",
+        "Gm",
+        "Eb/G"
+    ]
+}

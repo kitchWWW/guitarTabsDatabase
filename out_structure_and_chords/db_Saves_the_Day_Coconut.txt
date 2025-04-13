@@ -1,0 +1,116 @@
+{
+    "verse-1": [
+        "Dmaj7",
+        "C#m7",
+        "Bm7",
+        "Bbm7b5",
+        "Bm7",
+        "Bbm7b5",
+        "F#m7",
+        "Dmaj7",
+        "C#m7",
+        "Bm7",
+        "Bbm7b5",
+        "Bm7",
+        "Bbm7b5",
+        "F#m7",
+        "Bm7",
+        "C#7"
+    ],
+    "verse-2": [
+        "Dmaj7",
+        "C#m7",
+        "Bm7",
+        "Bbm7b5",
+        "Bm7",
+        "Bbm7b5",
+        "F#m7",
+        "Dmaj7",
+        "C#m7",
+        "Bm7",
+        "Bbm7b5",
+        "Bm7",
+        "Bbm7b5",
+        "F#m7",
+        "Bm7",
+        "C#7"
+    ],
+    "verse-3": [
+        "Dmaj7",
+        "C#m7",
+        "Bm7",
+        "Bbm7b5",
+        "Bm7",
+        "Bbm7b5",
+        "F#m7",
+        "Bm7",
+        "C#7"
+    ],
+    "pre-chorus-1": [
+        "Dm",
+        "A",
+        "E",
+        "F#m7"
+    ],
+    "pre-chorus-2": [
+        "Dm",
+        "A",
+        "E",
+        "F#m7"
+    ],
+    "pre-chorus-3": [
+        "Dm",
+        "A",
+        "E",
+        "F#m7"
+    ],
+    "chorus-1": [
+        "Bm7",
+        "C#7",
+        "F#m7",
+        "Bm7",
+        "C#7",
+        "F#m7",
+        "Bm7",
+        "C#7",
+        "Dm"
+    ],
+    "chorus-2": [
+        "Bm7",
+        "C#7",
+        "F#m7",
+        "Bm7",
+        "C#7",
+        "F#7",
+        "Bm7",
+        "C#7",
+        "Dm"
+    ],
+    "chorus-3": [
+        "Bm7",
+        "C#7",
+        "F#m7",
+        "Bm7",
+        "C#7",
+        "F#m7",
+        "Bm7",
+        "C#7",
+        "F#m7"
+    ],
+    "bridge": [
+        "Amaj7/F",
+        "A/E",
+        "Amaj7/E",
+        "F#m",
+        "Amaj7/F",
+        "A/E",
+        "Amaj7/E",
+        "F#m7/E",
+        "Dm"
+    ],
+    "outro": [
+        "Bm7",
+        "C#7",
+        "Dm"
+    ]
+}

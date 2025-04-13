@@ -1,0 +1,104 @@
+URL: https://tabs.ultimate-guitar.com/tab/3317393
+Artist: Robert Janson
+Song: Małe Szczęścia
+Genre: 
+Key: 
+
+
+[tab][Intro]
+  [ch]G[/ch]        [ch]D[/ch]    [ch]C[/ch]  [ch]Am6[/ch]  [ch]Em7[/ch]
+e|-15-17-|-14-|-19-14-|-15-|
+B|-------|----|-------|----|
+G|-------|----|-------|----|
+D|-------|----|-------|----|
+A|-------|----|-------|----|
+E|-------|----|-------|----|[/tab]
+
+[tab]   [ch]C[/ch]       [ch]G[/ch]      [ch]Dsus4[/ch] [ch]D[/ch]
+e|-12-14-|-10-8-|-10-----|
+B|-------|------|--------|
+G|-------|------|--------|
+D|-------|------|--------|
+A|-------|------|--------|
+E|-------|------|--------|[/tab]
+
+
+[Verse 1]
+[tab]     [ch]G[/ch]             [ch]Dsus4[/ch] [ch]D[/ch]
+Póki radość jest w nas[/tab]
+[tab]       [ch]C[/ch]    [ch]Am6[/ch]    [ch]Em7[/ch]
+Słońca dłoń gładzi twarz[/tab]
+[tab]      [ch]C[/ch]          [ch]G[/ch]           [ch]Dsus4[/ch] [ch]D[/ch]
+Warto żyć, warto śnic, warto być[/tab]
+
+[tab]     [ch]G[/ch]            [ch]Dsus4[/ch] [ch]D[/ch]
+Póki wciąż śpiewa ptak[/tab]
+[tab]      [ch]C[/ch]  [ch]Am6[/ch]    [ch]Em7[/ch]
+Rzeka ma źródła smak[/tab]
+[tab]      [ch]C[/ch]              [ch]Am[/ch]         [ch]Dsus4[/ch]  [ch]D[/ch]
+Warto śmiać, cieszyć się, warto kochać[/tab]
+
+
+[Chorus]
+[tab][ch]Cmaj7[/ch]             [ch]G[/ch]
+Gdzieś w każdym z nas[/tab]
+[tab][ch]Cmaj7[/ch]        [ch]G[/ch]
+Jest dziecka ślad[/tab]
+[tab]     [ch]Em7[/ch]       [ch]A[/ch]     [ch]Dsus4[/ch] [ch]D[/ch]
+Małe szczęścia i ich smak[/tab]
+
+
+[Instrumental]
+[ch]G[/ch]  [ch]D[/ch]  [ch]C[/ch] [ch]Am6[/ch]  [ch]Em7[/ch]
+[ch]C[/ch]  [ch]G[/ch]  [ch]Dsus4[/ch]  [ch]D[/ch]
+
+
+[Verse 2]
+[tab]     [ch]G[/ch]            [ch]Dsus4[/ch] [ch]D[/ch]
+Póki śmiech tłumi łzy[/tab]
+[tab]       [ch]C[/ch]   [ch]Am6[/ch]    [ch]Em7[/ch]
+Cieszą nas zwykle dni[/tab]
+[tab]      [ch]C[/ch]          [ch]G[/ch]           [ch]Dsus4[/ch] [ch]D[/ch]
+Warto żyć, warto śnic, warto być[/tab]
+
+[tab]     [ch]G[/ch]          [ch]Dsus4[/ch] [ch]D[/ch]
+Póki wciąż mamy sny[/tab]
+[tab]      [ch]C[/ch]     [ch]Am6[/ch]      [ch]Em7[/ch]
+Krąży w nas czerwień krwi[/tab]
+[tab]      [ch]C[/ch]              [ch]Am[/ch]         [ch]Dsus4[/ch]  [ch]D[/ch]
+Warto śmiać, cieszyć się, warto kochać[/tab]
+
+
+[Chorus]
+[tab][ch]Cmaj7[/ch]             [ch]G[/ch]
+Gdzieś w każdym z nas[/tab]
+[tab][ch]Cmaj7[/ch]        [ch]G[/ch]
+Jest dziecka ślad[/tab]
+[tab]     [ch]Em7[/ch]       [ch]A[/ch]     [ch]Dsus4[/ch] [ch]D[/ch]
+Małe szczęścia i ich smak[/tab]
+
+
+[Instrumental]
+[ch]G[/ch]  [ch]D[/ch]  [ch]C[/ch] [ch]Am6[/ch]  [ch]Em7[/ch]
+[ch]C[/ch]  [ch]G[/ch]  [ch]Dsus4[/ch]  [ch]D[/ch]
+
+
+[Verse 3]
+[tab][ch]G[/ch]                  [ch]Dsus4[/ch] [ch]D[/ch]
+Póki radość jest w nas[/tab]
+[tab]     [ch]C[/ch]     [ch]Am6[/ch]    [ch]Em7[/ch]
+Póki wciąż śpiewa ptak[/tab]
+[tab]      [ch]C[/ch]          [ch]G[/ch]           [ch]Dsus4[/ch] [ch]D[/ch]
+Warto żyć, warto śnic, warto być[/tab]
+
+[tab]     [ch]G[/ch]            [ch]Dsus4[/ch] [ch]D[/ch]
+Póki śmiech tłumi łzy[/tab]
+[tab]     [ch]C[/ch]     [ch]Am6[/ch]  [ch]Em7[/ch]
+Póki wciąż mamy sny[/tab]
+[tab]      [ch]C[/ch]              [ch]Am[/ch]         [ch]Dsus4[/ch]  [ch]D[/ch]
+Warto śmiać, cieszyć się, warto kochać[/tab]
+
+[tab]     [ch]G[/ch]          [ch]Dsus4[/ch] [ch]D[/ch]
+Póki wciąż mamy sny[/tab]
+[tab]     [ch]C[/ch]   [ch]Am6[/ch]  [ch]Em7[/ch]
+Póki ja, póki ty...[/tab]

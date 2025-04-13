@@ -1,0 +1,78 @@
+{
+    "intro": [
+        "G",
+        "G/B",
+        "Cadd9",
+        "Dsus4"
+    ],
+    "verse-1": [
+        "G",
+        "G/B",
+        "Cadd9",
+        "G",
+        "G/B",
+        "Cadd9"
+    ],
+    "verse-2": [
+        "G",
+        "G/B",
+        "Cadd9",
+        "G",
+        "G/B",
+        "Cadd9"
+    ],
+    "chorus-1": [
+        "G",
+        "G/B",
+        "Cadd9",
+        "D",
+        "G",
+        "G/B",
+        "Cadd9",
+        "D",
+        "Am",
+        "C",
+        "G",
+        "Cadd9"
+    ],
+    "chorus-2": [
+        "G",
+        "G/B",
+        "Cadd9",
+        "D",
+        "G",
+        "G/B",
+        "Cadd9",
+        "D",
+        "Am",
+        "C",
+        "Em",
+        "D",
+        "Cadd9",
+        "G",
+        "Em",
+        "G",
+        "Cadd9",
+        "D"
+    ],
+    "chorus-3": [
+        "G",
+        "G/B",
+        "Cadd9",
+        "D",
+        "G",
+        "G/B",
+        "Cadd9",
+        "D",
+        "Am7",
+        "C",
+        "G"
+    ],
+    "outro": [
+        "G",
+        "G/B",
+        "Cadd9",
+        "D",
+        "G"
+    ]
+}

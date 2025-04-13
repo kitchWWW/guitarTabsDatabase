@@ -1,0 +1,53 @@
+{
+    "intro": [
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7"
+    ],
+    "verse": [
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Gmaj7",
+        "Gmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Cmaj7",
+        "Cmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Em",
+        "Am7",
+        "Cmaj7",
+        "Gmaj7",
+        "Em",
+        "Am7",
+        "Cmaj7",
+        "Bm7",
+        "Em7",
+        "C",
+        "Eb6",
+        "Bm7",
+        "Em7",
+        "C",
+        "Eb6",
+        "Gmaj7",
+        "Em",
+        "Gmaj7",
+        "Em"
+    ],
+    "outro": [
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Em",
+        "Gmaj7",
+        "Em"
+    ]
+}

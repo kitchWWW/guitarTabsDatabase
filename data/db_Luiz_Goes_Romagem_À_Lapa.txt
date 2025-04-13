@@ -1,0 +1,64 @@
+URL: https://tabs.ultimate-guitar.com/tab/2260321
+Artist: Luiz Goes
+Song: Romagem À Lapa
+Genre: 
+Key: F#m
+
+
+D tuning (DGCFAD)
+
+[Intro]
+[ch]F#m[/ch] [ch]D[/ch] [ch]E[/ch] [ch]F#m[/ch] [ch]Fdim7[/ch]
+
+[Verso 1]
+[tab][ch]F#m[/ch]         [ch]F#7[/ch]    [ch]Bm[/ch]
+Se um dia a vida parasse[/tab]
+[tab]    [ch]Fdim7[/ch]    [ch]F#m[/ch]                  [ch]C#7[/ch]   [ch]E[/ch]
+E a gente voltasse ao tempo que havia[/tab]
+[tab]     [ch]F#m[/ch]  [ch]F#7[/ch]     [ch]Bm[/ch]
+E se o Mondego passasse[/tab]
+[tab]    [ch]Fdim7[/ch]   [ch]F#m[/ch]
+E a todos levasse[/tab]
+[tab]  [ch]C#7[/ch]      [ch]F#m[/ch]   [ch]E[/ch]
+A um velho dia[/tab]
+[tab]   [ch]D[/ch]     [ch]E[/ch]       [ch]A[/ch]
+Talvez a Lapa cantasse[/tab]
+[tab]     [ch]F#7[/ch]      [ch]Bm[/ch]
+E em pedra gravasse[/tab]
+[tab]  [ch]Fdim7[/ch]    [ch]F#m[/ch]   [ch]E[/ch]
+A nossa alegria[/tab]
+[tab]   [ch]F#m[/ch]   [ch]F#7[/ch]     [ch]Bm[/ch]
+Talvez a Lapa sorrisse[/tab]
+[tab]    [ch]Fdim7[/ch]      [ch]F#m[/ch]
+E à pedra se ouvisse[/tab]
+[tab]  [ch]C#7[/ch]   [ch]F#m[/ch]   [ch]E[/ch]
+"Olá poesia"[/tab]
+
+[Instrumental]
+[ch]F#m[/ch] [ch]D[/ch] [ch]E[/ch] [ch]F#m[/ch] [ch]Fdim7[/ch]
+
+[Verso 2]
+[tab]    [ch]F#m[/ch]    [ch]F#7[/ch]   [ch]Bm[/ch]
+Se agora o rio pudesse[/tab]
+[tab]   [ch]Fdim7[/ch]      [ch]F#m[/ch]
+Juntar quem padece[/tab]
+[tab]             [ch]C#7[/ch]   [ch]E[/ch]
+De tal nostalgia[/tab]
+[tab]  [ch]F#m[/ch]   [ch]F#7[/ch]     [ch]Bm[/ch]
+E tanta gente viesse[/tab]
+[tab]    [ch]Fdim7[/ch]      [ch]F#m[/ch]
+Sem sonhos nem prece[/tab]
+[tab]  [ch]C#7[/ch]      [ch]F#m[/ch]   [ch]E[/ch]
+E sem rebeldia[/tab]
+[tab]   [ch]D[/ch]     [ch]E[/ch]       [ch]A[/ch]
+Talvez a Lapa chorasse[/tab]
+[tab]     [ch]F#7[/ch]      [ch]Bm[/ch]
+E em pedra gravasse[/tab]
+[tab]  [ch]Fdim7[/ch]    [ch]F#m[/ch]   [ch]E[/ch]
+A nossa agonia[/tab]
+[tab]   [ch]F#m[/ch]   [ch]F#7[/ch]     [ch]Bm[/ch]
+Talvez a Lapa sofresse[/tab]
+[tab]    [ch]Fdim7[/ch]    [ch]F#m[/ch]
+E à pedra dissesse[/tab]
+[tab]  [ch]C#7[/ch]      [ch]F#m[/ch]   [ch]E[/ch]   [ch]F#m[/ch]
+"Adeus, poesia"[/tab]

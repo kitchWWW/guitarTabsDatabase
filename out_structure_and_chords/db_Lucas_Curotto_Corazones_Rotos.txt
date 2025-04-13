@@ -1,0 +1,39 @@
+{
+    "verse-1": [
+        "Eb",
+        "Cm",
+        "Fm",
+        "Ab",
+        "Eb",
+        "Cm",
+        "Fm",
+        "Ab"
+    ],
+    "verse-2": [
+        "Cm",
+        "Fm",
+        "Ab"
+    ],
+    "chorus-1": [
+        "Eb",
+        "Cm",
+        "Fm",
+        "Ab"
+    ],
+    "chorus-2": [
+        "Eb",
+        "Cm",
+        "Fm",
+        "Ab"
+    ],
+    "bridge": [
+        "Eb",
+        "Cm",
+        "Fm",
+        "Ab",
+        "Eb",
+        "Cm",
+        "Fm",
+        "Ab"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "intro": [
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D"
+    ],
+    "verse-1": [
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D"
+    ],
+    "verse-2": [
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D"
+    ],
+    "chorus-1": [
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D"
+    ],
+    "chorus-2": [
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D"
+    ],
+    "solo": [
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D"
+    ],
+    "outro": [
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D"
+    ]
+}

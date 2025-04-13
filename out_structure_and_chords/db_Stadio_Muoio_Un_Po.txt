@@ -1,0 +1,105 @@
+{
+    "intro": [
+        "C",
+        "C"
+    ],
+    "verse-1": [
+        "C",
+        "C",
+        "Am7",
+        "C",
+        "C",
+        "C",
+        "Am7",
+        "C"
+    ],
+    "verse-2": [
+        "C",
+        "C",
+        "G6/B",
+        "Am7",
+        "C",
+        "C",
+        "C",
+        "G6/B",
+        "Am7",
+        "C"
+    ],
+    "pre-chorus-1": [
+        "Fmaj7",
+        "Gsus4",
+        "C",
+        "G6/B",
+        "Am7",
+        "Fmaj7",
+        "Gsus4",
+        "Am7",
+        "Fmaj7"
+    ],
+    "pre-chorus-2": [
+        "Fmaj7",
+        "Gsus4",
+        "C",
+        "G6/B",
+        "Am7",
+        "Fmaj7",
+        "Gsus4",
+        "Am7",
+        "Fmaj7"
+    ],
+    "chorus-1": [
+        "C",
+        "C",
+        "G6/B",
+        "Am7",
+        "Fmaj7",
+        "Gsus4",
+        "Am7",
+        "Fmaj7",
+        "Gsus4",
+        "G"
+    ],
+    "chorus-2": [
+        "C",
+        "C",
+        "G6/B",
+        "Am7",
+        "Fmaj7",
+        "Gsus4",
+        "Am7",
+        "Fmaj7",
+        "Gsus4"
+    ],
+    "bridge": [
+        "C",
+        "Am7",
+        "F",
+        "Am7",
+        "F",
+        "C",
+        "G/B",
+        "Am7",
+        "F",
+        "Gsus4",
+        "Am7",
+        "F",
+        "Gsus4",
+        "F/G",
+        "F/G"
+    ],
+    "outro": [
+        "C",
+        "C",
+        "G6/B",
+        "Am7",
+        "Fmaj7",
+        "Gsus4",
+        "Am7",
+        "Fmaj7",
+        "Fmaj7",
+        "Gsus4",
+        "Am7",
+        "Fmaj7",
+        "C"
+    ]
+}

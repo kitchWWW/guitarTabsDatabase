@@ -1,0 +1,133 @@
+URL: https://tabs.ultimate-guitar.com/tab/jonghyun/lonely-chords-2260313
+Artist: Jonghyun
+Song: Lonely
+Genre: 
+Key: D
+
+
+[tab][Intro]
+   [ch]D[/ch]        [ch]D7[/ch]         [ch]G[/ch]         [ch]Gm[/ch]
+e|-0-2-0----0-2-0-5-2--0-2-0---------5-3------|
+B|-3----3---1----3----------3------3----------|
+G|-2-----2--2----------------2-2/3------------|
+D|-0--------0---------------------------------|
+A|--------------------------------------------|
+E|---------------------3---------3------------|[/tab]
+
+[Verse 1]
+[tab]     [ch]D[/ch]
+mianhae nae tasiya[/tab]
+[tab]   [ch]D7[/ch]
+gomawo deokbuniya[/tab]
+[tab]    [ch]G[/ch]                              [ch]Gm[/ch]
+tukhamyeon naebaetdeon ne geu malbeoreut[/tab]
+[tab]              [ch]F#m7[/ch]               [ch]Bm7[/ch]
+neodo himdeun geol nan da aneunde[/tab]
+[tab]       [ch]Em7[/ch]                    [ch]A7[/ch]
+ama neon naega babon jul ana bwa[/tab]
+
+[Verse 2]
+[tab]  [ch]D[/ch]               [ch]D7[/ch]
+uneun eolgullo na himdeulda hamyeon[/tab]
+[tab]     [ch]G[/ch]        [ch]Gm[/ch]
+jeongmal naajilkka[/tab]
+[tab]                    [ch]F#m7[/ch]                     [ch]Bm7[/ch]
+geureom nuga himdeulkka apeuda jingjingdaemyeon[/tab]
+[tab]      [ch]Em7[/ch]                 [ch]A7[/ch]
+modu da gwaenchanhajineunde[/tab]
+
+[Verse 3]
+[tab]     [ch]G[/ch]            [ch]F#m7[/ch]
+ama neowa nan chakgak soke[/tab]
+[tab]         [ch]Bm7[/ch]             [ch]Am7[/ch]
+seororeul gadwodun ji molla[/tab]
+[tab]     [ch]G[/ch]            [ch]F#m7[/ch]
+anya neoneun nal ihae mot hae[/tab]
+[tab]             [ch]Em7[/ch]                     [ch]A7[/ch]
+geokjeong eorin ne nuneul bol ttaemyeon[/tab]
+
+[Chorus 1]
+[tab]             [ch]D[/ch]          [ch]D7[/ch]
+Baby I’m so lonely so lonely[/tab]
+[tab]       [ch]G[/ch]                        [ch]C9[/ch]
+naneun honja itneun geotman gatayo[/tab]
+[tab]            [ch]Bm7[/ch]                    [ch]E7[/ch]
+jichin neol bol ttaemyeon naega neoege[/tab]
+[tab]       [ch]Em7[/ch]                  [ch]A7[/ch]
+hoksi jimi doelkka manhi beogeoulkka[/tab]
+
+[Chorus 2]
+[tab]             [ch]D[/ch]         [ch]D7[/ch]
+Baby I’m so lonely so lonely[/tab]
+[tab]     [ch]G[/ch]                        [ch]C9[/ch]
+nado honja itneun geotman gatayo[/tab]
+[tab]             [ch]Bm7[/ch]         [ch]E7[/ch]
+geuraedo neoege ti naegi silheo[/tab]
+[tab]        [ch]Em7[/ch]                        [ch]A7[/ch]
+naneun honja chamneun ge deo iksukhae[/tab]
+N.C.
+nal ihaehaejwo
+
+[tab][Interlude]
+   [ch]D[/ch]        [ch]D7[/ch]         [ch]G[/ch]        [ch]G[/ch] [ch]A[/ch]
+e|-0-2-0----0-2-0-5-2--0-2-0----3-5--|
+B|-3----3---1----3----------3---3-5--|
+G|-2-----2--2----------------2--4-6--|
+D|-0--------0-------------------5-7--|
+A|------------------------------5-7--|
+E|---------------------3--------3-5--|[/tab]
+
+[Verse 4]
+[tab]      [ch]G[/ch]                   [ch]F#m7[/ch]
+urin hamkke itjiman gachi geotjil anhjanha[/tab]
+[tab]    [ch]Bm7[/ch]                 [ch]Am7[/ch]                 [ch]G[/ch]
+oeroumgwa goeroum gieok hana chain geonde (Ooh)[/tab]
+[tab]    [ch]F#m7[/ch]         [ch]Em7[/ch]                            [ch]A7[/ch]
+neon wae jakku dareugeman jeokeuryeo haneun geonji[/tab]
+
+[Chorus 2]
+[tab]             [ch]D[/ch]         [ch]D7[/ch]
+Baby I’m so lonely so lonely[/tab]
+[tab]     [ch]G[/ch]                        [ch]C9[/ch]
+nado honja itneun geotman gatayo[/tab]
+[tab]             [ch]Bm7[/ch]             [ch]E7[/ch]
+geuraedo neoege ti naegi silheo[/tab]
+[tab]        [ch]Em7[/ch]                        [ch]A7[/ch]
+naneun honja chamneun ge deo iksukhae[/tab]
+[tab]            [ch]G[/ch]
+nal ihaehaejwo[/tab]
+
+[Bridge]
+[tab][ch]G[/ch]
+Uuh~[/tab]
+[tab]     [ch]F#m7[/ch]       [ch]Em7[/ch]
+nal naebeoryeo dwo[/tab]
+[tab]     [ch]A7[/ch]
+Uuh~[/tab]
+
+[Chorus 1]
+[tab]             [ch]D[/ch]         [ch]D7[/ch]
+Baby I’m so lonely so lonely[/tab]
+[tab]       [ch]G[/ch]                        [ch]C9[/ch]
+naneun honja itneun geotman gatayo[/tab]
+
+[Chorus 2]
+[tab]             [ch]D[/ch]         [ch]D7[/ch]
+Baby I’m so lonely so lonely[/tab]
+[tab]     [ch]G[/ch]                        [ch]C9[/ch]
+nado honja itneun geotman gatayo[/tab]
+[tab]             [ch]Bm7[/ch]            [ch]E7[/ch]
+geuraedo neoege sumgigi silheo[/tab]
+[tab]        [ch]Em7[/ch]                        [ch]A7[/ch]
+naneun honja chamneun ge deo iksukhae[/tab]
+[tab]            [ch]D[/ch]
+nal ihaehaejwo[/tab]
+
+[tab][Outro]
+   [ch]D[/ch]        [ch]D7[/ch]          [ch]G[/ch]           [ch]Gm[/ch]         [ch]D[/ch]
+e|-0-2-0----0-2-0-5-3-5-2---------------------------5--|
+B|-3----3---1----3--------5/3----------------------7---|
+G|-2-----2--2-----------------2-----3---0---------7----|
+D|-0--------0-----------------------------0-2----7-----|
+A|----------------------------------------------5------|
+E|----------------------3-----------3----------5-------|[/tab]

@@ -1,0 +1,58 @@
+{
+    "intro": [
+        "Cmaj7",
+        "Am7",
+        "G",
+        "Cmaj7",
+        "Am7",
+        "G",
+        "Cmaj7"
+    ],
+    "verse-1": [
+        "G",
+        "Gmaj7",
+        "Cmaj7",
+        "G",
+        "Gmaj7",
+        "Cmaj7",
+        "G",
+        "Gmaj7",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "Am7"
+    ],
+    "verse-2": [
+        "Am7",
+        "G",
+        "Cmaj7",
+        "Am7",
+        "G",
+        "Cmaj7",
+        "Am7",
+        "G",
+        "Cmaj7",
+        "Am7",
+        "G",
+        "Cmaj7"
+    ],
+    "verse-3": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Gmaj7",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7"
+    ],
+    "outro": [
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "chorus": [
+        "A2",
+        "Asus",
+        "D",
+        "D2",
+        "A2",
+        "A",
+        "Dmaj7",
+        "G",
+        "D",
+        "E",
+        "D",
+        "Amaj7",
+        "Dmaj7"
+    ],
+    "outro": [
+        "Amaj7",
+        "Dmaj7",
+        "Amaj7",
+        "Dmaj7"
+    ]
+}

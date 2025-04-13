@@ -1,0 +1,52 @@
+{
+    "intro": [
+        "Em",
+        "D",
+        "Bm",
+        "Csus2"
+    ],
+    "chorus-1": [
+        "Em",
+        "D",
+        "Bm",
+        "Csus2",
+        "Em",
+        "D",
+        "Bm",
+        "Csus2",
+        "Em",
+        "Dsus2",
+        "Bm",
+        "Cmaj7",
+        "Em",
+        "D",
+        "Bm",
+        "Csus2"
+    ],
+    "chorus-2": [
+        "Em",
+        "D",
+        "Bm",
+        "Csus2"
+    ],
+    "bridge": [
+        "Em",
+        "D",
+        "Bm",
+        "Csus2",
+        "Em",
+        "D",
+        "Bm",
+        "Csus2"
+    ],
+    "outro": [
+        "Em",
+        "D",
+        "Bm",
+        "Csus2",
+        "Em",
+        "D",
+        "Bm",
+        "Csus2"
+    ]
+}

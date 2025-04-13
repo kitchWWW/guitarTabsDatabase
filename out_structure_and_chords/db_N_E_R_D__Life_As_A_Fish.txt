@@ -1,0 +1,78 @@
+{
+    "verse-1": [
+        "Em7",
+        "Am",
+        "Em7",
+        "Am",
+        "D",
+        "Em7",
+        "Am",
+        "Em7",
+        "Am"
+    ],
+    "verse-2": [
+        "Em",
+        "Am",
+        "F",
+        "Em7",
+        "Am",
+        "F",
+        "Em7",
+        "Am",
+        "F",
+        "Em7",
+        "Am"
+    ],
+    "verse-3": [
+        "Em7",
+        "Am",
+        "Em7",
+        "Am",
+        "Dm",
+        "Em7",
+        "Am",
+        "Em",
+        "Am"
+    ],
+    "chorus-1": [
+        "D",
+        "Bm",
+        "C",
+        "Em",
+        "Bm",
+        "C"
+    ],
+    "chorus-2": [
+        "Dm7",
+        "Bm",
+        "C",
+        "Em",
+        "Bm",
+        "C",
+        "C"
+    ],
+    "chorus-3": [
+        "Dm",
+        "Bm",
+        "C",
+        "Em",
+        "Bm",
+        "C"
+    ],
+    "bridge-1": [
+        "C",
+        "Em7",
+        "Dm7",
+        "G7"
+    ],
+    "bridge-2": [
+        "Em",
+        "Dm",
+        "G"
+    ],
+    "bridge-3": [
+        "C",
+        "Em",
+        "Dm"
+    ]
+}

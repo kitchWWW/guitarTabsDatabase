@@ -1,0 +1,73 @@
+{
+    "intro": [
+        "Bsus4",
+        "C#m7"
+    ],
+    "verse-1": [
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "D",
+        "A",
+        "F#m",
+        "F#m"
+    ],
+    "verse-2": [
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m7",
+        "D",
+        "A",
+        "F#m"
+    ],
+    "chorus-1": [
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "A",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m",
+        "D",
+        "A"
+    ],
+    "chorus-2": [
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "A",
+        "Bsus4",
+        "C#m7",
+        "Bsus4",
+        "C#m",
+        "D",
+        "A"
+    ]
+}

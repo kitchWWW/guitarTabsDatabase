@@ -1,0 +1,70 @@
+{
+    "pre-chorus-1": [
+        "Emaj7",
+        "G#m",
+        "G#m",
+        "Emaj7",
+        "Emaj7",
+        "G#m",
+        "G#m",
+        "Emaj7"
+    ],
+    "pre-chorus-2": [
+        "Emaj7",
+        "G#m",
+        "G#m",
+        "Emaj7",
+        "Emaj7",
+        "G#m",
+        "G#m",
+        "Emaj7"
+    ],
+    "chorus-1": [
+        "Emaj7",
+        "G#m",
+        "G#m",
+        "Emaj7",
+        "Emaj7",
+        "G#m",
+        "G#m",
+        "Emaj7"
+    ],
+    "chorus-2": [
+        "Emaj7",
+        "G#m",
+        "G#m",
+        "Emaj7",
+        "Emaj7",
+        "G#m",
+        "G#m",
+        "Emaj7"
+    ],
+    "verse": [
+        "C#m",
+        "D#m",
+        "G#m",
+        "F#maj7",
+        "C#m",
+        "C#",
+        "D#m",
+        "G#m",
+        "F#",
+        "C#",
+        "D#",
+        "G#m",
+        "F#",
+        "C#",
+        "D#m",
+        "G#m",
+        "F#"
+    ],
+    "outro": [
+        "C#",
+        "D#m",
+        "C#m",
+        "G#m",
+        "C#m",
+        "G#5",
+        "C#"
+    ]
+}

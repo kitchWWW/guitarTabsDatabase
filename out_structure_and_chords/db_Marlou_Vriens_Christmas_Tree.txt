@@ -1,0 +1,108 @@
+{
+    "intro": [
+        "E",
+        "Emaj7",
+        "E",
+        "Emaj7"
+    ],
+    "verse-1": [
+        "B/E",
+        "E",
+        "E",
+        "A",
+        "F#m7",
+        "A/B",
+        "B7",
+        "B/E",
+        "E",
+        "Emaj7",
+        "A",
+        "F#m7",
+        "A/B",
+        "B7"
+    ],
+    "verse-2": [
+        "B/E",
+        "E",
+        "E",
+        "A",
+        "F#m",
+        "B7sus4",
+        "B7"
+    ],
+    "pre-chorus-1": [
+        "Aadd2",
+        "B7sus4/C#",
+        "B",
+        "Aadd2",
+        "B"
+    ],
+    "pre-chorus-2": [
+        "Aadd2",
+        "B7sus4/C#",
+        "B",
+        "Aadd2",
+        "B"
+    ],
+    "chorus-1": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "F#/A#",
+        "A",
+        "A",
+        "B",
+        "E",
+        "Emaj7",
+        "E",
+        "Emaj7"
+    ],
+    "chorus-2": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "F#/A#",
+        "A",
+        "A",
+        "B",
+        "Aadd2",
+        "C#m7",
+        "Badd2",
+        "Amaj9",
+        "C#m7",
+        "Badd2",
+        "Aadd2",
+        "C#m7",
+        "Badd2",
+        "Aadd9"
+    ],
+    "chorus-3": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "F#/A#",
+        "Aadd2",
+        "F#sus4",
+        "F#",
+        "E/G#",
+        "Aadd2",
+        "Aadd2",
+        "Badd4"
+    ],
+    "outro": [
+        "E",
+        "Emaj7",
+        "E",
+        "Emaj7",
+        "Eadd9"
+    ]
+}

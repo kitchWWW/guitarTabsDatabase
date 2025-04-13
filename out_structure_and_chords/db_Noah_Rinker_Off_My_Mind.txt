@@ -1,0 +1,99 @@
+{
+    "intro": [
+        "Ab",
+        "Dbmaj7",
+        "Dbadd2/Eb",
+        "Fm",
+        "Db/Eb",
+        "Dbmaj7"
+    ],
+    "verse-1": [
+        "Ab",
+        "Ab/C",
+        "Dbmaj7",
+        "Dbmaj7/Eb",
+        "Fm",
+        "Fm/Eb",
+        "Dbmaj7",
+        "Ab",
+        "Ab/C",
+        "Dbmaj7",
+        "Dbmaj7/Eb",
+        "Fm",
+        "Fm/Eb",
+        "Dbmaj7"
+    ],
+    "verse-2": [
+        "Ab",
+        "Ab/C",
+        "Dbmaj7",
+        "Dbmaj7/Eb",
+        "Fm",
+        "Fm/Eb",
+        "Dbmaj7",
+        "Ab",
+        "Ab/C",
+        "Dbmaj7",
+        "Dbmaj7/Eb",
+        "Fm",
+        "Fm/Eb",
+        "Dbmaj7"
+    ],
+    "pre-chorus-1": [
+        "Ab",
+        "Fm",
+        "Dbmaj7",
+        "Ab",
+        "Fm",
+        "Dbmaj7"
+    ],
+    "pre-chorus-2": [
+        "Ab",
+        "Fm",
+        "Dbmaj7",
+        "Ab",
+        "Fm",
+        "Dbmaj7"
+    ],
+    "chorus-1": [
+        "Ab",
+        "Fm",
+        "Dbmaj7",
+        "Fm",
+        "Eb",
+        "Ab",
+        "Fm",
+        "Dbmaj7",
+        "Fm",
+        "Eb",
+        "Ab"
+    ],
+    "chorus-2": [
+        "Ab",
+        "Fm",
+        "Dbmaj7",
+        "Fm",
+        "Eb",
+        "Ab",
+        "Fm",
+        "Dbmaj7",
+        "Fm",
+        "Eb",
+        "Ab"
+    ],
+    "outro": [
+        "Ab",
+        "Dbmaj7",
+        "Dbadd2/Eb",
+        "Fm",
+        "Db/Eb",
+        "Dbmaj7",
+        "Ab",
+        "Dbmaj7",
+        "Dbadd2/Eb",
+        "Fm",
+        "Db/Eb",
+        "Dbmaj7",
+        "Ab"
+    ]
+}

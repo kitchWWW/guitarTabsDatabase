@@ -1,0 +1,61 @@
+{
+    "intro": [
+        "Eb"
+    ],
+    "verse-1": [
+        "Eb",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Ab",
+        "Abm"
+    ],
+    "verse-2": [
+        "Eb",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Ab",
+        "Abm"
+    ],
+    "pre-chorus-1": [
+        "Eb",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Ab",
+        "Abm"
+    ],
+    "pre-chorus-2": [
+        "Eb",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Ab",
+        "Abm"
+    ],
+    "chorus-1": [
+        "Eb",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Ab",
+        "Abm"
+    ],
+    "chorus-2": [
+        "Eb",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Ab",
+        "Abm"
+    ],
+    "bridge": [
+        "Eb"
+    ],
+    "outro": [
+        "Eb",
+        "Ab",
+        "Abm"
+    ]
+}

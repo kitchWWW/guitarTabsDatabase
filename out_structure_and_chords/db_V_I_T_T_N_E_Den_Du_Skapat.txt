@@ -1,0 +1,86 @@
+{
+    "intro": [
+        "G",
+        "Bm",
+        "A",
+        "D"
+    ],
+    "verse-1": [
+        "G2",
+        "Bm7",
+        "A",
+        "Asus",
+        "A",
+        "G2",
+        "Bm7",
+        "A"
+    ],
+    "verse-2": [
+        "G2",
+        "Bm7",
+        "Aadd9",
+        "G2",
+        "Bm7",
+        "Aadd9"
+    ],
+    "pre-chorus-1": [
+        "G2",
+        "Bm7",
+        "Aadd9",
+        "G2",
+        "Bm7",
+        "Aadd9"
+    ],
+    "pre-chorus-2": [
+        "G2",
+        "Bm7",
+        "Aadd9",
+        "G2",
+        "Bm7",
+        "Aadd9"
+    ],
+    "chorus-1": [
+        "G",
+        "Bm",
+        "A",
+        "G",
+        "Bm",
+        "A"
+    ],
+    "chorus-2": [
+        "G",
+        "Bm",
+        "A",
+        "G",
+        "Bm",
+        "A"
+    ],
+    "chorus-3": [
+        "G",
+        "Bm",
+        "A",
+        "G",
+        "Bm",
+        "A",
+        "G",
+        "Bm",
+        "A",
+        "G",
+        "Bm",
+        "A"
+    ],
+    "bridge": [
+        "G2",
+        "Bm7",
+        "Aadd9",
+        "G2",
+        "Bm7",
+        "Aadd9",
+        "G2",
+        "Bm7",
+        "Aadd9",
+        "G2",
+        "Bm7",
+        "Aadd9"
+    ]
+}

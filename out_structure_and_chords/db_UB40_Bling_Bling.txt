@@ -1,0 +1,91 @@
+{
+    "intro": [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ],
+    "chorus-1": [
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ],
+    "chorus-2": [
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ],
+    "chorus-3": [
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab"
+    ],
+    "chorus-4": [
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ],
+    "chorus-5": [
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ],
+    "chorus-6": [
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ],
+    "verse-1": [
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ],
+    "verse-2": [
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2",
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ],
+    "outro": [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Db",
+        "Dbsus2"
+    ]
+}

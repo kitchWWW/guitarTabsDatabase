@@ -1,0 +1,35 @@
+{
+    "intro": [
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+    ],
+    "chorus": [
+        "G#m7",
+        "Emaj7",
+        "Emaj7",
+        "D#m7",
+        "Emaj7",
+        "G#m7",
+        "Emaj7",
+        "Emaj7",
+        "Emaj7",
+        "Amaj7",
+        "Amaj7"
+    ],
+    "verse": [
+        "Emaj7",
+        "Emaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7"
+    ],
+    "outro": [
+        "G#m7",
+        "Emaj7",
+        "G#m7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7"
+    ]
+}

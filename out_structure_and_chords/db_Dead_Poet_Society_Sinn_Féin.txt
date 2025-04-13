@@ -1,0 +1,11 @@
+{
+    "intro-1": [],
+    "intro-2": [],
+    "intro-3": [],
+    "intro-4": [],
+    "verse-1": [],
+    "verse-2": [],
+    "bridge": [],
+    "outro-1": [],
+    "outro-2": []
+}

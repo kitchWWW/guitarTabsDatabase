@@ -1,0 +1,41 @@
+{
+    "verse-1": [
+        "Dbmaj7",
+        "Bbm7",
+        "Ebm7",
+        "Ab7",
+        "Dbmaj7"
+    ],
+    "verse-2": [
+        "Dbmaj7",
+        "Bbm7",
+        "Ebm7",
+        "Ab7",
+        "Fdim7",
+        "Bb7"
+    ],
+    "bridge": [
+        "Fdim7",
+        "Bb7",
+        "Fdim7",
+        "Bb7",
+        "Ebm7",
+        "Ddim7",
+        "Ebm7",
+        "Bbdim7",
+        "C7",
+        "Bbdim7",
+        "Fm7",
+        "Ebm7",
+        "Ab7"
+    ],
+    "chorus": [
+        "Ebm7",
+        "Gbm7",
+        "Fm7",
+        "Bb7",
+        "Ebm7",
+        "Ab7",
+        "Dbmaj7"
+    ]
+}

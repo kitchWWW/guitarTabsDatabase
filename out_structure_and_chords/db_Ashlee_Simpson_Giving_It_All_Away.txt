@@ -1,0 +1,23 @@
+{
+    "intro": [],
+    "verse-1": [],
+    "verse-2": [],
+    "verse-3": [],
+    "chorus": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A"
+    ],
+    "bridge": [
+        "F#m",
+        "A",
+        "F#m",
+        "Am"
+    ],
+    "outro": [
+        "C#m"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "verse": [
+        "C",
+        "Cmaj7",
+        "Em",
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Cmaj7",
+        "Em",
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "E",
+        "Fmaj7",
+        "E",
+        "Fmaj7",
+        "E",
+        "Fmaj7",
+        "G",
+        "C"
+    ]
+}

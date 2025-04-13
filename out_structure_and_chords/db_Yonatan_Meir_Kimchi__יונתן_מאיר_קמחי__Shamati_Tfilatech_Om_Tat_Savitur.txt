@@ -1,0 +1,42 @@
+{
+    "chorus-1": [
+        "Am",
+        "Fmaj",
+        "G",
+        "Dm",
+        "Am",
+        "Am",
+        "Fmaj",
+        "G",
+        "Dm",
+        "Am"
+    ],
+    "chorus-2": [
+        "Am",
+        "Fmaj",
+        "G",
+        "Dm",
+        "Am",
+        "Am"
+    ],
+    "chorus-3": [
+        "Am",
+        "Fmaj",
+        "G",
+        "Dm",
+        "Am",
+        "Am",
+        "Fmaj",
+        "G",
+        "Dm",
+        "Am"
+    ],
+    "chorus-4": [
+        "Am",
+        "Fmaj",
+        "G",
+        "Dm",
+        "Am",
+        "Am"
+    ]
+}

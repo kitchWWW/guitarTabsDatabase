@@ -1,0 +1,74 @@
+{
+    "intro": [
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em",
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em",
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em",
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em"
+    ],
+    "chorus-1": [
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em"
+    ],
+    "chorus-2": [
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em",
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em",
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em"
+    ],
+    "chorus-3": [
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em",
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em"
+    ],
+    "chorus-4": [
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em"
+    ],
+    "outro": [
+        "B",
+        "Bmaj7",
+        "B7",
+        "E",
+        "Em"
+    ]
+}

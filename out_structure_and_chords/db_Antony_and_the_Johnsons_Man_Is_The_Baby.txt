@@ -1,0 +1,36 @@
+{
+    "verse": [
+        "Ebmaj7",
+        "Ebmaj7",
+        "Bbmaj7",
+        "Gm9",
+        "Ebmaj7",
+        "Ebmaj7",
+        "Bbmaj7",
+        "Gm9"
+    ],
+    "chorus-1": [
+        "F/G",
+        "Eb/G",
+        "Dm/G",
+        "Gm",
+        "F",
+        "Eb",
+        "Dm",
+        "Gsus2",
+        "Gsus2"
+    ],
+    "chorus-2": [
+        "F6",
+        "Ebmaj9",
+        "Dm7",
+        "Gm9",
+        "F6",
+        "Ebmaj9",
+        "Dm7",
+        "Gsus4",
+        "Dm7",
+        "Eb",
+        "Dm"
+    ]
+}

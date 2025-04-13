@@ -1,0 +1,86 @@
+{
+    "intro": [
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2"
+    ],
+    "verse-1": [
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2"
+    ],
+    "verse-2": [
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2"
+    ],
+    "chorus-1": [
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2"
+    ],
+    "chorus-2": [
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2"
+    ],
+    "chorus-3": [
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2"
+    ],
+    "bridge": [
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2"
+    ],
+    "outro": [
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2",
+        "Cmaj7",
+        "Em7",
+        "Am7",
+        "Asus2"
+    ]
+}

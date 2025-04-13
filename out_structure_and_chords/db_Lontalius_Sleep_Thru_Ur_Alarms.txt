@@ -1,0 +1,26 @@
+{
+    "intro": [
+        "Gmaj7",
+        "Em",
+        "Bm"
+    ],
+    "verse": [
+        "Gmaj7",
+        "Em",
+        "Bm",
+        "Gmaj7",
+        "Em",
+        "Bm",
+        "A",
+        "G",
+        "Bm",
+        "A",
+        "G",
+        "Bm"
+    ],
+    "outro": [
+        "A",
+        "G",
+        "Bm"
+    ]
+}

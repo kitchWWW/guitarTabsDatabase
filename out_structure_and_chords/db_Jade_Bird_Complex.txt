@@ -1,0 +1,80 @@
+{
+    "verse-1": [
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "Asus",
+        "Asus",
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "Asus",
+        "Asus"
+    ],
+    "verse-2": [
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "Asus",
+        "Asus"
+    ],
+    "verse-3": [
+        "C",
+        "Gsus2",
+        "C",
+        "Gsus2",
+        "C",
+        "Gsus2",
+        "C",
+        "Gsus2"
+    ],
+    "verse-4": [
+        "C",
+        "Gsus2",
+        "C",
+        "Gsus2",
+        "C",
+        "Gsus2",
+        "C"
+    ],
+    "chorus-1": [
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "Asus",
+        "Asus"
+    ],
+    "chorus-2": [
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "G6",
+        "Em7",
+        "D5",
+        "Asus",
+        "Asus"
+    ],
+    "outro": []
+}

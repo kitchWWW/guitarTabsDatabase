@@ -1,0 +1,75 @@
+{
+    "intro": [
+        "C",
+        "C",
+        "C",
+        "Csus4"
+    ],
+    "chorus-1": [
+        "C",
+        "Csus4",
+        "C",
+        "Csus4"
+    ],
+    "chorus-2": [
+        "C",
+        "Csus4",
+        "C",
+        "F"
+    ],
+    "verse-1": [
+        "C",
+        "Csus4",
+        "Csus4",
+        "C",
+        "Csus4",
+        "Csus4",
+        "C"
+    ],
+    "verse-2": [
+        "C",
+        "Csus4",
+        "C",
+        "Csus4",
+        "C",
+        "Csus4",
+        "C",
+        "Csus4",
+        "C",
+        "Csus4",
+        "C",
+        "Csus4",
+        "C",
+        "C",
+        "Csus4",
+        "C",
+        "Csus4",
+        "C",
+        "Csus4",
+        "C",
+        "Csus4",
+        "C"
+    ],
+    "verse-3": [
+        "C",
+        "F",
+        "F",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "F"
+    ],
+    "outro": [
+        "C",
+        "Fmaj7",
+        "C",
+        "Am7",
+        "Fmaj7"
+    ]
+}

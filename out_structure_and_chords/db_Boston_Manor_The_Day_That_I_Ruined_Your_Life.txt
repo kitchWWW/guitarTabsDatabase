@@ -1,0 +1,53 @@
+{
+    "verse-1": [
+        "Am",
+        "Fmaj7",
+        "C",
+        "E",
+        "Am",
+        "Fmaj7",
+        "C",
+        "E",
+        "Am",
+        "Fmaj7",
+        "C",
+        "E",
+        "Am",
+        "Am"
+    ],
+    "verse-2": [
+        "Am",
+        "Fmaj7",
+        "C",
+        "E",
+        "Am",
+        "Fmaj7",
+        "C",
+        "E",
+        "Am",
+        "Fmaj7",
+        "C",
+        "E",
+        "Am",
+        "Fmaj7",
+        "C",
+        "E"
+    ],
+    "verse-3": [
+        "Am",
+        "Fmaj7",
+        "C",
+        "E",
+        "Am",
+        "Fmaj7",
+        "C",
+        "E",
+        "Am",
+        "Fmaj7",
+        "C",
+        "E"
+    ],
+    "outro": [
+        "Am"
+    ]
+}

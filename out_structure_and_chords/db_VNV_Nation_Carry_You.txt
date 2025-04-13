@@ -1,0 +1,55 @@
+{
+    "intro": [
+        "Gm",
+        "Eb",
+        "Cm",
+        "Eb",
+        "D",
+        "Gm",
+        "Dm",
+        "Bb",
+        "Asus4",
+        "A",
+        "Gm",
+        "Dm",
+        "Bb",
+        "Dm"
+    ],
+    "verse-1": [
+        "Gm",
+        "Eb",
+        "D",
+        "Gm",
+        "Eb",
+        "D"
+    ],
+    "verse-2": [
+        "Gm",
+        "Eb",
+        "D",
+        "Gm",
+        "Eb",
+        "D",
+        "Dm",
+        "Bb",
+        "Dm",
+        "Bb"
+    ],
+    "chorus": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gm"
+    ],
+    "outro": [
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+    ]
+}

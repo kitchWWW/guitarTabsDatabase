@@ -1,0 +1,76 @@
+{
+    "verse-1": [
+        "A",
+        "F#m",
+        "E",
+        "D",
+        "D"
+    ],
+    "verse-2": [
+        "A",
+        "F#m",
+        "Esus4",
+        "Dmaj7",
+        "A",
+        "F#m",
+        "Esus4",
+        "Dmaj7"
+    ],
+    "verse-3": [
+        "A",
+        "F#m",
+        "Esus4",
+        "Esus4",
+        "Dmaj7"
+    ],
+    "verse-4": [
+        "A",
+        "F#m",
+        "Esus4",
+        "Dmaj7",
+        "A",
+        "F#m",
+        "Esus4",
+        "Dmaj7",
+        "D",
+        "Dmaj7"
+    ],
+    "verse-5": [
+        "A",
+        "F#m",
+        "E",
+        "D",
+        "D",
+        "Dsus2"
+    ],
+    "verse-6": [
+        "A",
+        "F#m",
+        "Esus4",
+        "Dmaj7",
+        "A",
+        "F#m",
+        "Esus4",
+        "Dmaj7"
+    ],
+    "bridge": [
+        "B7",
+        "Dmaj7",
+        "A",
+        "C#7",
+        "F#m",
+        "B7",
+        "Dmaj7",
+        "A",
+        "C#7",
+        "F#m",
+        "Esus4"
+    ],
+    "outro": [
+        "A",
+        "F#m",
+        "Esus4",
+        "Dmaj7",
+        "A"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "intro": [
+        "E",
+        "Emaj7",
+        "Amaj7",
+        "Am(maj7)",
+        "E",
+        "Emaj7",
+        "Amaj7",
+        "Am(maj7)",
+        "E",
+        "Emaj7",
+        "Amaj7",
+        "Am(maj7)",
+        "E",
+        "Emaj7",
+        "Amaj7",
+        "Am(maj7)",
+        "E",
+        "Am",
+        "E",
+        "Emaj7",
+        "Am",
+        "E",
+        "Emaj7",
+        "Am"
+    ],
+    "outro": [
+        "E",
+        "Emaj7",
+        "Amaj"
+    ]
+}

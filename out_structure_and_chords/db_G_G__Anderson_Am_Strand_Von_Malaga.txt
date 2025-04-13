@@ -1,0 +1,81 @@
+{
+    "intro": [
+        "Ab",
+        "Db",
+        "Gb",
+        "Ab",
+        "Db"
+    ],
+    "verse-1": [
+        "Db",
+        "Ab",
+        "Ebm",
+        "Db",
+        "Ab",
+        "Db"
+    ],
+    "verse-2": [
+        "Db",
+        "Ab",
+        "Ebm",
+        "Db",
+        "Ab",
+        "Db"
+    ],
+    "chorus-1": [
+        "Ab",
+        "Db",
+        "Gb",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Bbm",
+        "Ebm",
+        "Ab",
+        "Db"
+    ],
+    "chorus-2": [
+        "Ab",
+        "Db",
+        "Gb",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Bbm",
+        "Ebm",
+        "Ab",
+        "Db"
+    ],
+    "chorus-3": [
+        "Ab",
+        "Db",
+        "Gb",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Bbm",
+        "Ebm",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Gb",
+        "Ab",
+        "Db"
+    ],
+    "bridge": [
+        "Ab",
+        "Db",
+        "Ab",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbm",
+        "Gb",
+        "Ab",
+        "Db"
+    ]
+}

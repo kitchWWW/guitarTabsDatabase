@@ -1,0 +1,73 @@
+{
+    "intro": [
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Cm",
+        "G",
+        "Eb",
+        "F",
+        "Ab",
+        "Fm",
+        "G",
+        "Eb",
+        "Fdim"
+    ],
+    "verse-1": [
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Cm",
+        "G",
+        "Eb",
+        "F",
+        "Ab",
+        "Fm",
+        "Eb"
+    ],
+    "verse-2": [
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Cm",
+        "G",
+        "Eb",
+        "F",
+        "Ab",
+        "Fm",
+        "Eb"
+    ],
+    "verse-3": [
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Eb",
+        "Fdim",
+        "Cm",
+        "G",
+        "Eb",
+        "F",
+        "Ab",
+        "Fm",
+        "Eb"
+    ],
+    "outro": [
+        "B5"
+    ]
+}

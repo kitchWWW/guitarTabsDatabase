@@ -1,0 +1,61 @@
+{
+    "intro": [
+        "G",
+        "Gsus4",
+        "G"
+    ],
+    "verse-1": [
+        "G",
+        "Am",
+        "Cmaj7",
+        "G"
+    ],
+    "verse-2": [
+        "G",
+        "Am",
+        "Cmaj7",
+        "G",
+        "Gsus4",
+        "G",
+        "Gsus2"
+    ],
+    "verse-3": [
+        "G",
+        "Am",
+        "Cmaj7",
+        "G"
+    ],
+    "verse-4": [
+        "G",
+        "Am",
+        "Cmaj7",
+        "G",
+        "Gsus4",
+        "G",
+        "Gsus2"
+    ],
+    "chorus-1": [
+        "D",
+        "Am",
+        "D",
+        "Am",
+        "G"
+    ],
+    "chorus-2": [
+        "D",
+        "Am",
+        "D",
+        "Am",
+        "G",
+        "Gsus4",
+        "G",
+        "Gsus2"
+    ],
+    "chorus-3": [
+        "D",
+        "Am",
+        "D",
+        "Am",
+        "G"
+    ]
+}

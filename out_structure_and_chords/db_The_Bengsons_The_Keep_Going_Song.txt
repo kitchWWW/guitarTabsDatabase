@@ -1,0 +1,14 @@
+{
+    "intro-1": [],
+    "intro-2": [],
+    "verse-1": [],
+    "verse-2": [],
+    "verse-3": [],
+    "verse-4": [],
+    "verse-5": [],
+    "verse-6": [],
+    "verse-7": [],
+    "verse-8": [],
+    "chorus-1": [],
+    "chorus-2": []
+}

@@ -1,0 +1,55 @@
+{
+    "coro-1": [
+        "Ebm",
+        "Db",
+        "Gb",
+        "B",
+        "Ebm",
+        "Db",
+        "Gb",
+        "B",
+        "Ebm",
+        "B",
+        "Gb",
+        "Bmaj7",
+        "Ebm",
+        "B",
+        "Ebm",
+        "Bmaj7"
+    ],
+    "coro-2": [
+        "Ebm",
+        "Db",
+        "Gb",
+        "B",
+        "Ebm",
+        "Db",
+        "Gb",
+        "B",
+        "Ebm",
+        "Bmaj7",
+        "Bmaj7",
+        "Bmaj7"
+    ],
+    "coro-3": [
+        "Ebm",
+        "Db",
+        "Gb",
+        "B",
+        "Ebm",
+        "Db",
+        "Gb",
+        "B"
+    ],
+    "outro": [
+        "Ebm",
+        "Db",
+        "Gb",
+        "B",
+        "Ebm",
+        "Db",
+        "Gb",
+        "B",
+        "Ebm"
+    ]
+}

@@ -1,0 +1,68 @@
+URL: https://tabs.ultimate-guitar.com/tab/4995106
+Artist: Foivos Delivorias (Φοίβος Δεληβοριάς)
+Song: Kathe Septemvri
+Genre: 
+Key: F#m
+
+
+[Intro]
+[ch]C#[/ch] [ch]D[/ch] [ch]G[/ch] [ch]C#[/ch] [ch]D[/ch] [ch]C#[/ch] [ch]F#m[/ch]
+
+[Verse]
+[tab]         [ch]E[/ch]                         [ch]F#7[/ch] [ch]Bm[/ch]
+Κάθε Σεπτέμβρη θα γυρνάς απ’ το χωριό σου[/tab]
+[tab]                [ch]C#m[/ch]                      [ch]F#m[/ch]
+και μόνο απ’ τα άσπρα μέρη κάτω απ’ το μαγιό[/tab]
+[tab]          [ch]E[/ch]                  [ch]F#7[/ch]  [ch]Bm[/ch]
+θα αναγνωρίζω το κορμάκι το δικό σου[/tab]
+[tab]            [ch]C#m[/ch]                   [ch]F#m[/ch]
+που τους χειμώνες το κοιτάζω μόνο εγώ[/tab]
+
+[Bridge]
+[tab]              [ch]F#m[/ch]                      [ch]C#[/ch]
+Και τι έχει ο ήλιος που δεν έχω να σου δώσω….[/tab]
+[tab]                                     [ch]F#m[/ch]
+αυτός τη νύχτα κλείνει εγώ μένω ανοικτός[/tab]
+[tab]          [ch]F#m[/ch]                        [ch]C#[/ch]
+κι αν καταφέρω και τον πάγο σου τον λιώσω[/tab]
+[tab]         [ch]G#[/ch]          [ch]C#[/ch]        [ch]F#m[/ch]
+κάθε Σεπτέμβρη θα γεμίζουν όλα φως…..[/tab]
+
+[Intro]
+[ch]C#[/ch] [ch]D[/ch] [ch]G[/ch] [ch]C#[/ch] [ch]D[/ch] [ch]C#[/ch] [ch]F#m[/ch]
+
+[Verse]
+[tab]         [ch]E[/ch]                     [ch]F#7[/ch] [ch]Bm[/ch]
+Κάθε Σεπτέμβρη θα δαγκώνεις ένα μήλο[/tab]
+[tab]          [ch]C#m[/ch]                   [ch]F#m[/ch]
+κι εγώ θα κάθομαι να βλέπω σαν Αδάμ[/tab]
+[tab]          [ch]E[/ch]                       [ch]F#7[/ch] [ch]Bm[/ch]
+τον πειρασμό να σε τυλίγει σαν το φύλλο[/tab]
+[tab]           [ch]C#m[/ch]                         [ch]F#m[/ch]
+και να μου κάνει την καρδιά μου γης Μαδιάμ[/tab]
+
+[Bridge]
+[tab]              [ch]F#m[/ch]                      [ch]C#[/ch]
+Και τι έχει ο ήλιος που δεν έχω να σου δώσω….[/tab]
+[tab]                                      [ch]F#m[/ch]
+αυτός τη νύχτα κλείνει εγώ μένω ανοικτός[/tab]
+[tab]          [ch]F#m[/ch]                        [ch]C#[/ch]
+κι αν καταφέρω και τον πάγο σου τον λιώσω[/tab]
+[tab]         [ch]G#[/ch]          [ch]C#[/ch]        [ch]F#m[/ch]
+κάθε Σεπτέμβρη θα γεμίζουν όλα φως[/tab]
+
+[Solo]
+[ch]E[/ch] [ch]F#7[/ch] [ch]Bm[/ch] [ch]C#m[/ch] [ch]F#m[/ch] x2
+
+[Bridge]
+[tab]              [ch]F#m[/ch]                      [ch]C#[/ch]
+Και τι έχει ο ήλιος που δεν έχω να σου δώσω….[/tab]
+[tab]                                      [ch]F#m[/ch]
+αυτός τη νύχτα κλείνει εγώ μένω ανοικτός[/tab]
+[tab]          [ch]F#m[/ch]                        [ch]C#[/ch]
+κι αν καταφέρω και τον πάγο σου τον λιώσω[/tab]
+[tab]         [ch]G#[/ch]          [ch]C#[/ch]        [ch]F#m[/ch]
+κάθε Σεπτέμβρη θα γεμίζουν όλα φως[/tab]
+
+[Finale]
+[ch]C#[/ch] [ch]D[/ch] [ch]G[/ch] [ch]C#[/ch] [ch]D[/ch] [ch]C#[/ch] [ch]F#m[/ch]

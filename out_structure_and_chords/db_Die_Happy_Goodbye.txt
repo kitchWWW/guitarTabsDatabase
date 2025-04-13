@@ -1,0 +1,105 @@
+{
+    "intro": [
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9"
+    ],
+    "verse-1": [
+        "G",
+        "D/F#",
+        "Cadd9",
+        "Am7",
+        "G",
+        "D/F#",
+        "Cadd9",
+        "Am7"
+    ],
+    "verse-2": [
+        "G",
+        "D/F#",
+        "Cadd9",
+        "Am7",
+        "G",
+        "D/F#",
+        "Cadd9",
+        "Am7"
+    ],
+    "chorus-1": [
+        "G",
+        "D/F#",
+        "Em",
+        "Cadd9",
+        "G",
+        "D/F#",
+        "Em",
+        "Cadd9"
+    ],
+    "chorus-2": [
+        "G",
+        "D/F#",
+        "Em",
+        "Cadd9",
+        "G",
+        "D/F#",
+        "Em",
+        "Cadd9",
+        "D"
+    ],
+    "chorus-3": [
+        "G",
+        "D/F#",
+        "Em",
+        "Cadd9",
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9"
+    ],
+    "bridge-1": [
+        "C",
+        "D",
+        "Hm",
+        "Em",
+        "C",
+        "D"
+    ],
+    "bridge-2": [
+        "Em",
+        "C",
+        "C",
+        "D",
+        "Em",
+        "C",
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9"
+    ],
+    "outro": [
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D/F#",
+        "Em7",
+        "Cadd9"
+    ]
+}

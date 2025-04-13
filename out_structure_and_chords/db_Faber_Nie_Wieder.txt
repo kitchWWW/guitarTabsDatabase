@@ -1,0 +1,21 @@
+{
+    "bridge": [
+        "G#",
+        "E",
+        "Fdim",
+        "F#",
+        "Gdim",
+        "E",
+        "Fdim",
+        "F#",
+        "Gdim",
+        "C#m",
+        "D#",
+        "G#m",
+        "E",
+        "Fdim",
+        "F#",
+        "Gdim",
+        "G#m"
+    ]
+}

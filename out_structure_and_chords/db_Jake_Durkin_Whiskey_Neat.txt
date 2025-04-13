@@ -1,0 +1,61 @@
+{
+    "intro": [
+        "E",
+        "Asus2",
+        "E",
+        "Asus2"
+    ],
+    "verse-1": [
+        "E",
+        "E",
+        "Asus2",
+        "Asus2",
+        "E",
+        "Asus2",
+        "Bsus4",
+        "Asus2"
+    ],
+    "verse-2": [
+        "E",
+        "Asus2",
+        "Asus2",
+        "E",
+        "Asus2",
+        "Bsus4",
+        "Asus2"
+    ],
+    "chorus-1": [
+        "E",
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "Asus2"
+    ],
+    "chorus-2": [
+        "E",
+        "Asus2",
+        "E",
+        "Asus2"
+    ],
+    "chorus-3": [
+        "E",
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "Asus2"
+    ],
+    "outro": [
+        "E",
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "Asus2"
+    ]
+}

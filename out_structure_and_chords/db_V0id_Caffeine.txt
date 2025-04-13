@@ -1,0 +1,92 @@
+{
+    "intro": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Gadd4"
+    ],
+    "verse-1": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Gadd4"
+    ],
+    "verse-2": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Gadd4"
+    ],
+    "verse-3": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Gadd4"
+    ],
+    "bridge-1": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Gadd4"
+    ],
+    "bridge-2": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Gadd4"
+    ],
+    "chorus-1": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Am",
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Am"
+    ],
+    "chorus-2": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Am",
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Am"
+    ],
+    "outro": [
+        "F",
+        "C",
+        "Gadd4",
+        "F",
+        "C",
+        "Am"
+    ]
+}

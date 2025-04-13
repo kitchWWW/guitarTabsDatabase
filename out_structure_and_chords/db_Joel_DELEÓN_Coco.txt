@@ -1,0 +1,58 @@
+{
+    "verse-1": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#"
+    ],
+    "verse-2": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#"
+    ],
+    "pre-chorus-1": [
+        "C#maj7",
+        "F#maj7",
+        "C#",
+        "C#maj7",
+        "F#maj7",
+        "C#"
+    ],
+    "pre-chorus-2": [
+        "F#maj7",
+        "C#",
+        "C#maj7",
+        "F#maj7",
+        "C#"
+    ],
+    "chorus-1": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#",
+        "C#maj7"
+    ],
+    "chorus-2": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#",
+        "C#",
+        "F#maj7",
+        "C#",
+        "C#maj7",
+        "F#maj7",
+        "C#",
+        "C#maj7"
+    ],
+    "outro": [
+        "F#maj7",
+        "C#",
+        "F#maj7",
+        "C#",
+        "C#maj7"
+    ]
+}

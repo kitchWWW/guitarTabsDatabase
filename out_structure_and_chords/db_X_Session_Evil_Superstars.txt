@@ -1,0 +1,104 @@
+{
+    "intro": [
+        "Dm",
+        "Am",
+        "Dm",
+        "Am"
+    ],
+    "chorus-1": [
+        "Dm",
+        "Am",
+        "Dm",
+        "Am"
+    ],
+    "chorus-2": [
+        "Dm",
+        "Am",
+        "Dm",
+        "Am"
+    ],
+    "chorus-3": [
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm",
+        "Dm",
+        "Dm",
+        "Am",
+        "Am",
+        "Am",
+        "Dm",
+        "Dm",
+        "Dm",
+        "Am",
+        "Am",
+        "Am",
+        "Am",
+        "Asus2"
+    ],
+    "verse-1": [
+        "Dm",
+        "Dm",
+        "Am",
+        "Am"
+    ],
+    "verse-2": [
+        "Dm",
+        "Dm",
+        "Am",
+        "Am"
+    ],
+    "verse-3": [
+        "Dm",
+        "Dm",
+        "Am",
+        "Am"
+    ],
+    "verse-4": [
+        "Dm",
+        "Dm",
+        "Am",
+        "Am"
+    ],
+    "verse-5": [
+        "Dm",
+        "Dm",
+        "Am",
+        "Am"
+    ],
+    "verse-6": [
+        "Dm",
+        "Dm",
+        "Am",
+        "Am"
+    ],
+    "verse-7": [
+        "Dm",
+        "Dm",
+        "Am"
+    ],
+    "verse-8": [
+        "Dm",
+        "Dm",
+        "Am",
+        "Am"
+    ],
+    "bridge": [
+        "Dm",
+        "Dm",
+        "Am",
+        "Am",
+        "Am"
+    ],
+    "outro": [
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am"
+    ]
+}

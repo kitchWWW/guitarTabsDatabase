@@ -1,0 +1,70 @@
+{
+    "verse-1": [
+        "Gsus2",
+        "Csus2",
+        "Em7",
+        "D"
+    ],
+    "verse-2": [
+        "Gsus2",
+        "Csus2",
+        "Em7",
+        "D"
+    ],
+    "verse-3": [
+        "Gsus2",
+        "Csus2",
+        "Em7",
+        "D",
+        "Csus2",
+        "Gsus2",
+        "D",
+        "Em7",
+        "Gsus2",
+        "Csus2",
+        "Em7",
+        "D"
+    ],
+    "verse-4": [
+        "Gsus2",
+        "Csus2",
+        "Em7",
+        "D"
+    ],
+    "verse-5": [
+        "Gsus2",
+        "Csus2",
+        "Em7",
+        "D"
+    ],
+    "chorus-1": [
+        "Csus2",
+        "Gsus2",
+        "D",
+        "Em7",
+        "Csus2",
+        "Gsus2",
+        "D",
+        "Em7"
+    ],
+    "chorus-2": [
+        "Csus2",
+        "Gsus2",
+        "D",
+        "Em7",
+        "Csus2",
+        "Gsus2",
+        "D",
+        "Em7",
+        "Csus2",
+        "Gsus2",
+        "D",
+        "Em7"
+    ],
+    "chorus-3": [
+        "Csus2",
+        "Gsus2",
+        "D",
+        "Em7"
+    ]
+}

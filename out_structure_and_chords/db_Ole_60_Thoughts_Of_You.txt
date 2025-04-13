@@ -1,0 +1,53 @@
+{
+    "intro": [
+        "G",
+        "Em",
+        "Cadd9",
+        "G"
+    ],
+    "verse-1": [
+        "G",
+        "Em",
+        "Cadd9",
+        "G",
+        "G",
+        "Em",
+        "Cadd9",
+        "G"
+    ],
+    "verse-2": [
+        "G",
+        "Em",
+        "Cadd9",
+        "G",
+        "Em",
+        "Cadd9",
+        "G"
+    ],
+    "chorus-1": [
+        "Cadd9",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Em",
+        "D",
+        "Cadd9"
+    ],
+    "chorus-2": [
+        "Cadd9",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Em",
+        "D"
+    ],
+    "outro": [
+        "Cadd9",
+        "G",
+        "Em",
+        "Cadd9",
+        "G"
+    ]
+}

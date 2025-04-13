@@ -1,0 +1,62 @@
+{
+    "verse-1": [
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em"
+    ],
+    "verse-2": [
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em"
+    ],
+    "verse-3": [
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em"
+    ],
+    "verse-4": [
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em"
+    ],
+    "verse-5": [
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em"
+    ],
+    "verse-6": [
+        "Em",
+        "Bm",
+        "Em",
+        "Em",
+        "Bm",
+        "Em"
+    ]
+}

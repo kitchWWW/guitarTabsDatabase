@@ -1,0 +1,72 @@
+{
+    "intro": [
+        "Db",
+        "Gb",
+        "Ebm",
+        "Gb"
+    ],
+    "verse-1": [
+        "Db",
+        "Gb",
+        "Ebm",
+        "Gb",
+        "Db",
+        "Gb",
+        "Ebm",
+        "Gb",
+        "Fm",
+        "Gb",
+        "Fm",
+        "Gb",
+        "Db",
+        "Bbm",
+        "Ab",
+        "Gb",
+        "Db",
+        "Bbm",
+        "Ab",
+        "Gb",
+        "Db",
+        "Gb",
+        "Ebm",
+        "Gb"
+    ],
+    "verse-2": [
+        "Db",
+        "Gb",
+        "Ebm",
+        "Gb",
+        "Db",
+        "Gb",
+        "Ebm",
+        "Gb",
+        "Fm",
+        "Gb",
+        "Fm",
+        "Gb",
+        "Db",
+        "Bbm",
+        "Ab",
+        "Gb",
+        "Db",
+        "Bbm",
+        "Ab",
+        "Gb"
+    ],
+    "bridge": [
+        "Db",
+        "Bbm",
+        "Ab",
+        "Gb",
+        "Db",
+        "Bbm",
+        "Ab",
+        "Gb"
+    ],
+    "outro": [
+        "Db",
+        "Bbm",
+        "Ab",
+        "Gb"
+    ]
+}

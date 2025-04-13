@@ -1,0 +1,59 @@
+{
+    "verse-1": [
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Dsus2",
+        "Dsus4",
+        "Dsus2",
+        "D"
+    ],
+    "verse-2": [
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Dsus2",
+        "Dsus4",
+        "Dsus2",
+        "D"
+    ],
+    "chorus-1": [
+        "C",
+        "G",
+        "D",
+        "Dsus2",
+        "Dsus4",
+        "C",
+        "G"
+    ],
+    "chorus-2": [
+        "C",
+        "G",
+        "D",
+        "Dsus2",
+        "Dsus4",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "Dsus2",
+        "Dsus4",
+        "C",
+        "G",
+        "Dsus2",
+        "Dsus4",
+        "Dsus2",
+        "D"
+    ]
+}

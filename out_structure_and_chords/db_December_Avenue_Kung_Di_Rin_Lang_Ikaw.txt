@@ -1,0 +1,93 @@
+{
+    "verse-1": [
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "Asus2",
+        "Bsus4",
+        "G#m7",
+        "Asus2",
+        "Bsus4"
+    ],
+    "verse-2": [
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "Asus2",
+        "Bsus4",
+        "G#m7",
+        "Asus2",
+        "Bsus4"
+    ],
+    "chorus-1": [
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4"
+    ],
+    "chorus-2": [
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4"
+    ],
+    "chorus-3": [
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4"
+    ],
+    "bridge": [
+        "Asus2",
+        "Bsus4",
+        "G#m7",
+        "Asus2",
+        "Bsus4"
+    ],
+    "solo": [
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4"
+    ],
+    "outro": [
+        "Asus2",
+        "F#m",
+        "Asus2",
+        "F#m"
+    ]
+}

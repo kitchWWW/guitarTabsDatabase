@@ -1,0 +1,46 @@
+{
+    "intro": [
+        "D",
+        "D",
+        "Dmaj7",
+        "Bm",
+        "D",
+        "Dmaj7",
+        "Bm"
+    ],
+    "verse": [
+        "D",
+        "Dmaj7",
+        "Bm",
+        "D",
+        "Dmaj7",
+        "Bm"
+    ],
+    "chorus": [
+        "D",
+        "Dmaj7",
+        "Bm",
+        "G",
+        "Bm",
+        "G"
+    ],
+    "outro": [
+        "D",
+        "A",
+        "Bm",
+        "A",
+        "D",
+        "A",
+        "Bm",
+        "A",
+        "D",
+        "Dmaj7",
+        "Bm",
+        "D",
+        "Dmaj7",
+        "Bm",
+        "D",
+        "Dmaj7",
+        "Bm"
+    ]
+}

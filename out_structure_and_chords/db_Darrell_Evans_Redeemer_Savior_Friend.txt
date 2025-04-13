@@ -1,0 +1,53 @@
+{
+    "verse-1": [
+        "Dsus",
+        "D",
+        "D/F#",
+        "C/G",
+        "G",
+        "A/C#",
+        "D",
+        "Em9",
+        "Asus",
+        "A",
+        "Dsus",
+        "D",
+        "D/F#",
+        "A/B",
+        "Bm7",
+        "Em9",
+        "Asus",
+        "A",
+        "Bm7",
+        "Em9",
+        "Asus",
+        "D"
+    ],
+    "verse-2": [
+        "Em9",
+        "Asus",
+        "D",
+        "G/D",
+        "D"
+    ],
+    "verse-3": [],
+    "chorus": [
+        "A",
+        "Bm7",
+        "G",
+        "D",
+        "A",
+        "Bm7",
+        "Em7",
+        "Asus",
+        "A",
+        "A/C#",
+        "D",
+        "D/F#",
+        "G",
+        "Em9",
+        "Gmaj7",
+        "Asus",
+        "D"
+    ]
+}

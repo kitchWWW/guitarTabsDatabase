@@ -1,0 +1,84 @@
+URL: https://tabs.ultimate-guitar.com/tab/vox/postscriptum-chords-4099801
+Artist: VOX
+Song: Postscriptum
+Genre: 
+Key: D
+
+
+[Chords]
+F/G     3 X X 2 1 1
+G7sus4  3 3 0 0 1 1
+
+
+
+[Intro]
+[ch]C[/ch] [ch]Am[/ch] [ch]F[/ch] [ch]F/G[/ch]  x4
+
+[Verse 1]
+[tab][ch]C[/ch]        [ch]Am[/ch] [ch]F[/ch]                 [ch]G[/ch]
+Od wielu dni  w świat chce wyruszyć[/tab]
+[tab]    [ch]C[/ch]          [ch]Am[/ch] [ch]F[/ch]              [ch]G[/ch]
+ten ptak, co ma    gniazdo w mej duszy,[/tab]
+[tab]         [ch]Am[/ch]       [ch]Em[/ch]                   [ch]Dm7[/ch] [ch]G7sus4[/ch]
+więc bye-bye, przebaczenie swe jeszcze da-------j[/tab]
+
+[Verse 2]
+[tab][ch]C[/ch]           [ch]Am[/ch]  [ch]F[/ch]            [ch]G[/ch]
+By lżej się szło  w życia rogatki[/tab]
+[tab]         [ch]C[/ch]         [ch]Am[/ch] [ch]F[/ch]         [ch]G[/ch]
+Chcę w pamięć wziąć    serca manatki,[/tab]
+[tab]      [ch]Am[/ch]                    [ch]Em[/ch]             [ch]Dm7[/ch]         [ch]G7sus4[/ch]
+Zatem chciej (chciej) tylko dodać tu: jest OK  (jest O--K)[/tab]
+
+[Chorus]
+[tab]      [ch]C[/ch]  [ch]F[/ch]           [ch]G[/ch]     [ch]F[/ch]        [ch]C[/ch]    [ch]F[/ch] [ch]G[/ch] [ch]F[/ch]
+Jest OK, był to twój zwrot na każdy cios[/tab]
+[tab]      [ch]C[/ch]  [ch]F[/ch]         [ch]G[/ch]   [ch]F[/ch]       [ch]Esus4[/ch] [ch]E[/ch]
+Jest OK, gdy lasso ci zarzucał lo----s[/tab]
+[tab]       [ch]Am[/ch]              [ch]D7[/ch]
+Jest O-K, na szczęścia brak[/tab]
+[tab]       [ch]Am[/ch]         [ch]D7[/ch]
+Jest O-K, bo niby jak?[/tab]
+[tab]         [ch]C[/ch] [ch]Am[/ch] [ch]Dm7[/ch]         [ch]G7sus4[/ch]      [ch]C[/ch]
+Więc dlaczego    tym razem nie ma tak być?[/tab]
+
+[Interlude]
+[ch]Am[/ch] [ch]F[/ch] [ch]F/G[/ch]
+[ch]C[/ch] [ch]Am[/ch] [ch]F[/ch] [ch]F/G[/ch]
+
+[Verse 3]
+[tab][ch]C[/ch]             [ch]Am[/ch] [ch]F[/ch]            [ch]G[/ch]
+Wrócę, gdy już    lata się zdwoją,[/tab]
+[tab]    [ch]C[/ch]       [ch]Am[/ch] [ch]F[/ch]            [ch]G[/ch]
+Przyniosę ci    samotność swoją,[/tab]
+[tab]      [ch]Am[/ch]                     [ch]Em[/ch]             [ch]Dm7[/ch]        [ch]G7sus4[/ch]
+Wtedy miej (miej) gdzieś w pamięci to: jest OK (jest O--K)[/tab]
+
+[Chorus]
+[tab]      [ch]C[/ch]  [ch]F[/ch]           [ch]G[/ch]     [ch]F[/ch]        [ch]C[/ch]    [ch]F[/ch] [ch]G[/ch] [ch]F[/ch]
+Jest OK, był to twój zwrot na każdy cios[/tab]
+[tab]      [ch]C[/ch]  [ch]F[/ch]         [ch]G[/ch]     [ch]F[/ch]     [ch]Esus4[/ch] [ch]E[/ch]
+Jest OK, gdy lasso ci zarzucał lo-----s[/tab]
+[tab]       [ch]Am[/ch]              [ch]D7[/ch]
+Jest O-K, na szczęścia brak[/tab]
+[tab]       [ch]Am[/ch]         [ch]D7[/ch]
+Jest O-K, bo niby jak?[/tab]
+[tab]         [ch]C[/ch] [ch]Am[/ch] [ch]Dm7[/ch]         [ch]G7sus4[/ch]      [ch]C[/ch]
+Więc dlaczego    tym razem nie ma tak być?[/tab]
+
+[Solo]
+[ch]F[/ch] [ch]G[/ch] [ch]F[/ch] [ch]C[/ch] [ch]F[/ch] [ch]G[/ch] [ch]F[/ch] [ch]C[/ch] [ch]F[/ch] [ch]G[/ch] [ch]F[/ch] [ch]Esus4[/ch] [ch]E[/ch]
+
+[Chorus]
+[tab]       [ch]Am[/ch]              [ch]D7[/ch]
+Jest O-K, na szczęścia brak[/tab]
+[tab]       [ch]Am[/ch]         [ch]D7[/ch]
+Jest O-K, bo niby jak?[/tab]
+[tab]         [ch]C[/ch] [ch]Am[/ch] [ch]Dm7[/ch]         [ch]G7sus4[/ch]      [ch]C[/ch]    [ch]Am[/ch]
+Więc dlaczego    tym razem nie ma tak być?[/tab]
+[tab][ch]Dm7[/ch]         [ch]G7sus4[/ch]      [ch]C[/ch]   [ch]Am[/ch]
+   tym razem nie ma tak być[/tab]
+[tab][ch]Dm7[/ch]         [ch]G7sus4[/ch]      [ch]C[/ch]   [ch]Am[/ch]
+   tym razem nie ma tak być[/tab]
+[tab][ch]Dm7[/ch]         [ch]G7sus4[/ch]     [ch]C[/ch]
+  tym razem nie ma tak być[/tab]

@@ -1,0 +1,121 @@
+{
+    "intro": [
+        "A",
+        "Dmadd9"
+    ],
+    "verse-1": [
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9"
+    ],
+    "verse-2": [
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "D",
+        "F",
+        "D",
+        "F"
+    ],
+    "verse-3": [
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9"
+    ],
+    "verse-4": [
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "D",
+        "F",
+        "D",
+        "F"
+    ],
+    "verse-5": [
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9",
+        "A",
+        "Dmadd9"
+    ],
+    "chorus-1": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Am",
+        "D7",
+        "F",
+        "A",
+        "Dmadd9"
+    ],
+    "chorus-2": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Am",
+        "D7",
+        "F"
+    ],
+    "chorus-3": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Am",
+        "D7/F#",
+        "F",
+        "E"
+    ],
+    "chorus-4": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Am",
+        "D7/F#",
+        "F",
+        "F",
+        "E",
+        "C"
+    ],
+    "solo": [
+        "E",
+        "F",
+        "D7/F#",
+        "F",
+        "E",
+        "F",
+        "C",
+        "F",
+        "Am",
+        "Em",
+        "F",
+        "C",
+        "F"
+    ]
+}

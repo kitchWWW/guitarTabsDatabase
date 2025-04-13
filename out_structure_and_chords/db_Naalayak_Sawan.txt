@@ -1,0 +1,63 @@
+{
+    "verse-1": [
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "G",
+        "Bm",
+        "Asus2",
+        "G",
+        "Asus2",
+        "G"
+    ],
+    "verse-2": [
+        "Bm",
+        "Asus2",
+        "G",
+        "Bm",
+        "Asus2",
+        "G",
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "G",
+        "Bm",
+        "Asus2",
+        "G",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "G",
+        "Asus2"
+    ],
+    "verse-3": [
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "Bm",
+        "Asus2",
+        "G",
+        "Asus2"
+    ],
+    "verse-4": [
+        "Bm",
+        "G",
+        "Bm",
+        "G"
+    ]
+}

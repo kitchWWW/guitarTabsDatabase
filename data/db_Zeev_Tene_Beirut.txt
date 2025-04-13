@@ -1,0 +1,79 @@
+URL: https://tabs.ultimate-guitar.com/tab/zeev-tene/beirut-chords-3435788
+Artist: Zeev Tene
+Song: Beirut
+Genre: 
+Key: G
+
+
+[Intro]
+
+[ch]G5[/ch] [ch]C5[/ch] [ch]G5[/ch] x2
+
+[ch]C5[/ch] [ch]D5[/ch] [ch]G5[/ch] [ch]C5[/ch] x3
+
+[ch]C5[/ch] [ch]D5[/ch] [ch]G5[/ch]
+
+
+
+[Verse 1]
+
+[tab][ch]G5[/ch]     [ch]C5[/ch]           [ch]G5[/ch]     [ch]G5[/ch]
+ Kolyom Heftzatzti Et Sidon[/tab]
+[tab][ch]C5[/ch]       [ch]D5[/ch]           [ch]G5[/ch]   [ch]C5[/ch]
+ Ben Pitriyot Ashan Be'Or Rishon[/tab]
+[tab][ch]C5[/ch]               [ch]D5[/ch]     [ch]G5[/ch]   [ch]C5[/ch]
+ Yacholti Gam Lachzor Be'Toch Aron[/tab]
+[tab][ch]C5[/ch]       [ch]D5[/ch]             [ch]G5[/ch]
+ Kolyom Heftzatzti Et Sidon[/tab]
+
+
+[Verse 2]
+
+[tab][ch]A5[/ch]         [ch]D5[/ch]            [ch]A5[/ch] [ch]A5[/ch]
+ Kolyom Heftzatzti Et Beirut[/tab]
+[tab][ch]D5[/ch]         [ch]E5[/ch]            [ch]A5[/ch] [ch]A5[/ch]
+ Kolyom Heftzatzti Et Beirut[/tab]
+[tab][ch]D5[/ch]       [ch]E5[/ch]            [ch]A5[/ch]    [ch]D5[/ch]
+ Yatzati Chai Yacholti Gam LaMut[/tab]
+[tab][ch]D5[/ch]         [ch]E5[/ch]            [ch]A5[/ch] [ch]A5[/ch]
+ Kolyom Heftzatzti Et Beirut[/tab]
+
+
+[Verse 3]
+
+[tab][ch]D5[/ch]      [ch]E5[/ch]         [ch]A5[/ch]   [ch]A5[/ch]
+ BeLechitza Kala Gamarnu[/tab]
+[tab][ch]D5[/ch]     [ch]E5[/ch]           [ch]A5[/ch]   [ch]A5[/ch]
+ Al Anashim SheLo Hekarnu[/tab]
+[tab][ch]D5[/ch]       [ch]E5[/ch]          [ch]A5[/ch]   [ch]D5[/ch]
+ Haragnu Betach Kama Be'Taut[/tab]
+[tab][ch]D5[/ch]       [ch]E5[/ch]            [ch]A5[/ch]    [ch]D5[/ch]
+ Yatzati Chai Yacholti Gam LaMut[/tab]
+[tab][ch]D5[/ch]         [ch]E5[/ch]            [ch]A5[/ch]
+ Kolyom Heftzatzti Et Beirut[/tab]
+
+
+[Verse 4]
+[tab][ch]B5[/ch]           [ch]E5[/ch]        [ch]B5[/ch]      [ch]B5[/ch]
+ Achshav Ani Yoshev Po Al HaBar[/tab]
+[tab][ch]E5[/ch]        [ch]F#5[/ch]           [ch]B5[/ch]       [ch]B5[/ch]
+ Ani Lo Kochav Ani Lo Tipus Mukar[/tab]
+[tab][ch]E5[/ch]          [ch]F#5[/ch]      [ch]B5[/ch]      [ch]E5[/ch]
+ Ani Stam Echad SheBeChol Chalom[/tab]
+[tab][ch]E5[/ch]        [ch]F#5[/ch]             [ch]B5[/ch] [ch]E5[/ch]
+ Tzolel Yashar El Toch Ha'Gehenom[/tab]
+
+
+[Outro]
+[tab][ch]E5[/ch]      [ch]F#5[/ch]            [ch]B5[/ch] [ch]B5[/ch]
+ BeLechitza Ktana Gamarnu[/tab]
+[tab][ch]E5[/ch]      [ch]F#5[/ch]         [ch]B5[/ch]   [ch]B5[/ch]
+ Al Anashim SheLo Hekarnu[/tab]
+[tab][ch]E5[/ch]       [ch]F#5[/ch]         [ch]B5[/ch] [ch]E5[/ch]
+ Haragnu Betach Kama Be'Taut[/tab]
+[tab][ch]E5[/ch]       [ch]F#5[/ch]           [ch]B5[/ch]    [ch]E5[/ch]
+ Yatzati Chai Yacholti Gam LaMut[/tab]
+[tab][ch]E5[/ch]       [ch]F#5[/ch]             [ch]B5[/ch]   [ch]E5[/ch]
+ VeLo Hevanti Az SheZo Stam Shtut[/tab]
+[tab][ch]E5[/ch]         [ch]F#5[/ch]           [ch]B5[/ch]  [ch]A5[/ch] [ch]G5[/ch] [ch]F#5[/ch] [ch]B5[/ch]
+ Kolyom Heftzatzti Et Beirut[/tab]

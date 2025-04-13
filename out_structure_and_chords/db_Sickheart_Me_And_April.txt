@@ -1,0 +1,52 @@
+{
+    "intro": [
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "pre-chorus-1": [
+        "Am",
+        "Cmaj7",
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "pre-chorus-2": [
+        "Am",
+        "Cmaj7",
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "chorus-1": [
+        "Am",
+        "Cmaj7",
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7"
+    ],
+    "chorus-2": [
+        "Am",
+        "Cmaj7",
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7",
+        "Am",
+        "Cmaj7",
+        "Fmaj7"
+    ]
+}

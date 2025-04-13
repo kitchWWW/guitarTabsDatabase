@@ -1,0 +1,24 @@
+URL: https://tabs.ultimate-guitar.com/tab/pat-monahan/girlfriend-chords-956232
+Artist: Pat Monahan
+Song: Girlfriend
+Genre: 
+Key: 
+
+
+################################################################################
+
+CAPO 3 (to match acoustic album version; maybe try CAPO 1 or 2 if you can't sing like Pat)
+
+verse = [ch]Am[/ch] (maybe [ch]Am7[/ch]), [ch]G[/ch]*, [ch]F[/ch], [ch]E7[/ch]
+chorus = [ch]C[/ch], [ch]Am[/ch], [ch]F[/ch], [ch]G[/ch]*
+bridge and intro = [ch]Am[/ch] and [ch]Am7[/ch]
+
+where
+
+[tab][ch]G[/ch]* is something like (try on and off first fret, second string)
+-----------|
+-1---------|
+-----------|
+-----------|
+--2--------|
+---3-------|[/tab]

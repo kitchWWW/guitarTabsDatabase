@@ -1,0 +1,47 @@
+{
+    "intro-1": [],
+    "intro-2": [
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Cmaj7",
+        "C",
+        "Cmaj7",
+        "C",
+        "Cmaj7",
+        "C",
+        "Cmaj7",
+        "C",
+        "Fmaj7"
+    ],
+    "outro-1": [
+        "Cmaj7",
+        "C",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Fmaj7"
+    ],
+    "outro-2": [
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Cmaj7"
+    ]
+}

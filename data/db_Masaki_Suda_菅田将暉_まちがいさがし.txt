@@ -1,0 +1,81 @@
+URL: https://tabs.ultimate-guitar.com/tab/4406069
+Artist: Masaki Suda 菅田将暉
+Song: まちがいさがし
+Genre: 
+Key: 
+
+
+[Verse]
+[tab]       [ch]D[/ch]          [ch]G[/ch]        [ch]F#[/ch]        [ch]Bm[/ch]
+Machigai sagashi no machigai no hou ni[/tab]
+[tab]      [ch]G[/ch]          [ch]Bm[/ch]        [ch]Em[/ch]      [ch]A[/ch]
+Umarete kita you na ki de ita kedo[/tab]
+[tab]      [ch]D[/ch]          [ch]G[/ch]     [ch]F#[/ch]       [ch]Bm[/ch]
+Machigai sagashi no seikai no hou ja[/tab]
+[tab]    [ch]Em[/ch]      [ch]A[/ch]      [ch]D[/ch]
+Kitto deaenakatta to omou[/tab]
+
+[Pre-Chorus]
+[tab]       [ch]G[/ch]          [ch]D[/ch]
+Fusawashiku waraiaeru koto[/tab]
+
+Naze darou ka namida ga deru koto
+
+[Chorus]
+[tab]           [ch]Bm[/ch]          [ch]A[/ch]            [ch]G[/ch]         [ch]D[/ch]
+Kimi no me ga tsuranuita boku no mune wo massugu[/tab]
+[tab]          [ch]Bm[/ch]           [ch]A[/ch]                       [ch]D[/ch]
+Sono hi kara nanimo kamo kawarihateta ki ga shita[/tab]
+[tab]           [ch]Bm[/ch]       [ch]F#m[/ch]         [ch]G[/ch]         [ch]D[/ch]
+Kaze ni tobasaresou na fukai haru no sumi de[/tab]
+[tab]             [ch]F#m[/ch]       [ch]G[/ch]      [ch]A[/ch]            [ch]D[/ch]     [ch]A[/ch]
+Taikutsu na kurai ni nanige naku soba ni ite[/tab]
+
+[Verse]
+[tab]       [ch]D[/ch]                [ch]F#m[/ch]        [ch]D[/ch]
+Machigaidarake no sasai na sukima de[/tab]
+[tab]       [ch]G[/ch]           [ch]Bm[/ch]       [ch]Em[/ch]       [ch]A[/ch]
+Kudaranai hanashi wo kutabaru made[/tab]
+[tab]        [ch]D[/ch]      [ch]G[/ch]      [ch]F#[/ch]       [ch]G[/ch]
+Tadashiku aritai arenai samishisa ga[/tab]
+[tab]            [ch]D[/ch]
+Nani wo hagukunda deshou[/tab]
+ 
+[Pre-Chorus]
+[tab]       [ch]G[/ch]        [ch]A[/ch]           [ch]Bm[/ch]
+Hitotsuzutsu sagashiatete ikou[/tab]
+[tab]     [ch]G[/ch]   [ch]D[/ch]        [ch]G[/ch]
+Okigake no kodomo mitai ni[/tab]
+
+[Chorus]
+[tab]           [ch]Bm[/ch]         [ch]A[/ch]           [ch]G[/ch]       [ch]D[/ch]
+Kimi no te ga fureteita yubi wo kasaneawase[/tab]
+[tab]                   [ch]A[/ch]                    [ch]D[/ch]
+Machigai ka seikai ka da nante dou demo yokatta[/tab]
+[tab]         [ch]Bm[/ch]           [ch]F#m[/ch]        [ch]G[/ch]          [ch]D[/ch]
+Matataku ma ni okkochita awai moya no naka de[/tab]
+[tab]      [ch]Em[/ch]          [ch]F#m[/ch]      [ch]G[/ch]       [ch]A[/ch]         [ch]Bm[/ch]
+Kimi janakya ikenai to tada tsuyoku omou dake[/tab]
+
+[tab][ch]G[/ch]  [ch]D[/ch]    [ch]F#m[/ch]  [ch]G[/ch]    [ch]A[/ch]
+[Solo][/tab]
+[tab]           [ch]A[/ch]            [ch]D[/ch]                      [ch]Bm[/ch]
+Kimi no me ga tsuranuita boku no mune wo massugu[/tab]
+[tab]                      [ch]A[/ch]               [ch]D[/ch]
+Sono hi kara nanimo kamo kawarihateta ki ga shita[/tab]
+[tab]          [ch]G[/ch]         [ch]A[/ch]           [ch]G[/ch]         [ch]A[/ch]
+Kaze ni tobasaresou na fukai haru no sumi de[/tab]
+[tab]    [ch]F#m[/ch]        [ch]F#[/ch]    [ch]G[/ch]    [ch]D[/ch]       [ch]G[/ch]
+Dare ni mo misenai kao wo misete[/tab]
+
+[Chorus]
+[tab]           [ch]Bm[/ch]         [ch]A[/ch]           [ch]G[/ch]       [ch]D[/ch]
+Kimi no te ga fureteita yubi wo kasaneawase[/tab]
+[tab]                   [ch]A[/ch]                    [ch]D[/ch]
+Machigai ka seikai ka da nante dou demo yokatta[/tab]
+[tab]         [ch]Bm[/ch]           [ch]F#m[/ch]        [ch]G[/ch]          [ch]D[/ch]
+Matataku ma ni okkochita awai moya no naka de[/tab]
+[tab]      [ch]Em[/ch]          [ch]F#m[/ch]      [ch]G[/ch]       [ch]A[/ch]       [ch]D[/ch]
+Kimi janakya ikenai to tada tsuyoku omou dake[/tab]
+
+[ch]G[/ch]  [ch]D[/ch]  [ch]A[/ch]  [ch]G[/ch]

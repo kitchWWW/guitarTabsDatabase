@@ -1,0 +1,59 @@
+{
+    "intro": [
+        "Bb"
+    ],
+    "verse": [
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb/G",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb/G",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb"
+    ],
+    "bridge": [
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb/G",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb/G",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb"
+    ],
+    "outro": [
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb"
+    ]
+}

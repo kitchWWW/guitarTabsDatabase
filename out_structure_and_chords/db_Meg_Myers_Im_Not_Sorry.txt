@@ -1,0 +1,46 @@
+{
+    "verse": [
+        "C",
+        "Em",
+        "C",
+        "Em"
+    ],
+    "pre-chorus-1": [
+        "C",
+        "Em",
+        "C",
+        "Em"
+    ],
+    "pre-chorus-2": [
+        "C",
+        "Em",
+        "C",
+        "Em"
+    ],
+    "chorus-1": [
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em"
+    ],
+    "chorus-2": [
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em"
+    ],
+    "outro": [
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em"
+    ]
+}

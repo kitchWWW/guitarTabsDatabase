@@ -1,0 +1,28 @@
+{
+    "intro": [
+        "Abmaj7",
+        "Fm"
+    ],
+    "verse-1": [
+        "Abmaj7",
+        "Fm",
+        "Abmaj7",
+        "Fm",
+        "Bbm",
+        "Cm",
+        "Bbm",
+        "Cm",
+        "Eb7",
+        "Abmaj7",
+        "Db",
+        "Gb",
+        "Eb"
+    ],
+    "verse-2": [],
+    "verse-3": [
+        "Abmaj7",
+        "Fm",
+        "Abmaj7",
+        "Fm"
+    ]
+}

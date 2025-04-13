@@ -1,0 +1,69 @@
+{
+    "verse-1": [
+        "Dm",
+        "C",
+        "F",
+        "Dm",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm"
+    ],
+    "verse-2": [
+        "Dm",
+        "C",
+        "F",
+        "Dm",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm"
+    ],
+    "verse-3": [
+        "Dm",
+        "C",
+        "F",
+        "Dm",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm"
+    ],
+    "verse-4": [
+        "Dm",
+        "C",
+        "F",
+        "Dm",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm"
+    ],
+    "verse-5": [
+        "Dm",
+        "C",
+        "F",
+        "Dm",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm"
+    ],
+    "verse-6": [
+        "Dm",
+        "C",
+        "F",
+        "Dm",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Dm",
+        "Dm"
+    ]
+}

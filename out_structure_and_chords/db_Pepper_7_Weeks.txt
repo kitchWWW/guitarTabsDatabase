@@ -1,0 +1,7 @@
+{
+    "pre-chorus-1": [],
+    "pre-chorus-2": [],
+    "chorus-1": [],
+    "chorus-2": [],
+    "verse": []
+}

@@ -1,0 +1,35 @@
+{
+    "intro": [
+        "Gbmaj7",
+        "Dbmaj7"
+    ],
+    "verse": [
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7"
+    ],
+    "chorus": [
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Bb",
+        "Ebm7",
+        "Ab7",
+        "Dbmaj7"
+    ],
+    "outro": [
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gb7",
+        "Ab7",
+        "Db"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "bridge-1": [
+        "Fm",
+        "B",
+        "D",
+        "E"
+    ],
+    "bridge-2": [],
+    "bridge-3": [],
+    "bridge-4": [],
+    "verse-1": [],
+    "verse-2": [],
+    "chorus": []
+}

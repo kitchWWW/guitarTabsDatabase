@@ -1,0 +1,62 @@
+{
+    "intro": [
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7"
+    ],
+    "verse-1": [
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7",
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7",
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7"
+    ],
+    "verse-2": [
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7",
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7"
+    ],
+    "chorus-1": [
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7",
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7"
+    ],
+    "chorus-2": [
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7",
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7"
+    ],
+    "outro": [
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7",
+        "Eadd9",
+        "Eadd9",
+        "Amaj7",
+        "Amaj7"
+    ]
+}

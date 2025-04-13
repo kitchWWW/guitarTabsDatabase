@@ -1,0 +1,103 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-bluetones/big-problem-chords-343075
+Artist: The Bluetones
+Song: Big Problem
+Genre: 
+Key: 
+
+
+Artist :    The Bluetones
+Song   :    Big Problem
+Album  :    ...Luxembourg
+
+Tabbed :    Jefferson Humber (Jordan Humber for the riff & fine polish)
+Date   :    13-MAR-2006
+Tuning :    EADGBe
+ 
+Notes  :    Technically Em's should be played instead of Emaj, but I think Emaj sounds
+better when I play it on my accoustic guitar.  I suspect on the record an E5 is in fact
+played.
+
+Riff
+----
+
+There's a shift in the bass note at the beginning of each line, so it could be tabbed as;
+
+[tab]e -------------------------
+B -------------------------
+G -4---4-------------------
+D -4---4-----4---4---------
+A -2-0-2-----4---4---------
+E -----------2-0-2---------[/tab]
+
+
+Verse 1
+-------
+[tab][ch]Bm[/ch]      
+I got a tiger in the tank[/tab]
+[tab][ch]F#7[/ch]
+I got money in the bank[/tab]
+[tab][ch]E[/ch]
+And I’ve got just myself to thank yeah[/tab]
+[tab][ch]G[/ch]              [ch]F#7[/ch]
+Not what you’d call a crime[/tab]
+[tab][ch]Bm[/ch]
+I got aces in the hole[/tab]
+[tab][ch]F#7[/ch]
+I got the colours on my pole[/tab]
+[tab][ch]E[/ch]
+But there’s an echo in my soul yeah[/tab]
+[tab][ch]G[/ch]            [ch]F#7[/ch]
+Rings louder all the time[/tab]
+[tab][ch]G[/ch]
+Cos I hit the runway[/tab]
+[tab][ch]D[/ch]                          [ch]F#7[/ch]
+With such momentum I can’t stop[/tab]
+
+
+Verse 2
+-------
+[tab][ch]Bm[/ch]
+I’m never dirty in the fight[/tab]
+[tab][ch]F#7[/ch]
+I never step into the light[/tab]
+[tab][ch]E[/ch]
+I’m never anything but right yeah[/tab]
+[tab][ch]G[/ch]             [ch]F#7[/ch]
+Cos I’m never anything[/tab]
+[tab][ch]Bm[/ch]
+You thought to meet me more than most[/tab]
+[tab][ch]F#7[/ch]
+But I was really just a ghost[/tab]
+[tab][ch]E[/ch]
+And we were never even close no[/tab]
+[tab][ch]G[/ch]            [ch]F#7[/ch]
+Till we were enemies[/tab]
+[tab][ch]G[/ch]
+I hit the runway[/tab]
+[tab][ch]D[/ch]                          [ch]F#7[/ch]
+With such momentum I can’t stop[/tab]
+
+
+Chorus
+------
+[tab][ch]Bm[/ch]
+A big problem to avoid[/tab]
+[tab][ch]D[/ch]
+A big problem to address[/tab]
+[tab][ch]E[/ch]
+Now that we’ve all[/tab]
+[tab][ch]G[/ch]           [ch]F#7[/ch]    
+Gone out to regress again[/tab]
+[tab][ch]Bm[/ch]
+A big problem to avoid[/tab]
+[tab][ch]D[/ch]
+A big problem to resolve[/tab]
+[tab][ch]E[/ch]                  [ch]G[/ch]      [ch]F#7[/ch]  
+Now to regress, so now to evolve again [/tab]
+
+Solo
+----
+
+[ch]Bm[/ch], [ch]F#7[/ch], [ch]E[/ch], [ch]G[/ch], [ch]F#7[/ch],[ch]Bm[/ch], [ch]G[/ch], [ch]Bm[/ch], [ch]G[/ch], [ch]Bm[/ch], [ch]G[/ch], [ch]E[/ch], [ch]G[/ch], [ch]F#7[/ch]
+
+Repeat Chorus, end on Bm.

@@ -1,0 +1,77 @@
+{
+    "intro": [
+        "Em",
+        "D",
+        "C",
+        "Am"
+    ],
+    "verse-1": [
+        "Em",
+        "D",
+        "C",
+        "Em",
+        "Em",
+        "D",
+        "C",
+        "Am"
+    ],
+    "verse-2": [
+        "Em",
+        "D",
+        "C",
+        "Am"
+    ],
+    "pre-chorus-1": [
+        "C",
+        "Am",
+        "C",
+        "D"
+    ],
+    "pre-chorus-2": [
+        "C",
+        "Am",
+        "C",
+        "D"
+    ],
+    "chorus-1": [
+        "Em",
+        "D",
+        "C",
+        "Am",
+        "Em",
+        "D",
+        "C",
+        "Am",
+        "Em",
+        "Em",
+        "D",
+        "C",
+        "Am"
+    ],
+    "chorus-2": [
+        "Em",
+        "D",
+        "C",
+        "Am",
+        "Em",
+        "D",
+        "C",
+        "Am",
+        "C"
+    ],
+    "chorus-3": [
+        "Em",
+        "C",
+        "C",
+        "Am",
+        "Em",
+        "D",
+        "C",
+        "Am"
+    ],
+    "bridge": [
+        "D",
+        "Am",
+        "C"
+    ]
+}

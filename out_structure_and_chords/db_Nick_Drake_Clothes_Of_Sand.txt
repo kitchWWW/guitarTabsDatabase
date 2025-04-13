@@ -1,0 +1,31 @@
+{
+    "chorus-1": [
+        "Ebmaj7",
+        "F",
+        "Gsus2",
+        "Ebmaj7",
+        "Dsus2",
+        "Ebmaj7",
+        "F",
+        "Gsus2",
+        "Gsus2",
+        "F",
+        "Gsus2",
+        "E",
+        "Ebmaj7",
+        "Dsus2",
+        "Gsus2",
+        "F",
+        "Gsus2"
+    ],
+    "chorus-2": [
+        "Gsus2",
+        "F",
+        "Ebmaj7",
+        "Dsus2",
+        "Gsus2",
+        "F",
+        "Gsus2",
+        "E"
+    ]
+}

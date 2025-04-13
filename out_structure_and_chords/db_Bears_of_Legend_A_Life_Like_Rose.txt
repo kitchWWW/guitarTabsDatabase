@@ -1,0 +1,83 @@
+{
+    "intro": [
+        "Dm9",
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9",
+        "Am",
+        "Em"
+    ],
+    "verse-1": [
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9"
+    ],
+    "verse-2": [
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9"
+    ],
+    "chorus-1": [
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "E"
+    ],
+    "chorus-2": [
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "E"
+    ],
+    "bridge-1": [
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9",
+        "Am",
+        "Em"
+    ],
+    "bridge-2": [
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9",
+        "Cm",
+        "Am",
+        "Cm",
+        "Am",
+        "Cm",
+        "Am",
+        "E"
+    ],
+    "bridge-3": [
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9",
+        "Am",
+        "Em",
+        "Dm9",
+        "A"
+    ]
+}

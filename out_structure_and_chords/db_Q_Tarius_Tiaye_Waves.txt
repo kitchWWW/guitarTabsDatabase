@@ -1,0 +1,82 @@
+{
+    "intro": [
+        "Am",
+        "G",
+        "Cadd9"
+    ],
+    "bridge": [
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "G"
+    ],
+    "chorus-1": [
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9"
+    ],
+    "chorus-2": [
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9"
+    ],
+    "chorus-3": [
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9"
+    ],
+    "verse": [
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9",
+        "Am",
+        "G",
+        "Cadd9"
+    ],
+    "outro": []
+}

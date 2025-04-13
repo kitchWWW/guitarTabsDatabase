@@ -1,0 +1,98 @@
+URL: https://tabs.ultimate-guitar.com/tab/vistlip/jack-chords-1723459
+Artist: vistlip
+Song: Jack
+Genre: 
+Key: 
+
+
+[tab]   [ch]A#m[/ch] [ch]C#[/ch]  [ch]D#[/ch]  [ch]E[/ch]   [ch]Fm[/ch]  [ch]F#[/ch]  [ch]G#[/ch]
+e|-1---4---6---0---1---2---4-|
+B|-2---6---8---0---1---2---4-|
+G|-3---6---8---1---1---3---5-|
+D|-3---6---8---2---3---4---6-|
+A|-1---4---6---2---3---4---6-|
+E|-x---x---x---0---1---2---4-|[/tab]
+
+[Intro]
+[ch]F#[/ch]   [ch]G#[/ch]   [ch]Fm[/ch]   [ch]A#m[/ch] [ch]C#[/ch]
+[ch]D#[/ch]   [ch]G#[/ch]   [ch]F#[/ch] 
+
+
+[Verse 1]
+[tab]   [ch]Fm[/ch]             [ch]A#m[/ch]        [ch]D#[/ch]
+ Kura kura saseru taiyou ya[/tab]
+[tab][ch]F#[/ch] [ch]Fm[/ch]            [ch]A#m[/ch]     [ch]C#[/ch]
+ San-geki wo kuramasete[/tab]
+[tab][ch]F#[/ch] [ch]Fm[/ch]             [ch]A#m[/ch]   [ch]C#[/ch]    [ch]F#[/ch]
+ Hanare takute mo hanarerarenai[/tab]
+[tab]   [ch]G#[/ch]
+ Zanzou to nare[/tab]
+
+
+[Chorus]
+[tab][ch]E[/ch]              [ch]F#[/ch]      [ch]G#[/ch]           [ch]D#[/ch]
+ Itami wake de enjou uchi ji ni kakugo[/tab]
+[tab]       [ch]C#[/ch]       [ch]D#[/ch]          [ch]E[/ch]           [ch]F#[/ch]
+ Doushite doushite anata wa naite iru n dai ? [/tab]
+
+
+[Verse 2]
+[tab]        [ch]F#[/ch]        [ch]G#[/ch]       [ch]Fm[/ch]         [ch]A#m[/ch]
+ Kiri sutete ageru chi no ame wo furasezu ni[/tab]
+[tab] [ch]C#[/ch]    [ch]F#[/ch]       [ch]G#[/ch]        [ch]Fm[/ch]      [ch]A#m[/ch]
+ Surudoi wa oto de kokoro wo haneru[/tab]
+[tab] [ch]C#[/ch]    [ch]F#[/ch]       [ch]G#[/ch]        [ch]Fm[/ch]        [ch]A#m[/ch]  [ch]C#[/ch]
+ Jikai wa kanarazu iki no ne tomete miseru[/tab]
+[tab] [ch]F#[/ch]       [ch]G#[/ch]
+ Ah, todoite[/tab]
+
+
+[Verse 3]
+[tab][ch]F#[/ch] [ch]Fm[/ch]             [ch]A#m[/ch]     [ch]C#[/ch]
+ Tenjou kara naku oni ya[/tab]
+[tab][ch]F#[/ch] [ch]Fm[/ch]              [ch]A#m[/ch]        [ch]C#[/ch]
+ Semi shigure ni fusagu nara[/tab]
+[tab][ch]F#[/ch] [ch]Fm[/ch]             [ch]A#m[/ch]   [ch]C#[/ch]    [ch]F#[/ch]
+ Hanare takute mo hanarerarenai[/tab]
+[tab]   [ch]G#[/ch]             [ch]A#m[/ch] [ch]C#[/ch]
+ Zankyou to nari ikitai[/tab]
+[ch]F#[/ch]   [ch]G#[/ch]   [ch]Fm[/ch]   [ch]A#m[/ch] [ch]C#[/ch]
+
+
+[Bridge]
+[tab]       [ch]F#[/ch]            [ch]G#[/ch]
+ Kitto nagashita namida no kazu[/tab]
+[tab]   [ch]Fm[/ch]     [ch]A#m[/ch]    [ch]C#[/ch]    [ch]D#[/ch]       [ch]G#[/ch]
+ Dokoroka mada sukoshi mo sukui wa (sukui wa) nai[/tab]
+[ch]F#[/ch]   [ch]G#[/ch]   [ch]Fm[/ch]   [ch]A#m[/ch] [ch]C#[/ch]
+[ch]F#[/ch]   [ch]G#[/ch]   [ch]Fm[/ch]   [ch]A#m[/ch] [ch]C#[/ch]
+
+[Chorus]
+[tab][ch]F#[/ch]             [ch]C#[/ch]       [ch]G#[/ch]        [ch]A#m[/ch] 
+ Itami wake de enjou gyokusai kakugo[/tab]
+[tab]       [ch]D#[/ch]       [ch]C#[/ch]          [ch]F#[/ch]       [ch]G#[/ch]
+ Doushite doushite anata wa iko ni konai[/tab]
+
+
+[tab]        [ch]F#[/ch]        [ch]G#[/ch]       [ch]Fm[/ch]          [ch]A#m[/ch]
+ Kiri sutete ageru chi no ame ga agaru toki[/tab]
+[tab] [ch]C#[/ch]    [ch]F#[/ch]       [ch]G#[/ch]        [ch]Fm[/ch]      [ch]A#m[/ch]
+ Surudoi wa oto wo kokoro ga nedaru[/tab]
+[tab] [ch]C#[/ch]    [ch]F#[/ch]       [ch]G#[/ch]        [ch]Fm[/ch]           [ch]A#m[/ch]  [ch]C#[/ch]
+ Jikai wa kanarazu iki no ne wo tomete miseru[/tab]
+[tab] [ch]F#[/ch]       [ch]G#[/ch]
+ Ah, todoite[/tab]
+
+
+[tab]        [ch]F#[/ch]        [ch]G#[/ch]       [ch]Fm[/ch]           [ch]A#m[/ch]
+ Kiri sutete ageru chi no ame ga tsukuridasu[/tab]
+[tab] [ch]C#[/ch]     [ch]F#[/ch]       [ch]G#[/ch]     [ch]Fm[/ch]       [ch]A#m[/ch] [ch]C#[/ch]
+ Mizu tamari no ue arigatou no kisu[/tab]
+[tab]       [ch]F#[/ch]          [ch]G#[/ch]        [ch]Fm[/ch]          [ch]A#m[/ch]  [ch]C#[/ch]
+ Kitto sai shuukai made ni sukui dashite miseru[/tab]
+[tab] [ch]F#[/ch]       [ch]G#[/ch]     [ch]F#[/ch]   [ch]G#[/ch]   [ch]Fm[/ch]   [ch]A#m[/ch] [ch]C#[/ch]
+ Ah, todoite hoshii[/tab]
+[tab]       [ch]F#[/ch]   [ch]G#[/ch]   [ch]Fm[/ch]   [ch]A#m[/ch] [ch]C#[/ch]
+ Anata ni[/tab]
+[tab]     [ch]F#[/ch]   [ch]G#[/ch]   [ch]Fm[/ch]   [ch]A#m[/ch] [ch]C#[/ch]
+ Aitai[/tab]

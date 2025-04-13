@@ -1,0 +1,87 @@
+{
+    "intro-1": [
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2"
+    ],
+    "intro-2": [
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2"
+    ],
+    "verse-1": [
+        "A",
+        "Dmaj7sus2",
+        "A",
+        "Dmaj7sus2",
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2"
+    ],
+    "verse-2": [
+        "A",
+        "Dmaj7sus2",
+        "A",
+        "Dmaj7sus2",
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2"
+    ],
+    "verse-3": [
+        "A",
+        "Dmaj7sus2",
+        "A",
+        "Dmaj7sus2",
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2"
+    ],
+    "chorus-1": [
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "A",
+        "Dmaj7sus2"
+    ],
+    "chorus-2": [
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2"
+    ],
+    "outro": [
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2",
+        "A",
+        "A",
+        "Dmaj7sus2",
+        "Dmaj7sus2"
+    ]
+}

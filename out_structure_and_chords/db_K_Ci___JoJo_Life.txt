@@ -1,0 +1,86 @@
+{
+    "intro": [
+        "Em",
+        "Bm7",
+        "Am",
+        "Em"
+    ],
+    "verse-1": [
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2",
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2",
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2"
+    ],
+    "verse-2": [
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2",
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2",
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2"
+    ],
+    "verse-3": [
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2",
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2"
+    ],
+    "chorus-1": [
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2"
+    ],
+    "chorus-2": [
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2"
+    ],
+    "chorus-3": [
+        "Am",
+        "Bm7",
+        "Em",
+        "Dsus2",
+        "Em",
+        "Dsus2"
+    ]
+}

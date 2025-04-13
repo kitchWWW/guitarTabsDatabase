@@ -1,0 +1,52 @@
+{
+    "intro": [
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9"
+    ],
+    "verse-1": [
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9",
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9",
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9",
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9",
+        "Fm",
+        "Cm",
+        "Ab",
+        "Bb"
+    ],
+    "verse-2": [
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9",
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9",
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9",
+        "Fm",
+        "Cm",
+        "Abadd9",
+        "Bbadd9",
+        "Fm",
+        "Cm",
+        "Ab",
+        "Bb"
+    ]
+}

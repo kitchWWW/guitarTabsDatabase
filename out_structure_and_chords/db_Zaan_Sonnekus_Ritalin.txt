@@ -1,0 +1,120 @@
+{
+    "intro": [
+        "Emaj7",
+        "Amaj7/C#",
+        "C",
+        "D",
+        "Emaj7",
+        "Amaj7/C#",
+        "C",
+        "D"
+    ],
+    "verse-1": [
+        "Emaj7",
+        "Emaj7",
+        "Amaj7/C#",
+        "C",
+        "D"
+    ],
+    "verse-2": [
+        "Emaj7",
+        "Emaj7",
+        "Amaj7/C#",
+        "C",
+        "D"
+    ],
+    "verse-3": [
+        "Em",
+        "Em",
+        "Amaj7/C#",
+        "C",
+        "D"
+    ],
+    "verse-4": [
+        "Em",
+        "Em",
+        "Amaj7/C#",
+        "C",
+        "D"
+    ],
+    "pre-chorus-1": [
+        "C",
+        "D",
+        "C",
+        "B7"
+    ],
+    "pre-chorus-2": [
+        "C",
+        "D",
+        "C",
+        "B7"
+    ],
+    "chorus-1": [
+        "Em",
+        "D/F#",
+        "G",
+        "C",
+        "B7",
+        "Em",
+        "D/F#",
+        "Am",
+        "G/B",
+        "C",
+        "B7"
+    ],
+    "chorus-2": [
+        "Em",
+        "D/F#",
+        "G",
+        "C",
+        "B7",
+        "Em",
+        "D/F#",
+        "Am",
+        "G/B",
+        "C",
+        "B7"
+    ],
+    "chorus-3": [
+        "Em",
+        "D/F#",
+        "G",
+        "C",
+        "B7",
+        "Em",
+        "D/F#",
+        "Am",
+        "G/B",
+        "C",
+        "B7"
+    ],
+    "bridge-1": [
+        "Am",
+        "B7",
+        "C",
+        "B7",
+        "Am",
+        "B7",
+        "Em",
+        "D",
+        "C",
+        "B7",
+        "Em",
+        "D",
+        "C",
+        "B7"
+    ],
+    "bridge-2": [
+        "Am",
+        "B7",
+        "C",
+        "B7"
+    ],
+    "outro": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7"
+    ]
+}

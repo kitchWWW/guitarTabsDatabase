@@ -1,0 +1,59 @@
+{
+    "intro": [
+        "Bb",
+        "Gm",
+        "Bb",
+        "Gm"
+    ],
+    "chorus-1": [
+        "Bb",
+        "Gm",
+        "Bb",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Eb",
+        "Bb",
+        "Gm",
+        "Bb",
+        "Gm",
+        "Bb"
+    ],
+    "chorus-2": [
+        "Bb",
+        "Gm",
+        "Bb",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Eb",
+        "Bb",
+        "Gm",
+        "Bb"
+    ],
+    "chorus-3": [
+        "Bb",
+        "Gm",
+        "Bb",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Eb",
+        "Bb",
+        "Gm",
+        "Bb"
+    ],
+    "chorus-4": [
+        "Bb",
+        "Gm",
+        "Bb",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Eb",
+        "Bb",
+        "Gm",
+        "Bb"
+    ]
+}

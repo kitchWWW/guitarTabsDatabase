@@ -1,0 +1,50 @@
+{
+    "bridge-1": [
+        "C",
+        "Em",
+        "Am",
+        "G",
+        "C",
+        "Em",
+        "Am",
+        "G"
+    ],
+    "bridge-2": [
+        "Fm",
+        "Bbm",
+        "Fm",
+        "Bbm",
+        "Fm",
+        "Bbm",
+        "Fm",
+        "Bbm"
+    ],
+    "chorus-1": [
+        "C",
+        "Em",
+        "Am",
+        "G",
+        "C",
+        "Em",
+        "Am",
+        "G",
+        "C",
+        "Em",
+        "Am",
+        "G"
+    ],
+    "chorus-2": [
+        "C",
+        "Em",
+        "Am",
+        "G",
+        "C",
+        "Em",
+        "Am",
+        "G",
+        "C",
+        "Em",
+        "Am",
+        "G"
+    ]
+}

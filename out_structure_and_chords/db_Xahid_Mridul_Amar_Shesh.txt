@@ -1,0 +1,92 @@
+{
+    "intro": [
+        "E",
+        "Bsus",
+        "Asus",
+        "E",
+        "Bsus",
+        "Asus"
+    ],
+    "verse-1": [
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus",
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus"
+    ],
+    "verse-2": [
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus",
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus"
+    ],
+    "pre-chorus-1": [
+        "C#m",
+        "B",
+        "A",
+        "B",
+        "C#m",
+        "B",
+        "A",
+        "B"
+    ],
+    "pre-chorus-2": [
+        "C#m",
+        "B",
+        "A",
+        "B",
+        "C#m",
+        "B",
+        "A",
+        "B"
+    ],
+    "chorus-1": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B",
+        "E"
+    ],
+    "chorus-2": [
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus",
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus",
+        "E",
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus",
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus",
+        "E"
+    ],
+    "bridge": [
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus",
+        "E",
+        "Bsus",
+        "Asus",
+        "Bsus",
+        "E"
+    ]
+}

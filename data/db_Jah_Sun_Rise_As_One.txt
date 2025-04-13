@@ -1,0 +1,48 @@
+URL: https://tabs.ultimate-guitar.com/tab/jah-sun/rise-as-one-bass-3530036
+Artist: Jah Sun
+Song: Rise As One
+Genre: 
+Key: A
+
+
+-----------------------------------------------------------------
+     Rise as One - Jah Sun
+-----------------------------------------------------------------
+Tabbed by: botnaysard
+Email: botnaysard@protonmail.com
+
+Tuning: Standard 5-String Bass BEADG
+
+This is a pretty straight forward groove that's fun to play.  
+
+There are three main parts: a main riff that's steady through most of the song, an alternate riff that marks
+the end of a four measure section, but it isn't consistently applied, and a four measure section of one hits 
+on the root.  
+
+There's a tiny section where the bass drops out around 2:56, but it's easy to navigate once you have a feel 
+for the song.  
+
+
+Main Riff [Chorus] [Verse](played throughout)
+
+[tab]G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|----5-----5-----5--3--------3----------------------------------|
+B|----------------------5--3-------------------------------------|[/tab]
+
+Alternate Riff [Chorus] [Verse] (played at the end of four measure sections intermittently)
+
+[tab]G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|-------------------3--5--5--3----------------------------------|
+E|----5-----5-----5----------------------------------------------|
+B|---------------------------------------------------------------|[/tab]
+
+Single note hits [Intro] (played in one four measure section from ~14s to 24s at the start of the song) 
+
+[tab]G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|-------------------------------------------------------5---3---|
+E|----5------------5------------5-------------5------------------|
+B|---------------------------------------------------------------|[/tab]

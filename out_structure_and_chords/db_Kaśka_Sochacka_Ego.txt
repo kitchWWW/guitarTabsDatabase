@@ -1,0 +1,21 @@
+{
+    "outro": [
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D",
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D",
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D",
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D",
+        "Cmaj7"
+    ]
+}

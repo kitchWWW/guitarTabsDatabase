@@ -1,0 +1,97 @@
+{
+    "intro": [
+        "F",
+        "Bbsus2/F"
+    ],
+    "verse-1": [
+        "F",
+        "Dm7",
+        "Bbsus2",
+        "C"
+    ],
+    "verse-2": [
+        "F",
+        "Dm7",
+        "Bbsus2",
+        "C"
+    ],
+    "verse-3": [
+        "F",
+        "Dm",
+        "Bbsus2",
+        "C"
+    ],
+    "chorus-1": [
+        "Bbsus2",
+        "F",
+        "Bbsus2",
+        "F",
+        "Bbsus2",
+        "F",
+        "Dm",
+        "C",
+        "Bbsus2",
+        "F",
+        "Bb",
+        "F",
+        "Bbsus2",
+        "C",
+        "F",
+        "Bbsus2/F",
+        "F",
+        "Bbsus2/F"
+    ],
+    "chorus-2": [
+        "Bbsus2",
+        "F",
+        "Bbsus2",
+        "F",
+        "Bbsus2",
+        "F",
+        "Dm",
+        "C",
+        "Bbsus2",
+        "F",
+        "Bb",
+        "F",
+        "Bbsus2",
+        "C",
+        "F",
+        "Bbsus2/F",
+        "F",
+        "Bbsus2/F"
+    ],
+    "chorus-3": [
+        "Bbsus2",
+        "F",
+        "Bbsus2",
+        "F",
+        "Dm",
+        "C",
+        "Bbsus2",
+        "F",
+        "Bb",
+        "F",
+        "Bbsus2",
+        "C",
+        "Dm",
+        "Bbsus2",
+        "C",
+        "F"
+    ],
+    "bridge": [
+        "Dm7",
+        "Bbsus2",
+        "Am",
+        "C",
+        "Dm7",
+        "Bbsus2",
+        "F",
+        "C"
+    ],
+    "outro": [
+        "F",
+        "Bbsus2/F",
+        "F"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "intro": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "G",
+        "Ab",
+        "F",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+    ]
+}

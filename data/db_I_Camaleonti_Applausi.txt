@@ -1,0 +1,48 @@
+URL: https://tabs.ultimate-guitar.com/tab/i-camaleonti/applausi-chords-64329
+Artist: I Camaleonti
+Song: Applausi
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+# by Maurizio Codogno (mau@beatles.cselt.stet.it)
+{title: Applausi}
+{subtitle: Camaleonti}
+
+[[ch]A[/ch]] [[ch]A7[/ch]] [[ch]D[/ch]] [[ch]F[/ch]]    [[ch]A[/ch]] [[ch]A7[/ch]] [[ch]D[/ch]] [[ch]F[/ch]]   [[ch]Am[/ch]] [[ch]Em[/ch]] [[ch]Am[/ch]] [[ch]Em[/ch]]
+
+Ap[Am]plausi di gente intorno a [Em]me
+Ap[Am]plausi, tu sola non ci [Em]sei
+Ma [Am]dove sei? Chiss? dove sei [Em]tu...
+(canta an[Am]cora, canta an[G]cora...) perch? cantare?
+([Am]canta, canta an[G]cora...)
+cantare, ma per[[ch]A[/ch]]ch?, [[ch]A7[/ch]]se l'[ch]A[/ch][[ch]D[/ch]]more non [ch]C[/ch]'[[ch]F[/ch]]??[[ch]A[/ch]] [[ch]A7[/ch]] [[ch]D[/ch]] [[ch]F[/ch]]
+[[ch]Am[/ch]] [[ch]Em[/ch]] [[ch]Am[/ch]] [[ch]Em[/ch]]
+
+Applausi, oceano di mani,
+ma le tue mani non le vedr? mai pi?.
+Ho un vuoto in gola, la voce mia sei tu...
+(canta ancora, canta ancora...) perch? cantare?
+(canta, canta ancora...)
+cantare, ma perch?, se l'amore non c'??
+[[ch]A[/ch]]
+
+{soc}
+L'[F]uomo non [E7]?,
+[Am]non ? un robot senz'[G]anima.
+[C]Io per [E7]te son [Am]stato come un disco
+che si ascolta e poi si getta via...
+{eoc}
+
+Applausi di gente intorno a me
+Applausi, tu sola non ci sei
+Ma dove sei? Chiss? dove sei tu...
+(canta ancora, canta ancora...) perch? cantare?
+(canta, canta ancora...)
+cantare, ma perch?, se l'amore non c'??
+
+{c: ad libitum}

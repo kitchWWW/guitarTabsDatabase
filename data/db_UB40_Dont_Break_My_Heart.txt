@@ -1,0 +1,156 @@
+URL: https://tabs.ultimate-guitar.com/tab/ub40/dont-break-my-heart-chords-1059470
+Artist: UB40
+Song: Dont Break My Heart
+Genre: 
+Key: 
+
+
+---------------------------------------------------------------------------
+                Don't Break My Heart - UB40
+---------------------------------------------------------------------------
+
+Released in 1985
+
+Tabbed by: maguri
+Tuning: Standard
+
+The song is in G and the hypnotic bass line runs through the whole song.
+I suggest putting on a capo (3rd fret) and play E, but also added chord 
+voicings for the original key of G (very comfortable: Open G6 tuning: 
+tune down the A string to G).
+
+[tab]Basic riff 
+  [G]                               [F7/G]
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|------------5---|------------5---|------------5---|--------5-------|
+A|--------3-5-----|--------3-5-----|--------3-5-----|----3-5-----5---|
+E|3-------------3-|----------------|3-------------3-|----------------|[/tab]
+
+[tab]Basic riff (Capo 3rd fret) 
+  [E]                               [D7/E]
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|------------2---|------------2---|------------2---|--------2-------|
+A|--------0-2-----|--------0-2-----|--------0-2-----|----0-2-----2---|
+E|0-------------0-|----------------|0-------------0-|----------------|[/tab]
+
+---------------------------------------------------------------------------
+
+CHORDS
+
+Tuning:    standard             standard       Open G6
+Transpose: -                    +3             +3
+Capo:      3rd fret             -              -
+Play:      E                    G              G
+Key:       G                    G              G
+
+[tab]           E-A-D-G-B-e          E-A-D-G-B-e    E-G-D-G-B-e
+E          0-2-2-1-0-0    G     3-x-0-0-0-3    x-0-0-0-0-3
+D7/E       0-2-x-2-1-2    F7/G  3-x-1-2-1-1    x-0-1-2-1-3 (= Cm6/G)
+Am/E       0-2-x-2-1-0    Cm/G  3-x-5-5-4-3    x-0-1-0-1-3
+D/E        0-2-2-2-3-2    F/G   3-x-3-2-1-1    x-0-3-2-1-1
+A/E        0-x-2-2-2-0    C/G   3-x-2-0-1-0    x-0-2-0-1-0[/tab]
+
+---------------------------------------------------------------------------
+
+[Intro]
+| [ch]E[/ch] | % | [ch]D7/E[/ch] | % |
+
+[Verse 1]
+[tab]    [ch]E[/ch]
+You shoot me down in flames, you put me down a lot[/tab]
+[tab]    [ch]D7/E[/ch]
+I'm giving you my heart, go on take it[/tab]
+[tab]          [ch]E[/ch]
+Please be careful not to break it[/tab]
+[tab]       [ch]D7/E[/ch]                          [ch]Am/E[/ch]
+Just remember it's the only one I've got[/tab]
+[tab]         [ch]Am/E[/ch]         [ [ch]E[/ch] ]
+It's the only one I've got[/tab]
+
+[Chorus]
+[tab][ch]E[/ch]           
+Don't break my heart[/tab]
+[tab][ch]D7/E[/ch]                  [ch]Am/E[/ch]
+Don't break my heart[/tab]
+[tab][ch]E[/ch]
+Don't break my heart[/tab]
+
+[Verse 2]
+[tab]    [ch]D7/E[/ch]
+You make me laugh a lot and buy me silly things[/tab]
+[tab]    [ch]E[/ch]
+I'd rather be with you than anyone else[/tab]
+[tab]    [ch]D7/E[/ch]                    [ch]Am/E[/ch]
+But if you make me mad, but if you make me mad[/tab]
+[tab]       [ch]E[/ch]
+You'll wish that you had not, you'll wish that you had not[/tab]
+
+[Chorus]
+[tab][ch]D7/E[/ch]                 [ch]Am/E[/ch]
+Don't break my heart [/tab]
+[tab][ch]E[/ch]
+Don't break my heart [/tab]
+[tab][ch]D7/E[/ch]                 [ch]Am/E[/ch]
+Don't break my heart [/tab]
+[tab][ch]E[/ch]
+Don't break my heart [/tab]
+
+[Middle 8]
+[tab][ch]D/E[/ch]                   [ch]A/E[/ch]
+  Where are the roses   and whispered sighs[/tab]
+[tab][ch]E[/ch]
+  Where are the compliments and dreaming eyes[/tab]
+[tab][ch]D7/E[/ch]                         [ch]Am/E[/ch]
+  It doesn't matter you see,    I know you love me;[/tab]
+[tab]     [ch]E[/ch]                          [ch]D7/E[/ch]   [ch]Am/E[/ch]
+Real basic love never dies              oooh[/tab]
+
+[Chorus]
+[tab][ch]E[/ch]           
+Don't break my heart[/tab]
+[tab][ch]D7/E[/ch]                  [ch]Am/E[/ch]
+Don't break my heart[/tab]
+[tab][ch]E[/ch]
+Don't break my heart[/tab]
+
+[Middle 8] variation
+[tab][ch]D/E[/ch]                   [ch]A/E[/ch]
+  Where are the roses   and whispered sighs[/tab]
+[Don't break my heart]
+[tab][ch]E[/ch]
+  Where are the compliments and dreaming eyes[/tab]
+[Don't break my heart]
+[tab][ch]D7/E[/ch]                         [ch]Am/E[/ch]
+  It doesn't matter you see,    I know you love me;[/tab]
+[tab]     [ch]E[/ch]                         
+Real basic love never dies  [/tab]
+
+[Chorus]
+[tab][ch]D7/E[/ch]                 [ch]Am/E[/ch]
+Don't break my heart [/tab]
+[tab][ch]E[/ch]
+Don't break my heart [/tab]
+[tab][ch]D7/E[/ch]                 [ch]Am/E[/ch]
+Don't break my heart [/tab]
+[tab][ch]E[/ch]
+Don't break my heart [/tab]
+[tab][ch]D7/E[/ch]                 [ch]Am/E[/ch]
+Don't break my heart [/tab]
+[tab][ch]E[/ch]
+Don't break my heart [/tab]
+[tab][ch]D7/E[/ch]                 [ch]Am/E[/ch]
+Don't break my heart [/tab]
+[tab][ch]E[/ch]
+Don't break my heart [/tab]
+
+
+[Outro]
+| [ch]D/E[/ch] | [ch]A/E[/ch] | [ch]E[/ch] | % |
+| [ch]D/E[/ch] | [ch]A/E[/ch] | [ch]E[/ch] | % |
+| [ch]D7/E[/ch] | [ch]Am/E[/ch] | [ch]E[/ch] | % |
+
+(repeat and fade)

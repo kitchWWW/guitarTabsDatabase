@@ -1,0 +1,132 @@
+URL: https://tabs.ultimate-guitar.com/tab/3990358
+Artist: RSC
+Song: Życie To Teatr
+Genre: 
+Key: Dm
+
+
+[Chords]
+Bbmaj7b5  X 1 X 2 3 0
+C6add9    X 3 X 2 3 0
+C/E       0 X X 0 1 0
+Bb/D      X X 0 3 3 1
+F/C       X 3 X 2 1 1
+F/A       X 0 X 2 1 1
+C11       X 3 3 3 3 3
+
+
+
+
+
+
+
+[tab][Intro]
+  [ch]Dsus2[/ch]           [ch]Bbmaj7b5[/ch]         [ch]C6add9[/ch]         [ch]Dsus2[/ch]
+e|-------0--------------0--------|-------0--------------0--------|
+B|-----3------3-------3------3---|-----3------3-------3------3---|
+G|---2------2---2---2------2---2-|---2------2---2---2------2---2-|  x2
+D|-0-----------------------------|----------------0--------------|
+A|----------------1--------------|-3-----------------------------|
+E|-------------------------------|-------------------------------|[/tab]
+
+[Verse 1]
+[tab] [ch]Dsus2[/ch]        [ch]Bbmaj7b5[/ch]      [ch]C6add9[/ch]    [ch]Dsus2[/ch]
+Kolejny raz w teatrze tym zmieniano dekoracje,[/tab]
+[tab]   [ch]Dsus2[/ch]           [ch]Bbmaj7b5[/ch]      [ch]C6add9[/ch]       [ch]Dsus2[/ch]
+Na pustej scenie w świetle ramp zakryto stare tło,[/tab]
+[tab] [ch]Dsus2[/ch]         [ch]Bbmaj7b5[/ch]     [ch]C6add9[/ch]    [ch]Dsus2[/ch]
+Zastąpi dramat farsa znów, komedia i owacje,[/tab]
+[tab] [ch]Dsus2[/ch]       [ch]Bbmaj7b5[/ch] [ch]C6add9[/ch]         [ch]Dsus2[/ch]
+Odbije sufit brawa i  wybrzmi głośny śmiech,[/tab]
+
+[tab][Interlude]
+  [ch]Dsus2[/ch]           [ch]Bbmaj7b5[/ch]         [ch]C6add9[/ch]         [ch]Dsus2[/ch]
+e|-------0--------------0--------|-------0--------------0--------|
+B|-----3------3-------3------3---|-----3------3-------3------3---|
+G|---2------2---2---2------2---2-|---2------2---2---2------2---2-|  x2
+D|-0-----------------------------|----------------0--------------|
+A|----------------1--------------|-3-----------------------------|
+E|-------------------------------|-------------------------------|[/tab]
+
+[Verse 2]
+[tab] [ch]Dsus2[/ch]        [ch]Bbmaj7b5[/ch]      [ch]C6add9[/ch]    [ch]Dsus2[/ch]
+Na stare maski z dawnych sztuk aktorzy włożą nowe,[/tab]
+[tab] [ch]Dsus2[/ch]        [ch]Bbmaj7b5[/ch]      [ch]C6add9[/ch]    [ch]Dsus2[/ch]
+Z tragedii nie zostanie nic, jak choćby sztuczne łzy[/tab]
+[tab] [ch]Dsus2[/ch]        [ch]Bbmaj7b5[/ch]      [ch]C6add9[/ch]    [ch]Dsus2[/ch]
+Tak wciąż się zmienia teatr ten i który z widzów powie[/tab]
+[tab] [ch]Dsus2[/ch]        [ch]Bbmaj7b5[/ch]      [ch]C6add9[/ch]    [ch]Dsus2[/ch]
+Jak można w jednej sztuce grać na pozór kilka ról[/tab]
+
+[Chorus]
+[tab][ch]F[/ch]         [ch]C/E[/ch]          [ch]Bb/D[/ch]             [ch]F/C[/ch]   [ch]Gm[/ch] [ch]F/A[/ch]
+ Życie to teatr, gdzie los włada każdym aktem[/tab]
+[tab]      [ch]Bb[/ch]             [ch]F/A[/ch]
+Gdzie kwestie kończy czasem śmierć[/tab]
+[tab]      [ch]Gm7[/ch]            [ch]C11[/ch]
+Gdzie błazen kocha i drwi[/tab]
+[tab][ch]F[/ch]         [ch]C/E[/ch]          [ch]Bb/D[/ch]         [ch]F/C[/ch]   [ch]Gm[/ch] [ch]F/A[/ch]
+ Życie to teatr, gdzie puentę piszę czas[/tab]
+[tab]      [ch]Bb[/ch]               [ch]F/A[/ch]
+Gdzie sen się miesza z jawą[/tab]
+[tab]      [ch]Gm7[/ch]             [ch]C11[/ch]
+Gdzie wciąż się czeka braw[/tab]
+
+[tab][Interlude]
+  [ch]Dsus2[/ch]           [ch]Bbmaj7b5[/ch]         [ch]C6add9[/ch]         [ch]Dsus2[/ch]
+e|-------0--------------0--------|-------0--------------0--------|
+B|-----3------3-------3------3---|-----3------3-------3------3---|
+G|---2------2---2---2------2---2-|---2------2---2---2------2---2-|  x2
+D|-0-----------------------------|----------------0--------------|
+A|----------------1--------------|-3-----------------------------|
+E|-------------------------------|-------------------------------|[/tab]
+
+[Verse 3]
+[tab] [ch]Dsus2[/ch]        [ch]Bbmaj7b5[/ch]      [ch]C6add9[/ch]    [ch]Dsus2[/ch]
+Kolejny raz w teatrze tym zmieniano dekoracje,[/tab]
+[tab]   [ch]Dsus2[/ch]           [ch]Bbmaj7b5[/ch]      [ch]C6add9[/ch]       [ch]Dsus2[/ch]
+Na pustej scenie w świetle ramp zakryto stare tło,[/tab]
+[tab] [ch]Dsus2[/ch]         [ch]Bbmaj7b5[/ch]     [ch]C6add9[/ch]    [ch]Dsus2[/ch]
+Zastąpi dramat farsa znów, komedia i owacje,[/tab]
+[tab] [ch]Dsus2[/ch]       [ch]Bbmaj7b5[/ch] [ch]C6add9[/ch]         [ch]Dsus2[/ch]
+Odbije sufit brawa i  wybrzmi głośny śmiech[/tab]
+
+[Chorus]
+[tab][ch]F[/ch]         [ch]C/E[/ch]          [ch]Bb/D[/ch]             [ch]F/C[/ch]   [ch]Gm[/ch] [ch]F/A[/ch]
+ Życie to teatr, gdzie los włada każdym aktem[/tab]
+[tab]      [ch]Bb[/ch]             [ch]F/A[/ch]
+Gdzie kwestie kończy czasem śmierć[/tab]
+[tab]      [ch]Gm7[/ch]            [ch]C11[/ch]
+Gdzie błazen kocha i drwi[/tab]
+[tab][ch]F[/ch]         [ch]C/E[/ch]          [ch]Bb/D[/ch]         [ch]F/C[/ch]   [ch]Gm[/ch] [ch]F/A[/ch]
+ Życie to teatr, gdzie puentę piszę czas[/tab]
+[tab]      [ch]Bb[/ch]               [ch]F/A[/ch]
+Gdzie sen się miesza z jawą[/tab]
+[tab]      [ch]Gm7[/ch]             [ch]C11[/ch]
+Gdzie wciąż się czeka braw[/tab]
+
+[Solo]
+[ch]F[/ch] [ch]C/E[/ch] [ch]Bb/D[/ch] [ch]F/C[/ch] [ch]Gm[/ch] [ch]F/A[/ch] [ch]Bb[/ch] [ch]F/A[/ch] [ch]Gm7[/ch] [ch]C11[/ch]  x2
+
+[Chorus]
+[tab][ch]F[/ch]         [ch]C/E[/ch]          [ch]Bb/D[/ch]             [ch]F/C[/ch]   [ch]Gm[/ch] [ch]F/A[/ch]
+ Życie to teatr, gdzie los włada każdym aktem[/tab]
+[tab]      [ch]Bb[/ch]             [ch]F/A[/ch]
+Gdzie kwestie kończy czasem śmierć[/tab]
+[tab]      [ch]Gm7[/ch]            [ch]C11[/ch]
+Gdzie błazen kocha i drwi[/tab]
+[tab][ch]F[/ch]         [ch]C/E[/ch]          [ch]Bb/D[/ch]         [ch]F/C[/ch]   [ch]Gm[/ch] [ch]F/A[/ch]
+ Życie to teatr, gdzie puentę piszę czas[/tab]
+[tab]      [ch]Bb[/ch]               [ch]F/A[/ch]
+Gdzie sen się miesza z jawą[/tab]
+[tab]      [ch]Gm7[/ch]             [ch]C11[/ch]
+Gdzie wciąż się czeka braw[/tab]
+
+[tab][Outro]
+  [ch]Dsus2[/ch]           [ch]Bbmaj7b5[/ch]         [ch]C6add9[/ch]         [ch]Dsus2[/ch]
+e|-------0--------------0--------|-------0----------------0---|
+B|-----3------3-------3------3---|-----3------3---------3-----|
+G|---2------2---2---2------2---2-|---2------2---2-----2-------|
+D|-0-----------------------------|----------------0-0---------|
+A|----------------1--------------|-3--------------------------|
+E|-------------------------------|----------------------------|[/tab]

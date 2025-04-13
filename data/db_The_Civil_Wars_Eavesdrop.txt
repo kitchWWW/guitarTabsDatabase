@@ -1,0 +1,86 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-civil-wars/eavesdrop-chords-1410116
+Artist: The Civil Wars
+Song: Eavesdrop
+Genre: 
+Key: 
+
+
+The first verse starts out with just the first two strings before 
+picking up at the chorus. Thus the chords are:
+
+[ch]C#m/E[/ch]: 04xxxx
+[ch]A[/ch]:     54xxxx
+[ch]E[/ch]:     02xxxx
+[ch]E/G#[/ch]:  42xxxx
+[ch]B[/ch]:     799xxx
+
+The last part of the song is also tricky and I'm not sure exactly how to
+voice it but this is what I came up with:
+
+[ch]E[/ch]:          022100
+[ch]Eaug[/ch]:       03211x
+[ch]Amaj7/E[/ch]:    002124
+[ch]B[/ch](add13)/[ch]E[/ch]: 024444
+
+Please free to leave any comments or suggestions for what might work better.
+Thanks.
+
+
+[Verse]
+[tab]  [ch]C#m/E[/ch]          [ch]A[/ch]          [ch]E[/ch]   [ch]E/G#[/ch]
+I don't want to talk right now[/tab]
+[tab]  [ch]C#m/E[/ch]           [ch]A[/ch]      [ch]E[/ch]     [ch]E/G#[/ch]
+I just want your arms wrapped around[/tab]
+[tab][ch]C#m/E[/ch]       [ch]A[/ch]        [ch]E[/ch]       [ch]B[/ch]
+Me in this moment before it runs out[/tab]
+
+[tab][ch]C#m[/ch]
+Oh don't say that it's over[/tab]
+[tab][ch]A[/ch]
+Oh no say it ain't so[/tab]
+
+
+[Chorus]
+[tab][ch]F#m[/ch]            [ch]C#m[/ch]          [ch]B[/ch]        [ch]F#m[/ch]
+Let's let the stars watch, let them stare[/tab]
+[tab]              [ch]C#m[/ch]       [ch]B[/ch]       [ch]F#m[/ch]
+Let the wind eavesdrop, I don't care[/tab]
+[tab]              [ch]C#m[/ch]        [ch]B[/ch]         [ch]A[/ch]
+For all that we've got, don't let go[/tab]
+[tab]               [ch]E[/ch]     [ch]B[/ch]   [ch]A[/ch] [ch]B[/ch]  [ch]E[/ch]   [ch]B[/ch]  [ch]A[/ch]
+Just hold me[/tab]
+
+
+[Verse]
+[tab]  [ch]C#m[/ch]              [ch]A[/ch]         [ch]E[/ch]   [ch]B[/ch]
+I can't pull you closer than this[/tab]
+[tab]         [ch]C#m[/ch]           [ch]A[/ch]      [ch]E[/ch]   [ch]B[/ch]
+It's just you and the moon on my skin[/tab]
+[tab]   [ch]C#m[/ch]         [ch]A[/ch]     [ch]E[/ch]   [ch]B[/ch]
+Oh who says it ever has to end[/tab]
+
+[tab][ch]C#m[/ch]
+Oh don't say that it's over[/tab]
+[tab][ch]A[/ch]
+Oh no say it ain't so[/tab]
+
+
+[Chorus]
+[tab][ch]F#m[/ch]            [ch]C#m[/ch]          [ch]B[/ch]        [ch]F#m[/ch]
+Let's let the stars watch, let them stare[/tab]
+[tab]              [ch]C#m[/ch]       [ch]B[/ch]       [ch]F#m[/ch]
+Let the wind eavesdrop, I don't care[/tab]
+[tab]              [ch]C#m[/ch]        [ch]B[/ch]         [ch]A[/ch]
+For all that we've got, don't let go[/tab]
+
+[tab][ch]F#m[/ch]            [ch]C#m[/ch]         [ch]B[/ch]          [ch]A[/ch]
+Let's let the stars watch, let them stare[/tab]
+[tab]              [ch]B[/ch]                 [ch]C#m[/ch]
+Let the wind eavesdrop, I don't care[/tab]
+[tab][ch]G#m[/ch]            [ch]E[/ch]        [ch]F#m[/ch]        [ch]A[/ch]
+For all that we've got, don't let go[/tab]
+[tab]                         [ch]E[/ch]  [ch]Eaug[/ch]  [ch]Amaj7/E[/ch]  [ch]B[/ch](add13)/[ch]E[/ch]
+Just hold, just hold me[/tab]
+
+[tab]     [ch]E[/ch]  [ch]Eaug[/ch]  [ch]Amaj7/E[/ch]  [ch]B[/ch](add13)/[ch]E[/ch]
+Just hold        me                 3x[/tab]

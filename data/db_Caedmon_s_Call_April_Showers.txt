@@ -1,0 +1,104 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/april-showers-tabs-338027
+Artist: Caedmon's Call
+Song: April Showers
+Genre: 
+Key: 
+
+
+===============================                  =========================
+April Showers---Caedmon's Call-------------------Transfered by Asa Gaston
+===============================                  =========================
+
+Clean Guitar
+------------
+
+[tab]Intro:
+--2--2--2h3--2--2h3--3--3----------------2--2--2h3--2--2h3--3--3------------|
+--3------------------3--3----------------3------------------3--3------------|
+--2------------------0--0---------0------2------------------0--0------------|
+--0------------------2--2--0h2p0---------0------------------2--0--0h2p0-----|
+---------------------3--3-----------------------------------3--2---------0--|
+---------------------------------------------------------------3------------|[/tab]
+
+(Play twice)
+
+Verse 1:
+--------
+D      Cadd9  D      Cadd9  G
+D      Cadd9  D      Cadd9  G
+D      Cadd9  D      Cadd9  G
+D      Cadd9  D
+Cadd9  G
+
+Cadd9  G  Cadd9 G  D
+
+Chorus:
+-------
+G      D
+Cadd9  Cadd9
+G      D
+Cadd9  Cadd9
+
+Solo:
+-----
+
+[tab]-10-------------------------------10-10-12-12h14-14h15-14-12----------------|
+-10----------------13-12-------10----------------------------12-12-12p10----|
+-11-11-11h12-11-11-------12-12-------------------------------12-12-12p11-11-|
+-12----------------------------------------------------------------------12-|
+----------------------------------------------------------------------------|
+----------------------------------------------------------------------------|[/tab]
+
+[tab]------------------------- ---0----3--3-|
+-7-7--------------------- -3---3--3--3-|
+-7-7--7---7-------------- --------0--0-|  Back into Verse...
+------7h9-7--5-4\2-0h2-0- --------0--0-|
+------------------------- --------2--2-|
+------------------------- --------3--3-|[/tab]
+
+I tried to break it up into sections where you can hear a "pause".  listen to
+the cd, you'll see what i mean.
+
+NOTE on Solo: 2 things about this.  1st, it is my interpretation, so the
+fingerings might be different than Derek's, but it sounds the exact same,
+i checked several times.  2nd, i play solo guitar, so i have added come
+chord inversions where usually cliff would play, to fill it out.  so
+sometimes there is _more_ here than on the CD.  as always, mail me if you
+are lost.
+
+Verse 2: (Same as Verse 1)
+--------
+
+Cadd9 G  D  (This time the Cadd9 G after verse is played only once)
+
+Chorus (See above)
+
+(Intro Lick is played ONCE)
+
+Bridge:
+-------
+Em    Am7
+Em    Am7
+Em    Am7
+Em    D     Barre-D (10th fret)
+
+Chorus
+
+Chorus
+
+Outro:
+------
+Pick through D-Cadd9-G slowly (ritard)
+
+------------------
+Chord Signatures:
+------------------
+
+[tab]E|-3---3---2----0-----0------10---|
+B|-3---3---3----0-----1------10---|
+G|-0---0---2----0-----0------11---|
+D|-0---2---0----2-----2------12---|
+A|-2---3---x----2-----0------12---|
+e|-3---x---x----0-----x------10---|[/tab]
+
+G Cadd9 D   Em    Am7  Barre-D (10th fret)

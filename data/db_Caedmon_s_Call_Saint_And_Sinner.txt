@@ -1,0 +1,52 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/saint-and-sinner-chords-341302
+Artist: Caedmon's Call
+Song: Saint And Sinner
+Genre: 
+Key: 
+
+
+==================================               =========================
+Saint And Sinner---Caedmon's Call----------------Transfered by Asa Gaston
+==================================               =========================
+
+[tab]Capo 4
+   [ch]A[/ch] [ch]A2[/ch] [ch]B2[/ch] [ch]D[/ch] [ch]D2[/ch] [ch]A7[/ch] [ch]Am7[/ch] [ch]G[/ch] [ch]E[/ch]
+E -0--0--0-2--0-0---3--3-0-
+A -2--3--5-3--3-3---1--3-0-
+D -2--4--6-2--2-0---0--0-1-
+G -2--2--4-0--0-2---2--0-2-
+B -0--0--0-X--X-0---0--0-2-
+E -X--X--X-X--X-X---X--3-0-[/tab]
+
+Intro
+The main riff is easy, you start on that A2, slide up to B2, slide back to
+A2, then just hammer off and on between the A and the A2 for fill. Listen to
+the song and you'll get it quick.
+
+V1:
+[ch]A[/ch]      [ch]D[/ch]      [ch]A[/ch]
+[ch]D[/ch]      [ch]A[/ch]
+[ch]A7[/ch]     [ch]D2[/ch]
+[ch]A7[/ch]     [ch]A[/ch]
+
+CHORUS:
+[ch]D[/ch]      [ch]G[/ch]      [ch]D[/ch]
+[ch]A[/ch]
+[ch]D[/ch]      [ch]G[/ch]      [ch]D[/ch]
+[ch]A7[/ch]     [ch]A[/ch]
+
+V2:
+
+CHORUS
+
+BRIDGE:
+[ch]E[/ch]
+[ch]D[/ch]      [ch]A[/ch]
+[ch]E[/ch]
+[ch]D[/ch]      [ch]E[/ch]
+
+[play main riff through a few times]
+
+CHORUS
+
+Outro (same as intro)

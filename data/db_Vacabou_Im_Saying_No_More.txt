@@ -1,0 +1,138 @@
+URL: https://tabs.ultimate-guitar.com/tab/vacabou/im-saying-no-more-chords-3862259
+Artist: Vacabou
+Song: Im Saying No More
+Genre: 
+Key: Db
+
+
+https://youtu.be/W6_CymJq_zA
+Album: “Alfalfa & Beta” 2012
+Composer: Joan Feliu (Vacabou)
+Lyrics: Joan Feliu and Pascale Saravelli
+Cabrera és meva
+Capo 1
+*    : 2 beats
+|    : 1 beat & stop or let ring  until next chord
+| Bm |  : 1 measure Bm
+
+Possible chords:
+[ch]Bsus2[/ch] : x24422  [ch]B7[/ch] : x24242   [ch]Bmaj7[/ch] : x24342   [ch]Bm[/ch]   : x24432
+[ch]B[/ch]     : xxx442  [ch]F[/ch]  : 133211   [ch]Fmaj7[/ch] : x33210
+[ch]E[/ch]     : 022100  [ch]E7[/ch] : 020100   [ch]Emaj7[/ch] : 021100   [ch]Em[/ch] : 022000  [ch]Esus4[/ch] : 022200  [ch]Emmaj7[/ch] : 021000
+[ch]Csus2[/ch] : x30013  [ch]C[/ch]  : x32013   [ch]Cmaj7[/ch] : x32003   [ch]C7[/ch] : x32310
+[ch]Gm[/ch]    : 244222                [ch]Gmaj7[/ch] : 320002
+[ch]Dm/G[/ch] : 3x0231   [ch]Dm[/ch] : xx0231   [ch]Dsus2[/ch] : xx0230   [ch]Dsus2/G[/ch] : 3x0230
+
+
+[Intro]
+| [ch]Bm[/ch] | [ch]Bm[/ch] | [ch]C[/ch] | [ch]C[/ch] |
+| [ch]Bm[/ch] | [ch]Bm[/ch] | [ch]C[/ch] | [ch]C[/ch] |
+| [ch]Bm[/ch] | [ch]Bm[/ch] | [ch]C[/ch] | [ch]C[/ch] |
+
+
+[Verse 1]
+[tab]   [ch]Gm[/ch]
+I love you,[/tab]
+[tab][ch]C[/ch]               [ch]Gm[/ch]     [ch]C[/ch]
+  I wait for my moon[/tab]
+[tab][ch]Fmaj7[/ch]                [ch]Am[/ch]
+   Snapshots of your grin[/tab]
+[tab]             [ch]E7[/ch]     [ch]E[/ch]     [ch]C[/ch]
+As I veil my doom[/tab]
+[tab]      [ch]Gm[/ch]
+But I love you[/tab]
+[tab][ch]C[/ch]               [ch]Gm[/ch]
+  I love you so much[/tab]
+[tab][ch]Fmaj7[/ch]             [ch]Am[/ch]
+   From our old embrace[/tab]
+[tab]               [ch]E7[/ch]      [ch]E[/ch]
+To your lovely face[/tab]
+
+
+[Chorus]
+[tab][ch]Bm[/ch]                              [ch]Bm[/ch]
+Climbing down the stairway that day[/tab]
+[tab]           [ch]C[/ch]      [ch]Csus2[/ch]
+I saw  the voi-ce[/tab]
+[tab][ch]Bm[/ch]                       [ch]Bm[/ch]
+Then I gave up without a fight[/tab]
+[tab]                  [ch]C[/ch]     [ch]Csus2[/ch]
+When I heard  the light[/tab]
+
+
+[Bridge]
+[tab][ch]Esus4[/ch]* [ch]Cmaj7[/ch]* [ch]Em[/ch]
+Here   I      stand   out of the blue[/tab]
+
+[tab]  [ch]Dsus2[/ch] [ch]Dm[/ch]       [ch]Dm/G[/ch]  [ch]Dsus2/G[/ch]  [ch]Dsus2[/ch] [ch]Dm[/ch]       [ch]Dm/G[/ch]   [ch]Dsus2/G[/ch]    [ch]C[/ch] 
+e|--------------|--------------|--------------|-----------------|----------------|
+B|--------------|--------------|--------------|-----------------|----------------|
+G|-3/---8-8-----|--------------|-3--3/8-8-----|-----------------|----------------|
+D|-----------10>|----10-b10----|-----------10>|-----10-11/13----|----------------|
+A|--------------|--------------|--------------|--------------11>|----4--6--3---3>|
+E|--------------|--------------|--------------|-----------------|------------6---|
+                                                                   (All this time we)[/tab]
+[tab][ch]C[/ch]*               [ch]Em[/ch]
+All this time we was-te[/tab]
+[tab]                 [ch]B7[/ch]     [ch]Bmaj7[/ch]  [ch]Cmaj7[/ch]
+All this mess we fa-ce[/tab]
+
+
+[Verse 3]
+[tab]      [ch]Gmaj7[/ch]
+But I love you[/tab]
+[tab][ch]Cmaj7[/ch]           [ch]Gmaj7[/ch]
+  I love you so much[/tab]
+[tab][ch]Cmaj7[/ch]             [ch]Emmaj7[/ch]
+   From our old embrace[/tab]
+[tab]              [ch]Bmaj7[/ch]   [ch]Bmaj7[/ch]|
+To your fuzzy face          (What is the voice?)[/tab]
+
+
+
+[Chorus]
+[tab][ch]Bm[/ch]                              [ch]Bm[/ch]
+Climbing down the stairway that day[/tab]
+[tab]           [ch]C[/ch]      [ch]Csus2[/ch]
+I saw  the voi-ce[/tab]
+[tab][ch]Bm[/ch]                       [ch]Bm[/ch]
+Then I gave up without a fight[/tab]
+[tab]                  [ch]C[/ch]     [ch]Csus2[/ch]
+When I heard  the light[/tab]
+
+
+[Post-Chorus]
+[tab][ch]Bm[/ch]                            [ch]Bm[/ch]
+Dreaming about the end of the World,[/tab]
+[tab]         [ch]C[/ch]    [ch]F[/ch]
+Is it   ok?[/tab]
+
+
+[Bridge]
+[tab][ch]Esus4[/ch]*  [ch]Cmaj7[/ch]*  [ch]Em[/ch]
+Brush   my      nape,[/tab]
+[tab]          [ch]Bsus2[/ch]    [ch]B[/ch]
+Give me a kiss[/tab]
+[tab][ch]Esus4[/ch]*  [ch]Cmaj7[/ch]* [ch]Em[/ch]
+Lift    my     feet[/tab]
+[tab]          [ch]Bsus2[/ch]    [ch]B[/ch]|
+Give me a kiss[/tab]
+
+
+[Outro]
+[tab][ch]Bm[/ch]    [ch]Bm[/ch]        [ch]C[/ch]    [ch]Csus2[/ch]
+         Is it ok?[/tab]
+[tab][ch]Bm[/ch]                              [ch]Bm[/ch]
+Climbing down the stairway that day[/tab]
+[tab]           [ch]C[/ch]      [ch]Csus2[/ch]
+I saw  the voi-ce[/tab]
+[tab][ch]Bm[/ch]                       [ch]Bm[/ch]
+Then I gave up without a fight[/tab]
+[tab]            [ch]C[/ch]      [ch]Csus2[/ch]    [ch]Gm[/ch]
+I heard the light[/tab]
+[tab][ch]C7[/ch]               [ch]Gm7[/ch]
+   I’m saying no more[/tab]
+[tab][ch]C7[/ch]               [ch]Gm7[/ch]
+   I’m saying no more[/tab]
+[tab][ch]C7[/ch]               [ch]Gm7[/ch]    [ch]C7[/ch]    [ch]C[/ch]
+   I’m saying no more[/tab]

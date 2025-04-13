@@ -1,0 +1,141 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/jar-of-clay-chords-339559
+Artist: Caedmon's Call
+Song: Jar Of Clay
+Genre: 
+Key: 
+
+
+=============================                    =========================
+Jar Of Clay---Caedmon's Call---------------------Transfered by Asa Gaston
+=============================                    =========================
+
+Intro:
+  [ch]Em[/ch]  [ch]G[/ch]  [ch]Asus2[/ch]  [ch]C[/ch]
+  [ch]Em[/ch]  [ch]G[/ch]  [ch]Asus2[/ch]  [ch]C[/ch]
+
+*NOTE: many of you are going "What!", because this intro is just chords,
+and obviously the recorded version is all picking.  Have no fear; the tab
+is here: :)
+   
+[tab]  -----0----------3----------0----------0------
+  -------0----------3----------0----------1----
+  -----------0----------0----------0--------0--
+  ---------------------------------------------
+  ------------------------0----------3---------
+  --0----------3-------------------------------[/tab]
+ 
+  ---- Em ---- ---- G --- - Asus2 -- --- C ----
+ 
+  This entire sequence is repeated over and over... the key is to be 
+  *very* clean; it is easy to pick a string and accidently mute it.
+  Practice, practice, practice!
+
+Verse:
+  *NOTE: The chords are not played here; they are picked, exactly as
+    in the intro.  Use the same pattern and be consistent; it will help.*
+  
+[ch]Em[/ch]     [ch]G[/ch]
+[ch]Asus2[/ch]  [ch]C[/ch]
+[ch]Em[/ch]     [ch]G[/ch]
+[ch]Asus2[/ch]  [ch]C[/ch]
+
+   *NOTE: At this point, the chords are somewhat strummed.  Pick the bass
+      note, then strum the 1st, 2nd, and 3rd strings (the 3 high ones).
+      You will pick this up on the record, listen to it.*
+
+[ch]Em[/ch]     [ch]G[/ch]
+[ch]Asus2[/ch]  [ch]C[/ch] 
+[ch]Em[/ch]     [ch]G[/ch]
+[ch]Asus2[/ch]  [ch]C[/ch]
+
+  *Strum C here for 2 measures*
+
+Chorus:
+[ch]G[/ch]      [ch]G[/ch]
+[ch]Em[/ch]     [ch]C[/ch]      [ch]D[/ch] 
+[ch]G[/ch]      [ch]G[/ch]
+[ch]Em[/ch]     [ch]C[/ch]      [ch]D[/ch]
+
+[tab]Bridge:
+[ch]C[/ch]  
+C-up  (See tab at bottom for this chord)[/tab]
+[ch]C[/ch]
+[ch]C[/ch]-up
+
+Chorus (Same as above)
+
+(Solo)  *NOTE: Over the solo, just play the same intro pick pattern.*
+
+Verse (Same as above)
+        *NOTE: This time, the verse stays the same, but pick the chords
+           throughout, instead of changing to strumming the second half.
+           This will make sense when you listen to the record.*
+
+Chorus
+
+Bridge
+
+Chorus
+
+Chorus
+
+Bridge
+    
+[ch]C[/ch]
+[ch]C[/ch]-up
+
+-----------------------------
+
+[tab]I know I kept repeating "Bridge" and "Chorus", but the song is the same
+3 parts over and over, the main Em-G-Asus2-C thing, the chorus of
+G-Em-C-D twice, and the C-'C-up' thing over the bridge.  That's it![/tab]
+
+Derek's part over the verse is almost impossible to get in one sitting,
+so we have yet to totally tab it out.  His solo will also come later, as
+more people want the chords to the entire CD than the solo to one song.
+I'll get to work on that stuff soon, though, I promise!  But, if you do
+have a second guitarist, adding his part over the chorus will really add
+to the song.  Here it is:
+
+Chorus:
+[ch]G[/ch]      [ch]G[/ch]
+[ch]Em[/ch]*    [ch]C[/ch]*     [ch]D[/ch]* 
+[ch]G[/ch]      [ch]G[/ch]
+[ch]Em[/ch]*    [ch]C[/ch]*     [ch]D[/ch]*
+
+His chords are all different forms of Cliff's, and are listed below.  All
+the changes are at the same time.  Again (yup, I know you are sick of 
+reading this!) it is very clear if you play over the record.
+
+------------------
+Chord Signatures:
+------------------
+Cliff: 
+
+[tab]E|-3---0---2---0----0--
+B|-3---1---3---0----3--
+G|-0---0---2---0----0--
+D|-0---2---0---2----4--
+A|-2---3---x---2----5--
+e|-3--(3)--x---0---(5)-[/tab]
+
+[tab]   [ch]G[/ch]   [ch]C[/ch]   [ch]D[/ch]   [ch]Em[/ch]  [ch]C[/ch]-up
+                     ^[/tab]
+                     You should note this is simply sliding the entire
+                         C chord up a whole tone (2 frets), leaving the
+                         open strings open.  (Thus my name, C-up.  It
+                         is really like a harmonic D or something)
+--------------------
+Derek: 
+
+[tab]E|-3---8---10---7--
+B|-3---8---10---8--
+G|-0---0----0---0--
+D|-0---0----0---x--
+A|-2---7----9---7--
+e|-3---8---10---0--[/tab]
+
+[tab]   [ch]G[/ch]   [ch]C[/ch]*  [ch]D[/ch]*  [ch]Em[/ch]*
+                ^[/tab]
+                You should let you finger holding the 5th string drag,
+                    muting out the 4th string.  Try it, it isn't too hard.

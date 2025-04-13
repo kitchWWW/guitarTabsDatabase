@@ -1,0 +1,214 @@
+URL: https://tabs.ultimate-guitar.com/tab/portland/hallelujah-chords-4733864
+Artist: Portland
+Song: Hallelujah
+Genre: 
+Key: F
+
+
+Note: Specific is that when playing the C chord the Cmaj7 is played by lifting the finger off the first 
+       fret B string (ie you play x32000) . This is also done when playing the Am chord. You play 
+       a Asus2 (ie x02200)
+
+
+Capo: 5 fret
+
+        Different capo fret positions are easily possible by using the transpose button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example To play this without capo put the transpose button at +5
+                  Half step down tuning put the transpose button at +6
+
+       Capo positie aanpassingen zijn gemakkelijk te maken door de Transpose knop te gebruiken.
+          Transpose -1 is capo een fret hoger; Transpose knop +1 is capo een fret lager.
+          De akkoorden worden automatisch aangepast aan de nieuwe capo positie.
+          Let wel bij gebruik van de transpose functie kunnen de akkoorden iets op de regel
+             verschuiven omwille van de lengte van de akkoord namen.
+          Bv Spelen zonder capo? Zet de transpose knop dan op +5.
+
+
+[Intro]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Am[/ch]
+
+
+[tab][Intro]
+        [ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch] [ch]C[/ch] [ch]Cmaj7[/ch] [ch]Am[/ch]
+e|------0-0------0-0------0-0-----0-0---|
+B|------1p0------1p0------1p0-----1-1---|
+G|------0-0------2-2------0-0-----2-2---|
+D|------2-2------2-2------2-2-----2-2---|
+A|--0-2-3-3--0-0-0-0------3-3-----------|
+E|--------------------------------------|[/tab]
+
+
+[Verse 1]
+[tab]         [ch]C[/ch]            [ch]Cmaj7[/ch]  [ch]Am[/ch]         [ch]Asus2[/ch]
+Now I've heard there was  a  secret chord,[/tab]
+[tab]     [ch]C[/ch]                   [ch]Am[/ch]
+That David played and it pleased the Lord,[/tab]
+[tab]    [ch]F[/ch]                [ch]G[/ch]               [ch]C[/ch]   [ch]Cmaj7[/ch]  [ch]G[/ch]
+But you don't really care for music, do ya?[/tab]
+[tab]   [ch]C[/ch]                   [ch]F[/ch]           [ch]G[/ch]
+It goes like this, the fourth, the fifth,[/tab]
+[tab]    [ch]Am[/ch]        [ch]Asus2[/ch] [ch]F[/ch]
+The minor fall, the major lift,[/tab]
+[tab]    [ch]G[/ch]               [ch]Em[/ch]           [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+The baffled king composing "Hallelujah".[/tab]
+
+
+[Chorus]
+[tab]     [ch]F[/ch]           [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+Hallelujah, Hallelujah,[/tab]
+[tab]     [ch]F[/ch]            [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]   [ch]C[/ch]
+Hallelujah, Hallelu-------uu--jah.[/tab]
+
+
+[Interlude]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Am[/ch]
+
+
+[Verse 2]
+[tab]     [ch]C[/ch]                         [ch]Am[/ch]         [ch]Asus2[/ch]
+Your faith was strong, but you needed proof,[/tab]
+[tab]    [ch]C[/ch]               [ch]Am[/ch]          [ch]Asus2[/ch]
+You saw her bathing on the roof,[/tab]
+[tab]    [ch]F[/ch]             [ch]G[/ch]             [ch]C[/ch]      [ch]Cmaj7[/ch] [ch]G[/ch]
+Her beauty in the moonlight overthrew you,[/tab]
+[tab]        [ch]C[/ch]             [ch]F[/ch]       [ch]G[/ch]
+And she tied you to a kitchen chair,[/tab]
+[tab]    [ch]Am[/ch]             [ch]Asus2[/ch]      [ch]F[/ch]
+She broke your throne and she cut your hair,[/tab]
+[tab]    [ch]G[/ch]                  [ch]Em[/ch]            [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+And from your lips she drew the Hallelujah.[/tab]
+
+
+[Chorus]
+[tab]     [ch]F[/ch]           [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+Hallelujah, Hallelujah,[/tab]
+[tab]     [ch]F[/ch]            [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]   [ch]C[/ch]
+Hallelujah, Hallelu-------uu--jah.[/tab]
+
+
+[Interlude]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Am[/ch]
+
+
+[Verse 3]
+[tab][ch]C[/ch]               [ch]Am[/ch]
+Baby, I've been here before,[/tab]
+[tab]     [ch]C[/ch]                    [ch]Am[/ch]
+I’ve seen this room and I walked this floor,[/tab]
+[tab]  [ch]F[/ch]             [ch]G[/ch]             [ch]C[/ch]      [ch]Cmaj7[/ch] [ch]G[/ch]
+I used to live alone before I knew you,[/tab]
+[tab]         [ch]C[/ch]                     [ch]F[/ch]      [ch]G[/ch]
+And I've seen your flag on the marble arch,[/tab]
+[tab]    [ch]Am[/ch]            [ch]F[/ch]
+And love is not a victory march,[/tab]
+[tab]       [ch]G[/ch]               [ch]Em[/ch]            [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+It's a cold and it's a broken Hallelujah.[/tab]
+
+
+[Chorus]
+[tab]     [ch]F[/ch]           [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+Hallelujah, Hallelujah,[/tab]
+[tab]     [ch]F[/ch]            [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]   [ch]C[/ch]
+Hallelujah, Hallelu-------uu--jah.[/tab]
+
+
+[Interlude]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Am[/ch]
+
+
+[Verse 4]
+[tab]     [ch]C[/ch]                         [ch]Am[/ch]         [ch]Asus2[/ch]
+You say I took the name in vain[/tab]
+[tab]    [ch]C[/ch]               [ch]Am[/ch]          [ch]Asus2[/ch]
+I don't even know the name[/tab]
+[tab]    [ch]F[/ch]             [ch]G[/ch]             [ch]C[/ch]      [ch]Cmaj7[/ch] [ch]G[/ch]
+But if I did, well, really, what's it to ya?[/tab]
+[tab]        [ch]C[/ch]             [ch]F[/ch]       [ch]G[/ch]
+There's a blaze of light in every word[/tab]
+[tab]    [ch]Am[/ch]             [ch]Asus2[/ch]      [ch]F[/ch]
+It doesn't matter which you heard[/tab]
+[tab]    [ch]G[/ch]                  [ch]Em[/ch]            [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+The holy or the broken Hallelujah[/tab]
+
+
+[Chorus]
+[tab]     [ch]F[/ch]           [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+Hallelujah, Hallelujah,[/tab]
+[tab]     [ch]F[/ch]            [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]   [ch]C[/ch]
+Hallelujah, Hallelu-------uu--jah.[/tab]
+
+
+[Interlude]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Am[/ch]
+
+
+[Verse 5]
+[tab]    [ch]C[/ch]                         [ch]Am[/ch]
+And there was a time when you let me know,[/tab]
+[tab]       [ch]C[/ch]            [ch]Am[/ch]
+What's really going on below,[/tab]
+[tab]    [ch]F[/ch]             [ch]G[/ch]              [ch]C[/ch]      [ch]Cmaj7[/ch] [ch]G[/ch]
+But now you never show it to me, do you?[/tab]
+[tab]      [ch]C[/ch]             [ch]F[/ch]        [ch]G[/ch]
+And remember when I moved in you,[/tab]
+[tab]    [ch]Am[/ch]      [ch]Asus2[/ch]   [ch]F[/ch]
+The holy dove  was  moving too,[/tab]
+[tab]    [ch]G[/ch]               [ch]Em[/ch]            [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+And every breath we drew was Hallelujah.[/tab]
+
+
+[Chorus]
+[tab]     [ch]F[/ch]           [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+Hallelujah, Hallelujah,[/tab]
+[tab]     [ch]F[/ch]            [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]   [ch]C[/ch]
+Hallelujah, Hallelu-------uu--jah.[/tab]
+
+
+[Interlude]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch]
+[ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Am[/ch]
+[tab][ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch]
+Ooooh . . .[/tab]
+[tab][ch]C[/ch] [ch]Cmaj7[/ch]  [ch]Am[/ch] [ch]Asus2[/ch]
+Ooooh . . .[/tab]
+[tab][ch]F[/ch]  [ch]G[/ch]  [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]
+Ooooh . . .[/tab]
+[tab][ch]C[/ch]   [ch]Cmaj7[/ch]  [ch]Am[/ch]
+Ooooh . . .[/tab]
+[tab][ch]F[/ch]  [ch]G[/ch]  [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]  [ch]G[/ch]
+Ooooh . . .[/tab]
+
+
+[Verse 6]
+[tab]    [ch]C[/ch]           [ch]Cmaj7[/ch]  [ch]Am[/ch]        [ch]Asus2[/ch]
+And maybe there's   a  God above,[/tab]
+[tab]    [ch]C[/ch]          [ch]Am[/ch]                [ch]Asus2[/ch]
+And all I ever learned from love,[/tab]
+[tab]   [ch]F[/ch]                [ch]G[/ch]           [ch]C[/ch]      [ch]Cmaj7[/ch] [ch]G[/ch]
+Is how to shoot somebody who outdrew you,[/tab]
+[tab]         [ch]C[/ch]                  [ch]F[/ch]       [ch]G[/ch]
+And it's not a cry that you hear at night,[/tab]
+[tab]     [ch]Am[/ch]                 [ch]F[/ch]
+It's not somebody who's seen the light,[/tab]
+[tab]       [ch]G[/ch]               [ch]Em[/ch]            [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+It's a cold and it's a broken Hallelujah.[/tab]
+
+
+[outro]
+[tab]     [ch]F[/ch]           [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+Hallelujah, Hallelujah,[/tab]
+[tab]     [ch]F[/ch]            [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]
+Hallelujah, Hallelu-------uu,[/tab]
+[tab]     [ch]F[/ch]           [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Asus2[/ch] [ch]Am[/ch]
+Hallelujah, Hallelujah,[/tab]
+[tab]     [ch]F[/ch]            [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]   [ch]C[/ch]    [ch]Cmaj7[/ch] [ch]C[/ch]
+Hallelujah, Hallelu-------uu--jah.[/tab]

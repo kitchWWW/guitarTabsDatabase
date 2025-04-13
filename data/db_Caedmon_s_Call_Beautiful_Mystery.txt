@@ -1,0 +1,37 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/beautiful-mystery-chords-338032
+Artist: Caedmon's Call
+Song: Beautiful Mystery
+Genre: 
+Key: 
+
+
+===================================              ==========================
+Beautifal Mystery---Caedmon's Call---------------Transfered by Asa Gaston
+===================================              ==========================
+
+Intro and Verses
+[ch]A2[/ch]II    [ch]B2[/ch]II     [ch]G#m[/ch]    [ch]A2[/ch]II    x 3 
+
+[ch]A2[/ch]II    [ch]B2[/ch]II      [ch]E[/ch]
+
+Transition to Chorus
+[ch]F#m[/ch]    [ch]C#m[/ch]     [ch]B[/ch]   
+
+Chorus
+[ch]A2[/ch]I    [ch]B2[/ch]I     [ch]E[/ch]
+
+[ch]A2[/ch]I    [ch]B2[/ch]I    [ch]C#m[/ch]
+
+Bridge
+[ch]A2[/ch]I    [ch]E[/ch]       [ch]F#m[/ch]       [ch]B2[/ch]I
+
+[ch]A2[/ch]I    [ch]E[/ch]       [ch]F#m[/ch]       [ch]B2[/ch]I
+
+[tab]Chords
+    [ch]E[/ch]  [ch]A2[/ch]I   [ch]A2[/ch]II   [ch]B2[/ch]I    [ch]B2[/ch]II    [ch]C#m[/ch]      [ch]F#m[/ch]    [ch]G#m[/ch]
+E---0---X----(5)-----X-----(7)------X--------X------X---
+A---1---0-----7------2------9-------4--------4------6---
+D---2---2-----7------4------9-------6--------4------6---
+G---2---2-----6------4------8-------6--------2------4---
+B---0---0-----0------0------0-------0--------0------0---
+E---0---0-----0------0------0-------0--------0------0---[/tab]

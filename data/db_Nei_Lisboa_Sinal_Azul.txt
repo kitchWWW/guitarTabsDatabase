@@ -1,0 +1,87 @@
+URL: https://tabs.ultimate-guitar.com/tab/nei-lisboa/sinal-azul-chords-3722891
+Artist: Nei Lisboa
+Song: Sinal Azul
+Genre: 
+Key: D
+
+
+[Intro]
+Dsus2 (3x)
+
+[Verse]
+[tab][ch]D[/ch]  [ch]G[/ch]   [ch]F#7add11[/ch]   [ch]Bm[/ch]
+Há mistérios na Terra[/tab]
+Em7 A7(13) D7M(9) Em7(b5) A6
+Toda azul, ao longe
+[tab][ch]D[/ch]   [ch]G[/ch]  [ch]F#7add11[/ch]  [ch]Bm[/ch]
+Vejo oculto nas cartas[/tab]
+Em7 A7(13) D7M(9) Em7(b5) A6
+Sob o pano azul
+
+[Chorus]
+G7M       A7(13)
+Um anjo de fogo
+D7M(9)   F#7add11
+Um índio caingangue
+[tab][ch]Bm7[/ch]           [ch]Em9[/ch]
+E a velha jangada de Aguirre[/tab]
+A7(13)            C7M/G
+Vagando no céu da manhã
+G7M          A7(13)
+Blue jeans em fiapos
+D7M(9)   F#7add11
+Pegadas de Exu
+[tab][ch]Bm7[/ch]           [ch]Em9[/ch]
+Segredos de um mago[/tab]
+          A7(13)
+Passando, surgindo
+[tab]           [ch]C7M/G[/ch]
+De um lago azul[/tab]
+
+[Verse]
+[tab][ch]D[/ch]  [ch]G[/ch]   [ch]F#7add11[/ch]   [ch]Bm[/ch]
+Há mistérios na Terra[/tab]
+Em7 A7(13)
+Toda azul
+D7M(9) Em7(b5) A6
+Ao longe
+[tab][ch]D[/ch]   [ch]G[/ch]  [ch]F#7add11[/ch]  [ch]Bm[/ch]
+Vejo oculto nas cartas[/tab]
+Em7 A7(13) D7M(9) Em7(b5) A6
+Sob o pano azul
+
+[Chorus]
+G7M       A7(13)
+Um anjo de fogo
+D7M(9)   F#7add11
+Um índio caingangue
+[tab][ch]Bm7[/ch]           [ch]Em9[/ch]
+E a velha jangada de Aguirre[/tab]
+A7(13)            C7M/G
+Vagando no céu da manhã
+G7M          A7(13)
+Blue jeans em fiapos
+D7M(9)   F#7add11
+Pegadas de Exu
+[tab][ch]Bm7[/ch]           [ch]Em9[/ch]
+Segredos de um mago[/tab]
+          A7(13)
+Passando, surgindo
+[tab]           [ch]C7M/G[/ch]
+De um lago azul[/tab]
+
+
+Chords:
+Dsus2: xx0230
+G: 3xx003
+F#7add11: 2x4300
+Bm: x2x432
+Em7: 0xx787
+A7(13): x0567x or 5x567x
+D7M(9): x5465x
+Em7(b5): x7878x
+A6: x07675
+G7M: 3x443x
+Bm7: x2x232
+Em9: 0x5777 or x75777
+C7M/G: xx5557

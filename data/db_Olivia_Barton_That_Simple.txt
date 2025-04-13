@@ -1,0 +1,104 @@
+URL: https://tabs.ultimate-guitar.com/tab/olivia-barton/that-simple-chords-5009644
+Artist: Olivia Barton
+Song: That Simple
+Genre: 
+Key: 
+
+
+BPM:      146
+Released: 6 June 2019
+Album:    I Could Have Smiled at You More
+
+
+Note: The D chord is played by moving the A chord shape up to the 7th fret ie [x07770].
+
+      Also pay attention to the long drawn out notes and relevant chord changes.
+
+
+[Chords]
+[D        x0777x]
+[G        320030]
+[Dsus2/F# 2x0230]
+
+
+Capo: No
+
+
+[Intro]
+[ch]D[/ch] [ch]A[/ch]
+[ch]D[/ch] [ch]G[/ch]
+[ch]D[/ch] [ch]A[/ch]
+[ch]D[/ch] [ch]G[/ch]
+
+
+[Chorus]
+[tab][ch]D[/ch]  [ch]A[/ch]
+My Love,[/tab]
+[tab]   [ch]D[/ch]        [ch]G[/ch]
+It was that simple,[/tab]
+[tab][ch]D[/ch]    [ch]A[/ch]     [ch]D[/ch]  [ch]G[/ch]
+All along.[/tab]
+
+
+[Verse 1]
+[tab][ch]D[/ch]   [ch]A[/ch]           [ch]D[/ch]
+For love, we shared,[/tab]
+[tab]   [ch]G[/ch]
+We strangled,[/tab]
+[tab][ch]D[/ch]     [ch]A[/ch]                   [ch]Dmaj7[/ch]
+Our only want, rid of our hands.[/tab]
+
+
+[Pre-Chorus]
+[tab]   [ch]G[/ch]                    [ch]A7sus4[/ch]     [ch]G[/ch]   [ch]A[/ch]
+My Love, I'm sorry, for all   my   drowning,[/tab]
+[tab]    [ch]G[/ch]
+For all my love, I'm sorry,[/tab]
+[tab]      [ch]A7[/ch]             [ch]G[/ch]       [ch]Asus4[/ch]  [ch]A[/ch]
+But I'm here now for your keeping.[/tab]
+
+
+[Interlude]
+[ch]A[/ch]
+[ch]D[/ch]  [ch]G[/ch]
+
+
+[Chorus]
+[tab][ch]D[/ch]  [ch]A[/ch]
+My Love,[/tab]
+[tab]     [ch]D[/ch]      [ch]G[/ch]
+It was that simple,[/tab]
+[tab][ch]D[/ch]    [ch]A[/ch]     [ch]D[/ch]  [ch]G[/ch]
+All along.[/tab]
+
+
+[Verse 2]
+[tab][ch]D[/ch]  [ch]A[/ch]
+My Love,[/tab]
+[tab]  [ch]D[/ch]     [ch]G[/ch]
+Doesn't it feel good,[/tab]
+[tab][ch]D[/ch]  [ch]A[/ch]                   [ch]A7sus4[/ch]
+To sit with me here in silence?[/tab]
+
+
+[Bridge]
+[tab][ch]A7sus4[/ch]      [ch]A[/ch]
+Blew in the face,[/tab]
+[tab]   [ch]Dsus2/F#[/ch]   [ch]G[/ch]        [ch]A7sus4[/ch]             [ch]Dsus2/F#[/ch]       [ch]G[/ch]
+We trace each ounce of pain to a place we didn't need to go,[/tab]
+[tab][ch]A7sus4[/ch]    [ch]Dsus2/F#[/ch]    [ch]G[/ch]    [ch]Dsus2/F#[/ch] [ch]G[/ch]          [ch]A7sus4[/ch]  [ch]A[/ch]
+Oh what a shame to my time was------ted on you,[/tab]
+
+
+[Pre-Chorus]
+[tab][ch]Dsus2/F#[/ch] [ch]G[/ch]                    [ch]A7sus4[/ch]     [ch]G[/ch]   [ch]A[/ch]
+My       Love, I'm sorry, for all   my   drowning,[/tab]
+[tab]    [ch]G[/ch]
+For all my love, I'm sorry,[/tab]
+[tab]      [ch]A7[/ch]             [ch]G[/ch]       [ch]Asus4[/ch]  [ch]A[/ch]
+But I'm here now for your keeping.[/tab]
+
+
+[Outro]
+[ch]A[/ch]  [ch]Asus4[/ch]  [ch]D[/ch]  [ch]G[/ch]
+[ch]Asus4[/ch]  [ch]D[/ch]  [ch]G[/ch]

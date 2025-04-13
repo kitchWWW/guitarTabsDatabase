@@ -1,0 +1,43 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/i-love-your-grace-chords-339553
+Artist: Caedmon's Call
+Song: I Love Your Grace
+Genre: 
+Key: 
+
+
+===================================                =========================
+I Love Your Grace---Caedmon's Call-----------------Transfered by Asa Gaston
+===================================                =========================
+
+Chord  -  Name
+[tab]X02220    [ch]A[/ch] (with [ch]Aadd9[/ch] X02200 and [ch]Asus4[/ch] X02230)
+320033    G (and 320003)[/tab]
+X00232    [ch]D[/ch] (with [ch]Dadd9[/ch] X00230 and [ch]Dsus4[/ch] X00232)
+022100    [ch]E[/ch]
+X24432    [ch]Bm[/ch]
+[tab]X32010    [ch]C[/ch]
+244322    F# (or minor?)[/tab]
+
+
+CHORUS
+[ch]A[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]D[/ch]
+[ch]A[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]E[/ch]
+[ch]A[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]Bm[/ch]
+[ch]G[/ch]  [ch]D[/ch]  [ch]A[/ch]  [ch]A[/ch]
+
+VERSE
+[ch]C[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]D[/ch]
+[ch]G[/ch]  [ch]D[/ch]  [ch]A[/ch]  [ch]A[/ch]
+[ch]C[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]F#[/ch]
+[ch]G[/ch]  [ch]D[/ch]  [ch]E[/ch]  [ch]E[/ch]
+
+TAG (Intrumental)
+[ch]A[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]D[/ch]
+
+OUTRO
+[ch]G[/ch]  [ch]D[/ch]  [ch]A[/ch]  [ch]A[/ch]
+[ch]G[/ch]  [ch]D[/ch]  [ch]A[/ch]  [ch]A[/ch]
+[ch]G[/ch]  [ch]D[/ch]  [ch]A[/ch]  [ch]A[/ch]
+[ch]A[/ch]  [ch]A[/ch]  [ch]A[/ch]  [ch]A[/ch]
+[ch]A[/ch]  [ch]A[/ch]  [ch]G[/ch]  [ch]D[/ch]
+[ch]A[/ch]

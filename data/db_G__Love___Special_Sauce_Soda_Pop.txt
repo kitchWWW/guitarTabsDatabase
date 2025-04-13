@@ -1,0 +1,25 @@
+URL: https://tabs.ultimate-guitar.com/tab/g-love-special-sauce/soda-pop-bass-12250
+Artist: G. Love & Special Sauce
+Song: Soda Pop
+Genre: 
+Key: 
+
+
+Date: Tue, 19 Dec 1995 23:32:36 -0500 (EST)
+From: david a piniella &lt;dpinie01@fiu.edu>
+Subject: /g/g_love_and_special_sauce/coast_to_coast_motel_album.btab
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+"soda pop"
+
+[tab]main vamp          variation 1      variation 2
+fill/transition
+G|---------------|----1-2----1-2--|----6-7----6-7--|-------------------|
+D|---------------|----------------|----------------|----------4-6-7-7--|
+A|----4-5---4-5--|----------------|--0------0------|----4-5-7----------|
+E|--5-----5------|--0------0------|----------------|--5----------------|[/tab]
+
+[ bass is tacet at first, then kicks in with the vamp. it plays the   ]
+[ variations at different points, you can hear the open strings buzz. ]
+[ the fill/transition is at the end, it's just a walk up and down.    ]

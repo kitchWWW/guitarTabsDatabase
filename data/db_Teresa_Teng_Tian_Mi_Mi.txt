@@ -1,0 +1,99 @@
+URL: https://tabs.ultimate-guitar.com/tab/teresa-teng/tian-mi-mi-tabs-2381523
+Artist: Teresa Teng
+Song: Tian Mi Mi
+Genre: 
+Key: D
+
+
+TIAN MI MI
+ Teresa Teng, 1979
+ 
+ The song was played by humans, so tempo varies around 128~ BPM
+ 4/4
+ 
+ Play chords in arpeggio (or strum, whatever you please).
+ Note: Notes below work for Bass, a good ear can easily replicate.
+       When doing arpeggio, stay on A chord for Em, and pick 
+       accordingly (it's how the song goes), and always end on 
+       high E string on third beat.
+       SOLO Tablature was left out because it uses the same
+       notes, should be easy to figure out, including outro.
+       Will add them if required.
+
+
+   D            A              D 
+
+[tab]e||---------------------------|
+B||---------------------------|
+G||---------------------------|
+D||---7-9-7-------------------|
+A||----------9--7-------------|
+E||---------------------------|[/tab]
+
+
+ D              Em      A       D
+ tian mi mi, ni xiao de tian mi mi
+ Em               A                 D  
+ hao xiang hua er kai zai chun fong li 
+     Bm            Em              A              D
+ kai zai chun fong li 
+
+[tab]                     e||----------------------------------|
+                     B||----------------------------------|
+                     G||----------------------------------|
+                     D||------------------9-7-------------|
+                     A||------2--5-4----7-----9-7-9-------|
+                     E||--3-5-----------------------------|[/tab]
+
+                                                  zai...
+
+    D                Em     A        D
+ ...zai na li,   zai na li  jian guo ni 
+
+[tab]       e||----------------------------------|
+       B||----------------------------------|
+       G||----------------------------------|
+       D||--7-9-7--4------------------------|
+       A||--------------7-5-4---------------|
+       E||------------7---------------------|[/tab]
+
+ Em              A             D
+ ni de xiao rong zhe yang shou xi 
+    Em     A        D  
+ wo yi shi xiang bu qi 
+       A        D  
+ ah... zai meng li
+
+[tab]               e||--------------------------------|
+               B||--------------------------------|
+               G||-------------7-7----------------|
+               D||---7---7--9-------9-7---0-------|  
+               A||-----9----------------9---------|
+               E||--------------------------------|[/tab]
+
+ 
+ Bm (strum)                D  
+ meng li, meng li jian guo ni 
+ Bm (strum)                D
+ tian mi, xiao de duo tian mi
+     A       A7       A               
+ shi ni, shi ni, meng jian de jiu shi ni
+
+[tab]e||-----------|
+B||-----------|
+G||-----------|
+D||-----------|
+A||-----4-5---|
+E||-5-7-------|[/tab]
+
+ D              Em    A        D
+ zai na li, zai na li jian guo ni 
+ Em              A             D
+ ni de xiao rong zhe yang shou xi 
+    Em     A        D  
+ wo yi shi xiang bu qi 
+ D     A        D  
+ ah... zai meng li
+
+
+REPEAT

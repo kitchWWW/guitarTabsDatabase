@@ -1,0 +1,38 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/crooked-deep-down-chords-338451
+Artist: Caedmon's Call
+Song: Crooked Deep Down
+Genre: 
+Key: 
+
+
+===================================              =========================
+Crooked Deep Down---Caedmon's Call---------------Transfered by Asa Gaston
+===================================              =========================
+
+Capo 2.
+
+320003  [ch]G[/ch]   (*=3x2013 [ch]C/G[/ch], ¤=x32013 [ch]C[/ch])
+x32010  [ch]C[/ch]
+x00232  [ch]D/A[/ch]
+022000  [ch]Em[/ch]
+x00212  [ch]D7[/ch]/[ch]A[/ch]
+
+INTRO:
+|[ch]G[/ch]   . *|[ch]G[/ch]   . *|[ch]G[/ch]   . *|[ch]G[/ch]   . *|
+
+VERSE:
+|[ch]G[/ch]   ¤  |[ch]G[/ch]   .  |.   [ch]D[/ch]  |[ch]C[/ch]   .  |
+|[ch]G[/ch]   ¤  |[ch]G[/ch]   .  |[ch]Em[/ch]  .  |[ch]D[/ch]   .  |
+|[ch]Em[/ch]  .  |[ch]D[/ch]   .  |
+
+|D7  .  |  &lt;- skip between verses 1 and 2.
+
+CHORUS:
+|[ch]C[/ch]   .  |[ch]G[/ch]   .  |.   [ch]C[/ch]  |[ch]D[/ch]   .  |
+|[ch]C[/ch]   .  |[ch]G[/ch]   .  |.   [ch]C[/ch]  |[ch]D[/ch]   .  |
+
+|D7  C  |G   . *|G   . *|  &lt;- skip when chorus repeats.
+
+BRIDGE:
+|[ch]C[/ch]   .  |.   .  |[ch]G[/ch]   .  |.   .  |
+|[ch]C[/ch]   .  |.   .  |[ch]D[/ch]   .  |[ch]D7[/ch]  .  |

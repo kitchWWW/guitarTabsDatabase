@@ -1,0 +1,102 @@
+URL: https://tabs.ultimate-guitar.com/tab/k-d-lang/constant-craving-chords-1672193
+Artist: k.d. lang
+Song: Constant Craving
+Genre: 
+Key: Em
+
+
+These are the chords you want to be playing in a situation with one 
+voice and one instrument. If you have a bassist covering the low end, 
+you can leave out the roots in the slash chords. Yup, they're odd, 
+but this is the complete harmony of what's happening in the music.
+
+Capo: 1st fret
+Play: Em
+Key: Fm
+
+[tab]C/D    x-x-0-0-1-0
+D/C    x-3-x-2-3-2
+D/G    3-x-0-2-3-2
+Csus2  x-3-x-0-3-0
+C/F    1-x-2-0-1-0
+F/C    x-3-x-2-1-1[/tab]
+
+[Intro]
+| [ch]Em[/ch] | [ch]Bm7[/ch] | [ch]C/D[/ch] | [ch]Csus2[/ch] |
+| [ch]Em[/ch] | [ch]Bm7[/ch] | [ch]C/D[/ch] | % |
+
+| [ch]Em[/ch] | [ch]Bm7[/ch] | [ch]C/D[/ch] | [ch]Csus2[/ch] |
+| [ch]Em[/ch] | [ch]Bm7[/ch] | [ch]C/D[/ch] | % |
+
+[tab][Verse]
+[ch]Em[/ch] [ch]Bm7[/ch]             [ch]C/D[/ch]     [ch]C[/ch]
+E -ven through the darkest phase[/tab]
+[tab][ch]Em[/ch] [ch]Bm7[/ch]         [ch]C/D[/ch]
+Be it thick or thin[/tab]
+[tab][ch]Em[/ch]  [ch]Bm7[/ch]          [ch]C/D[/ch]     [ch]C[/ch]
+Al -ways someone marches brave[/tab]
+[tab][ch]Em[/ch]   [ch]Bm7[/ch]        [ch]C/D[/ch]
+Here beneath my skin[/tab]
+
+[Chorus]
+[tab]    [ch]C[/ch]  [ch]D/C[/ch]   [ch]D/G[/ch] [ch]Em[/ch]
+And constant cra-ving[/tab]
+[tab]    [ch]C/F[/ch] [ch]F[/ch]  [ch]Em[/ch]
+Has always been[/tab]
+
+[Verse]
+[tab][ch]Em[/ch] [ch]Bm7[/ch]        [ch]C/D[/ch]    [ch]C[/ch]
+Maybe a great magnet pulls[/tab]
+[tab][ch]Em[/ch]  [ch]Bm7[/ch]           [ch]C/D[/ch]
+All souls towards truth[/tab]
+[tab][ch]Em[/ch]     [ch]Bm7[/ch]      [ch]C/D[/ch]    [ch]C[/ch]
+ Or maybe it is life itself[/tab]
+[tab]       [ch]Em[/ch] [ch]Bm7[/ch]        [ch]C/D[/ch]
+Brings wisdom to its youth[/tab]
+
+[Chorus]
+[tab][ch]C[/ch]   [ch]D/C[/ch]   [ch]D/G[/ch] [ch]Em[/ch]
+Con-stant cra-ving[/tab]
+[tab]    [ch]C/F[/ch] [ch]F[/ch]  [ch]Em[/ch]
+Has always been[/tab]
+
+[Interlude]
+[tab][ch]D/G[/ch] [ch]Csus2[/ch]
+Craving[/tab]
+[tab]  [ch]G[/ch]            [ch]Csus2[/ch]
+A-ha, constant craving[/tab]
+[tab]    [ch]D[/ch]      [ch]Csus2[/ch]
+Has always been[/tab]
+[tab]    [ch]D[/ch]      [ch]Csus2[/ch]
+Has always been[/tab]
+
+[Instrumental]
+| [ch]Em[/ch] | [ch]Bm7[/ch] | [ch]C/D[/ch] | [ch]Csus2[/ch] |
+| [ch]Em[/ch] | [ch]Bm7[/ch] | [ch]C/D[/ch] | % |
+| [ch]Em[/ch] | [ch]Bm7[/ch] | [ch]C/D[/ch] | [ch]Csus2[/ch] |
+| [ch]Em[/ch] | [ch]Bm7[/ch] | [ch]C/D[/ch] | % |
+
+[Chorus]
+[tab][ch]C[/ch]   [ch]D/C[/ch]   [ch]D/G[/ch] [ch]Em[/ch]
+Con-stant cra-ving[/tab]
+[tab]    [ch]C[/ch] [ch]F/C[/ch]  [ch]Em[/ch]
+Has always been[/tab]
+
+[Chorus]
+[tab][ch]C[/ch]   [ch]D/C[/ch]   [ch]D/G[/ch] [ch]Em[/ch]
+Con-stant cra-ving[/tab]
+[tab]    [ch]C[/ch] [ch]F/C[/ch]  [ch]G[/ch]
+Has always been[/tab]
+          (break)
+[Outro]
+[tab][ch]D/G[/ch]  [ch]Csus2[/ch]
+Craving[/tab]
+[tab]  [ch]G[/ch]            [ch]D/C[/ch] [ch]C[/ch]
+A-ha, constant cra-ving[/tab]
+[tab]    [ch]D[/ch]      [ch]Csus2[/ch]
+Has always been[/tab]
+[tab]    [ch]D[/ch]      [ch]Csus2[/ch]
+Has always been[/tab]
+[tab]    [ch]D[/ch]      [ch]Csus2[/ch]
+Has always been[/tab]
+(repeat and fade)

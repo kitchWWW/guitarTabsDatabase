@@ -1,0 +1,108 @@
+URL: https://tabs.ultimate-guitar.com/tab/3229748
+Artist: Klô Pelgag
+Song: Jaurai Les Cheveux Longs
+Genre: 
+Key: Eb
+
+
+[tab][CHORDS]
+[Verse 1] + [Outro]           [Chorus 1-2]              [Verse 2-3]               [Instrumental 1]
+C7sus2 :     x-3-5-3-3-3      Fsus2 :  x-8-10-10-8-8    Fm :     x-8-10-10-9-8    Fsus4 :  x-8-10-10-11-8
+Gm :         3-5-5-3-3-3      Abmaj9 : 4-x-5-5-4-6      Ab :     4-6-6-5-4-4      F :      x-8-10-10-10-8
+Abmaj7sus2 : 4-x-5-3-4-3      Cm7 :    x-3-5-3-4-3      Eb :     x-6-8-8-8-6      Abmaj7 : 4-6-5-5-4-4
+Eb :         x-6-5-3-4-3      Bbsus2 : x-1-3-3-1-1      Bb :     6-8-8-7-6-6      Cm :     x-3-5-5-4-3
+Abmaj7#11 :  4-x-5-5-3-3      Fadd4 :  x-8-8-5-6-5      Bbsus4 : 6-8-8-8-6-6      Csus2 :  x-3-5-5-3-3
+Ebmaj7 :     x-6-5-3-3-3      Abmaj7 : 4-6-5-5-4-4      F :      x-8-10-10-10-8   Bbsus4 : 6-8-8-8-6-6
+                              Cm :     x-3-5-5-4-3      Cm :     x-3-5-5-4-3
+                                                        F7 :     x-8-10-8-10-8
+[Chorus 3]                                              Abmaj7 : 4-6-5-5-4-4
+Fsus2 :  x-8-10-10-8-8
+Ab :     4-6-6-5-4-4
+Cm :     x-3-5-5-4-3
+Bb :     x-1-3-3-3-1
+F :      x-8-10-10-10-8
+Abmaj7 : 4-6-5-5-4-4[/tab]
+
+
+
+[Intro]
+[ch]C7sus2[/ch]    [ch]Gm[/ch]    [ch]Abmaj7sus2[/ch]    [ch]Eb[/ch]    x2
+
+
+[Verse 1]
+[tab]        [ch]C7sus2[/ch]   [ch]Gm[/ch]      [ch]Abmaj7#11[/ch]        [ch]Ebmaj7[/ch]
+Ça fait un an et 2 jours qu'on ne se parle plus[/tab]
+[tab]     [ch]C7sus2[/ch]  [ch]Gm[/ch]    [ch]Abmaj7#11[/ch] [ch]Ebmaj7[/ch]
+Mais je t'attends, je t'attends[/tab]
+[tab]        [ch]C7sus2[/ch]   [ch]Gm[/ch]      [ch]Abmaj7#11[/ch]      [ch]Ebmaj7[/ch]
+Ça fait un an et 2 jours que je pense à ça[/tab]
+[tab][ch]C7sus2[/ch] [ch]Gm[/ch]   [ch]Abmaj7#11[/ch] [ch]Ebmaj7[/ch]
+Si tu meurs avant   moi[/tab]
+[tab]   [ch]C7sus2[/ch]    [ch]Gm[/ch]        [ch]Abmaj7sus2[/ch] [ch]Eb[/ch]
+Si je meurs avant toi, pleureras-tu?[/tab]
+[tab][ch]C7sus2[/ch] [ch]Gm[/ch]   [ch]Abmaj7sus2[/ch] [ch]Eb[/ch]
+Si je meurs avant    toi[/tab]
+
+
+[Chorus]
+[tab][ch]Fsus2[/ch]        [ch]Abmaj9[/ch]  [ch]Cm7[/ch]    [ch]Bbsus2[/ch]
+Et si on se parlait avant, avant[/tab]
+[tab][ch]Fsus2[/ch]       [ch]Abmaj9[/ch]      [ch]Cm7[/ch]       [ch]Fadd4[/ch]
+Et si on s'écoutait vraiment, vraiment[/tab]
+
+
+[Verse 2]
+[tab][ch]Fm[/ch]             [ch]Ab[/ch]                [ch]Eb[/ch]             [ch]Bb[/ch]    [ch]Bbsus4[/ch] [ch]Bb[/ch]
+Je sais que la vie c'est moins facile que l'on pensait[/tab]
+[tab][ch]F[/ch]                [ch]Ab[/ch]             [ch]Cm[/ch]  [ch]F7[/ch]
+Mais dis-toi que rien n'est parfait[/tab]
+[tab][ch]Fm[/ch]             [ch]Ab[/ch]                 [ch]Eb[/ch]             [ch]Bb[/ch]
+Je sais que le bonheur, c'est de se battre pour la paix[/tab]
+[tab][ch]F[/ch]              [ch]Ab[/ch]              [ch]Cm[/ch]    [ch]F7[/ch]
+Et si tu veux, je serai tout près de toi[/tab]
+
+
+[Chorus]
+[tab][ch]Fsus2[/ch]        [ch]Abmaj9[/ch]     [ch]Cm7[/ch]    [ch]Bbsus2[/ch]
+Et si on se pardonnait avant, avant[/tab]
+[tab][ch]Fsus2[/ch]          [ch]Abmaj7[/ch]            [ch]Cm[/ch]
+Je sais que la vie, c'est maintenant[/tab]
+
+
+[Verse 3]
+[tab][ch]Fm[/ch]             [ch]Abmaj7[/ch]          [ch]Eb[/ch]            [ch]Bb[/ch]    [ch]Bbsus4[/ch] [ch]Bb[/ch]
+Te souviens-tu de nos châteaux au sommet des arbres?[/tab]
+[tab][ch]F[/ch]             [ch]Ab[/ch]         [ch]Cm[/ch]    [ch]F7[/ch]
+Nous étions 2 rois inséparables[/tab]
+[tab][ch]Fm[/ch]             [ch]Ab[/ch]           [ch]Eb[/ch]           [ch]Bb[/ch]
+Je t'attendrai en équilibre sur la corde raide[/tab]
+[tab][ch]F[/ch]                 [ch]Abmaj7[/ch]        [ch]Fsus4[/ch] [ch]F[/ch]
+Mais je n'ai plus de temps à te perdre[/tab]
+
+
+[Instrumental 1]
+[ch]Abmaj7[/ch]    [ch]Cm[/ch] [ch]Csus2[/ch]   [ch]Bbsus4[/ch]
+
+[ch]Fsus4[/ch] [ch]F[/ch]   [ch]Abmaj7[/ch]    [ch]Cm[/ch] [ch]Csus2[/ch]   [ch]Bbsus4[/ch]    x2
+
+[ch]Fsus4[/ch] [ch]F[/ch]   [ch]Abmaj7[/ch]
+
+
+[Chorus]
+[tab][ch]Fsus2[/ch]         [ch]Ab[/ch]             [ch]Cm[/ch]         [ch]Bb[/ch]
+Et si on se prenait dans nos bras maintenant[/tab]
+[tab][ch]F[/ch]                 [ch]Abmaj7[/ch]        [ch]C7sus2[/ch]
+J'ai peur que la mort le fasse avant[/tab]
+
+
+[Instrumental 2]
+[ch]Gm[/ch]    [ch]Abmaj7sus2[/ch]    [ch]Eb[/ch]
+
+[ch]C7sus2[/ch]    [ch]Gm[/ch]    [ch]Abmaj7sus2[/ch]    [ch]Eb[/ch]
+
+
+[Outro]
+[tab]        [ch]C7sus2[/ch]   [ch]Gm[/ch]      [ch]Abmaj7#11[/ch]      [ch]Ebmaj7[/ch]
+Ça fait un an et 2 jours que je t'aime autant[/tab]
+[tab]  [ch]C7sus2[/ch] [ch]Gm[/ch]      [ch]Abmaj7#11[/ch]      [ch]Ebmaj7[/ch]  [ch]Ebmaj7#11[/ch]
+À ton retour j'aurai les cheveux longs[/tab]

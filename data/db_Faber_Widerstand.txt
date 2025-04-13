@@ -1,0 +1,209 @@
+URL: https://tabs.ultimate-guitar.com/tab/faber/widerstand-tabs-2902823
+Artist: Faber
+Song: Widerstand
+Genre: 
+Key: Em
+
+
+Guitar Tabs for the acoustic live version: https://www.youtube.com/watch?v=3htBS9RS9QE
+
+Capo on 3rd Fret
+
+################# TABS #################
+
+##[Intro]
+
+The notes in brackets are played as grace notes
+
+[tab] Cmaj7:                Asus2:                Em:
+e|-----------------|  e|-----------------|  e|---------------------------------|
+B|-------0---------|  B|-------0---------|  B|-------0-------------------------|
+G|---0-(0)---0---0-|  G|---0-(2)---2---0-|  G|---0-------0---0---0---0---0---0-|
+D|-----------------|  D|-----------------|  D|---------------------------------|
+A|-3---3---3---3---|  A|-0---0---0---0---|  A|-----------------------------2---|
+E|-----------------|  E|-----------------|  E|-0---0---0---0---0---2---3-------|[/tab]
+
+[tab] Cmaj7:                Asus2:
+e|-----------------|  e|-----------------|
+B|-------0---------|  B|-------0---------|
+G|---0-(0)---0---0-|  G|---0-(2)---2---0-|
+D|-----------------|  D|-----------------|
+A|-3---3---3---3---|  A|-0---0---0---0---|
+E|-----------------|  E|-----------------|[/tab]
+
+
+##[Verse 1]
+
+Verwirf...
+
+[tab] Em:                  Cmaj7:                Asus2:
+e|-----------------| e|-----------------|  e|---------------------------------|
+B|-------0---------| B|-------0---------|  B|-------0---------------0---------|
+G|---0-------0---0-| G|---0-------0---0-|  G|---0-------2---0---0-------2---0-|    [ x 5 ]
+D|-----------------| D|-----------------|  D|---------------------------------|
+A|-----------------| A|-3---3---3---3---|  A|-0---0---0---0---0---0---0---0---|
+E|-0---0---0---0---| E|-----------------|  E|---------------------------------|[/tab]
+
+...nichts wofür sich die Falten lohnen
+
+[tab] G:                                    Bm:
+e|---------------------------------|  e|---------------2------------------|
+B|---------------------------------|  B|-------3---------------3----------|
+G|---0---0---0---0---0---0---0---0-|  G|---4-------4-------4-------4------|
+D|---------------------------------|  D|----------------------------------|
+A|---------------------------------|  A|-2---2---2---2---2---2---2---2----|
+E|-3---3---3---3---3---3---3---3---|  E|----------------------------------|[/tab]
+
+##[Chorus 1]
+
+Widersteh....
+
+[tab]  C:          Em:            Let ring...
+e|----0----| e|----0----|
+B|----1----| B|----0----|
+G|----0----| G|----0----|    [ x 2 ]
+D|----2----| D|----2----|
+A|----3----| A|----2----|
+E|---------| E|----0----|[/tab]
+
+##[Bridge]
+
+| Cmaj7 | Asus2 | Em | Em | Cmaj7 | Asus2 |
+
+##[Verse 2]
+
+Zeig nie zu...
+
+| Em | Cmaj7 | Asus2 | Asus2 |   [x 3]
+
+...allein, so klein bist und allein
+
+| G | G | Bm | Bm |
+
+##[Chorus 2]
+
+Widersteh....
+
+[tab]  C:          Em:            Let ring...
+e|----0----| e|----0----|
+B|----1----| B|----0----|
+G|----0----| G|----0----|    [ x 2 ]
+D|----2----| D|----2----|
+A|----3----| A|----2----|
+E|---------| E|----0----|[/tab]
+
+
+ ...des Geschehens
+
+| C | C | Em | Em           [ x 8 ]
+
+##[Bridge + Outro]
+
+| Cmaj7 | Asus2 | Em | Em |   [ x 8 ]
+
+
+
+
+
+################# Chords #################
+
+[Verse 1]
+
+    Em  Cmaj7         Asus2
+Verwirf jeglich Moral
+     Em             Cmaj7          Asus2
+Dein Name soll für Reichtum stehen       ganz normal sind deine
+ Em          Cmaj7        Asus2
+Leute deine Freunde wären so gerne wie du
+    Em  Cmaj7       Asus2
+Verzieh nie dein Gesicht
+              G                            Bm
+Denn es gibt nichts wofür sich die Falten lohnen
+
+
+[Chorus]
+C           Em
+   Widersteh   dem Widerstand
+        C             Em
+Steh standhaft nebendran
+                   Cmaj7
+Am Rand des Geschehens
+
+[Bridge]
+
+Asus2  Em  Em  Cmaj7  Asus2
+
+
+[Verse 2]
+ Em  Cmaj7           Asus2
+Zeig nie zu wem du stehst
+    Em          Cmaj7           Asus2
+Wisse das sich jeder zwischen Freund und Feind bewegt
+        Em      Cmaj7        Asus2
+Und gesteh dir selbst nicht ein
+                         G
+Das du klein bist und allein
+                     Bm
+So klein bist und allein
+
+
+[Chorus 2]
+C           Em
+   Widersteh   dem Widerstand
+        C             Em
+Steh standhaft nebendran
+                   C
+Am Rand des Geschehens
+          Em
+Lass geschehen
+
+Was geschehen soll geschieht
+     C
+Verzieh nie ne Mine
+Em                    C
+So zielt niemand auf dich
+               Em
+Und widersteh dem Widerstand
+       C              Em
+Steh standhaft nebendran
+                 C
+Am Rand des Geschehens
+          Em
+Lass geschehen
+
+Was geschehen soll geschieht
+     C
+Verzieh nie ne Mine
+Em                    C
+So zielt niemand auf dich
+               Em
+Und widersteh dem Widerstand
+       C
+Widersteh
+         Em
+Machs genau
+                       Cmaj7
+Machs genau wie unser Land
+
+[Bridge]
+
+(Cmaj7) Asus2  Em  Em
+Cmaj7   Asus2  Em Em (x3)
+
+[Outro]
+         Cmaj7         Asus2
+Sei ein Fahne im Wind
+       Em
+Eine Stimme im Chor
+           Cmaj7         Asus2            Em
+Nur die wirklich blöden Fische schwimmen gegen den Strom
+         Cmaj7         Asus2
+Sei ein Fahne im Wind
+       Em
+Eine Stimme im Chor
+           Cmaj7         Asus2            Em
+Nur die wirklich blöden Fische schwimmen gegen den Strom
+
+Sei ein Fahne im Wind
+Eine Stimme im Chor
+Nur die wirklich blöden Fische schwimmen gegen den Strom

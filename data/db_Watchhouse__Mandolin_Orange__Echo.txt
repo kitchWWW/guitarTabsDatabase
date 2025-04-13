@@ -1,0 +1,61 @@
+URL: https://tabs.ultimate-guitar.com/tab/watchhouse-mandolin-orange/echo-chords-1903697
+Artist: Watchhouse (Mandolin Orange)
+Song: Echo
+Genre: 
+Key: 
+
+
+Echo
+by Mandolin Orange
+
+Chords in parantheses just indicate movement in the bass note. They never play it the same twice in a row, 
+so they're mostly optional and you can add or subtract them as you feel led.
+
+[Intro]
+[ch]G[/ch]               [ch]G[/ch]               [ch]Em[/ch]        ([ch]F#[/ch])  [ch]G[/ch]
+[ch]D[/ch]               [ch]G[/ch]          ([ch]B[/ch])  [ch]C[/ch]               [ch]C[/ch]
+[ch]Em[/ch]        ([ch]F#[/ch])  [ch]G[/ch]          ([ch]B[/ch])  [ch]C[/ch]               [ch]D[/ch]
+[ch]Em[/ch]      [ch]D[/ch]       [ch]C[/ch]       [ch]D[/ch]       [ch]G[/ch]               [ch]G[/ch]
+
+
+[Verse 1]
+[tab]       [ch]G[/ch]                                 ([ch]F#[/ch])        [ch]Em[/ch]                 ([ch]F#[/ch])   [ch]G[/ch]
+Well I try to close my eyes, clear my mind, and just listen to the wildflowers growing[/tab]
+[tab]         [ch]D[/ch]                      [ch]G[/ch]                        [ch]C[/ch]
+But such whispers on the breeze, they don't come easy now over all this noise[/tab]
+[tab][ch]Em[/ch]                 ([ch]F#[/ch])    [ch]G[/ch]     [ch]C[/ch]                          [ch]D[/ch]
+I spent my youth among the pines, they used to sing a tune so fine[/tab]
+[tab]        [ch]Em[/ch]  [ch]D[/ch]              [ch]C[/ch]     [ch]D[/ch]              [ch]G[/ch]
+And the wind moved like an echo, carrying their voices[/tab]
+
+
+[Verse 2]
+[tab]      [ch]G[/ch]                                            [ch]Em[/ch]                        ([ch]F#[/ch])      [ch]G[/ch]
+But I saw it in a dream, monuments of trees as the air we breathed turned our lungs to dust[/tab]
+[tab]        [ch]D[/ch]                [ch]G[/ch]                       [ch]C[/ch]
+And the redwoods so tall, in all their awe, began to rust[/tab]
+[tab][ch]Em[/ch]               ([ch]F#[/ch])    [ch]G[/ch]  ([ch]B[/ch]) [ch]C[/ch]                    [ch]D[/ch]
+With no bend and sway at all,      that ancient dance was lost[/tab]
+[tab]        [ch]Em[/ch]  [ch]D[/ch]              [ch]C[/ch]            [ch]D[/ch]          [ch]G[/ch]
+And the wind moved like an echo, with a sigh in every gust[/tab]
+
+
+[Interlude]
+[ch]G[/ch]               [ch]G[/ch]         ([ch]F#[/ch])  [ch]Em[/ch]        ([ch]F#[/ch])  [ch]G[/ch]
+[ch]D[/ch]               [ch]G[/ch]               [ch]C[/ch]               [ch]C[/ch]
+[ch]Em[/ch]        ([ch]F#[/ch])  [ch]G[/ch]               [ch]C[/ch]               [ch]D[/ch]
+[ch]Em[/ch]      [ch]D[/ch]       [ch]C[/ch]       [ch]D[/ch]       [ch]G[/ch]               [ch]G[/ch]
+
+
+[Bridge]
+[tab]         [ch]Bm[/ch]                      [ch]C[/ch]                            [ch]G[/ch]                         [ch]D[/ch]
+Well someday I hope to find that land of honey wine where the coffee grows on the white oak trees[/tab]
+[tab]          [ch]Am[/ch]                            [ch]Em[/ch]                      [ch]C[/ch]
+And those sugar-coated mountains in the spring begin to melt into the sweetest streams[/tab]
+
+
+[Verse 3]
+[tab][ch]Em[/ch]                    ([ch]F#[/ch])             [ch]G[/ch]   [ch]C[/ch]                [ch]D[/ch]
+Where each night the starlight and the sea together form eternity[/tab]
+[tab]        [ch]Em[/ch]  [ch]D[/ch]              [ch]C[/ch]           [ch]D[/ch]              [ch]G[/ch]
+And the wind moves like an echo as the world drops off to sleep[/tab]

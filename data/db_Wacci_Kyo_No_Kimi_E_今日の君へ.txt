@@ -1,0 +1,89 @@
+URL: https://tabs.ultimate-guitar.com/tab/3966103
+Artist: Wacci
+Song: Kyo No Kimi E 今日の君へ
+Genre: 
+Key: 
+
+
+* = one strum
+
+
+[Intro]
+[tab]       [ch]G[/ch]       [ch]Bm[/ch]      [ch]Em[/ch]        [ch]C[/ch]
+`Kyo' wa kimi ga kore made no hibi[/tab]
+[tab]    [ch]Bm[/ch]    [ch]Em[/ch]      [ch]Am[/ch]    [ch]D[/ch]
+aruki tadori tsuita goru[/tab]
+[tab]    [ch]G[/ch]      [ch]Bm[/ch]     [ch]Em[/ch]     [ch]C#dim[/ch]
+mayoi korobi surimukinagara[/tab]
+[tab]      [ch]Bm[/ch]        [ch]C[/ch]       [ch]D[/ch]     [ch]G[/ch]
+koko made ko reta kimi o chanto[/tab]
+[tab]     [ch]C[/ch]* [ch]G[/ch]*  [ch]Am[/ch]*    [ch]D[/ch]*   [ch]G[/ch]*
+homete agete ganbatta ne[/tab]
+
+
+[Break]
+[ch]G[/ch] [ch]Bm[/ch] [ch]Em[/ch] [ch]C[/ch]
+[ch]Bm[/ch] [ch]C[/ch] [ch]D[/ch] [ch]D7[/ch]
+
+
+[Verse 1]
+[tab]       [ch]G[/ch]       [ch]Bm[/ch]      [ch]Em[/ch]        [ch]C[/ch]
+`kyo' no kimi wa kimi no nakade wa[/tab]
+[tab]     [ch]Bm[/ch]    [ch]Em[/ch]      [ch]Am[/ch]     [ch]D[/ch]
+ichiban norikoete kita hito[/tab]
+[tab]     [ch]G[/ch]        [ch]Bm[/ch]      [ch]Em[/ch]      [ch]C#dim[/ch]
+ichiban tsuyoku yasashii hitoda[/tab]
+[tab]     [ch]Bm[/ch]   [ch]C[/ch]     [ch]D[/ch]    [ch]G[/ch]
+munewohatte ganbattane[/tab]
+
+
+[Pre-Chorus 1]
+[tab]      [ch]Em[/ch]   [ch]Bm[/ch]    [ch]C[/ch]     [ch]G[/ch]
+yume ni obie ai ni naite[/tab]
+[tab]      [ch]C[/ch]       [ch]G[/ch]       [ch]Am[/ch]       [ch]Dsus4[/ch]
+zetsubo o shiri yami no mukou ni[/tab]
+[tab] [ch]D[/ch]   [ch]Em[/ch]    [ch]D[/ch]     [ch]C[/ch]       [ch]G[/ch]
+hikari o mite kibo to yobi[/tab]
+[tab]     [ch]Am[/ch]                 [ch]D[/ch]
+tarinu yuuki o furi shibotte kita[/tab]
+
+
+[Chorus]
+[tab]       [ch]G[/ch]       [ch]Bm[/ch]    [ch]Em[/ch]       [ch]C#dim[/ch]
+`kyo' mo kimi ga ikite kita koto[/tab]
+[tab]    [ch]Bm[/ch]     [ch]C[/ch]     [ch]D[/ch]    [ch]G[/ch]
+homete agete ganbattane[/tab]
+
+
+[Instrumental]
+[ch]G[/ch] [ch]Bm[/ch] [ch]Em[/ch] [ch]C[/ch] [ch]Bm[/ch] [ch]Em[/ch] [ch]Am[/ch] [ch]D[/ch]
+[ch]G[/ch] [ch]Bm[/ch] [ch]Em[/ch] [ch]C#dim[/ch] [ch]Bm[/ch] [ch]C[/ch] [ch]D[/ch] [ch]G[/ch]
+
+
+[Bridge]
+[tab]      [ch]Em[/ch]    [ch]Bm[/ch]     [ch]C[/ch]     [ch]G[/ch]
+kaze ni furue ameninurete[/tab]
+[tab]     [ch]C[/ch]       [ch]G[/ch]       [ch]Am[/ch]     [ch]D[/ch]
+genkai o shiri utsumuita saki[/tab]
+[tab]     [ch]Em[/ch]      [ch]D[/ch]      [ch]C[/ch]         [ch]G[/ch]
+kenage ni saku chiisana hana ni[/tab]
+[tab]      [ch]Am[/ch]               [ch]D[/ch]
+tsuyoku naritai to negainagara[/tab]
+
+
+[Chorus 2]
+[tab]         [ch]G[/ch]       [ch]Bm[/ch]    [ch]Em[/ch]       [ch]C[/ch]
+`asuwa' wa kimi ga aruki hajimete[/tab]
+[tab]     [ch]Bm[/ch]    [ch]Em[/ch]       [ch]Am[/ch]     [ch]D[/ch]
+ichiban saisho ni kuru mirai[/tab]
+[tab]    [ch]G[/ch]     [ch]Bm[/ch]      [ch]Em[/ch]     [ch]C#dim[/ch]
+mayoi korobi surimukudarou[/tab]
+[tab]      [ch]Bm[/ch]     [ch]C[/ch]        [ch]D[/ch]       [ch]G[/ch]
+sore demo yukou kimi o shinjite[/tab]
+[tab]     [ch]C[/ch]* [ch]G[/ch]* [ch]Am[/ch]*   [ch]D[/ch]*   [ch]G[/ch]*
+munewohatte ganbattene[/tab]
+
+
+[Outro]
+[ch]G[/ch] [ch]Bm[/ch] [ch]Em[/ch] [ch]C[/ch]
+[ch]Bm[/ch] [ch]C[/ch] [ch]D[/ch] [ch]G[/ch]*

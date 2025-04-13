@@ -1,0 +1,59 @@
+URL: https://tabs.ultimate-guitar.com/tab/1319455
+Artist: José González
+Song: Born In The Usa
+Genre: 
+Key: 
+
+
+Jose Gonzalez - Born in the USA (Bruce Springsteen cover)
+
+Tabbed by Ishan Singh-Levett.
+
+I couldn't find this anywhere on the net, so this is just what I could
+figure out from an incomplete video on Youtube but it's a start.
+
+Tuning : DGDGBe (drop both the 5th and 6th strings down a tone from
+standard tuning)
+
+INTRO:
+
+[tab] ([ch]C[/ch])                          ([ch]C[/ch])
+e|-----0----0-0-0-0-0--0--0--|----0---0-0-0-0-0--0--0--|
+B|-----3----3-3-0-3-3--3--3--|----3---3-3-0-3-3--3--3--|
+G|-----2----0-2-2-0-2--2--2--|----2---0-2-2-0-2--2--2--|
+D|--0--0----0-0-0-0-0--0--0--|-0--0---0-0-0-0-0--0--0--|
+G|--2--2---------------2--2--|-2--2--------------2--2--|
+D|--0--0---------------0--0--|-0--0--------------0--0--|[/tab]
+
+[tab]([ch]C/F[/ch])                         ([ch]C/F[/ch])                     ([ch]C[/ch])
+e|-----0----0-0-0-0-0--0--0--|----0---0-0-0-0-0--0--0--|-----0---|
+B|-----3----3-3-0-3-3--3--3--|----3---3-3-0-3-3--3--3--|-----3---|
+G|-----2----0-2-2-0-2--2--2--|----2---0-2-2-0-2--2--2--|-----2---|
+D|--0--0----0-0-0-0-0--0--0--|-0--0---0-0-0-0-0--0--0--|--0--0---|
+G|--0--0---------------0--0--|-0--0--------------0--0--|--2--2---|
+D|--0--0---------------0--0--|-0--0--------------0--0--|--0--0---|[/tab]
+
+.. and so on
+
+
+During the verses the chords are just strummed
+
+[tab]([ch]C[/ch])
+Got in a little home town jam[/tab]
+
+[tab]([ch]C[/ch])
+So they put a rifle in my hand[/tab]
+
+[tab]([ch]C/F[/ch])
+Sent me off to a foreign land[/tab]
+
+[tab]([ch]C/F[/ch])
+To go and kill the yellow man, I was[/tab]
+
+[tab]([ch]C[/ch])
+(Born in the USA)......[/tab]
+
+
+Hopefully this is helpful.  Obviously you'll need to listen to a recording to get a 
+of the feel and timing.
+Comments/criticism welcome - ishansl@yahoo.com

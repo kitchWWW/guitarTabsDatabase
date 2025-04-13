@@ -1,0 +1,118 @@
+URL: https://tabs.ultimate-guitar.com/tab/neil-finn/independence-day-tabs-3027854
+Artist: Neil Finn
+Song: Independence Day
+Genre: 
+Key: C
+
+
+Capo 1st fret
+
+[tab]Intro/verse riff (see notes)
+   Bmadd9/F#                             C#7/F                          
+E||--------------------------------------|---------------------------------|
+B||o--------0--------0--------0--------0-|-------0-------0-------0-------0-|
+G||----7--------7--------7--------7------|---6-------6-------6-------6-----|
+D||------11-------11-------11-------11---|-----9-------9-------9-------9---|
+A||o-9--------9--------9--------9--------|-8-------8-------8-------8-------|
+E||--------------------------------------|---------------------------------|[/tab]
+
+[tab] Cmaj7/E                             B/Eb
+E|-----------------------------------|---------------------------------|
+B|-------0-------0-------0-------0---|-------0-------0-------0-------0-|
+G|---5-------5-------5-------5-------|---4-------4-------4-------4-----|
+D|-----5-------5-------5-------5-----|-----4-------4-------4-------4---|
+A|-7-------7-------7-------7---------|-6-------6-------6-------6-------|
+E|-----------------------------------|---------------------------------|[/tab]
+
+[tab]  Asus2/C#                         B5
+E|---------------------------------|---------------------------------|
+B|-------0-------0-------0-------0-|-------0-------0-------0-------0-|
+G|---2-------2-------2-------2-----|---4-------4-------4-------4-----|
+D|-----2-------2-------2-------2---|-----4-------4-------4-------4---|
+A|-4-------4-------4-------4-------|-2-------2-------2-------2-------|
+E|---------------------------------|---------------------------------|[/tab]
+
+[tab]  Asus2/C#                         B5 (alternative: B5/Eb - see notes)
+E|---------------------------------|----------------------------------||
+B|-------0-------0-------0-------0-|-------0-------0-------0-------0-o||
+G|---2-------2-------2-------2-----|---4-------4-------4-------4------||
+D|-----2-------2-------2-------2---|-----4-------4-------4-------4----||
+A|-4-------4-------4-------4-------|-2-------2-------2-------2-------o||
+E|---------------------------------|----------------------------------||[/tab]
+                                   
+Intro (riff x1)
+
+Verse 1 (riff x2)                 
+As it was in the beginning                        
+So it will be in the end                            
+You have to keep on guessing                           
+The world will never change
+                           
+I’m sending you a message                        
+From a million miles away                               
+Are you aware you are controlled                      
+By forces still unknown
+
+Chorus (strummed chords)
+F#       A  E (x2)
+F#                     
+There will be no sunset
+A                E        
+When the rain is falling
+F#                           
+It’s hard to hear thunder
+A                    E        
+When the river keeps roaring
+F#                       
+Then one day it’s over
+A             E         
+Like it never happened
+D              C#m       F#                        
+Disappear without a trace
+D      C#m         (straight into verse 2)    
+On Independence Day
+
+Verse 2 (riff x2)                     
+We are use to thinking                           
+Our plans were set in stone                         
+You're giving me an update                               
+You think every one has to know
+                          
+I guess I am an accomplice                       
+To the true original sin                            
+So let me take your suffering                
+Let me take you in
+
+Chorus   
+F#       A  E (x2)                   
+F#                     
+There will be no sunset
+A                E        
+When the rain is falling
+F#                           
+It’s hard to hear thunder
+A                    E        
+When the river keeps roaring
+F#                       
+Then one day it’s over
+A             E         
+Like it never happened
+D              C#m       F#                         
+Disappear without a trace
+D      C#m      B 
+On Independence Day
+D              C#m       F#                       
+Disappear without a trace
+D              C#m       F#  (end cold)                  
+On Independence Day
+
+Notes:
+The first chord is tricky to finger, but otherwise the riff is fairly straightforward and I think is accurate
+to how it was played (from the infinity sessions video and the recording).  It was doubled on the recording.
+There are some variations I have not included - mainly places where the 1st or 3rd string is played in place 
+of the second as the 4th or 8th note in the phrase.
+
+You may wish to play a Eb bass note in bar 8 - as in bar 4 - to make the chord change to bar 1 easier.  
+However, I am fairly sure that this is not what was actually played - in particular, refer to a "warm up" 
+version of the riff played at 3:06:30 of week 4 of the infinity sessions:
+https://www.youtube.com/watch?v=LDSDBG68zHI.

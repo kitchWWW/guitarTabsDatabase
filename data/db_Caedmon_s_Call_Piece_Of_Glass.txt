@@ -1,0 +1,90 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/piece-of-glass-chords-341263
+Artist: Caedmon's Call
+Song: Piece Of Glass
+Genre: 
+Key: 
+
+
+================================                   =========================
+Piece Of Glass---Caedmon's Call--------------------Transfered by Asa Gaston
+================================                   =========================
+
+Bm     X24432 (or X20432 back-strum first time)
+[ch]A[/ch]*     X040XX (or X04030)
+Gx     3200XX ([ch]G[/ch])
+[ch]Em7[/ch]    010000
+[ch]G6[/ch]     320000
+[ch]G6/A[/ch]   X00000
+[ch]D[/ch]      X00232 ([ch]D/A[/ch])
+[ch]E7[/ch]     020100
+[ch]D/F#[/ch]   200232
+[ch]G2[/ch]     320203
+[ch]G[/ch]      320003
+[ch]G/A[/ch]    X00003
+[ch]A7sus[/ch]  X02030
+[ch]A7[/ch]     X02020
+
+
+INTRO:  [ch]Bm[/ch], [ch]A[/ch]*, Gx, [ch]Bm[/ch], [ch]A[/ch]*, [ch]Em7[/ch]
+
+
+VERSE 1:
+[ch]Bm[/ch]     [ch]A[/ch]*     Gx
+[ch]Bm[/ch]     [ch]A[/ch]*     [ch]Em7[/ch]    [ch]Bm[/ch]
+[ch]Bm[/ch]     [ch]A[/ch]*     [ch]G6[/ch]     [ch]D[/ch]
+[ch]E7[/ch]     [ch]G6[/ch]     [ch]G6/A[/ch]
+[ch]Bm[/ch]     [ch]A[/ch]*     Gx
+[ch]Bm[/ch]     [ch]A[/ch]*     [ch]Em7[/ch]
+[ch]Bm[/ch]     [ch]A[/ch]*     [ch]G6[/ch]     [ch]D[/ch]
+[ch]E7[/ch]     [ch]G6[/ch]
+[ch]E7[/ch]     [ch]G6[/ch]     [ch]G6/A[/ch]
+
+
+CHORUS 1:
+[ch]D[/ch]      [ch]D/F#[/ch]   [ch]G2[/ch]
+[ch]E7[/ch]     [ch]G[/ch]      [ch]G/A[/ch]
+[ch]D[/ch]      [ch]D/F#[/ch]   [ch]G2[/ch]
+[ch]E7[/ch]     [ch]G[/ch]
+[ch]E7[/ch]     [ch]G[/ch]
+[ch]E7[/ch]     [ch]G[/ch]      [ch]G/A[/ch]    ([ch]Bm[/ch])
+
+
+REPEAT INTRO
+
+
+VERSE 2:
+[ch]Bm[/ch]     [ch]A[/ch]*     Gx
+[ch]Bm[/ch]     [ch]A[/ch]*     [ch]Em7[/ch]
+[ch]Bm[/ch]     [ch]A[/ch]*     [ch]G6[/ch]     [ch]D[/ch]
+[ch]E7[/ch]     [ch]G6[/ch]     [ch]G6/A[/ch]
+[ch]Bm[/ch]     [ch]A[/ch]*     Gx
+[ch]Bm[/ch]     [ch]A[/ch]*     [ch]Em7[/ch]
+[ch]Bm[/ch]     [ch]A[/ch]*     [ch]G6[/ch]     [ch]D[/ch]
+[ch]E7[/ch]     [ch]G6[/ch]     [ch]G6/A[/ch]
+
+
+REPEAT CHORUS 1
+
+
+BRIDGE:  [ch]D[/ch], [ch]D/F#[/ch], [ch]G2[/ch]
+
+[ch]E7[/ch]     [ch]G[/ch]
+[ch]E7[/ch]     [ch]G[/ch]
+[ch]E7[/ch]     [ch]G[/ch]
+[ch]E7[/ch]
+[ch]D/F#[/ch]
+[ch]G[/ch]      [ch]A7sus[/ch]  [ch]A7[/ch]
+
+
+CHORUS 2:
+[ch]D[/ch]      [ch]D/F#[/ch]   [ch]G2[/ch]
+[ch]E7[/ch]     [ch]G[/ch]      [ch]G/A[/ch]
+[ch]D[/ch]      [ch]D/F#[/ch]   [ch]G2[/ch]
+[ch]E7[/ch]     [ch]G[/ch]
+[ch]E7[/ch]     [ch]G[/ch]
+[ch]E7[/ch]     [ch]G[/ch]
+[ch]E7[/ch]     [ch]G[/ch]      [ch]G/A[/ch]    [ch]D[/ch]
+[ch]E7[/ch]     [ch]G[/ch]      [ch]G/A[/ch]    [ch]D[/ch]
+
+
+OUTRO:  [ch]D[/ch], [ch]D/F#[/ch], [ch]G2[/ch], [ch]E7[/ch], [ch]G[/ch], [ch]G/A[/ch], [ch]D[/ch]

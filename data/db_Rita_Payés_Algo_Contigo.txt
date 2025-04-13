@@ -1,0 +1,83 @@
+URL: https://tabs.ultimate-guitar.com/tab/3867893
+Artist: Rita Payés
+Song: Algo Contigo
+Genre: 
+Key: G
+
+
+[Intro]
+| [ch]C[/ch]  [ch]C/G[/ch]  | [ch]Cm[/ch] [ch]Cm/G[/ch] | [ch]G[/ch]  [ch]G/F[/ch] | [ch]E[/ch]  [ch]E7[/ch] |
+| [ch]Am[/ch] [ch]Am/E[/ch] | [ch]Cm[/ch]  [ch]D7[/ch]  | [ch]G[/ch]  [ch]G/D[/ch] | [ch]Am[/ch] [ch]D7[/ch] |
+
+
+[Verse 1]
+[tab]        [ch]G[/ch]                       [ch]B7[/ch]         [ch]B7/F#[/ch]        [ch]Em[/ch]     [ch]Dm7[/ch] [ch]G7[/ch]
+Y hace falta que te diga que me muero por tener algo contigo[/tab]
+[tab]         [ch]C[/ch]                 [ch]C/G[/ch]        [ch]Bm7b5[/ch]       [ch]E7[/ch]             [ch]Am[/ch]   [ch]Am/E[/ch]  [ch]Am[/ch]  [ch]Am/E[/ch]
+Y es que no te has dado cuenta de lo mucho que me cuesta ser tu amiga[/tab]
+[tab]        [ch]C[/ch]     [ch]C/G[/ch]           [ch]Cm[/ch]  [ch]Cm/G[/ch]         [ch]G[/ch]         [ch]G/F[/ch]          [ch]E7[/ch]
+Ya no puedo acercarme a tu boca      sin deseártela de una manera loca[/tab]
+[tab]    [ch]Am[/ch]        [ch]Am/E[/ch]    [ch]Am7b5[/ch]    [ch]Eb[/ch]  [ch]D7[/ch]          [ch]D7/A[/ch]            [ch]D7[/ch]    [ch]D7/A[/ch]
+Necesito controlar tu vida, saber -- quién te besa y quién te abriga[/tab]
+
+
+[Verse 2]
+[tab]        [ch]G[/ch]                       [ch]B7[/ch]         [ch]B7/F#[/ch]        [ch]Em[/ch]   [ch]Em/B[/ch]  [ch]Dm7[/ch] [ch]G7[/ch]
+Y hace falta que te diga que me muero por tener algo contigo[/tab]
+[tab]         [ch]C[/ch]                           [ch]Bm7b5[/ch]           [ch]E7[/ch]        [ch]Am[/ch]  [ch]Am/E[/ch]  [ch]Am[/ch]  [ch]Am/E[/ch]
+Y es que no te has dado cuenta de lo mucho que me cuesta ser tu amiga[/tab]
+[tab]       [ch]C[/ch]     [ch]C/G[/ch]        [ch]Cm[/ch]   [ch]Cm/G[/ch]        [ch]G[/ch]         [ch]G/F[/ch]          [ch]E7[/ch]    [ch]E7/B[/ch]
+Ya me quedan muy pocos caminos  y aunque pueda parecerte un desatino[/tab]
+[tab]       [ch]Am[/ch]       [ch]Am/E[/ch]        [ch]D7[/ch]          [ch]G[/ch]  [ch]G/D[/ch]  [ch]Am[/ch]  [ch]D7[/ch]
+No quisiera yo morirme sin tener algo contigo[/tab]
+
+
+[Interlude]
+| [ch]G[/ch]  [ch]G/D[/ch] | [ch]B7[/ch] [ch]B7/F#[/ch] | [ch]Em7[/ch] [ch]Em/B[/ch] | [ch]Dm7[/ch] [ch]G7[/ch]   |
+| [ch]C[/ch]  [ch]C[/ch]   | [ch]Bm7b5[/ch] [ch]E7[/ch] | [ch]Am[/ch]  [ch]Am/E[/ch] | [ch]Am[/ch]  [ch]Am/E[/ch] |
+
+
+[Verse 3]
+[tab]       [ch]C[/ch]     [ch]C/G[/ch]        [ch]Cm[/ch]   [ch]Cm/G[/ch]        [ch]G[/ch]       [ch]G/F[/ch]          [ch]E7[/ch]   [ch]E7/B[/ch]
+Ya no puedo continuar espiando, día y noche y tú llegar adivinando[/tab]
+[tab]      [ch]Am[/ch]     [ch]Am/E[/ch]           [ch]A7[/ch]                [ch]D7[/ch]     [ch]E7[/ch]   [ch]E7[/ch]
+Ya no sé con qué inocente excusa pasar por tu ca  -  sa[/tab]
+[tab]      [ch]C[/ch]     [ch]C/G[/ch]         [ch]Cm[/ch]  [ch]Cm/G[/ch]           [ch]G[/ch]         [ch]G/F[/ch]          [ch]E7[/ch]  [ch]E7/B[/ch]
+Y me quedan muy pocos caminos    y aunque pueda parecerte un desatino[/tab]
+[tab]       [ch]Am[/ch]       [ch]Am/E[/ch]        [ch]D7[/ch]           [ch]G[/ch]  [ch]G/D[/ch]  [ch]Am[/ch]  [ch]D7[/ch]
+No quisiera yo morirme sin tener algo contigo[/tab]
+
+
+[Solo]
+| [ch]G[/ch]   [ch]G/D[/ch]  | [ch]B7[/ch] [ch]B7/F#[/ch] | [ch]Em7[/ch]  [ch]Em/B[/ch] | [ch]Dm7[/ch] [ch]G7[/ch]   |
+| [ch]C[/ch]   [ch]C/G[/ch]  | [ch]Bm7b5[/ch] [ch]E7[/ch] | [ch]Am[/ch]   [ch]Am/E[/ch] | [ch]Am[/ch]  [ch]Am/E[/ch] |
+| [ch]C[/ch]   [ch]C/G[/ch]  | [ch]Cm[/ch]  [ch]Cm/G[/ch] | [ch]G[/ch]    [ch]G/F[/ch]  | [ch]E7[/ch]  [ch]E7/B[/ch] |
+| [ch]Am[/ch]  [ch]Am/E[/ch] | [ch]Am7b5[/ch] [ch]Eb[/ch] | [ch]Dsus4[/ch] [ch]D/A[/ch] | [ch]D7[/ch]  [ch]D7/A[/ch] |
+
+| [ch]G[/ch]   [ch]G/D[/ch]  | [ch]B7[/ch] [ch]B7/F#[/ch] | [ch]Em7[/ch]  [ch]Em/B[/ch] | [ch]Dm7[/ch] [ch]G7[/ch]   |
+| [ch]C[/ch]   [ch]C/G[/ch]  | [ch]Bm7b5[/ch] [ch]E7[/ch] | [ch]Am[/ch]   [ch]Am/E[/ch] | [ch]Am[/ch]  [ch]Am/E[/ch] |
+| [ch]C[/ch]   [ch]C/G[/ch]  | [ch]Cm[/ch]  [ch]Cm/G[/ch] | [ch]G[/ch]    [ch]G/F[/ch]  | [ch]E7[/ch]  [ch]E7/B[/ch] |
+| [ch]Am[/ch]  [ch]Am/E[/ch] | [ch]D7[/ch]   [ch]D7[/ch]  | [ch]Gmaj7[/ch]     | [ch]Am7[/ch]  [ch]D7[/ch]  |
+
+| [ch]G[/ch]   [ch]G/D[/ch]  | [ch]B7[/ch] [ch]B7/F#[/ch] | [ch]Em7[/ch]  [ch]Em/B[/ch] | [ch]Dm7[/ch] [ch]G7[/ch]   |
+| [ch]C[/ch]   [ch]C/G[/ch]  | [ch]Bm7b5[/ch] [ch]E7[/ch] | [ch]Am[/ch]   [ch]Am/E[/ch] | [ch]Am[/ch]  [ch]Am/E[/ch] |
+
+
+[Verse 4]
+[tab]       [ch]C[/ch]     [ch]C/G[/ch]        [ch]Cm[/ch]   [ch]Cm/G[/ch]        [ch]G[/ch]       [ch]G/F[/ch]          [ch]E7[/ch]   [ch]E7/B[/ch]
+Ya no puedo continuar espiando, día y noche y tú llegar adivinando[/tab]
+[tab]      [ch]Am[/ch]     [ch]Am/E[/ch]           [ch]A7[/ch]                [ch]D7[/ch]     [ch]E7[/ch]   [ch]E7[/ch]
+Ya no sé con qué inocente excusa pasar por tu ca  -  sa[/tab]
+[tab]      [ch]C[/ch]     [ch]C/G[/ch]         [ch]Cm[/ch]  [ch]Cm/G[/ch]           [ch]G[/ch]         [ch]G/F[/ch]          [ch]E7[/ch]  [ch]E7/B[/ch]
+Y me quedan muy pocos caminos    y aunque pueda parecerte un desatino[/tab]
+[tab]       [ch]Am[/ch]       [ch]Am/E[/ch]         [ch]D7[/ch]
+No quisiera yo morirme sin tener[/tab]
+[tab][ch]D7[/ch]      [ch]G[/ch]    [ch]G/D[/ch]
+Algo contigo[/tab]
+
+
+[Outro]
+[tab][ch]Am[/ch]  [ch]D7[/ch]      [ch]G[/ch]    [ch]G/D[/ch]
+    Algo contigo[/tab]
+[tab][ch]Am[/ch]  [ch]D7[/ch]       [ch]G[/ch]
+    Algo contigo[/tab]

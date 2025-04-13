@@ -1,0 +1,113 @@
+URL: https://tabs.ultimate-guitar.com/tab/chris-farren/eagle-eyes-chords-1846181
+Artist: Chris Farren
+Song: Eagle Eyes
+Genre: 
+Key: 
+
+
+You can play this with more normal fingerings, but this is the fingering Chris uses.
+
+[tab]     F        A#      C       Dm
+e|--------|-------|-------|--------|
+B|--------|-------|-------|--------|
+G|---10---|---3---|---5---|---10---|
+D|---10---|---3---|---5---|---12---|
+A|---12---|---5---|---7---|---12---|
+E|--------|-------|-------|--------|[/tab]
+
+
+[Intro]
+|  F  |  F  |  A#  |  C  |
+|  F  |  F  |  A#  |  C  |
+
+
+[Verse]
+         F                        A#         C            F     A#  C
+You were on my mind up on the roof when they called the police.
+
+[tab]      [ch]F[/ch]                            A#           [ch]C[/ch]      F   [ch]A#[/ch]   [ch]C[/ch]
+And I thought of you in the cop car when they arrested me.[/tab]
+
+
+[Chorus]
+          F              A# C      F    A#   C
+There are so many amazing ways to fail.
+
+[tab]      [ch]F[/ch]              A#     [ch]C[/ch]         [ch]F[/ch]      A#   [ch]C[/ch]
+And believe me, yes, I know I’ve been there.[/tab]
+
+
+[Verse]
+  F                                A#      C              F     A#  C
+I saw your face when I closed my eyes as I tried to go to sleep.
+
+    F                              A#    C            F     A#  C
+And then again when they woke me up and told me I was free.
+
+
+[Chorus]
+          F              A# C      F    A#   C
+There are so many amazing ways to fail.
+
+[tab]      [ch]F[/ch]              A#     [ch]C[/ch]         [ch]F[/ch]      A#   [ch]C[/ch]
+And believe me, yes, I know I’ve been there. [/tab]
+
+
+[tab][Instrumental]
+e|------------------------------------------------------------------------------|
+B|------------------------------------------------------------------------------|
+G|--10--10--12-10--10-10--10--10--14-10--10-10--3--3--5-3--3-3--5--5--7-5--5-5--|
+D|--10--10--10-10--10-10--10--10--10-10--10-10--3--3--3-3--3-3--5--5--5-5--5-5--|
+A|--12--12--12-12--12-12--12--12--12-12--12-12--5--5--5-5--5-5--7--7--7-7--7-7--|
+E|------------------------------------------------------------------------------|[/tab]
+
+[tab]e|-------------------------------------------------------------------------|
+B|-------------------------------------------------------------------------|
+G|--10--10--12-10--10-10--10--10--14-10--10-10--3--3--5-3--3-3--5--5--5\\--|
+D|--10--10--10-10--10-10--10--10--10-10--10-10--3--3--3-3--3-3--5--5--5\\--|
+A|--12--12--12-12--12-12--12--12--12-12--12-12--5--5--5-5--5-5--7--7--7\\--|
+E|-------------------------------------------------------------------------|[/tab]
+
+
+[Chorus]
+           F~~                        A#~~    C~~           F   A#  C
+You’re the reoccurring thematic device that I use to comfort me.
+
+           F~~                      A#~~ C~~    F    A#  C
+You’re the object that my eagle eyes can barely see.
+
+
+[Chorus]
+          F              A# C      F    A#   C
+There are so many amazing ways to fail.
+
+[tab]      [ch]F[/ch]              A#     [ch]C[/ch]         [ch]Dm[/ch]
+And believe me, yes, I know I’ve been there.[/tab]
+
+
+[Bridge]
+        C        F
+My big mistakes
+
+                 A#        Dm
+Are all outgoing messages
+
+        C                F~~
+Begging you to leave me alone.
+
+ 
+[End Chorus]
+          F              A# C      F    A#   C
+There are so many amazing ways to fail.
+
+[tab]      [ch]F[/ch]              A#     [ch]C[/ch]
+And believe me, yes, I know I’ve-[/tab]
+
+[tab]  [ch]F[/ch]              A#     [ch]C[/ch]
+Believe me, yes, I know I’ve-[/tab]
+
+[tab]  [ch]F[/ch]              A#     [ch]C[/ch]         [ch]F[/ch]
+Believe me, yes, I know I’ve been there.[/tab]
+
+     A#~~   C~~       F~~
+Yes, I know I’ve been there.

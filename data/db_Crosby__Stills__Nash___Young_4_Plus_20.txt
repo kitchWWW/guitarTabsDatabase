@@ -1,0 +1,100 @@
+URL: https://tabs.ultimate-guitar.com/tab/crosby-stills-nash-young/4-plus-20-chords-2489760
+Artist: Crosby, Stills, Nash & Young
+Song: 4 Plus 20
+Genre: 
+Key: E
+
+
+---------------------------------------------------------------------------
+                4 + 20 - Crosby, Stills, Nash and Young
+---------------------------------------------------------------------------
+
+Written by: Stephen Stills
+From: "Deja Vu" (1970)
+
+Tabbed by: maguri
+Tuning: Standard / optional: Drop-D
+
+The original recording is played using an open tuning, so if you're looking 
+for that, check out the tab version:
+https://tabs.ultimate-guitar.com/tab/crosby_stills_nash_young/4_plus_20_tabs_1035751
+
+This here is a chord sheet for strumming along. The key of original recording
+is between E and Eb. I'd suggest playing in D and using a capo on the 2nd fret.
+Of course, many subtle changes and embellishments are lost in this simple
+reading, but it still offers interesting ways of expanding (see chords section).
+
+---------------------------------------------------------------------------
+
+[Chords]
+Use any voicings you like. The ones suggested here may be useful, though.
+Drop-D tuning sounds even closer to the open-tuning feel of the original.
+
+[tab]         Standard tuning                         Drop-D tuning
+         E-A-D-G-B-e                             D-A-D-G-B-e
+D5       x-x-0-2-3-5 (optionally: regular D)     0-0-0-2-3-5
+Dsus4    x-x-0-2-3-3                             0-0-0-2-3-3
+D        x-x-0-2-3-2                             0-0-0-2-3-2
+F     (t)1-3-3-2-1-x                             3-x-3-2-1-x[/tab]
+[tab]G        3-x-0-2-1-x (actually D7/G)             5-5-5-7-5-x
+D7       x-x-0-2-1-x  or x-x-0-7-10-8            0-0-0-2-1-x  or 0-0-0-7-7-8
+                                                                 0-0-0-7-10-8[/tab]
+
+---------------------------------------------------------------------------
+
+[Intro]
+| [ch]D5[/ch] | [ch]Dsus4[/ch] | [ch]D[/ch] | % |
+
+[Verse 1]
+[tab][ch]D5[/ch]              [ch]Dsus4[/ch]
+Four and twenty years ago[/tab]
+[tab]  [ch]D[/ch]
+I come into this life[/tab]
+[tab]    [ch]D5[/ch]       [ch]Dsus4[/ch]
+The son of a woman[/tab]
+[tab]      [ch]D[/ch]
+And a man who lived in strife[/tab]
+[tab]       [ch]F[/ch]    [ch]G[/ch]         [ch]D7[/ch]
+He was tired of being poor[/tab]
+[tab]       [ch]F[/ch]           [ch]G[/ch]               [ch]D7[/ch]
+And he wasn't into selling door to door[/tab]
+[tab]       [ch]F[/ch]               [ch]G[/ch]         |  [ch]D7[/ch]  |  %  |
+And he worked like the devil to be more (break)[/tab]
+
+[Interlude]
+| [ch]D5[/ch] | [ch]Dsus4[/ch] | [ch]D[/ch] | % |
+
+[Verse 2]
+[tab]  [ch]D5[/ch]                [ch]Dsus4[/ch]
+A different kind of poverty[/tab]
+[tab][ch]D[/ch]
+Now upsets me so[/tab]
+[tab][ch]D5[/ch]          [ch]Dsus4[/ch]
+Night after sleepless night[/tab]
+[tab]  [ch]D[/ch]
+I walk the floor and want to know[/tab]
+[tab][ch]F[/ch]   [ch]G[/ch]     [ch]D7[/ch]
+ Why am I so alone?[/tab]
+[tab][ch]F[/ch]            [ch]G[/ch]            [ch]D7[/ch]
+ Where is my woman, can I bring her home?[/tab]
+[tab]       [ch]F[/ch]               [ch]G[/ch]      |  [ch]D7[/ch]  |  %  |
+Have I driven her away? Is she gone? (break)[/tab]
+
+[Interlude]
+| [ch]D5[/ch] | [ch]Dsus4[/ch] | [ch]D[/ch] | % |
+
+[Verse 3]
+[tab][ch]D5[/ch]                [ch]Dsus4[/ch]
+Morning comes the sunrise[/tab]
+[tab]        [ch]D[/ch]
+And I'm driven to my bed[/tab]
+[tab][ch]D5[/ch]                [ch]Dsus4[/ch]
+ I see that it is empty[/tab]
+[tab]            [ch]D[/ch]
+And there's devils in my head[/tab]
+[tab]   [ch]F[/ch]          [ch]G[/ch]                [ch]D7[/ch]
+I ... embrace the many colored beast[/tab]
+[tab]       [ch]F[/ch]            [ch]G[/ch]                  [ch]D7[/ch]
+I grow weary of the torment, can there be no peace?[/tab]
+[tab][ch]F[/ch]             [ch]G[/ch]                         [ch]D7[/ch]                        [ch]D7[/ch]
+ And I find myself just wishing that my life would simply cease[/tab]

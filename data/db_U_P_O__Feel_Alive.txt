@@ -1,0 +1,88 @@
+URL: https://tabs.ultimate-guitar.com/tab/u-p-o-/feel-alive-bass-687
+Artist: U.P.O.
+Song: Feel Alive
+Genre: 
+Key: 
+
+
+Song: Feel Alive
+Artist: U.P.O.
+Album: No Pleasantries
+Track: #3
+Tabbed By: EvilMilenko (evilmilenko@bolt.com)
+
+Be sure to play this one with your fingers.  No pick!
+
+======
+KEY
+======
+h=hammer-on
+p=pull-off
+/=slide up
+\=slide down
+^=bend (1/2 step)
+
+Dropped-D Tuning 
+1=g   3=a
+2=d   4=D
+
+
+[tab]intro
+=====
+G|----------------------------------------------------------------|
+D|----------------------------------------------------------------|
+A|--3h5----3h5---3h5---5---3h5---3h5---5---3h5---3h5---3h5-3h5-5^-|
+D|0-----0------0-----0---0-----0-----0---0-----0-----0------------|[/tab]
+
+[tab]G|--------------------------------------------------------------|
+D|--------------------------------------------------------------|
+A|--3h5----3h5---3h5---5---3h5---3h5---5---3h5---3h5-333\22-1p0-|
+D|0-----0------0-----0---0-----0-----0---0-----0----------------|[/tab]
+
+[tab]main riff (chorus)
+==================
+G|--------------------------------------------------------------|
+D|--------------------------------------------------------------|
+A|--3h5----3h5---3h5---5---3h5---3h5---5---3h5---3h5-333\22-1p0-|
+D|0-----0------0-----0---0-----0-----0---0-----0----------------|[/tab]
+
+[tab]verse 
+=====
+G|----------------------------------------------------------------|
+D|----------------------------------------------------------------|
+A|--3h5----3h5---3h5---5---3h5---3h5---5---3h5---3h5---3h5-3h5-5^-|
+D|0-----0------0-----0---0-----0-----0---0-----0-----0------------|[/tab]
+
+
+[tab]interlude
+=========
+G|-----------------------------|
+D|-----------------------------|
+A|------------------6-6-6-6h8p6|
+D|00----0-00---0-0-------------|[/tab]
+
+
+[tab]ending
+G|---------------|
+D|---------------|[/tab]
+[tab]A|333\22-1p0-(5\)| you don't need to add that note in parenthesis,
+D|------------0--| but it sure does make it sounds cooler[/tab]
+
+
+SONG STRUCTURE
+intro (x1)
+main riff (x2)
+verse (x4)
+main riff (x4)
+verse (x5)
+main riff (x4)
+interlude (x2)
+verse (x6)
+main riff (x4) (second time through, bass doesn't play end fill)
+interlude (x2)
+ending (x1) (let guitar play regular riff, and end it w/ bass)
+
+
+That's it! Pretty easy once you get used to the constant hammer-ons. 
+It's fun to play too. Email me with questions/comments/corrections at
+evilmilenko@bolt.com.  http://www.monkmonk.co

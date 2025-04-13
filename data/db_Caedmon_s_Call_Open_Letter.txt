@@ -1,0 +1,91 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/open-letter-tabs-341261
+Artist: Caedmon's Call
+Song: Open Letter
+Genre: 
+Key: 
+
+
+=============================                    =========================
+Open Letter---Caedmon's Call---------------------Transfered by Asa Gaston
+=============================                    =========================
+
+Capo 4 in C (E), standard-tuned six-string acoustic.
+
+
+[intro=quarter verse]  C9, C9/A, G, G/B (four times)
+
+[tab]Count 1   2   3   4   5   6   7   8   
+   e-|----3-3-----3-3-----3-------3-3-|   Beat 8 is occasionally
+   b-|----3-3-----3-3-----3-------3-3-| &lt;-left silent for effect.
+   g-|----0-0-----0-0-----0-------0-0-|
+   d-|--------0h2---------------------|   Beat 7 is sometimes
+   a-|2h3-----0---------------0h2-----| &lt;-a hammer on the 4th
+   e-|----------------3---------------|   string instead.
+      C9..... C9/A... G...... G/B....[/tab]
+
+There's a bass note each odd numbered beat, usually either hammered on 
+or paired with a note hammered on the next higher string.  On all the 
+off (even) beats do a down-up pair of strums (except the G, just one 
+there).  Just leave your pinky and ring fingers on the 3rd fret 1st and 
+2nd strings; do all the bass and hammer notes with your index and middle 
+fingers.  If you count the beats as I have here, then the tempo is 170 
+beats per minute (about 3 seconds per 8/8 bar).  The verse is the same 
+pattern.
+
+
+[verse 1]  C9, C9/A, G, G/B (16 times)
+
+[bridge 1]  Am7, Fmaj7
+
+[tab]Count 1   2   3   4   5   6   7   8   1   2   3   4   5   6   7   8  
+   e-|----3-----3---------3-----3----|----0-----0---------0-----0----|
+   b-|----1---------1-----1---------1|----1---------1-----1---------1|
+   g-|----0-------0-------0-------0--|----2-------2-------2-------2--|
+   d-|----2---------------2----------|----3---------------3----------|
+   a-|0---------------0--------------|----0---------------0----------|
+   e-|-------------------------------|1---------------1--------------|
+      Am7............................ Fmaj7..........................[/tab]
+
+An easier option is just to strum instead of picking the three notes
+after each bass/strum.
+
+
+[chorus]  E7, Fmaj7, G, Am7 (x4)
+
+(note: "}" signifies a line where Danielle sings harmony)
+
+[tab]Count 1   2   3   4   5   6   7   8   1   2   3   4   5   6   7   8  
+   e-|----0-----0-0-0-----0-----0-0-0|----3-----3-3-3-----3-----3-3-0|
+   b-|----0-----0-0-0-----1-----1-1-1|----3-----3-3-3-----1-----1-1-0|
+   g-|----1-----1-1-1-----2-----2-2-2|----0-----0-0-0-----0-----0-0-1|
+   d-|----0-----0-0-0-----3-----3-3-3|----0-----0-0-0-----2-----2-2-0|
+   a-|----2-----2-2-2-----0-----0-0-0|----2-----2-2-2-0---------0-0-2|
+   e-|0---------0-0-0-1---------1-1-1|3---------3-3-3----------------|
+      E7............. Fmaj7.......... G.............. Am7...........E7[/tab]
+
+Same rhythm as the bridge, but strum instead of picking the three notes 
+(same as the "easier option" for the bridge).  Note the syncopation of 
+the E7 on the last up-beat.
+
+
+[mandolin solo=quarter verse]
+
+[verse 2]
+
+[bridge 2]
+
+[chorus]
+
+[mandolin solo=quarter verse plus bridge]
+
+[bridge 3]
+
+[chorus] 2x
+
+[outro w/mandolin=quarter verse]
+
+   C9=X32033
+    G=320033
+  Am7=X02013
+Fmaj7=103210 (thumb wrapped around)
+   E7=020100

@@ -1,0 +1,129 @@
+URL: https://tabs.ultimate-guitar.com/tab/lily-williams/july-later-on-chords-4296668
+Artist: Lily Williams
+Song: July Later On
+Genre: 
+Key: Abm
+
+
+BPM:      174
+Single released: 15 July 2022
+
+
+Note: Easier to play?
+      Look at verse 5 for the straight chords ie instead of the Esus4 play straight E chord.
+      Same for Dmaj7 play straight D chord instead.
+      Another way to make the chords easier is to put capo on fret 4. 
+         Use transpose button below and set this at -2 to get the correct chords.
+
+
+Capo: 2 fret
+
+
+[Verse 1]
+[tab][ch]A[/ch]                       [ch]F#m[/ch]
+We can let July just be July,[/tab]
+[tab]                        [ch]E[/ch]
+Let the sun hang in the sky,[/tab]
+[tab]                           [ch]D[/ch]
+Clear your mind of all the things,[/tab]
+[tab][ch]D[/ch]
+You’re waiting on.[/tab]
+
+
+[Verse 2]
+[tab][ch]A[/ch]                            [ch]F#m[/ch]
+Let there be a second you forget,[/tab]
+[tab]                            [ch]Esus4[/ch]
+All the work you still have left,[/tab]
+[tab]                      [ch]Dmaj7[/ch]
+Cuz tomorrow’s just a little later on,[/tab]
+[tab]      [ch]A[/ch]
+Later on,[/tab]
+[tab]      [ch]F#m[/ch]
+Later on,[/tab]
+[tab]      [ch]Esus4[/ch]
+Later on,[/tab]
+[tab]       [ch]Dmaj7[/ch]
+Just a little later on.[/tab]
+
+
+[Verse 3]
+[tab][ch]A[/ch]                                  [ch]F#m[/ch]
+We could let this room just be our room,[/tab]
+[tab]                     [ch]Esus4[/ch]
+Stay inside all afternoon,[/tab]
+[tab][ch]Esus4[/ch]
+Easy as the tune of,[/tab]
+[tab][ch]Dmaj7[/ch]
+All our favorite songs.[/tab]
+
+
+[Verse 4]
+[tab][ch]A[/ch]                                 [ch]F#m[/ch]
+You could let my arms be yours to hold,[/tab]
+[tab]                            [ch]Esus4[/ch]
+Rest assured they won’t let go,[/tab]
+[tab]                               [ch]Dmaj7[/ch]
+And we’ll get old but that’s a little later on,[/tab]
+[tab]      [ch]A[/ch]
+Later on,[/tab]
+[tab]      [ch]F#m[/ch]
+Later on,[/tab]
+[tab]      [ch]Esus4[/ch]
+Later on,[/tab]
+[tab]       [ch]Dmaj7[/ch]           [ch]D[/ch] [ch]Dmaj7[/ch]
+Just a little later on.[/tab]
+
+
+[Bridge]
+[tab][ch]B7[/ch]                         [ch]Dmaj7[/ch]
+No one knows where this is going,[/tab]
+[tab]        [ch]A[/ch]                [ch]C#7[/ch]           [ch]F#m[/ch]
+And the days are getting shorter now I swear,[/tab]
+[tab][ch]B7[/ch]                  [ch]Dmaj7[/ch]
+I was rarely in the moment,[/tab]
+[tab]    [ch]A[/ch]                  [ch]C#7[/ch]            [ch]F#m[/ch]
+Cuz something ‘bout it always made me scared,[/tab]
+[tab]               [ch]Esus4[/ch]
+But now you’re there.[/tab]
+
+
+[Verse 5]
+[tab][ch]A[/ch]                         [ch]F#m[/ch]
+I have found July is just July,[/tab]
+[tab]                         [ch]E[/ch]
+Rainy days will pass you by,[/tab]
+[tab]                      [ch]D[/ch]
+You can let go of the ways,[/tab]
+[tab][ch]D[/ch]                  [ch]Dsus2[/ch]
+It could’ve gone,[/tab]
+
+
+[Verse 6]
+[tab][ch]A[/ch]                     [ch]F#m[/ch]
+Take a second, take a breath,[/tab]
+[tab]                          [ch]Esus4[/ch]
+Take the minutes that you get,[/tab]
+[tab]                       [ch]Dmaj7[/ch]
+Cuz the rest is just a little later on,[/tab]
+[tab]      [ch]A[/ch]
+Later on,[/tab]
+[tab]      [ch]F#m[/ch]
+Later on,[/tab]
+[tab]      [ch]Esus4[/ch]
+Later on,[/tab]
+[tab]       [ch]Dmaj7[/ch]
+Just a little later on.[/tab]
+
+
+[Outro]
+[tab]      [ch]A[/ch]
+Later on,[/tab]
+[tab]      [ch]F#m[/ch]
+Later on,[/tab]
+[tab]      [ch]Esus4[/ch]
+Later on,[/tab]
+[tab]       [ch]Dmaj7[/ch]
+Just a little later on,[/tab]
+[tab]      [ch]A[/ch]
+Later on.[/tab]

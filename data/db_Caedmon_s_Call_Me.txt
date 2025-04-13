@@ -1,0 +1,29 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/me-chords-339942
+Artist: Caedmon's Call
+Song: Me
+Genre: 
+Key: 
+
+
+====================                             =========================
+Me---Caedmon's Call------------------------------Transfered by Asa Gaston
+====================                             =========================
+
+Capo 4 in G.  this is derek's song for Kemper Crabb.
+
+
+[tab]verse: [ch]C[/ch], [ch]G[/ch], [ch]C[/ch], [ch]G[/ch], [ch]C[/ch], [ch]G[/ch], [ch]F[/ch]
+X32013   C (hammer 4th string)[/tab]
+320003   G (hammer 5th string)
+133010   Fmaj7add9
+
+bridge: [ch]E[/ch], [ch]D[/ch], [ch]E[/ch], [ch]D[/ch]
+022000   [ch]Em[/ch]
+X00232   [ch]D/A[/ch]
+
+chorus: [ch]C[/ch], [ch]B[/ch], [ch]G[/ch], [ch]F[/ch], [ch]C[/ch], /[ch]B[/ch], [ch]D[/ch]
+332010   [ch]C/G[/ch]
+[tab]X21202   [ch]B7[/ch]
+320033   G (chorus)[/tab]
+3X3210   [ch]Fmaj7[/ch]/[ch]G[/ch] (pull-off 3rd string)
+X20010   /[ch]B[/ch] (bass run from [ch]C[/ch] to [ch]D[/ch]/A)

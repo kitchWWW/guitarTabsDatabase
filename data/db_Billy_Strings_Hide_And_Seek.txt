@@ -1,0 +1,233 @@
+URL: https://tabs.ultimate-guitar.com/tab/billy-strings/hide-and-seek-chords-3903350
+Artist: Billy Strings
+Song: Hide And Seek
+Genre: 
+Key: 
+
+
+[Intro]
+
+[tab]   [ch]D[/ch]                                 [ch]C[/ch]                                  [ch]D[/ch]
+e|-2---------2-----------------------3----------------------------------2--|
+B|-3-----3---------------------------3----------------------------------3--|
+G|-0h2---2-------3---0---------------0----------------------------------2--|
+D|-----------------------4--2--0-----x-------------2--------------------0--|
+A|--------------------------------3--3----0--2--3-----3--2--0--------------|
+E|-------------------------------------------------------------3--2--0-----| x3[/tab]
+
+[tab]   [ch]D[/ch]                                 [ch]C[/ch]                                  
+e|-2----------2----------------------3-----------------------------------------------------|
+B|-3-----3---------------------------3-----------------------------------------------------|
+G|-0h2---2-------3---0---------------0-----------------------------------------------------|
+D|-----------------------4--2--0-----x-------------2-----------4-----------2-----------4-4-|
+A|--------------------------------3--3----0--2--3-----3--2--0-----0--3--2-----0--2--3------|
+E|-----------------------------------------------------------------------------------------|[/tab]
+
+[Intro Rift x3]
+
+[tab]   [ch]D[/ch]                                 [ch]C[/ch]                                  
+e|-2----------2----------------------3-----------------------------------------------------|
+B|-3------3--------------------------3-----------------------------------------------------|
+G|-0h2----2------3---0---------------0-----------------------------------------------------|
+D|-----------------------4--2--0-----x-------------2-----------4-----------2-----------4-4-|
+A|--------------------------------3--3----0--2--3-----3--2--0-----0--3--2-----0--2--3------|
+E|-----------------------------------------------------------------------------------------|[/tab]
+
+[tab]e|------------------------------------------------------------------------------------------------------|
+B|------------------------------------------------------------------------------------------------------|
+G|------------------------------------------------------------------------------------------------------|
+D|----------2-----------4-----------2-----------4-4-4-----------2-----------4-----------2-----------4-4-|
+A|-0--2--3-----0--2--3-----0--2--3-----0--2--3---------0--2--3-----0--2--3-----0--2--3-----0--2--3------|
+E|------------------------------------------------------------------------------------------------------|[/tab]
+
+[tab]   [ch]D[/ch]            [ch]Dm7[/ch]
+e|-2~~~~~~~~~~~~5~~~~~~~~~~~~|
+B|-3~~~~~~~~~~~~6~~~~~~~~~~~~|
+G|-2~~~~~~~~~~~~5~~~~~~~~~~~~|
+D|-0~~~~~~~~~~~~0~~~~~~~~~~~~|
+A|--------------0~~~~~~~~~~~~|
+E|---------------------------|[/tab]
+
+[Metal Intro Thing]
+
+[tab]   [ch]Bbsus[/ch] [ch]Gsus[/ch]  [ch]F#m[/ch]   [ch]Bbm[/ch]  [ch]Ebm[/ch] [ch]Db[/ch] [ch]D[/ch]                  [ch]Fm[/ch]      [ch]G[/ch]       [ch]D[/ch]              [ch]Fm[/ch]      [ch]Abm[/ch]
+e|----------------------------------------------------------3-3-33--2-2-22-2-2-22-----------------|
+B|----------------------------------------------------------3-3-33--3-3-33-3-3-33-----------------|
+G|------------------------8-8--6-7---7-77-7-7-77-7----------4-4-44--2-2-22-2-2-22-----------------|
+D|-------------4-4---8-8--8-8--6-7---7-77-7-7-77-7--3-3-33--5-5-55--0-0-00-0-0-00--3-3-33--6-6-66-|
+A|-6-6---3-3---4-4---8-8--6-6--4-5---5-55-5-5-55-5--3-3-33--5-5-55-----------------3-3-33--6-6-66-|
+E|-6-6---3-3---2-2---6-6----------------------------1-1-11-------------------------1-1-11--4-4-44-|[/tab]
+
+[Verse 1]
+
+[tab]   [ch]D[/ch]              [ch]Fm[/ch]      [ch]G[/ch]       [ch]D[/ch]              [ch]Fm[/ch]      [ch]Abm[/ch]
+e|-2-3-33-2-2-22----------3-3-33--2-2-22-2-2-22-----------------|
+B|-3-3-33-3-3-33----------3-3-33--3-3-33-3-3-33-----------------|
+G|-2-2-22-2-2-22----------4-4-44--2-2-22-2-2-22-----------------|
+D|-0-0-00-0-0-00--3-3-33--5-5-55--0-0-00-0-0-00--3-3-33--6-6-66-|
+A|----------------3-3-33--5-5-55-----------------3-3-33--6-6-66-|
+E|----------------1-1-11-------------------------1-1-11--4-4-44-|[/tab]
+
+[tab][ch]D[/ch]                           [ch]Fm[/ch]   [ch]G[/ch]
+ A twisted game of hide and seek[/tab]
+[tab][ch]D[/ch]                              [ch]Fm[/ch]   [ch]Abm[/ch]
+ The stench of darkness and defeat[/tab]
+[tab][ch]D[/ch]                       [ch]Fm[/ch]   [ch]G[/ch]
+ Another day without relief[/tab]
+[tab][ch]D[/ch]
+ Leaves me broken[/tab]
+
+[tab]   [ch]Bbsus[/ch] [ch]Gsus[/ch]  [ch]F#m[/ch]   [ch]Bbm[/ch]  [ch]Ebm[/ch] [ch]Db[/ch] [ch]D[/ch]
+e|---------------------------------|
+B|---------------------------------|
+G|------------------------8-8--6-7-|
+D|-------------4-4---8-8--8-8--6-7-|
+A|-6-6---3-3---4-4---8-8--6-6--4-5-|
+E|-6-6---3-3---2-2---6-6-----------|[/tab]
+
+[tab][ch]D[/ch]                        [ch]Fm[/ch]   [ch]G[/ch]
+ Curtains falling all around[/tab]
+[tab][ch]D[/ch]                       [ch]Fm[/ch]   [ch]Abm[/ch]
+ Echoes up from underground[/tab]
+[tab][ch]D[/ch]                         [ch]Fm[/ch]   [ch]G[/ch]
+ Screaming out without a sound[/tab]
+[tab][ch]D[/ch]
+ Leaves me breathless[/tab]
+
+[tab]   [ch]Bbsus[/ch] [ch]Gsus[/ch] [ch]F#sus[/ch] [ch]Fsus[/ch] 
+e|-------------------|
+B|-------------------|
+G|-------------------|
+D|-----------------0-|
+A|-6-6---3-3---2-1-0-|
+E|-6-6---3-3---2-1---|[/tab]
+
+
+[Chorus]
+[tab]              [ch]G[/ch]                  [ch]D[/ch]
+Well, it's a dark time, I do believe[/tab]
+[tab]   [ch]G[/ch]              [ch]A[/ch]            [ch]D[/ch]
+A cold wind's a-blowin' at my door[/tab]
+[tab]    [ch]G[/ch]                       [ch]D[/ch]
+Incredible light I'm gonna find[/tab]
+[tab]      [ch]G[/ch]                [ch]Fm[/ch]   [ch]Em[/ch]      
+Where I don't have to worry anymore[/tab]
+
+[D [ch]Fm[/ch] [ch]G[/ch]  [ch]D[/ch] [ch]Fm[/ch] [ch]Abm[/ch] D]
+
+
+[Verse 2]
+[tab][ch]D[/ch]                              [ch]Fm[/ch]   [ch]G[/ch]
+ A feast for eyes deprived of peace[/tab]
+[tab][ch]D[/ch]                         [ch]Fm[/ch]   [ch]Abm[/ch]
+ Internal pressure, no release[/tab]
+[tab][ch]D[/ch]                     [ch]Fm[/ch]   [ch]G[/ch]
+ Pain eternal, my disease[/tab]
+[tab][ch]D[/ch]            
+ Never-ending[/tab]
+
+[tab]   [ch]Bbsus[/ch] [ch]Gsus[/ch]  [ch]F#m[/ch]   [ch]Bbm[/ch]  [ch]Ebm[/ch] [ch]Db[/ch] [ch]D[/ch]
+e|---------------------------------|
+B|---------------------------------|
+G|------------------------8-8--6-7-|
+D|-------------4-4---8-8--8-8--6-7-|
+A|-6-6---3-3---4-4---8-8--6-6--4-5-|
+E|-6-6---3-3---2-2---6-6-----------|[/tab]
+       
+[tab][ch]D[/ch]                           [ch]Fm[/ch]   [ch]G[/ch]
+ Paralyzed and drowned in thought[/tab]
+[tab][ch]D[/ch]                            [ch]Fm[/ch]   [ch]Abm[/ch]
+ All the things that I have lost[/tab]
+[tab][ch]D[/ch]                       [ch]Fm[/ch]   [ch]Abm[/ch]
+ My salvation can't be bought[/tab]
+[tab][ch]D[/ch]
+ Drains me empty[/tab]
+
+[tab]   [ch]Bbsus[/ch] [ch]Gsus[/ch] [ch]F#sus[/ch] [ch]Fsus[/ch] 
+e|-------------------|
+B|-------------------|
+G|-------------------|
+D|-----------------0-|
+A|-6-6---3-3---2-1-0-|
+E|-6-6---3-3---2-1---|[/tab]
+
+
+[Chorus]
+[tab]              [ch]G[/ch]                  [ch]D[/ch]
+Well, it's a dark time, I do believe[/tab]
+[tab]   [ch]G[/ch]              [ch]A[/ch]            [ch]D[/ch]
+A cold wind's a-blowin' at my door[/tab]
+[tab]    [ch]G[/ch]                       [ch]D[/ch]
+Incredible light I'm gonna find[/tab]
+[tab]      [ch]G[/ch]                [ch]Fm[/ch]   [ch]Em[/ch]      [ch]D[/ch]
+Where I don't have to worry anymore[/tab]
+
+[Repeat Intro Rift]
+
+
+[Instrumental Bridge]
+[feel free to fill in this area, billy just kinda plays around in mixolydian]
+
+
+[Eventually we come back and repeat the entire intro]
+
+
+[Verse 3]
+[tab][ch]D[/ch]                      [ch]Fm[/ch]   [ch]G[/ch]
+ I wasn't ready to believe[/tab]
+[tab][ch]D[/ch]                       [ch]Fm[/ch]   [ch]Abm[/ch]
+ Constant failure to achieve[/tab]
+[tab][ch]D[/ch]                        [ch]Fm[/ch]   [ch]G[/ch]
+ Nothing hidden up my sleeve[/tab]
+[tab][ch]D[/ch]
+ I remember[/tab]
+
+[tab]   [ch]Bbsus[/ch] [ch]Gsus[/ch] [ch]F#sus[/ch] [ch]Fsus[/ch] 
+e|-------------------|
+B|-------------------|
+G|-------------------|
+D|-----------------0-|
+A|-6-6---3-3---2-1-0-|
+E|-6-6---3-3---2-1---|[/tab]
+
+        
+[Chorus]
+                                    
+[tab]              [ch]G[/ch]                  [ch]D[/ch]
+Well, it's a dark time, I do believe[/tab]
+[tab]   [ch]G[/ch]              [ch]A[/ch]            [ch]D[/ch]
+A cold wind's a-blowin' at my door[/tab]
+[tab]    [ch]G[/ch]                       [ch]D[/ch]
+Incredible light I'm gonna find[/tab]
+[tab]      [ch]G[/ch]                [ch]Fm[/ch]   [ch]Em[/ch]      
+Where I don't have to worry anymore            [/tab]
+[tab]              [ch]G[/ch]                  [ch]D[/ch]
+Well, it's a dark time, I do believe[/tab]
+[tab]   [ch]G[/ch]              [ch]A[/ch]            [ch]D[/ch]
+A cold wind's a-blowin' at my door[/tab]
+[tab]    [ch]G[/ch]                       [ch]D[/ch]
+Incredible light I'm gonna find[/tab]
+[tab]      [ch]G[/ch]                [ch]Fm[/ch]   [ch]Em[/ch]      [ch]D[/ch]
+Where I don't have to worry anymore[/tab]
+
+
+[Outro]
+
+[tab]   [ch]Bbsus[/ch] [ch]Gsus[/ch]  [ch]F#m[/ch]   [ch]Bbm[/ch]  [ch]Ebm[/ch] [ch]Db[/ch] [ch]D[/ch]
+e|-----------------------------------|
+B|-----------------------------------|
+G|------------------------8-8--6-7\--|
+D|-------------4-4---8-8--8-8--6-7\--|
+A|-6-6---3-3---4-4---8-8--6-6--4-5\--|
+E|-6-6---3-3---2-2---6-6-------------|[/tab]
+
+
+
+************************************
+
+| x  Dead note
+| h  Hammer-on
+| ~  Vibrato
+| \  Slide down
+
+************************************

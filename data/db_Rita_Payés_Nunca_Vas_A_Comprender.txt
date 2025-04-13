@@ -1,0 +1,128 @@
+URL: https://tabs.ultimate-guitar.com/tab/3511547
+Artist: Rita Payés
+Song: Nunca Vas A Comprender
+Genre: 
+Key: 
+
+
+[Verse]
+
+    [ch]F#maj7[/ch]   [ch]B9[/ch]   [ch]C#maj9[/ch]  [ch]A#7[/ch]    [ch]D#m7[/ch]   [ch]G#7[/ch]   [ch]C#maj9[/ch]  [ch]A#7[/ch]
+
+[tab]e|---------------------------------------------------------------------------|
+B|----2------2------4------6------7------4------4------6---------------------|
+G|----3------2------5------7------6------5------5------7---------------------|
+D|----3------1------3------6------8------4------3------6---------------------|
+A|-----------2------4-------------6-------------4----------------------------|
+E|----2--------------------6-------------4-------------6---------------------|[/tab]
+
+
+[Chorus]
+
+    [ch]F#maj7[/ch]  [ch]F#m7[/ch]    [ch]B9[/ch]    [ch]Fm7[/ch]    [ch]A#9[/ch]    [ch]D#m7[/ch]    [ch]A7[/ch]    [ch]G#7[/ch]   [ch]C#maj9[/ch]  [ch]A#7[/ch]
+
+[tab]e|---------------------------------------------------------------------------|
+B|----2------2------2------1------1------7------5------4------4------6-------|
+G|----3------2------2------1------1------6------6------5------5------7-------|
+D|----3------2------1------1------0------8------5------4------3------6-------|
+A|------------------2-------------1------6--------------------4--------------|
+E|----2------2-------------1--------------------5------4-------------6-------|[/tab]
+
+
+[Variation]
+
+    [ch]F#maj7[/ch]  [ch]F#m7[/ch]    [ch]B9[/ch]    [ch]Fm7[/ch]    [ch]A#9[/ch]    [ch]D#m7[/ch]   [ch]G#7[/ch]    [ch]D9[/ch]    [ch]C#maj9[/ch]  [ch]G#m7[/ch]   [ch]C#9[/ch]
+
+[tab]e|-------------------------------------------------------------------------------|
+B|----2------2------2------1------1------7------4------5------4------4------4----|
+G|----3------2------2------1------1------6------5------5------5------4------4----|
+D|----3------2------1------1------0------8------4------4------3------4------3----|
+A|------------------2-------------1------6-------------5------4-------------4----|
+E|----2------2-------------1--------------------4--------------------4-----------|[/tab]
+
+************************************
+
+
+[Verse 1]
+
+[tab]                [ch]F#maj7[/ch]   [ch]B9[/ch]
+Nunca vas a comprender[/tab]
+[tab]          [ch]C#maj9[/ch]    [ch]A#7[/ch]
+Que yo te quise[/tab]
+[tab]                   [ch]D#m7[/ch]   [ch]G#7[/ch]
+Nunca vas a comprender[/tab]
+[tab]        [ch]C#maj9[/ch]    [ch]A#7[/ch]
+Cómo lo hice[/tab]
+[tab]                [ch]F#maj7[/ch]   [ch]B9[/ch]
+Tú me hablabas del amor[/tab]
+[tab]          [ch]C#maj9[/ch]    [ch]A#7[/ch]
+De eso tan bello[/tab]
+[tab]                   [ch]D#m7[/ch]   [ch]G#7[/ch]
+Te faltó por demostrar[/tab]
+[tab]         [ch]C#maj9[/ch]                  [ch]A#7[/ch]
+Que eras capaz de vivir aquello[/tab]
+
+
+[Chorus]
+
+[tab]     [ch]F#maj7[/ch]
+Pero no[/tab]
+[tab]     [ch]F#m7[/ch]  [ch]B9[/ch]    [ch]Fm7[/ch]
+Te olvides por favor[/tab]
+[tab][ch]A#9[/ch]      [ch]D#m7[/ch]                  [ch]A7[/ch]         [ch]G#7[/ch]
+Que sigo aquí ya no quiero sufrir más por ti[/tab]
+[tab]   [ch]C#maj9[/ch]    [ch]A#7[/ch]
+Mi amor[/tab]
+[tab]            [ch]F#maj7[/ch]   [ch]F#m7[/ch]
+Con el tiempo decidí[/tab]
+[tab]    [ch]B9[/ch]    [ch]Fm7[/ch]
+Que es un recuerdo[/tab]
+[tab][ch]A#9[/ch]             [ch]D#m7[/ch]
+Todo aquello que viví[/tab]
+[tab] [ch]A7[/ch]    [ch]G#7[/ch]       [ch]C#maj9[/ch]   [ch]A#7[/ch]
+Y me mató por dentro[/tab]
+
+
+[Bridge]
+
+[ch]F#maj7[/ch]  [ch]F#m7[/ch]  [ch]B9[/ch]  [ch]Fm7[/ch]  [ch]A#9[/ch]  [ch]D#m7[/ch]  [ch]G#7[/ch]  [ch]D9[/ch]  [ch]C#maj9[/ch]  [ch]G#m7[/ch]  [ch]C#9[/ch] x4
+
+
+[Verse 2]
+
+[tab]                [ch]F#maj7[/ch]   [ch]B9[/ch]
+Nunca vas a comprender[/tab]
+[tab]          [ch]C#maj9[/ch]    [ch]A#7[/ch]
+Que yo te quise[/tab]
+[tab]                   [ch]D#m7[/ch]   [ch]G#7[/ch]
+Nunca vas a comprender[/tab]
+[tab]        [ch]C#maj9[/ch]    [ch]A#7[/ch]
+Cómo lo hice[/tab]
+[tab]                [ch]F#maj7[/ch]   [ch]B9[/ch]
+Tú me hablabas del amor[/tab]
+[tab]          [ch]C#maj9[/ch]    [ch]A#7[/ch]
+De eso tan bello[/tab]
+[tab]                   [ch]D#m7[/ch]   [ch]G#7[/ch]
+Te faltó por demostrar[/tab]
+[tab]         [ch]C#maj9[/ch]                  [ch]A#7[/ch]
+Que eras capaz de vivir aquello[/tab]
+
+
+[Chorus]
+
+[tab]     [ch]F#maj7[/ch]
+Pero no[/tab]
+[tab]     [ch]F#m7[/ch]  [ch]B9[/ch]    [ch]Fm7[/ch]
+Te olvides por favor[/tab]
+[tab][ch]A#9[/ch]      [ch]D#m7[/ch]                  [ch]A7[/ch]         [ch]G#7[/ch]
+Que sigo aquí ya no quiero sufrir más por ti[/tab]
+[tab]   [ch]C#maj9[/ch]    [ch]A#7[/ch]
+Mi amor[/tab]
+[tab]            [ch]F#maj7[/ch]   [ch]F#m7[/ch]
+Con el tiempo decidí[/tab]
+[tab]    [ch]B9[/ch]    [ch]Fm7[/ch]
+Que es un recuerdo[/tab]
+[tab][ch]A#9[/ch]             [ch]D#m7[/ch]
+Todo aquello que viví[/tab]
+[tab] [ch]A7[/ch]    [ch]G#7[/ch]       [ch]C#maj9[/ch]   [ch]A#7[/ch]
+Y me mató por dentro[/tab]

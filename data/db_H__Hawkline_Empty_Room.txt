@@ -1,0 +1,128 @@
+URL: https://tabs.ultimate-guitar.com/tab/h-hawkline/empty-room-chords-5059513
+Artist: H. Hawkline
+Song: Empty Room
+Genre: 
+Key: 
+
+
+BPM:      83
+Released: 10 Mar 2023
+Album:    Milk For Flowers
+
+
+[Chords]
+[D/F#      2x0232]
+
+
+Capo: 2 fret
+
+        Alternate or different capo fret positions are easily possible by using the transpose
+           button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example: To play this without capo set the transpose button at +2.
+                  Half step down tuning set the transpose button at +3.
+
+
+[Intro]
+[ch]Am[/ch]  [ch]C[/ch]  [ch]G[/ch]  [ch]Em[/ch]
+[ch]G[/ch]      [ch]D[/ch]
+
+
+[Verse 1]
+[tab]  [ch]Am[/ch]              [ch]C[/ch]     [ch]G[/ch]             [ch]Em[/ch]
+I never knew that I had already told,[/tab]
+[tab]  [ch]G[/ch]             [ch]D[/ch]
+A ranger on the night fly,[/tab]
+[tab]         [ch]Am[/ch]            [ch]C[/ch]         [ch]G[/ch]                [ch]Em[/ch]
+That I'm followed by a bull that stays at my side,[/tab]
+[tab]  [ch]G[/ch]            [ch]D/F#[/ch]     [ch]D/F#[/ch]
+Another new to midnight.[/tab]
+
+
+[Pre-Chorus 1]
+[tab]      [ch]F#m[/ch]       [ch]Em[/ch]           [ch]Em[/ch]
+Don't leave the room this way,[/tab]
+[tab][ch]Bm[/ch]     [ch]Em[/ch]
+Stay inside,[/tab]
+[tab][ch]C[/ch]             [ch]G[/ch]
+Won't that be nice?[/tab]
+
+
+[Chorus]
+[tab][ch]D[/ch]     [ch]Bm[/ch]    [ch]Em[/ch]
+Don't go on holiday,[/tab]
+[tab][ch]Bm[/ch]     [ch]Em[/ch]
+Keep a lock on the door,[/tab]
+[tab][ch]C[/ch]          [ch]Am[/ch]                 [ch]G[/ch]     [ch]Am[/ch]   [ch]G[/ch]  [ch]Am[/ch]
+Don't show me anymore of that empty room,[/tab]
+[tab][ch]G[/ch]     [ch]Am[/ch]    [ch]G[/ch]  [ch]Am[/ch]  [ch]C[/ch] [ch]G[/ch] [ch]Em[/ch]  [ch]G[/ch]  [ch]G[/ch]  [ch]D[/ch]   [ch]D[/ch]
+Empty room.[/tab]
+
+
+[Verse 2]
+[tab]  [ch]Am[/ch]                    [ch]C[/ch]
+I thought it through, I lied,[/tab]
+[tab][ch]G[/ch]           [ch]Em[/ch]      [ch]G[/ch]         [ch]G[/ch]   [ch]D[/ch]
+I never knew   that I could go to pieces,[/tab]
+[tab]        [ch]Am[/ch]            [ch]C[/ch]          [ch]G[/ch]               [ch]Em[/ch]
+Now I'm followed by a flock that stays at my side,[/tab]
+[tab]    [ch]G[/ch]           [ch]D[/ch]       [ch]D[/ch]
+The other new releases.[/tab]
+
+
+[Pre-Chorus]
+[tab]    [ch]F#m[/ch]      [ch]Em[/ch]           [ch]Em[/ch]
+Who left the room this way?[/tab]
+[tab][ch]Bm[/ch]     [ch]Em[/ch]
+It's alright,[/tab]
+[tab][ch]C[/ch]                [ch]G[/ch]
+We'll see what's on tonight.[/tab]
+
+
+[Chorus]
+[tab][ch]D[/ch]     [ch]Bm[/ch]    [ch]Em[/ch]
+Don't go on holiday,[/tab]
+[tab][ch]Bm[/ch]       [ch]Em[/ch]
+Take the lock off the door,[/tab]
+[tab][ch]C[/ch]           [ch]Am[/ch]                [ch]G[/ch]     [ch]Am[/ch]   [ch]G[/ch]  [ch]Am[/ch]
+All will be as beforе in that empty room,[/tab]
+[tab][ch]G[/ch]     [ch]Am[/ch]    [ch]G[/ch]  [ch]Am[/ch]
+Empty room,[/tab]
+[tab][ch]G[/ch]     [ch]Am[/ch]    [ch]G[/ch]  [ch]Am[/ch]
+Empty room,[/tab]
+[tab][ch]G[/ch]     [ch]Am[/ch]    [ch]G[/ch]  [ch]Am[/ch]   [ch]Am[/ch]
+Empty room.[/tab]
+
+
+[Interlude]
+[ch]Bb[/ch]  [ch]F[/ch]   [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]Am[/ch]
+
+
+[Bridge]
+[tab]   [ch]F[/ch]             [ch]Dm[/ch]       [ch]C[/ch]
+My dad, he don't sleep anymore,[/tab]
+[tab]   [ch]F[/ch]             [ch]Dm[/ch]       [ch]C[/ch]
+My dad, hе don't sleep anymore,[/tab]
+[tab]   [ch]F[/ch]             [ch]Dm[/ch]       [ch]C[/ch]
+My dad, he don't sleep anymore.[/tab]
+
+
+[Interlude]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]  [ch]Dm[/ch]  [ch]C[/ch]
+[ch]F[/ch]

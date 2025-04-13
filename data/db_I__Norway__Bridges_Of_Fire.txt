@@ -1,0 +1,93 @@
+URL: https://tabs.ultimate-guitar.com/tab/i-norway/bridges-of-fire-tabs-910586
+Artist: I (Norway)
+Song: Bridges Of Fire
+Genre: 
+Key: 
+
+
+I'm not going to put in rhythms or anything because it's dead easy,
+you can work it out by ear. This is just the notes.
+You can hear by ear what strings you're meant to pick
+to get a certain sound out of the chord. Obviously you don't pick all 5 or 6
+strings at the one time for every chord.
+
+
+* = Palm Mute
+~ = Tremolo Pick
+// = Slide
+-- = Let Ring
+
+Structure:
+Section 1
+Section 2
+Section 3
+Section 2
+Interlude section (2:56 - 4:45) NOT TABBED HERE.
+Section 1
+Section 2
+Section 3
+Section 3 - Solo - NOT TABBED HERE.
+
+
+Section 1
+
+
+[tab]-2--2--2--2--|
+-2--2--2--5--|
+-4--4--4--4--|
+-4--4--5--2--|
+-2--2--2--2--|
+-------------|[/tab]
+
+[tab]-2--2--2--2--|
+-2--2--3--5--|
+-4--4--4--4--|
+-4--4--4--2--|
+-2--2--2--2--|
+-------------|[/tab]
+
+Section 2 (Verse)
+
+This bar 3 times
+
+[tab]    *  ~  *  ~  *  ~
+---------------------|
+---------------------|
+---------------------|
+-------10----9-----5-|
+-0--0--7--0--7--0--7-|
+-2//7-----7-----7----|
+    *  ~  *  ~  *  ~[/tab]
+
+Then this bar once
+
+             (Just tremolo pick all the way through the 54/55 chords)
+
+[tab]    *  ~  *  ~~~~~
+------------------|
+------------------|
+------------------|
+-------7-----4--5-|
+-0--0--5--0--5--5-|
+-2//7-----2-------|
+    *  ~  *  ~~~~~[/tab]
+
+Section 3 (Chorus)
+
+[tab]                ~ ~ ~ ~ ~
+-7--5-----2---------------|
+-7--5-----2---------------|
+-9--7-----4---------------|
+-9--7--5--4--2--2-3-------|
+-7--5--5--2--2------2-3-5-|
+-7--5--3--2--0------------|
+                ~ ~ ~ ~ ~[/tab]
+
+[tab]                              ~ ~ ~ ~ ~
+-7--5-5--5--5--5-------2---------------|
+-7--5--5--5--5--5------2---------------|
+-9--7---7--7--7--7-----4---------------|
+-9--7---------------5--4--2--2-3-------|
+-7--5---------------5--2--2------2-3-5-|
+-7--5---------------3--2--0------------|
+                              ~ ~ ~ ~ ~[/tab]

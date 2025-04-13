@@ -1,0 +1,105 @@
+URL: https://tabs.ultimate-guitar.com/tab/bob-dylan/2-x-2-chords-1452282
+Artist: Bob Dylan
+Song: 2 X 2
+Genre: 
+Key: 
+
+
+---------------------------------------------------------------------------
+                2 X 2 – Bob Dylan
+---------------------------------------------------------------------------
+
+Written by: Bob Dylan
+From “Under the Red Sky” (1990)
+
+Tabbed by: maguri
+Tuning: Standard
+
+The recording is somewhere between F and F#, I chose F here.
+
+---------------------------------------------------------------------------
+
+[Intro]
+(freely)
+[ch]C[/ch]  [ch]Bb[/ch]  [ch]Dm[/ch]
+
+[Verse 1]
+[tab]       [ch]F[/ch]
+One by one, they followed the sun[/tab]
+[tab]       [ch]F[/ch]
+One by one, until there were none[/tab]
+[tab]       [ch]Dm[/ch]                   [ch]C[/ch]    Fp
+Two by two, to their lovers they flew[/tab]
+[tab]       [ch]Dm[/ch]               [ch]C[/ch]  [ch]F[/ch]
+Two by two, into the foggy dew[/tab]
+
+[Verse 2]
+[tab]         [ch]F[/ch]
+Three by three, they danced on the sea[/tab]
+[tab]        [ch]F[/ch]
+Four by four, they danced on the shore[/tab]
+[tab]        [ch]Dm[/ch]                [ch]C[/ch]    [ch]F[/ch]
+Five by five, they tried to survive[/tab]
+[tab]       [ch]Dm[/ch]                     [ch]C[/ch]    [ch]F[/ch]
+Six by six, they were playing with tricks[/tab]
+
+[Bridge 1]
+[tab][ch]Bb[/ch]
+  How many paths did they try and fail?[/tab]
+[tab]    [ch]F[/ch]
+How many of their brothers and sisters lingered in jail?[/tab]
+[tab][ch]Bb[/ch]
+  How much poison did they inhale?[/tab]
+[tab][ch]F[/ch]                                  [ch]C[/ch]
+ How many black cats crossed their trail?[/tab]
+
+[Verse 3]
+[tab]         [ch]F[/ch]
+Seven by seven, they headed for heaven[/tab]
+[tab]         [ch]F[/ch]
+Eight by eight, they got to the gate[/tab]
+[tab]        [ch]Dm[/ch]               [ch]C[/ch]    [ch]F[/ch]
+Nine by nine, they drank the wine[/tab]
+[tab]       [ch]Dm[/ch]                 [ch]C[/ch] [ch]F[/ch]
+Ten by ten, they drank it a-gain[/tab]
+
+[Solo]
+| [ch]F[/ch] | % | % | % | 
+| [ch]F[/ch] | % | % | % | 
+| [ch]Dm[/ch] | [ch]Dm[/ch]   [ch]C[/ch] | [ch]F[/ch] | % |
+| [ch]Dm[/ch] | [ch]Dm[/ch]   [ch]C[/ch] | [ch]F[/ch] | % |
+
+[Bridge 2]
+[tab][ch]Bb[/ch]
+  How many tomorrows have they given away?[/tab]
+[tab][ch]F[/ch]
+  How many compared to yesterday?[/tab]
+[tab][ch]Bb[/ch]
+  How many more without any reward?[/tab]
+[tab][ch]F[/ch]                          [ch]C[/ch]
+  How many more can they afford?[/tab]
+
+[Verse 4]
+[tab]       [ch]F[/ch]
+Two by two, they stepped into the ark[/tab]
+[tab]       [ch]F[/ch]
+Two by two, they step in the dark[/tab]
+[tab]         [ch]Dm[/ch]                [ch]C[/ch]        [ch]F[/ch]
+Three by three, they’re turning the key[/tab]
+[tab]        [ch]Dm[/ch]              [ch]C[/ch]       [ch]F[/ch]
+Four by four, they turn it some more[/tab]
+
+[Verse 5]
+[tab]       [ch]F[/ch]
+One by one, they follow the sun[/tab]
+[tab]       [ch]F[/ch]
+Two by two, to another rendezvous)[/tab]
+[tab]        [ch]Dm[/ch]                   [ch]C[/ch]   [ch]F[/ch]
+Four by four, they're losing the war[/tab]
+[tab]        [ch]Dm[/ch]                         [ch]C[/ch] [ch]F[/ch]
+Five by five, can't stand and stay a-live[/tab]
+
+[Verse 6]
+[tab]       [ch]F[/ch]
+Six by six ...[/tab]
+(fade)

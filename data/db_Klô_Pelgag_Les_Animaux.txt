@@ -1,0 +1,131 @@
+URL: https://tabs.ultimate-guitar.com/tab/2336613
+Artist: Klô Pelgag
+Song: Les Animaux
+Genre: 
+Key: 
+
+
+Ma chanson préférée de Klo! Les accords sur son site web étaient difficiles alors j'ai ajouté un capo et
+retiré quelques accords décoratifs pour simplifier la chanson et qu'il soit possible de la jouer à la
+guitare.
+La tablature ressemble énormémement à l'originale mais n'est pas parfaite, je m'en excuse
+
+[tab][ch]B7[/ch]*
+e|-2-|
+B|-4-|
+G|-2-|
+D|-4-|
+A|-2-|
+E|-x-|[/tab]
+
+
+[INTRO]
+[ch]A[/ch] [ch]E[/ch] [ch]C#m[/ch] (x2)
+
+[tab]  [ch]A[/ch]          [ch]E[/ch]        [ch]C#m[/ch]           [ch]A[/ch]             
+e|-----------------------------0-----------------|
+B|-------0-------------------7---2--------2------|
+G|-----2---1-----1-1-------6------------2---2----|
+D|---2---------2-----2---6------------2-------2--|
+A|-0-------------------4------------0------------|
+E|-----------0-----------------------------------|[/tab]
+
+
+[COUPLET]
+[tab][ch]C#m[/ch]                    [ch]A[/ch]                            [ch]C#m[/ch]   [ch]A[/ch]
+Tu m'as pas dit que tu partais pour aller boire aux nuages[/tab]
+[tab][ch]C#m[/ch]                   [ch]A[/ch]                            [ch]C#m[/ch]  [ch]A[/ch]
+Les animaux que je connais n'ont jamais soif des orages[/tab]
+[tab][ch]F#m[/ch]                         [ch]B7[/ch]*                        [ch]C#m[/ch] [ch]A[/ch]
+Mais toi tu bois ce qui se boit et tu te fous de la nature[/tab]
+
+[tab][ch]C#m[/ch]                     [ch]A[/ch]                           [ch]C#m[/ch] [ch]A[/ch]
+Tu m'as pas dit que tu aimais aller regarder les étoiles[/tab]
+[tab][ch]C#m[/ch]                   [ch]A[/ch]                                      [ch]C#m[/ch] [ch]A[/ch]
+Les animaux que je connais ont peur quâelles ne leur fassent mal[/tab]
+[tab][ch]F#m[/ch]                    [ch]B7[/ch]*                                    [ch]C#m[/ch] [ch]A[/ch]
+Mais toi tu aimes les planètes et tu crois qu'elles te regardent[/tab]
+[tab][ch]F#m[/ch]                     [ch]B7[/ch]*                                [ch]C#m[/ch] [ch]E[/ch]
+Mais toi tu aimes les planètes et tu aimerais qu'elles te gardent[/tab]
+
+[tab][ch]C#m[/ch]                      [ch]E6[/ch]                      [ch]EM7[/ch]
+Tu m'as pas dit que tu rêvais souvent à un atterrissage[/tab]
+[tab][ch]F#m[/ch]                                               [ch]G#m[/ch]
+Les animaux que je connais ne parlent jamais de voyage[/tab]
+[tab][ch]F#m[/ch]                          [ch]B7[/ch]*                         [ch]C#m[/ch] [ch]E[/ch]
+Mais pour toi la vie est un lit et ton sommeil est une plage[/tab]
+[tab][ch]F#m[/ch]                        [ch]B7[/ch]                           [ch]C#m[/ch]
+Pour toi le corps est un habit, le plus glorieux sarcophage[/tab]
+
+
+[REFRAIN]
+[tab][ch]A[/ch]         [ch]E[/ch]
+Je t'ai vu voler de loin[/tab]
+[tab][ch]A[/ch]          [ch]E[/ch]
+Tu peux voler dans mes rêves[/tab]
+[tab][ch]A[/ch]         [ch]E[/ch]
+Les animaux te vénèrent[/tab]
+[tab][ch]A[/ch]            [ch]C#m[/ch]
+Tu es le roi de leur cage[/tab]
+[tab][ch]F#m[/ch]        [ch]B7[/ch]*
+Je t'ai vu voler de loin[/tab]
+
+
+[tab][INTERLUDE]
+  [ch]A[/ch]          [ch]E[/ch]        [ch]C#m[/ch]           [ch]A[/ch]             
+e|-----------------------------0-----------------|
+B|-------0-------------------7---2--------2------|
+G|-----2---1-----1-1-------6------------2---2----|
+D|---2---------2-----2---6------------2-------2--|
+A|-0-------------------4------------0------------|
+E|-----------0-----------------------------------|[/tab]
+
+
+[COUPLET]
+[tab] [ch]C#m[/ch]                     [ch]A[/ch]                               [ch]C#m[/ch] [ch]A[/ch]
+Tu m'as pas dit que tu venais parfois dans ma tête en silence[/tab]
+[tab][ch]C#m[/ch]                     [ch]A[/ch]                             [ch]C#m[/ch] [ch]A[/ch]
+Les animaux que je connais n'ont jamais connu cette chance[/tab]
+[tab][ch]F#m[/ch]                          [ch]B7[/ch]*                         [ch]C#m[/ch] [ch]A[/ch]
+J'ai mis les pensées que tu aimes en ignorant chaque violence[/tab]
+[tab] [ch]F#m[/ch]                         [ch]B7[/ch]*                   [ch]C#m[/ch]
+J'ai caché celles où tu étais tué par extrême romance[/tab]
+
+
+[REFRAIN]
+[tab][ch]A[/ch]           [ch]E[/ch]
+Je t'ai vu voler de loin[/tab]
+[tab][ch]A[/ch]           [ch]E[/ch]
+Tu peux voler dans mes rêves[/tab]
+[tab][ch]A[/ch]            [ch]E[/ch]
+Les animaux te vénèrent[/tab]
+[tab][ch]A[/ch]            [ch]C#m[/ch]
+Tu es le roi de leur cage[/tab]
+[tab][ch]F#m[/ch]          [ch]B7[/ch]*
+Je t'ai vu voler de loin[/tab]
+[tab][ch]F#m[/ch]          [ch]B7[/ch]*
+Dans un ciel sans couleur[/tab]
+[tab][ch]F#m[/ch]           [ch]B7[/ch]*
+J'aime le ciel sans couleur[/tab]
+[tab][ch]F#m[/ch]            [ch]B7[/ch]*
+Je t'ai vu voler de loin[/tab]
+
+
+[tab][INTERLUDE]
+  [ch]A[/ch]          [ch]E[/ch]        [ch]C#m[/ch]           [ch]A[/ch]             
+e|-----------------------------0-----------------|
+B|-------0-------------------7---2--------2------|
+G|-----2---1-----1-1-------6------------2---2----|
+D|---2---------2-----2---6------------2-------2--|
+A|-0-------------------4------------0------------|
+E|-----------0-----------------------------------|[/tab]
+
+[BRIDGE]
+[tab][ch]C#m[/ch]                      [ch]A[/ch]                             [ch]C#m[/ch] [ch]A[/ch]
+Tu m'as pas dit que tu partais pour aller boire aux nuages[/tab]
+[tab][ch]C#m[/ch]                     [ch]A[/ch]                                [ch]C#m[/ch] [ch]A[/ch]
+Les animaux que je connais ne connaissent pas ton visage[/tab]
+
+
+[OUTRO]
+[ch]C#m[/ch] [ch]F#m[/ch] [ch]B7[/ch]* [ch]C#m[/ch]

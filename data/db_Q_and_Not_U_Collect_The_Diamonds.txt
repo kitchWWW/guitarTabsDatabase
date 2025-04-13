@@ -1,0 +1,38 @@
+URL: https://tabs.ultimate-guitar.com/tab/q-and-not-u/collect-the-diamonds-tabs-476539
+Artist: Q and Not U
+Song: Collect The Diamonds
+Genre: 
+Key: 
+
+
+Q and Not U
+"Collect the Diamonds"
+Power
+
+
+This song is written in Dm and the intro piano is basically just a slightly modified 
+D natural minor scale, which has one Bb. The scale notes are as followed.
+
+[D E F G A Bb C D] and the chords can be shown as [i ii* III iv v VI VII]
+
+Note: * stands for Diminished
+
+In tab it looks like this:
+
+[tab]      Intro            Trill part (repeat as needed)
+e|--------------------|-------------|
+b|--------------------|--5h6p5------|
+g|-------------5------|*------5h7-*-|
+d|-----7-5-8-7--8-7-8-|*----------*-|
+a|5-7-8---------------|-------------|
+E|--------------------|-------------|[/tab]
+
+This is the harmonized guitar part, but I'm putting into one guitar
+which you repeat as needed
+
+[tab]e|-----------------------------------------|
+b|---6/8~--6/8~--6/8~---8/10~--8~-10~-5~---|
+g|*--5/7~--5/7~--5/7~---7/9~---7~-9~--4~-*-|
+d|*--------------------------------------*-|
+a|-----------------------------------------|
+E|-----------------------------------------|[/tab]

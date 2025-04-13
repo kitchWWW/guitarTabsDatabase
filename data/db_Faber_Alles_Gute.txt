@@ -1,0 +1,175 @@
+URL: https://tabs.ultimate-guitar.com/tab/faber/alles-gute-chords-1906924
+Artist: Faber
+Song: Alles Gute
+Genre: 
+Key: 
+
+
+----------------------------------------------------------------- 
+                         ALLES GUTE - Faber 
+----------------------------------------------------------------- 
+
+This song's chord sequence is pretty straight forward, consisting of Am, C, Em and D only. The strumming 
+pattern will need some practice in fingerstyle, since the thumb is playing an alternating bass with 
+hammer-ons, while the rest of the strings is strummed with the index finger. 
+
+t = thumb pick
+^ = downward strum with index finger
+v = upward strum with undex finger
+
+[tab]   [ch]Am[/ch]                                    [ch]C[/ch]  
+   t   ^ v  t   ^ v   t  ^ v  t   ^ v    t   ^ v  t   ^ v   t  ^ v  t   ^ v[/tab]
+[tab]e|-----0-0------0-0------0-0------0-0--|-----0-0------0-0------0-0------0-0-----|
+B|-----1-1------1-1------1-1------1-1--|-----1-1------1-1------1-1------1-1-----|
+G|-----2-2------2-2------2-2------2-2--|-----0-0------0-0------0-0------0-0-----|
+D|----------0h2------------------------|----------0h2---------------0h2---------|
+A|-0-----------------0--------0h2------|-3-----------------3--------------------|
+E|-------------------------------------|----------------------------------------|[/tab]
+
+[tab]   [ch]Em[/ch]                                    [ch]D[/ch]
+   t   ^ v  t   ^ v  t   ^ v  t   ^ v    t   ^ v  t   ^ v  t   ^ v   t   ^ v [/tab]
+[tab]e|-----0-0------0-0------0-0------0-0--|-----2-2------2-2------2-2-------2-2----|
+B|-----0-0------0-0------0-0------0-0--|-----3-3------3-3------3-3-------3-3----|
+G|-----0-0------0-0------0-0------0-0--|-----2-2------2-2------2-2-------2-2----|
+D|----------0h2---------------0h2------|-0-----------------0--------------------|
+A|-------------------------------------|----------0------------------0----------|
+E|-0-----------------0-----------------|----------------------------------------|[/tab]
+
+[Intro] 
+
+[ch]Am[/ch] [ch]C[/ch] [ch]Em[/ch] [ch]D[/ch] (Strum once)
+
+[VERSE]
+
+[tab]                              [ch]Am[/ch]        [ch]C[/ch]
+Weil du dir meistens nicht gefällst[/tab]
+[tab]                       [ch]Em[/ch]        [ch]D[/ch]
+Und du tanzt wie ein Pferd[/tab]
+[tab]                     [ch]Am[/ch]
+Und du nur daneben stehst[/tab]
+[tab]                 [ch]C[/ch]                             [ch]Em[/ch]      [ch]D[/ch]
+Und dir oft überlegst, wie du gern wärst oder wer[/tab]
+[tab]             [ch]Am[/ch]       [ch]C[/ch]   
+Und wenn du merkst[/tab]
+[tab]                   [ch]Em[/ch]       [ch]D[/ch]    
+dass dich niemand versteht[/tab]
+[tab]             [ch]Am[/ch]                                 [ch]C[/ch]                     [ch]Em[/ch]        [ch]D[/ch] (Strum twice)
+Und wenn du meinst dass wenn du weinst und du flehst sich niemand umdreht[/tab]
+
+[CHORUS]
+[tab]                 [ch]Am[/ch]
+Wenn du dann am Boden bist[/tab]
+[tab]                [ch]C[/ch]
+weißt du wo du hin gehörst[/tab]
+[tab]                [ch]Em[/ch]
+Wenn du ganz alleine bist[/tab]
+[tab]                 [ch]D[/ch]
+weißt du dass du es-[/tab]
+[tab]                 [ch]Am[/ch]
+Wenn du dann am Boden bist[/tab]
+[tab]                [ch]C[/ch]
+weißt du wo du hin gehörst[/tab]
+[tab]                [ch]Em[/ch]
+Wenn du ganz alleine bist[/tab]
+[tab]                 [ch]D[/ch] (Strum once)     [ch]Am[/ch]       [ch]C[/ch]     [ch]Em[/ch]    [ch]D[/ch]               [ch]Am[/ch] [ch]C[/ch] [ch]Em[/ch] 
+Weißt du dass du es noch so lange sein wirst                  Alles Gute [/tab]
+
+[BRIDGE]
+
+[tab][ch]D[/ch] (Strum once)             [ch]Am[/ch]
+   Mit dem Rücken zur Wand[/tab]
+[tab][ch]C[/ch]                            [ch]Em[/ch]
+   Hältst du dir selber die Hand[/tab]
+[tab][ch]D[/ch]                              [ch]Am[/ch]
+   Und gehst nachts durch die Welt[/tab]
+C                                 Em      D (Strum once and mute)
+   Schreibst deinen Namen in den Sand
+
+[CHORUS]
+[tab]                 [ch]Am[/ch]
+Wenn du dann am Boden bist[/tab]
+[tab]                [ch]C[/ch]
+weißt du wo du hin gehörst[/tab]
+[tab]                [ch]Em[/ch]
+Wenn du ganz alleine bist[/tab]
+[tab]                 [ch]D[/ch]
+weißt du dass du es-[/tab]
+[tab]                 [ch]Am[/ch]
+Wenn du dann am Boden bist[/tab]
+[tab]                [ch]C[/ch]
+weißt du wo du hin gehörst[/tab]
+[tab]                [ch]Em[/ch]
+Wenn du ganz alleine bist[/tab]
+[tab]                 [ch]D[/ch] (Strum once)     [ch]Am[/ch]       [ch]C[/ch]     [ch]Em[/ch]    [ch]D[/ch]               [ch]Am[/ch] [ch]C[/ch] [ch]Em[/ch] [ch]D[/ch] (Strum once)
+Weißt du dass du es noch so lange sein wirst                  Alles Gute [/tab]
+
+[VERSE]*
+[tab]                              [ch]Am[/ch]
+Du gehst am liebsten mit dir aus[/tab]
+[tab]                        [ch]C/B[/ch]**  [ch]C[/ch]
+Kennst dich mit dir am besten aus[/tab]
+[tab]                            [ch]Em[/ch]
+Wenn du dich dann nachts berührst[/tab]
+[tab]                    [ch]D[/ch]
+und du deine Nähe spürst[/tab]
+[tab]                           [ch]Am[/ch]
+Denn du weißt wie's dir gefällt[/tab]
+[tab]                           [ch]C[/ch]                              [ch]Em[/ch]
+wie du es dir machst macht es dir niemand auf der ganzen Welt[/tab]
+[tab]                        [ch]D[/ch]
+Manche meinen das sei traurig du sagst zurecht[/tab]
+[tab]   [ch]Am[/ch]
+schau dich doch mal um[/tab]
+[tab]         [ch]C[/ch]                            [ch]Em[/ch]
+zeig mir einen dem es besser geht als mir[/tab]
+[tab]                [ch]D[/ch] 
+besser geht als mir[/tab]
+
+[CHORUS]
+[tab]                 [ch]Am[/ch]
+Wenn du dann am Boden bist[/tab]
+[tab]                [ch]C[/ch]
+weißt du wo du hin gehörst[/tab]
+[tab]                [ch]Em[/ch]
+Wenn du ganz alleine bist[/tab]
+[tab]                 [ch]D[/ch]
+weißt du dass du es-[/tab]
+[tab]                 [ch]Am[/ch]
+Wenn du dann am Boden bist[/tab]
+[tab]                [ch]C[/ch]
+weißt du wo du hin gehörst[/tab]
+[tab]                [ch]Em[/ch]
+Wenn du ganz alleine bist[/tab]
+[tab]                 [ch]D[/ch]                  [ch]Am[/ch]       [ch]C[/ch]     [ch]Em[/ch]    [ch]D[/ch]    
+Weißt du dass du es noch so lange sein wirst                  [/tab]
+[tab]                 [ch]Am[/ch]
+Wenn du dann am Boden bist[/tab]
+[tab]                [ch]C[/ch]
+weißt du wo du hin gehörst[/tab]
+[tab]                [ch]Em[/ch]
+Wenn du ganz alleine bist[/tab]
+[tab]                 [ch]D[/ch]
+weißt du dass du es-[/tab]
+[tab]                 [ch]Am[/ch]
+Wenn du dann am Boden bist[/tab]
+[tab]                [ch]C[/ch]
+weißt du wo du hin gehörst[/tab]
+[tab]                [ch]Em[/ch]
+Wenn du ganz alleine bist[/tab]
+[tab]                 [ch]D[/ch] (Strum once)     [ch]Am[/ch]            
+Weißt du dass du es noch so lange sein wirst         [/tab]
+[tab][ch]C[/ch]        [ch]Em[/ch]         
+   Alles Gute    [/tab]
+[tab][ch]D[/ch]        [ch]Em[/ch] (Strum once)  
+   Alles Gute[/tab]
+
+
+
+
+*Strum all chords only once and let them ring until the Am on gefällt; from here on downstrokes in 8-notes up 
+until the last D of the verse. Mute this D on the fifth downstroke (the 'two and'). Then briefly return to the
+picking pattern. The last two choruses are also strummed a little differently, just play along to the
+recording and you will figure it out. The song then ends with the picking pattern and a strummed Em.
+
+** On the last beat of the Am lift your middle and ringfinger and put your middle finger on the second fret of
+the A-string; strum once and then go on with the c-chord.

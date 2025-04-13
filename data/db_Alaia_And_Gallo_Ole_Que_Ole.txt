@@ -1,0 +1,67 @@
+URL: https://tabs.ultimate-guitar.com/tab/alaia-and-gallo/ole-que-ole-tabs-1746129
+Artist: Alaia And Gallo
+Song: Ole Que Ole
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------------
+                             Ole Que Ole (Radio Edit) - Alaia &amp; Gallo
+-------------------------------------------------------------------------------
+Tabbed by: SmoothPlaying
+E-mail: robin1@vr-web.de
+
+It's pretty fast, so it's an intermediate tab. I recommend a classical guitar or a steel string one.
+Have fun!!
+ 
+Tuning: Regular
+
+
+PART A: Main Riff
+
+
+[tab]e|----|-----------------|------------------|
+B|--8-|-10------------8-|-10-------------8-|
+G|-9-9|7---9--77-6---9-9|7---9--79------9-9|
+D|----|-----------------|------------------|
+A|----|-----------------|------------------|
+E|----|-----------------|------------------|[/tab]
+
+
+
+PART B: Repeat
+
+[tab]e|----------------|
+B|-10----8--10--8-|
+G|7---9-9-97---9-9|
+D|----------------|
+A|----------------|
+E|----------------|[/tab]
+
+
+
+Part C: Chords
+
+Simply repeat: Dm7 - Em7
+
+    Dm7  Em7
+  
+[tab]e|---5----7--|
+B|---6----8--|
+G|---5----7--|
+D|---7----9--|
+A|---5----7--|
+E|-----------|[/tab]
+
+Structure:
+
+Part A   4x
+Part B   4x
+Pause    4x
+Part A   8x
+Part B   8x
+Part C   16x (after the 8th time, Part A fades in and Part C fades out)
+Part A   4x
+Part B   7x (8th is pause)
+Part A   8x
+Part B   8x

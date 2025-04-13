@@ -1,0 +1,91 @@
+URL: https://tabs.ultimate-guitar.com/tab/5177118
+Artist: Fra Marin Karačić
+Song: Vikni Glasnije
+Genre: 
+Key: G
+
+
+Regular vesrions of the cords can also be used.
+|G | -> play chords for one bar
+
+[Chords]
+
+[tab]      [ch]G[/ch]   [ch]Cadd9[/ch]  [ch]Em7[/ch]    [ch]D[/ch]   [ch]Dsus2[/ch]  [ch]Dsus4[/ch]     [ch]A[/ch]     [ch]E[/ch]    [ch]F#m[/ch]
+e|----3-----3-----3-----2-----0------3-------0-----0-----2---|
+B|----3-----3-----3-----3-----3------3-------2-----0-----2---|
+G|----0-----0-----0-----2-----2------2-------2-----1-----2---|
+D|----0-----2-----2-----0-----0------0-------2-----2-----4---|
+A|----2-----3-----2--------------------------0-----2-----4---|
+E|----3-----------0--------------------------------0-----2---|[/tab]
+
+[Intro]
+|[ch]Em7[/ch] |[ch]Cadd9[/ch] |[ch]G[/ch] |[ch]D[/ch] |
+|[ch]Em7[/ch] |[ch]Cadd9[/ch] |[ch]G[/ch] |
+
+[ch]D[/ch] [ch]Dsus4[/ch] [ch]Dsus2[/ch] [ch]D[/ch]
+
+[Verse]
+[tab][ch]Em7[/ch]    [ch]Cadd9[/ch]    [ch]G[/ch]          [ch]D[/ch]
+Ponekad Te molim bar mali znak da pokažeš,[/tab]
+[tab][ch]Em7[/ch]      [ch]Cadd9[/ch]      [ch]G[/ch]           [ch]D[/ch]
+Bar jedan da na tren shvatim da tu si uz mene,[/tab]
+[tab][ch]Em7[/ch]    [ch]Cadd9[/ch]   [ch]G[/ch]         [ch]D[/ch]
+I jecam i čekam i teškog srca uzdišem[/tab]
+[tab][ch]Em7[/ch]     [ch]Cadd9[/ch]   [ch]G[/ch]       [ch]D[/ch]
+Jer guše tištine i dođe mi da vičem[/tab]
+
+[Chorus]
+[tab]        [ch]Em7[/ch]           [ch]Cadd9[/ch]         [ch]G[/ch]       [ch]D[/ch]
+Vikni glasnije! Viči jasnije! Vikni glasnije![/tab]
+[tab]        [ch]Em7[/ch]           [ch]Cadd9[/ch]         [ch]G[/ch]
+Vikni glasnije! Viči jasnije! Vikni glasnije,[/tab]
+[tab]         [ch]D[/ch]         [ch]Em7[/ch]   [ch]Cadd9[/ch]   [ch]G[/ch]
+Jer više ne razumijem[/tab]
+[tab]         [ch]D[/ch]
+Što mi tišine govore![/tab]
+[tab][ch]Em7[/ch]              [ch]Cadd9[/ch]          [ch]G[/ch]     [ch]D[/ch]
+Glasnije! Vikni glasnije! Viči jasnije![/tab]
+[tab]        [ch]Em7[/ch]           [ch]Cadd9[/ch]         [ch]G[/ch]
+Vikni glasnije! Viči jasnije! Vikni glasnije,[/tab]
+
+[tab]         [ch]D[/ch]         [ch]Em7[/ch]   [ch]Cadd9[/ch]   [ch]G[/ch]
+Jer više ne razumijem[/tab]
+[tab]         [ch]D[/ch]
+Što mi tišine govore![/tab]
+
+[Interlude]
+|[ch]Em7[/ch] |[ch]Cadd9[/ch] |[ch]G[/ch] |[ch]D[/ch] |
+
+[Verse]
+[tab][ch]Em7[/ch]     [ch]Cadd9[/ch]   [ch]G[/ch]          [ch]D[/ch]
+Ti kažeš da živi tek onaj koji umire,[/tab]
+[tab][ch]Em7[/ch]    [ch]Cadd9[/ch]    [ch]G[/ch]          [ch]D[/ch]
+I kažeš da prima tek onaj koji daruje,[/tab]
+[tab][ch]Em7[/ch]   [ch]Cadd9[/ch]  [ch]G[/ch]           [ch]D[/ch]
+Učini, pokaži da smisla nema bez Tebe,[/tab]
+[tab][ch]Em7[/ch]     [ch]Cadd9[/ch]  [ch]G[/ch]            [ch]D[/ch]              [ch]E[/ch]   &lt;---- modulation from [ch]G[/ch] to [ch]A[/ch]
+Jer šute tišine i Tvoj glas ne razumijem[/tab]
+
+[Chorus]
+[tab]        [ch]F#m[/ch]           [ch]D[/ch]             [ch]A[/ch]      [ch]E[/ch]
+Vikni glasnije! Viči jasnije! Vikni glasnije![/tab]
+[tab]        [ch]F#m[/ch]           [ch]D[/ch]             [ch]A[/ch]
+Vikni glasnije! Viči jasnije! Vikni glasnije,[/tab]
+[tab]         [ch]E[/ch]         [ch]F#m[/ch]   [ch]D[/ch]   [ch]A[/ch]
+Jer više ne razumijem[/tab]
+[tab]         [ch]E[/ch]
+Što mi tišine govore![/tab]
+
+|[ch]F#m[/ch] |[ch]D[/ch] |[ch]A[/ch] |[ch]E[/ch] |
+
+[tab]      [ch]Em7[/ch]       [ch]D[/ch]         [ch]A[/ch]      [ch]E[/ch]
+Vikni glasnije! Jasnije! Glasnije![/tab]
+
+
+Vikni glasnije! Viči jasnije! Vikni glasnije,
+[tab]         [ch]E[/ch]         [ch]F#m[/ch]   [ch]D[/ch]   [ch]A[/ch]
+Jer više ne razumijem[/tab]
+[tab]         [ch]E[/ch]          [ch]D[/ch]     [ch]E[/ch]
+Što mi tišine govore![/tab]
+[tab]       [ch]F#m[/ch]
+Vikni glasnije![/tab]

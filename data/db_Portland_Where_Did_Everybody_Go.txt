@@ -1,0 +1,82 @@
+URL: https://tabs.ultimate-guitar.com/tab/portland/where-did-everybody-go-chords-4689044
+Artist: Portland
+Song: Where Did Everybody Go
+Genre: 
+Key: E
+
+
+BPM:      110
+Released: 17 Mar 2023  (Vandaag!!)
+Album:    Departures
+
+
+[Chords]
+[Dmaj7sus2   xx0220]
+[A7          x02020]
+
+
+Capo: 2 fret
+
+        Different capo fret positions are easily possible by using the transpose button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example To play this without capo put the transpose button at +2
+                  Half step down tuning put the transpose button at  +3
+
+       Capo positie aanpassingen zijn gemakkelijk te maken door de Transpose knop te gebruiken.
+          Transpose -1 is capo een fret hoger; Transpose knop +1 is capo een fret lager.
+          De akkoorden worden automatisch aangepast aan de nieuwe capo positie.
+          Let wel bij gebruik van de transpose functie kunnen de akkoorden iets op de regel
+             verschuiven omwille van de lengte van de akkoord namen.
+          Bv Spelen zonder capo? Zet de transpose knop dan op +2.
+
+
+[Intro]
+[ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]D[/ch]  [ch]A7[/ch]
+[ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]D[/ch]  [ch]A7[/ch]
+[ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]D[/ch]  [ch]A7[/ch]
+[ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]D[/ch]  [ch]A7[/ch]
+
+
+[Verse 1]
+[tab][ch]D[/ch]          [ch]Dmaj7sus2[/ch]        [ch]D[/ch]                [ch]A7[/ch]
+Don’t even ask me what went wrong, I don’t belong up here,[/tab]
+[tab][ch]D[/ch]          [ch]Dmaj7sus2[/ch]        [ch]D/F#[/ch]             [ch]A7[/ch]
+The nights are long and everyone pretends to disappear.[/tab]
+
+
+[Chorus]
+[tab][ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]D[/ch]           [ch]A7[/ch]        [ch]D[/ch]   [ch]Dmaj7sus2[/ch] [ch]D[/ch]   [ch]A7[/ch]
+               Where did everybody goo oo        oo?[/tab]
+
+
+[Verse 2]
+[tab][ch]D[/ch]             [ch]Dmaj7sus2[/ch]    [ch]D[/ch]                [ch]A7[/ch]
+Last morning, I woke up in bed and I played dead, I failed,[/tab]
+[tab][ch]D[/ch]          [ch]Dmaj7sus2[/ch]        [ch]D[/ch]              [ch]A7[/ch]
+I couldn’t move, I couldn’t prove I barely could inhale.[/tab]
+
+[Chorus]
+[tab][ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]D[/ch]           [ch]A7[/ch]        [ch]D[/ch]   [ch]Dmaj7sus2[/ch] [ch]D[/ch]   [ch]A7[/ch]
+               Where did everybody goo oo        oo?[/tab]
+
+
+[Interlude]
+[ch]D[/ch]  [ch]Dmaj7sus2[/ch]  [ch]Bm[/ch]
+[ch]G[/ch]   [ch]D[/ch] [ch]A[/ch]
+[ch]D[/ch]  [ch]Dmaj7sus2[/ch]  [ch]Bm[/ch]
+[ch]G[/ch]   [ch]D[/ch] [ch]A[/ch]
+
+
+[Outro]
+[tab][ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]Bm[/ch]          [ch]G[/ch]         [ch]D[/ch]   [ch]Dmaj7sus2[/ch] [ch]D[/ch]   [ch]A7[/ch]
+               Where did everybody goo oo        oo?[/tab]
+[tab][ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]Bm[/ch]          [ch]G[/ch]         [ch]D[/ch]   [ch]Dmaj7sus2[/ch] [ch]D[/ch]   [ch]A7[/ch]
+               Where did everybody goo oo        oo?[/tab]
+[ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]D[/ch]  [ch]A7[/ch]
+[ch]D[/ch]  [ch]Dmaj7sus2[/ch] [ch]D[/ch]  [ch]A7[/ch]
+[ch]D[/ch]
+
+[ch]G[/ch] [ch]A[/ch] [ch]Bm[/ch]

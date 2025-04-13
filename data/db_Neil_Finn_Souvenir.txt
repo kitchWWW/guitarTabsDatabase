@@ -1,0 +1,145 @@
+URL: https://tabs.ultimate-guitar.com/tab/neil-finn/souvenir-chords-792242
+Artist: Neil Finn
+Song: Souvenir
+Genre: 
+Key: 
+
+
+SOUVENIR
+(Neil Finn)
+
+NOTES: 
+
+-- I've supplied two different versions of the intro (which is the same 
+thing played on the verses); the first version is an easier way to go, 
+though the voicings are not as accurate as Version 2. The problem is 
+that version 2 relies on the higher strings, giving you very little bass 
+to work with -- and this is a pretty bass-heavy song. 
+
+-- This is one of those songs on the album that doesn't work 
+particularly well as an acoustic guitar song.
+
+-- The riff is pretty much identical all through the song.
+
+
+* UNUSUAL CHORDS
+
+E      XX2100 (diff. from usual fingering)
+[tab][ch]D6[/ch]     XX0100
+F#m    XX4222 (diff. from usual fingering)[/tab]
+[ch]A6/C#[/ch]  X42422
+
+RIFF:
+
+[tab]-----------------------||
+-----------------------||
+-11>9--------11>9------||
+-------9---------------||
+------------------12---||
+-----------------------||[/tab]
+
+
+INTRO/VERSE, version 1:   E   F#m
+
+INTRO/VERSE, version 2:   [ch]E[/ch]*  [ch]D6[/ch]*  [ch]F#m[/ch]* 
+
+
+[Verse]
+[tab]              [ch]E[/ch]         ([ch]D6[/ch])  [ch]F#m[/ch]
+Don't ask the question[/tab]
+
+[tab]                       [ch]E[/ch]      ([ch]D6[/ch])  [ch]F#m[/ch]
+cos you won't like the answer[/tab]
+
+[tab]                [ch]E[/ch]      ([ch]D6[/ch]) [ch]F#m[/ch]
+get up off your chair[/tab]
+
+[tab]                        [ch]A[/ch]   
+there's nothing for you here[/tab]
+
+
+
+[Chorus]
+
+[tab][ch]D[/ch]         [ch]A[/ch]                   [ch]D[/ch]
+Where the guests like souvenirs[/tab]
+
+[tab][ch]A[/ch]         [ch]D[/ch]        [ch]A[/ch]            [ch]D[/ch]
+they play with you til you're all worn out[/tab]
+
+[tab][ch]A[/ch]    [ch]D[/ch]         [ch]A[/ch]               [ch]D[/ch]         [ch]E[/ch]  ([ch]D6[/ch])   [ch]F#m[/ch]
+back there the guests like souvenirs[/tab]
+
+
+[Verse]
+Prison colour blue
+it's a uniform of choice
+count yourself lucky
+and you don't write the software
+
+[Chorus]
+and the guests like souvenirs
+they play with you till you're all worn out
+back where the guests take photographs
+they hope you had a good night
+
+[Bridge]
+[ch]G[/ch]    [ch]A[/ch]    [ch]Bb[/ch]     [ch]A[/ch]
+
+[tab]          [ch]G[/ch]         [ch]A[/ch]    [ch]Bb[/ch]    [ch]A[/ch]
+Loosen up your tie[/tab]
+
+[tab]         [ch]G[/ch]          
+make the viewers cry[/tab]
+
+[tab][ch]A[/ch]         [ch]Bb[/ch]        [ch]E[/ch]   ([ch]D6[/ch])  [ch]F#m[/ch]
+I cannot pretend to cry[/tab]
+
+
+[tab][Solo]
+---------------------------------------------------------------|----------||
+---------------------------------------------------------------|----------||
+--------------9>11--------------9>11--------------9>11-11--11--|-11>9-----||
+--------9>11--------------9>11--------------9>11---------------|----------||
+--9>11--------------9>11--------------9>11---------------------|-------12-||
+---------------------------------------------------------------|----------||[/tab]
+
+
+
+[Verse]
+Memorise by heart
+every single part
+there's nothing for you here
+
+[Chorus]
+Where the guests like souvenirs
+they play with you til you're all worn out
+back where the guests like souvenirs
+they hope you had a good night
+
+
+[ch]G[/ch]   [ch]A[/ch]    [ch]Bb[/ch]    [ch]A[/ch]  
+
+
+[tab][ch]G[/ch]   [ch]A[/ch]        [ch]Bb[/ch]        [ch]A[/ch]
+Each night I would fall[/tab]
+
+[tab]     [ch]G[/ch]              [ch]A[/ch]
+right off the stairs[/tab]
+
+[tab]      [ch]Bb[/ch]     [ch]A[/ch]
+no one's in prayer (?)[/tab]
+
+
+CODA: (instrumental, no words)
+
+[ch]G[/ch]       [ch]A6/C#[/ch]*   [ch]F#m[/ch]     [ch]D[/ch]
+
+[ch]G[/ch]       [ch]A6/C#[/ch]    [ch]F#m[/ch]     [ch]E[/ch]       [ch]G[/ch]
+
+
+
+
+[c] 1997 by Roundhead Music, Administered by Wixen Music (BMI)
+
+(Transcription by Marck Bailey)

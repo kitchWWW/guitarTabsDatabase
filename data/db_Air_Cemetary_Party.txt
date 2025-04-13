@@ -1,0 +1,57 @@
+URL: https://tabs.ultimate-guitar.com/tab/air/cemetary-party-ukulele-2726190
+Artist: Air
+Song: Cemetary Party
+Genre: 
+Key: G
+
+
+---------------------------------------------------------------------------
+                Cemetary Party – AIR
+---------------------------------------------------------------------------
+
+Written by: JB Dunckel/N. Godin
+Instrumental track from: “Virgin suicides –
+                          Original Motion Picture Score” (2000)
+
+Tabbed by: maguri
+Tuning: soprano C
+
+---------------------------------------------------------------------------
+
+[tab]CHORDS
+           g-C-E-a
+G5         0-2-3-x[/tab]
+[tab]Gsus4      0-2-3-3
+Dsus4      2-2-3-0
+Eb(add#11) 0-3-3-0
+Eb         0-3-3-1[/tab]
+[tab]Bbsus4     3-3-1-1
+Csus4      0-0-1-3
+Db         1-1-1-4[/tab]
+[tab]Adim       2-3-x-x
+Cm         0-3-3-3
+Cm6        2-3-3-3[/tab]
+
+---------------------------------------------------------------------------
+
+[Intro]
+| [ch]G5[/ch] | % | % | % |
+| [ch]Gsus4[/ch] [ch]Gm[/ch] | [ch]Gm[/ch] | [ch]Dsus4[/ch] [ch]D[/ch] | [ch]D[/ch] |
+| [ch]Eb(add#11)[/ch] [ch]Eb[/ch] | [ch]Eb[/ch] | [ch]Bbsus4[/ch] [ch]Bb[/ch] | [ch]Bb[/ch] |
+| [ch]Csus4[/ch] [ch]C[/ch] | [ch]C[/ch] | [ch]Dsus4[/ch] [ch]D[/ch] | [ch]D[/ch] |
+
+
+[Verse]
+| [ch]G[/ch] | [ch]Db[/ch] | [ch]Bb[/ch] | [ch]E[/ch] |
+| [ch]C[/ch] | [ch]Gm[/ch] | [ch]Eb[/ch] | [ch]Gm[/ch] |
+| [ch]Bb[/ch] [ch]Adim[/ch] [ch]Gm[/ch] [ch]F[/ch] | [ch]Eb[/ch] | [ch]Cm[/ch] | [ch]Dsus4[/ch] | [ch]D[/ch] |
+
+
+[Verse]
+| [ch]G[/ch] | [ch]Db[/ch] | [ch]Bb[/ch] | [ch]E[/ch] |
+| [ch]C[/ch] | [ch]Gm[/ch] | [ch]Eb[/ch] | [ch]Gm[/ch] |
+| [ch]Bb[/ch] [ch]Adim[/ch] [ch]Gm[/ch] [ch]F[/ch] | [ch]Eb[/ch] | [ch]Cm6[/ch] | [ch]Dsus4[/ch] | [ch]D[/ch] |
+
+
+[Coda]
+[ch]G[/ch]

@@ -1,0 +1,111 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/almost-gone-tabs-338022
+Artist: Caedmon's Call
+Song: Almost Gone
+Genre: 
+Key: 
+
+
+=============================                   ==========================
+Almost Gone---Caedmon's Call--------------------Transfered by Asa Gaston
+=============================                   ========================== 
+
+Chord  -  Name
+022000    Em (I like to throw in Em9 024000 for more dissonance)
+332200    Cmaj7sus6/G (hammer both 2's)
+554400    Dsus6,9/A
+XX0230    D9
+X32030    C9
+320033    G
+X02013    Am7 (hammer 1)
+022100    E
+200230    D9/F#
+X02220    A
+
+
+[intro]  Em, Cmaj7, Dsus6
+
+[tab]Count 1   2   3   4   5   6   7   8   1   2   3   4   5   6   7   8   
+   e-|0-----7---7---5---5---5---5-0-0|0---0-0---0-0-0-0---0-0---0-0-0|
+   b-|0-----0---0---0---0---7---7-0-0|0---0-0---0-0-0-0---0-0---0-0-0|
+   g-|0-----0---0---0---0---0---0-0-0|0h2-2-2---2-2-2-4---4-4---4-4-4|
+   d-|x---------------------------0-0|0h2-2-2---2-2-2-4---4-4---4-4-4|
+   a-|7---7-------7-------7----------|3---3-3---3-3-3-5---5-5---5-5-5|
+   e-|0---0-------0-------0----------|3---3-3---3-3-3-5---5-5---5-5-5|
+     (Em)............................ Cmaj7.......... Dsus6..........[/tab]
+
+
+[verse 1]
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+
+[tab]Count 1   2   3   4   5   6   7   8   1   2   3   4   5   6   7   8   
+   e-|0-----0-------0-------0-----0-0|0---0-0---0-0-0-0---0-0---0-0-0|
+   b-|0---------0-------0-------0-0-0|0---0-0---0-0-0-0---0-0---0-0-0|
+   g-|0---0-------2-------0-------0-0|0h2-2-2---2-2-2-4---4-4---4-4-4|
+   d-|2---2-------2-------2-------0-0|0h2-2-2---2-2-2-4---4-4---4-4-4|
+   a-|2---2---x---2---x---2---x---2-2|3---3-3---3-3-3-5---5-5---5-5-5|
+   e-|0---0---x---0---x---0---x---0-0|3---3-3---3-3-3-5---5-5---5-5-5|
+     (Em)............................ Cmaj7.......... Dsus6..........[/tab]
+
+Switch to this pattern for the first half of each the verse.  Then 
+switch back to the intro lick for the last four lines.  Verse 2 also.
+
+(Em)   Cmaj7  Dsus6
+(Em)   Cmaj7  Dsus6
+(Em)   Cmaj7  Dsus6
+(Em)   Cmaj7  Dsus6
+
+[bridge 1]
+D9     C9
+D9     C9
+D9     C9
+
+[chorus]
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9
+
+[repeat intro lick]  (Em), Cmaj7, Dsus6
+
+[verse 2]
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+Em     Cmaj7  Dsus6
+
+[repeat bridge 1]
+D9     C9
+D9     C9
+D9     C9
+
+[repeat chorus]
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9
+
+[bridge 2]
+E      D9/F#  A
+E      D9/F#  A
+E      D9/F#  A
+E      D9/F#  A
+
+[chorus]
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9
+
+[tag]
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9
+G      Am7    D9

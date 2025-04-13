@@ -1,0 +1,96 @@
+URL: https://tabs.ultimate-guitar.com/tab/xabi-bandini/zalantza-eta-egia-chords-3452324
+Artist: Xabi Bandini
+Song: Zalantza Eta Egia
+Genre: 
+Key: Cm
+
+
+[ch]Fmaj7[/ch] = 133210
+[tab][ch]G6[/ch]    = 320030
+G6*   = 32000[/tab]
+[ch]A[/ch]     = 577650
+
+
+[Intro]
+| [ch]Am[/ch]   | [ch]Fmaj7[/ch]   | [ch]G6[/ch]   | [ch]Am[/ch]   |
+
+
+[Verse 1]
+[tab][ch]Am[/ch]                [ch]Fmaj7[/ch]
+Non galtzen da Orion[/tab]
+[tab][ch]G6[/ch]*                [ch]Am[/ch]
+   Zure mapa galaktikoan?[/tab]
+
+
+[Verse 2]
+[tab][ch]Am[/ch]                         [ch]Fmaj7[/ch]      [ch]G6[/ch]*
+   Dena prest dago: agurra zalantza eta egia[/tab]
+[tab]   [ch]Am[/ch]         [ch]A[/ch]
+Nabeak piztu dira[/tab]
+
+
+[Break]
+[tab][ch]Fmaj7[/ch]  [ch]C/G[/ch] [ch]G6[/ch]*
+Ooh    ooh[/tab]
+[tab][ch]Em[/ch]     [ch]Am[/ch] [ch]G6[/ch]*
+Ooh    ooh[/tab]
+[tab][ch]Fmaj7[/ch]  [ch]C/G[/ch] [ch]G6[/ch]*
+Ooh    ooh[/tab]
+
+
+[Verse 3]
+[tab][ch]Am[/ch]
+Leku bat omen zuen[/tab]
+[tab][ch]Fmaj7[/ch]
+Mundu horretan[/tab]
+[tab][ch]G6[/ch]              [ch]Am[/ch]
+Joan beharra dauka[/tab]
+
+
+[Verse 4]
+[tab][ch]Am[/ch]
+Maite zaitut eta[/tab]
+[tab][ch]Fmaj7[/ch]
+Dena esana dago[/tab]
+[tab][ch]G6[/ch]       [ch]Am[/ch]
+Banoa lasai[/tab]
+
+
+[Verse 5]
+[tab][ch]Am[/ch]
+Hurrengo supernova[/tab]
+[tab][ch]Fmaj7[/ch]
+Baten partikulak[/tab]
+[tab][ch]G6[/ch]        [ch]A[/ch]
+Izango gara[/tab]
+
+
+[Chorus]
+[tab][ch]Fmaj7[/ch]         [ch]G6[/ch]
+Hey, harea ginen[/tab]
+[tab]                [ch]Em[/ch]
+Goruntz estratosferara[/tab]
+[tab]                 [ch]Am[/ch]   [ch]G6[/ch]*
+Aireak jaurti gintuen[/tab]
+
+[tab][ch]Fmaj7[/ch]        [ch]G6[/ch]*
+Edo airea ginen[/tab]
+[tab]                 [ch]Em[/ch]
+Harea edozein planetara[/tab]
+[tab]         [ch]Fmaj7[/ch]
+Bidali genuen[/tab]
+
+
+[Bridge]
+[tab]         [ch]C/G[/ch]
+Airea ginen[/tab]
+[tab][ch]G6[/ch]*        [ch]D[/ch]
+   Harea ere[/tab]
+[tab][ch]Dm[/ch]           [ch]C/G[/ch]
+   Izarrak ere[/tab]
+[tab]          [ch]G6[/ch]            [ch]Dm[/ch]   [ch]C/G[/ch]
+Haizea ginen, izarrak ere[/tab]
+[tab]         [ch]G6[/ch]            [ch]Dm[/ch]   [ch]C/G[/ch]
+Harea ginen, izarrak ere[/tab]
+[tab]         [ch]G6[/ch]          [ch]Dm[/ch]   [ch]C/G[/ch]
+Airea ginen, harea ere[/tab]

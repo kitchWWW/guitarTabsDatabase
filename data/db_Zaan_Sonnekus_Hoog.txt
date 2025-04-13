@@ -1,0 +1,103 @@
+URL: https://tabs.ultimate-guitar.com/tab/zaan-sonnekus/hoog-chords-5226771
+Artist: Zaan Sonnekus
+Song: Hoog
+Genre: 
+Key: 
+
+
+BPM:      180
+Released: 15 Oct 2021
+Album:    Zonneblom
+
+
+Note:     * after chord means strike chord once and let it ring.
+
+          * na een akkoord betekent akkoord één keer aanslaan.
+
+
+Capo: 5 fret
+
+        Alternate or different capo fret positions are easily possible by using the transpose
+           button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 on the transpose button means capo fret position one down; minus one
+             means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example: To play this without capo set the transpose button at +5.
+                  Half step down tuning set the transpose button at +6.
+
+       Capo positie aanpassingen zijn gemakkelijk te maken door de Transpose knop te gebruiken.
+          Transpose -1 is capo een fret hoger; Transpose knop +1 is capo een fret lager.
+          De akkoorden worden automatisch aangepast aan de nieuwe capo positie.
+          Let wel bij gebruik van de transpose functie kunnen de akkoorden iets op de regel
+             verschuiven omwille van de lengte van de akkoord namen.
+          Bv:  Spelen zonder capo? Zet de transpose knop dan op +5.
+
+
+[Verse 1]
+[tab][ch]C[/ch]*
+Vergewe my as jy opstaan,[/tab]
+[tab][ch]Em[/ch]*                    [ch]E[/ch]*
+Ek was nog nooit suggestief,[/tab]
+[tab][ch]F[/ch]                 [ch]Fm[/ch]                  [ch]C[/ch]    [ch]Em[/ch]
+ As my woorde sou wegraak my oë effekatief.[/tab]
+
+
+[Verse 2]
+[tab][ch]C[/ch]
+Dit was stil in die oomblik,[/tab]
+[tab][ch]Em[/ch]                       [ch]E[/ch]
+Staan nou stil op die verhoog,[/tab]
+[tab][ch]F[/ch]                 [ch]Fm[/ch]                        [ch]C[/ch]    [ch]Em[/ch]
+Toe ek val by die afgrond was ek nog steeds hoog,[/tab]
+
+
+[Chorus]
+[tab]      [ch]Am[/ch]               [ch]F[/ch]             [ch]C[/ch]
+En ek sweer, ek sweer, ek wil langer bly,[/tab]
+[tab][ch]Em[/ch]             [ch]Am[/ch]  [ch]F[/ch]
+Sal jy wag vir my?[/tab]
+[tab]               [ch]C[/ch]    [ch]Em[/ch]
+Sal jy wag vir my?[/tab]
+[tab]      [ch]Am[/ch]               [ch]F[/ch]             [ch]C[/ch]
+En ek sweer, ek sweer, ek wil langer bly,[/tab]
+[tab][ch]Em[/ch]             [ch]Am[/ch]  [ch]F[/ch]
+Sal jy wag vir my?[/tab]
+[tab]               [ch]C[/ch]    [ch]Em[/ch]
+Sal jy wag vir my?[/tab]
+
+
+[Verse 3]
+[tab][ch]C[/ch]
+Dalk is dit toe die rede,[/tab]
+[tab][ch]Em[/ch]              [ch]E[/ch]
+Om myself te vermy,[/tab]
+[tab][ch]F[/ch]                  [ch]Fm[/ch]                           [ch]C[/ch]    [ch]Em[/ch]
+Ek was diep in die donker maar ek is nog steeds by.[/tab]
+
+
+[Verse 4]
+[tab][ch]C[/ch]
+Dit was te in die oomblik[/tab]
+[tab][ch]Em[/ch]                       [ch]E[/ch]
+Staan nou stil op die verhoog[/tab]
+[tab][ch]F[/ch]                   [ch]Fm[/ch]                          [ch]C[/ch]    [ch]Em[/ch]
+Ek het geval by die afgrond en ek is nog steeds hoog.[/tab]
+
+
+[Outro]
+[tab]      [ch]Am[/ch]               [ch]F[/ch]             [ch]C[/ch]
+En ek sweer, ek sweer, ek wil langer bly,[/tab]
+[tab][ch]Em[/ch]             [ch]Am[/ch]  [ch]F[/ch]
+Sal jy wag vir my?[/tab]
+[tab]               [ch]C[/ch]    [ch]Em[/ch]
+Sal jy wag vir my?[/tab]
+[tab]      [ch]Am[/ch]               [ch]F[/ch]             [ch]C[/ch]
+En ek sweer, ek sweer, ek wil langer bly,[/tab]
+[tab][ch]Em[/ch]             [ch]Am[/ch]  [ch]F[/ch]
+Sal jy wag vir my?[/tab]
+[tab]               [ch]C[/ch]    [ch]Em[/ch]
+Sal jy wag vir my?[/tab]
+[tab][ch]Em[/ch]
+Sal jy?[/tab]

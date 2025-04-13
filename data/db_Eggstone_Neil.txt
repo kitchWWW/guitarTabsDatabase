@@ -1,0 +1,151 @@
+URL: https://tabs.ultimate-guitar.com/tab/eggstone/neil-chords-3475151
+Artist: Eggstone
+Song: Neil
+Genre: 
+Key: D
+
+
+Song: Neil
+Artist: Eggstone
+Chord/Tab proposal: Mats Fagergren, 2020
+
+This melody come from Eggstone´s third Album ´Viva la Difference'
+see link: https://www.youtube.com/watch?v=DPaV2JmTJk4
+Its one of the best Eggstone songs according to me. Totally underrated.
+Listen to the intro guitar and the fanatstic melody and chords in the chorus.
+
+Please use the chords according to my instructions below:
+
+   -string-E,A,D,G,B,e
+chord:     ___________
+D          x,x,0,2,3,2
+Gm/Bb      x,1,x,3,3,3
+Gm6/Bb     x,1,2,3,3,3
+Em7-5      x,x,2,3,3,3 or 0,7,8,7,8,x
+Gm6        3,x,2,3,3,3
+B7sus2     x,2,4,2,2,2
+F#m(add11) 2,2,4,2,2,2
+F#m/A      x,0,4,2,2,2
+F#m        2,4,4,2,2,2
+G          3,5,5,4,3,3 
+A          5,7,7,6,5,5
+
+[intro]
+
+[tab]  [ch]D[/ch]             [ch]B7sus2[/ch]       [ch]F#m/A[/ch]         [ch]G[/ch]
+|-14--------17-|------------|-------------|-----------12-12---|
+|----14-h15----|14---14--15-|14-----14-15-|14h15-12--12---12--|
+|--------------|---16--16---|--11h14------|---------12------14|
+|--16----------|--16--------|-------------|--------14---------|
+|--------------|------------|-12----------|-------------------|
+|--------------|-14---------|-------------|-------------------|[/tab]
+
+[verse 1]
+[tab][ch]D[/ch]                  [ch]Gm/Bb[/ch]
+.....More than the sea[/tab]
+[tab][ch]Gm/Bb[/ch]  [ch]F#m(add11)[/ch] [ch]G[/ch]
+Can be beauty and awful[/tab]
+[tab][ch]G[/ch]      [ch]F#m/A[/ch]
+I need some day´s[/tab]
+[tab][ch]F#m/A[/ch]     [ch]A[/ch]
+I need high ways[/tab]
+[tab][ch]A[/ch]   [ch]Gm6/Bb[/ch] [ch]Gm6[/ch]
+and moon - walks[/tab]
+
+[tab][ch]D[/ch]                      [ch]Gm/Bb[/ch]
+.....And more than the mood[/tab]
+[tab]   [ch]F#m/A[/ch]            [ch]G[/ch]
+is sappling? around me[/tab]
+[tab][ch]G[/ch]      [ch]F#m/A[/ch]
+I need mornings[/tab]
+[tab][ch]F#m/A[/ch]     [ch]A[/ch]
+I need Coffee[/tab]
+[tab][ch]A[/ch]   [ch]Gm6[/ch]          [ch]Em7-5[/ch]
+and side - walks[/tab]
+
+[chorus]
+[tab]    [ch]D[/ch]          [ch]B7sus2[/ch]
+And more than I know[/tab]
+[tab][ch]B7sus2[/ch] [ch]F#m/A[/ch]                [ch]G[/ch]
+when I die , I will be gone forever.[/tab]
+[tab]    [ch]D[/ch]           [ch]B7sus2[/ch]
+And more than I wonder[/tab]
+[tab][ch]B7sus2[/ch]  [ch]F#m/A[/ch]                [ch]G[/ch]
+why  on earth I try to be so clever.[/tab]
+[tab]     [ch]D[/ch]             [ch]B7sus2[/ch]
+Some day´s will be hell[/tab]
+[tab][ch]B7sus2[/ch] [ch]F#m/A[/ch]          [ch]G[/ch]
+and    others will be heaven.[/tab]
+[tab][ch]D[/ch]          [ch]B7sus2[/ch]
+Still in a week[/tab]
+[tab][ch]B7sus2[/ch] [ch]F#m[/ch]            [ch]G[/ch]
+there  always will be seven.[/tab]
+
+[interlude]
+
+[tab]  [ch]D[/ch]             [ch]B7sus2[/ch]       [ch]F#m/A[/ch]         [ch]G[/ch]
+|-14--------17-|------------|-------------|-----------12-12---|
+|----14-h15----|14---14--15-|14-----14-15-|14h15-12--12---12--|
+|--------------|---16--16---|--11h14------|---------12------14|
+|--16----------|--16--------|-------------|--------14---------|
+|--------------|------------|-12----------|-------------------|
+|--------------|-14---------|-------------|-------------------|[/tab]
+
+[verse 2]
+
+[tab][ch]D[/ch]              [ch]Gm/Bb[/ch]
+...More than a heart[/tab]
+[tab][ch]Gm/Bb[/ch]    [ch]F#m(add11)[/ch]    [ch]G[/ch]
+needs to hurt, to be working.[/tab]
+[tab][ch]G[/ch]     [ch]F#m/A[/ch]
+I need backyards[/tab]
+[tab][ch]F#m/A[/ch]  [ch]A[/ch]
+I need busstops[/tab]
+[tab][ch]A[/ch]   [ch]Gm6/Bb[/ch]     [ch]Gm6[/ch]
+and daydreams.[/tab]
+
+[tab][ch]D[/ch]                   [ch]Gm/Bb[/ch]
+....And more than a sound[/tab]
+[tab][ch]Gm/Bb[/ch]  [ch]F#m(add11)[/ch]   [ch]G[/ch]
+can    move the man around[/tab]
+[tab][ch]G[/ch]      [ch]F#m/A[/ch]
+I need pinballs[/tab]
+[tab][ch]F#m/A[/ch]  [ch]A[/ch]
+I need phone calls[/tab]
+[tab][ch]A[/ch]    [ch]Gm6/Bb[/ch]  [ch]Gm6[/ch]
+and Rainbows[/tab]
+
+[chorus]
+
+[tab]    [ch]D[/ch]          [ch]B7sus2[/ch]
+And more than I know[/tab]
+[tab][ch]B7sus2[/ch] [ch]F#m/A[/ch]                [ch]G[/ch]
+when I die , I will be gone forever.[/tab]
+[tab]    [ch]D[/ch]           [ch]B7sus2[/ch]
+And more than I wonder[/tab]
+[tab][ch]B7sus2[/ch]  [ch]F#m/A[/ch]                [ch]G[/ch]
+why  on earth I try to be so clever.[/tab]
+[tab]     [ch]D[/ch]             [ch]B7sus2[/ch]
+Some day´s will be hell[/tab]
+[tab][ch]B7sus2[/ch] [ch]F#m/A[/ch]          [ch]G[/ch]
+and    others will be heaven.[/tab]
+[tab][ch]D[/ch]          [ch]B7sus2[/ch]
+Still in a week[/tab]
+[tab][ch]B7sus2[/ch] [ch]F#m[/ch]            [ch]G[/ch]
+there  always will be seven.[/tab]
+
+[interlude]
+
+[tab] [ch]D[/ch]             [ch]B7sus2[/ch]        [ch]F#m/A[/ch]         [ch]G[/ch]
+|-14--------17-|------------|-------------|-----------12-12---|
+|----14-h15----|14---14--15-|14-----14-15-|14h15-12--12---12--|
+|--------------|---16--16---|--11h14------|---------12------14|
+|--16----------|--16--------|-------------|--------14---------|
+|--------------|------------|-12----------|-------------------|
+|--------------|-14---------|-------------|-------------------|[/tab]
+
+[chours instrumental outro]
+
+| [ch]D[/ch] [ch]B7sus2[/ch] [ch]F#m/A[/ch] [ch]A[/ch] |:| ( x8 )
+
+[ch]D[/ch]

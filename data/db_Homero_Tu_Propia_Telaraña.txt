@@ -1,0 +1,99 @@
+URL: https://tabs.ultimate-guitar.com/tab/1629290
+Artist: Homero
+Song: Tu Propia Telaraña
+Genre: 
+Key: 
+
+
+*En las partes donde noten (...), son las prolongaciones de las palabras,
+ característica de Homero.
+
+[tab][ch]B[/ch]          [ch]E[/ch]  [ch]B[/ch]            [ch]C#m[/ch]  [ch]C#m7[/ch]
+  Y ahora que, que vas ha hacer[/tab]
+[tab]     [ch]A[/ch]            [ch]B[/ch]            [ch]E[/ch]
+mi amor se interesó por otro amor[/tab]
+[tab]          [ch]A[/ch]              [ch]B[/ch]
+me equivoqué, con tu querer[/tab]
+[tab]                [ch]B7[/ch]        [ch]E[/ch]
+pensaste que yo iba a volver...[/tab]
+[tab]      [ch]B[/ch]
+otra vez...[/tab]
+[tab]         [ch]E[/ch]  [ch]B[/ch]            [ch]C#m[/ch]  [ch]C#m7[/ch]
+Y ahora que, que vas ha hacer[/tab]
+[tab]     [ch]A[/ch]          [ch]B[/ch]        [ch]E[/ch]
+por fin he conocido el amor[/tab]
+[tab]           [ch]A[/ch]            [ch]B[/ch]
+de otra mujer, sin interés[/tab]
+[tab]              [ch]B7[/ch]         [ch]E[/ch]
+jugaste y perdiste esta vez...[/tab]
+[tab]      [ch]B[/ch]
+has caído...[/tab]
+
+
+Coro:
+[tab]           [ch]E[/ch]                   [ch]A[/ch]
+En tu telaraña, tu propia telaraña...[/tab]
+[tab]  [ch]B[/ch]                      [ch]E[/ch]  [ch]B[/ch]
+aquella que tejiste para mí...[/tab]
+[tab]           [ch]E[/ch]                   [ch]A[/ch]
+En tu telaraña, tu propia telaraña...[/tab]
+[tab]  [ch]B[/ch]                      [ch]A[/ch] - [ch]E[/ch] - [ch]B[/ch]
+aquella que tejiste para mí...[/tab]
+
+
+Punteo:
+
+[tab]e---7--7--5--4----2/4--4--2--0----0--2--3--3/4----0--8/9--8--9--11--11/12--11--14--11--7--
+B-----------------------------------------------------------------------------------------
+G-----------------------------------------------------------------------------------------
+D-----------------------------------------------------------------------------------------
+A-----------------------------------------------------------------------------------------
+E-----------------------------------------------------------------------------------------[/tab]
+
+
+[tab][ch]B[/ch]          [ch]E[/ch]  [ch]B[/ch]            [ch]C#m[/ch]  [ch]C#m7[/ch]
+  Y ahora que, que vas ha hacer[/tab]
+[tab]     [ch]A[/ch]              [ch]B[/ch]         [ch]E[/ch]
+las cosas te han salido al revés[/tab]
+[tab]          [ch]A[/ch]                 [ch]B[/ch]
+piénsalo bien, ya no puede ser[/tab]
+[tab]              [ch]B7[/ch]         [ch]E[/ch]
+jugaste y perdiste esta vez...[/tab]
+[tab]      [ch]B[/ch]
+has caído...[/tab]
+
+
+Coro:
+[tab]           [ch]E[/ch]                   [ch]A[/ch]
+En tu telaraña, tu propia telaraña...[/tab]
+[tab]  [ch]B[/ch]                      [ch]E[/ch]  [ch]B[/ch]
+aquella que tejiste para mí...[/tab]
+[tab]           [ch]E[/ch]                   [ch]A[/ch]
+En tu telaraña, tu propia telaraña...[/tab]
+[tab]  [ch]B[/ch]                      [ch]A[/ch] - [ch]C[/ch]
+aquella que tejiste para mí...[/tab]
+
+Sube 1/2 tono.
+
+Coro:
+[tab]           [ch]F[/ch]                  [ch]A#[/ch]
+En tu telaraña, tu propia telaraña...[/tab]
+[tab]  [ch]C[/ch]                      [ch]F[/ch]  [ch]C[/ch]
+aquella que tejiste para mí...[/tab]
+[tab]           [ch]F[/ch]                  [ch]A#[/ch]
+Telaraña, tu propia telaraña...[/tab]
+[tab]  [ch]C[/ch]                      [ch]F[/ch]  [ch]C[/ch]
+aquella que tejiste para mí...[/tab]
+
+(Rep. 2 veces)
+----------------------
+[tab]      [ch]E[/ch]  [ch]B[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]A[/ch]  [ch]E[/ch]
+B   : 2  4  4  4  2  2[/tab]
+E   : 0  0  1  2  2  0
+C#m : 4  5  6  6  4  4
+C#m7: 4  5  4  6  4  4
+A   : 0  2  2  2  0  0
+B7  : 2  4  2  4  2  2
+C   : 3  5  5  5  3  3
+F   : 1  1  2  3  3  1
+A#  : 1  3  3  3  1  1

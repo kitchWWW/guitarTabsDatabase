@@ -1,0 +1,98 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/close-of-autumn-chords-338445
+Artist: Caedmon's Call
+Song: Close Of Autumn
+Genre: 
+Key: 
+
+
+=================================              =========================
+Close Of Autumn---Caedmon's Call---------------Transfered by Asa Gaston
+=================================              =========================
+
+tuning: dropped "D" (tune low E string down to D)
+Guitar: Capo 1st fret
+
+
+[ch]D2[/ch]       000230
+[ch]Bm7[/ch](4)   x20230
+[ch]Asus[/ch]     x02230
+[ch]C2[/ch](6)    x30230
+[ch]G5[/ch]       5x0033
+
+
+Intro-D2(4x)
+
+
+[ch]D2[/ch] [ch]Bm7[/ch](4) [ch]Asus[/ch](2x)
+
+
+[ch]D2[/ch] [ch]Asus[/ch](4x)
+
+
+Verse:
+[ch]D2[/ch]       [ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Bm7[/ch](4)   [ch]Asus[/ch]     [ch]D2[/ch]
+[ch]Bm7[/ch](4)   [ch]C2[/ch](6)    [ch]Bm7[/ch](4)
+[ch]Asus[/ch]
+[ch]D2[/ch]       [ch]Bm7[/ch](4)   [ch]C2[/ch](6)    [ch]Bm7[/ch](4)
+[ch]Asus[/ch]
+[ch]D2[/ch]       [ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Bm7[/ch](4)   [ch]Asus[/ch]
+
+
+-Chorus-
+[ch]Bm7[/ch](4)   [ch]G5[/ch]
+[ch]Asus[/ch]
+[ch]Bm7[/ch](4)   [ch]G5[/ch]       [ch]Asus[/ch]
+[ch]Bm7[/ch](4)   [ch]G5[/ch]
+[ch]Asus[/ch]     [ch]C2[/ch](6)    [ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Asus[/ch]     [ch]D2[/ch]       [ch]Bm7[/ch](4)   [ch]Asus[/ch]
+
+
+[ch]D2[/ch] [ch]Asus[/ch](4x)
+
+
+-Verse 2-
+[ch]D2[/ch]
+[ch]Bm7[/ch](4)   [ch]C2[/ch](6)    [ch]Bm7[/ch](4)
+[ch]Asus[/ch]
+[ch]D2[/ch]
+[ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Bm7[/ch](4)   [ch]Asus[/ch]
+[ch]D2[/ch]       [ch]Bm7[/ch](4)            
+[ch]C2[/ch](6)    [ch]Bm7[/ch](4)      
+[ch]Asus[/ch]
+[ch]D2[/ch]       [ch]Bm7[/ch](4)
+[ch]C2[/ch](6)    [ch]Bm7[/ch](4)
+[ch]C2[/ch](6)    [ch]Asus[/ch]
+
+
+-Chorus-
+[ch]Bm7[/ch](4)   [ch]G5[/ch]
+[ch]Asus[/ch]
+[ch]Bm7[/ch](4)   [ch]G5[/ch]       [ch]Asus[/ch]
+[ch]Bm7[/ch](4)   [ch]G5[/ch]
+[ch]Asus[/ch]     [ch]C2[/ch](6)    [ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Asus[/ch]     [ch]D2[/ch]       [ch]Bm7[/ch](4)   [ch]Asus[/ch]
+
+
+[ch]D2[/ch] [ch]Bm7[/ch](4) [ch]C2[/ch](6) [ch]Asus[/ch](2x)
+
+
+[ch]C2[/ch](6) [ch]Bm7[/ch](4) [ch]C2[/ch](6) [ch]Asus[/ch]
+
+
+-Verse 3-
+[ch]D2[/ch]                           
+[ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Bm7[/ch](4)   [ch]Asus[/ch]
+[ch]D2[/ch]
+[ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Bm7[/ch](4)   [ch]Asus[/ch] 
+[ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Bm7[/ch](4)   [ch]C2[/ch](6)
+[ch]Bm7[/ch](4)   [ch]Asus[/ch]
+[ch]D2[/ch]      [ch]Asus[/ch]
+
+
+[ch]D2[/ch] [ch]Asus[/ch](5x) [ch]D2[/ch]

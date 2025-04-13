@@ -1,0 +1,92 @@
+URL: https://tabs.ultimate-guitar.com/tab/wacci/anata-ga-iru-chords-4073080
+Artist: Wacci
+Song: Anata Ga Iru
+Genre: 
+Key: C
+
+
+[Intro]
+[ch]C[/ch]     [ch]G[/ch]      | [ch]F[/ch]  [ch]G[/ch]  [ch]Am[/ch]    |
+[ch]Dm[/ch]    [ch]Dm[/ch]  [ch]Em[/ch] | [ch]F[/ch]      [ch]G[/ch]    |
+
+[Hook]
+[tab]      [ch]C[/ch]             [ch]G[/ch]           [ch]F[/ch]         [ch]C[/ch]  [ch]G/B[/ch]
+Anata ga iru dakara boku wa tobitaterundayo[/tab]
+[tab]      [ch]Am[/ch]            [ch]Em[/ch]           [ch]F[/ch]         [ch]F[/ch]  [ch]G[/ch]
+Anata ga iru dakara boku wa fumidaserundayo[/tab]
+[tab]      [ch]C[/ch]               [ch]G[/ch]       [ch]F[/ch]    [ch]E7[/ch] [ch]Am[/ch]
+Itsu no hi ka tadori tsuite dakishimeau toki[/tab]
+[tab][ch]Dm[/ch]       [ch]Em[/ch]       [ch]F[/ch]        [ch]G[/ch]
+Ima no bokura o hokorerukara kitto[/tab]
+
+[Interlude]
+[ch]C[/ch]     [ch]G/B[/ch]   | [ch]Am[/ch]     [ch]G[/ch]     |
+[ch]Dm[/ch] [ch]Em[/ch] [ch]F[/ch]     | [ch]Dm[/ch] [ch]Em[/ch] [ch]Fm[/ch]     |
+
+[Verse]
+[tab][ch]C[/ch]            [ch]G/B[/ch]           [ch]Am[/ch]           [ch]G[/ch]
+  Dare ka no mane janakutte iwareta wake janakutte[/tab]
+[tab][ch]F[/ch]            [ch]C/E[/ch]            [ch]Dm[/ch]             [ch]G[/ch]
+  Boku ga boku no ishi de eranda hajimete no honki no yume ni[/tab]
+[tab][ch]C[/ch]            [ch]G/B[/ch]           [ch]Am[/ch]           [ch]G[/ch]
+  Boku ga mitsuketa mono wa amakunai genjitsu ni[/tab]
+[tab][ch]F[/ch]            [ch]C/E[/ch]            [ch]Dm[/ch]              [ch]G[/ch]
+  Soredemo akogareru kimochi to kakegae no nai deai[/tab]
+
+[PreChorus]
+[tab][ch]F[/ch]                  [ch]C/E[/ch]
+Miseatta namida ga uchiakeatta yowa sa ga[/tab]
+[tab][ch]Dm[/ch]            [ch]Em[/ch]     [ch]Fm/Ab[/ch]      [ch]G[/ch]
+Kyō mo shinji aeru riyū ni naru[/tab]
+
+[Hook]
+[tab]      [ch]C[/ch]             [ch]G[/ch]           [ch]F[/ch]         [ch]C[/ch]  [ch]G/B[/ch]
+Anata ga iru dakara boku wa tobitaterundayo[/tab]
+[tab]      [ch]Am[/ch]            [ch]Em[/ch]           [ch]F[/ch]         [ch]F[/ch]  [ch]G[/ch]
+Anata ga iru dakara boku wa fumidaserundayo[/tab]
+[tab]      [ch]C[/ch]               [ch]G[/ch]       [ch]F[/ch]    [ch]E7[/ch] [ch]Am[/ch]
+Itsu no hi ka tadori tsuite dakishimeau toki[/tab]
+[tab][ch]Dm[/ch]       [ch]Em[/ch]       [ch]F[/ch]        [ch]G[/ch]     [ch]C[/ch]     [ch]Ab[/ch]
+Ima no bokura o hokorerukara kitto[/tab]
+
+[Verse]
+[tab][ch]C[/ch]            [ch]G/B[/ch]       [ch]Am[/ch]             [ch]G[/ch]
+Sukide hajimeta hazu ga suki janaku natteitte[/tab]
+[tab][ch]F[/ch]              [ch]C/E[/ch]           [ch]Dm[/ch]             [ch]G[/ch]
+Tashika ni dekiteita koto mo dekinaku natteita ano hi[/tab]
+[tab][ch]C[/ch]              [ch]G/B[/ch]      [ch]Am[/ch]             [ch]G[/ch]
+Kaomuke mo dekinakutte nigeru yō ni tojikomotte[/tab]
+[tab][ch]F[/ch]              [ch]C/E[/ch]       [ch]Dm[/ch]            [ch]G[/ch]
+Jibun o akirameta boku o anata wa akiramezu ni[/tab]
+
+[PreChorus]
+[tab][ch]F[/ch]                     [ch]C/E[/ch]
+Ue ni wa ue ga itatte boku ni wa boku dake datte[/tab]
+[tab][ch]Dm[/ch]         [ch]Em[/ch]         [ch]Fm/Ab[/ch]     [ch]G[/ch]
+Tōmawashidattakedo ureshikattayo[/tab]
+
+[Hook]
+[tab]      [ch]C[/ch]            [ch]G[/ch]           [ch]F[/ch]      [ch]C[/ch]  [ch]G/B[/ch]
+Anata to mata waraitakute arukihajimeta[/tab]
+[tab]      [ch]Am[/ch]           [ch]Em[/ch]           [ch]F[/ch]       [ch]F[/ch]  [ch]G[/ch]
+Anata to mata idomitakute namida nugutta[/tab]
+[tab]        [ch]C[/ch]               [ch]G[/ch]         [ch]F[/ch]    [ch]E7[/ch] [ch]Am[/ch]
+Itsu no hi ka sono subete ga kako ni kawaru toki[/tab]
+[tab][ch]Dm[/ch]    [ch]Em[/ch]         [ch]F[/ch]        [ch]G[/ch]
+Omoidasu tabi kagayakukara kitto[/tab]
+
+[Bridge]
+[tab][ch]F[/ch]           [ch]G[/ch]            [ch]Em[/ch]               [ch]Am[/ch]
+Oikaketsuzukeru naka de chīsaku kanatteyukundarō[/tab]
+[tab]         [ch]F[/ch]         [ch]E7[/ch]  [ch]Am[/ch]   [ch]F[/ch]     [ch]C/E[/ch]      [ch]Dm[/ch]            [ch]G[/ch]          [ch]Ab[/ch]
+Bokura wa kyō mo kanaeru onaji mirai o tomoni egaku toiu yume o[/tab]
+
+[Hook]
+[tab]      [ch]Db[/ch]            [ch]Ab/C[/ch]       [ch]Gb[/ch]       [ch]Db[/ch]  [ch]Ab/C[/ch]
+Anata ga iru dakara boku wa tobitaterundayo[/tab]
+[tab]      [ch]Bbm[/ch]           [ch]Fm[/ch]          [ch]Gb[/ch]        [ch]Gb[/ch]  [ch]Ab[/ch]
+Anata ga iru dakara boku wa fumidaserundayo[/tab]
+[tab]      [ch]Db[/ch]             [ch]Ab/C[/ch]      [ch]Gb[/ch]  [ch]F7[/ch]  [ch]Bbm[/ch]
+Itsu no hi ka tadori tsuite dakishimeau toki[/tab]
+[tab][ch]Ebm[/ch]      [ch]Fm[/ch]      [ch]Gb[/ch]        [ch]Ab[/ch]    [ch]Db[/ch]
+Boku mo anata no hokori de aritai[/tab]

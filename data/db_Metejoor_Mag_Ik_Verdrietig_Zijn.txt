@@ -1,0 +1,242 @@
+URL: https://tabs.ultimate-guitar.com/tab/metejoor/mag-ik-verdrietig-zijn-chords-4976770
+Artist: Metejoor
+Song: Mag Ik Verdrietig Zijn
+Genre: 
+Key: 
+
+
+BPM:      111
+Released: 29 Sep 2023
+Album:    Joris
+
+LET OP: er staan twee vesies in deze tab:
+   
+        1. met standaard tuning en capo op fret 2
+        2. in half-step down tuning, zonder capo. Dit is hoe het gespeeld wordt en met
+              de makkelijkste akkoorden
+
+Note: Two version in this tab:
+   
+        1. In standard tuning with capo at fret 2
+        2. in half-step down tuning, without capo. This is how it should be played and it gives
+              the easiest chords
+
+
+Versie 1
+
+Capo: 2 fret
+
+        Alternate or different capo fret positions are easily possible by using the transpose
+           button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example To play this without capo put the transpose button at +2
+                  Half step down tuning put the transpose button at +3
+
+       Capo positie aanpassingen zijn gemakkelijk te maken door de Transpose knop te gebruiken.
+          Transpose -1 is capo een fret hoger; Transpose knop +1 is capo een fret lager.
+          De akkoorden worden automatisch aangepast aan de nieuwe capo positie.
+          Let wel bij gebruik van de transpose functie kunnen de akkoorden iets op de regel
+             verschuiven omwille van de lengte van de akkoord namen.
+          Bv Spelen zonder capo? Zet de transpose knop dan op +2.
+
+
+[Chords]
+[B/D#   x64447]   of speel een B akkoord.
+
+
+[Intro]
+[ch]E[/ch]  [ch]B[/ch]  [ch]C#m[/ch]  [ch]A[/ch]  
+[ch]E[/ch]  [ch]B[/ch]  [ch]C#m[/ch]  [ch]A[/ch]  
+
+
+[Verse 1]
+[tab][ch]E[/ch]            [ch]B[/ch]              [ch]C#m[/ch]    [ch]A[/ch]  
+Hoezo hou ik dit nog langer tegen?[/tab]
+[tab][ch]E[/ch]                   [ch]B[/ch]                    [ch]C#m[/ch]    [ch]A[/ch]  
+Wordt het niet eens tijd dat ik het laat gaan?[/tab]
+[tab]               [ch]C#m[/ch]          [ch]B[/ch]          
+Ik loop er mee rond de hele dag[/tab]
+[tab]              [ch]E[/ch]              [ch]A[/ch]  
+‘K wil gewoon huilen als het heel even mag[/tab]
+[tab][ch]E[/ch]                   [ch]B[/ch]                  [ch]C#m[/ch]    [ch]A[/ch]  
+Ik ben ook maar een mens en ik heb m’n reden[/tab]
+
+
+[Pre-Chorus]
+[tab]    [ch]A[/ch]   [ch]B/D#[/ch]  [ch]E[/ch]               [ch]C#m[/ch]             [ch]A[/ch]   [ch]B/D#[/ch]
+Oh, hoe-oe    lang ik moet ik dit nog blijven doe-oen?[/tab]
+
+[Chorus]
+[tab][ch]E[/ch]          [ch]B/D#[/ch]            [ch]C#m[/ch]      
+Mag ik een keer verdrietig zijn?[/tab]
+[tab]          [ch]A[/ch]                [ch]E[/ch] 
+En niet alleen als niemand kijkt,[/tab]
+[tab][ch]E[/ch]          [ch]B/D#[/ch]         [ch]C#m[/ch]      
+Ik moet nu even door de pijn,[/tab]
+[tab]            [ch]A[/ch]                
+Het wordt teveel voor mij,[/tab]
+[tab]    [ch]E[/ch]       [ch]B/D#[/ch] [ch]C#m[/ch]   [ch]A[/ch]  
+Dus laat me alsjeblieft,[/tab]
+[tab]    [ch]E[/ch]       [ch]B/D#[/ch] [ch]C#m[/ch]    [ch]A[/ch]  
+Ja, laat me alsjеblieft,[/tab]
+[tab]           [ch]E[/ch]       [ch]B/D#[/ch]    [ch]C#m[/ch]    [ch]E[/ch]  
+Verdrietig zijn.[/tab]
+
+
+[Verse 2]
+[tab][ch]E[/ch]               [ch]B[/ch]                [ch]C#m[/ch]    [ch]A[/ch]  
+Moеt ik met een glimlach blijven lopen?[/tab]
+[tab][ch]E[/ch]               [ch]B[/ch]               [ch]C#m[/ch]       [ch]A[/ch]  
+En doen alsof gevoel vanzelf verdwijnt?[/tab]
+[tab]           [ch]C#m[/ch]              [ch]B[/ch]          
+Vind je me raar, ben ik dan vreemd,[/tab]
+[tab]          [ch]E[/ch]              [ch]A[/ch]  
+Als ik precies hetzelfde voel als iedereen?[/tab]
+[tab][ch]E[/ch]                   [ch]B[/ch]                  [ch]C#m[/ch]   [ch]A[/ch]  
+Ik ben ook maar een mens en ik heb dit nodig.[/tab]
+
+
+[Chorus]
+[tab][ch]E[/ch]              [ch]B/D#[/ch]            [ch]C#m[/ch]      
+Oh, mag ik een keer verdrietig zijn?[/tab]
+[tab]          [ch]A[/ch]                [ch]E[/ch]         
+En niet alleen als niemand kijkt,[/tab]
+[tab][ch]E[/ch]          [ch]B/D#[/ch]         [ch]C#m[/ch]      
+Ik moet nu even door de pijn,[/tab]
+[tab]            [ch]A[/ch]   
+Het wordt teveel voor mij,[/tab]
+[tab]    [ch]E[/ch]       [ch]B/D#[/ch] [ch]C#m[/ch]    [ch]A[/ch]  
+Dus laat me alsjeblieft,[/tab]
+[tab]    [ch]E[/ch]       [ch]B/D#[/ch] [ch]C#m[/ch]    [ch]A[/ch]  
+Ja, laat me alsjeblieft.[/tab]
+
+
+[Pre-Chorus]
+[tab]    [ch]A[/ch]   [ch]B/D#[/ch]  [ch]E[/ch]               [ch]C#m[/ch]             [ch]A[/ch]   [ch]B/D#[/ch]
+Oh, hoe-oe    lang ik moet ik dit nog blijven doe-oen?[/tab]
+
+
+[Outro]
+[tab][ch]E[/ch]              [ch]B[/ch]               [ch]C#m[/ch]      
+Oh, mag ik een keer verdrietig zijn?[/tab]
+[tab]          [ch]A[/ch]                [ch]E[/ch]         
+En niet alleen als niemand kijkt,[/tab]
+[tab][ch]E[/ch]          [ch]B[/ch]            [ch]C#m[/ch]      
+Ik moet nu even door de pijn,[/tab]
+[tab]            [ch]A[/ch]   
+Het wordt teveel voor mij,[/tab]
+[tab]    [ch]E[/ch]       [ch]B/D#[/ch] [ch]C#m[/ch]     [ch]A[/ch]  
+Dus laat me alsjeblieft,[/tab]
+[tab]    [ch]E[/ch]       [ch]B/D#[/ch] [ch]C#m[/ch]   [ch]A[/ch]  
+Ja, laat me alsjeblieft,[/tab]
+[tab]           [ch]E[/ch]     [ch]B/D#[/ch]  [ch]C#m[/ch]   [ch]A[/ch]  
+Verdrietig zijn . . .,[/tab]
+[tab]           [ch]E[/ch]     [ch]B/D#[/ch]  [ch]C#m[/ch]   [ch]A[/ch]  
+Verdrietig zijn . . .,[/tab]
+[tab]           [ch]E[/ch]     [ch]B/D#[/ch]  [ch]C#m[/ch]   [ch]A[/ch]  
+Verdrietig zijn . . .,[/tab]
+[ch]E[/ch]  [ch]B/D#[/ch]  [ch]C#m[/ch] 
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Version 2   In half-step down tuning
+
+No Capo
+
+[Intro]
+[ch]G[/ch]  [ch]D[/ch]  [ch]Em[/ch] [ch]C[/ch]
+[ch]G[/ch]  [ch]D[/ch]  [ch]Em[/ch] [ch]C[/ch]
+ 
+ 
+[Verse 1]
+[tab][ch]G[/ch]            [ch]D[/ch]              [ch]Em[/ch]    [ch]C[/ch]
+Hoezo hou ik dit nog langer tegen?[/tab]
+[tab][ch]G[/ch]                   [ch]D[/ch]                    [ch]Em[/ch]   [ch]C[/ch]
+Wordt het niet eens tijd dat ik het laat gaan?[/tab]
+[tab]               [ch]C[/ch]            [ch]D[/ch]
+Ik loop er mee rond de hele dag,[/tab]
+[tab]              [ch]G[/ch]              [ch]Em[/ch]
+‘K wil gewoon huilen als het heel even mag,[/tab]
+[tab][ch]G[/ch]                   [ch]D[/ch]                  [ch]Em[/ch]   [ch]C[/ch]
+Ik ben ook maar een mens en ik heb m’n reden.[/tab]
+ 
+ 
+[Pre-Chorus]
+[tab]    [ch]C[/ch]   [ch]D/F#[/ch] [ch]G[/ch]               [ch]Em[/ch]              [ch]C[/ch]   [ch]D/F#[/ch]
+Oh, hoe-oe   lang ik moet ik dit nog blijven doe-oen?[/tab]
+ 
+ 
+[Chorus]
+[tab][ch]G[/ch]          [ch]D/F#[/ch]            [ch]Em[/ch]
+Mag ik een keer verdrietig zijn?[/tab]
+[tab]          [ch]C[/ch]                [ch]G[/ch]
+En niet alleen als niemand kijkt,[/tab]
+[tab][ch]G[/ch]          [ch]D/F#[/ch]         [ch]Em[/ch]
+Ik moet nu even door de pijn,[/tab]
+[tab]            [ch]C[/ch]
+Het wordt teveel voor mij,[/tab]
+[tab]    [ch]G[/ch]       [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Dus laat me alsjeblieft,[/tab]
+[tab]    [ch]G[/ch]       [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Ja, laat me alsjеblieft,[/tab]
+[tab]           [ch]G[/ch]       [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Verdrietig zijn.[/tab]
+ 
+ 
+[Verse 2]
+[tab][ch]G[/ch]               [ch]D[/ch]                [ch]Em[/ch]   [ch]C[/ch]
+Moеt ik met een glimlach blijven lopen?[/tab]
+[tab][ch]G[/ch]               [ch]D[/ch]               [ch]Em[/ch]      [ch]C[/ch]
+En doen alsof gevoel vanzelf verdwijnt?[/tab]
+[tab]           [ch]G[/ch]                [ch]D[/ch]
+Vind je me raar, ben ik dan vreemd,[/tab]
+[tab]          [ch]Em[/ch]             [ch]C[/ch]
+Als ik precies hetzelfde voel als iedereen?[/tab]
+[tab][ch]G[/ch]                   [ch]D[/ch]                  [ch]Em[/ch]   [ch]C[/ch]
+Ik ben ook maar een mens en ik heb dit nodig.[/tab]
+ 
+ 
+[Chorus]
+[tab][ch]G[/ch]          [ch]D/F#[/ch]            [ch]Em[/ch]
+Mag ik een keer verdrietig zijn?[/tab]
+[tab]          [ch]C[/ch]                [ch]G[/ch]
+En niet alleen als niemand kijkt,[/tab]
+[tab][ch]G[/ch]          [ch]D/F#[/ch]         [ch]Em[/ch]
+Ik moet nu even door de pijn,[/tab]
+[tab]            [ch]C[/ch]
+Het wordt teveel voor mij,[/tab]
+[tab]    [ch]G[/ch]       [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Dus laat me alsjeblieft,[/tab]
+[tab]    [ch]G[/ch]       [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Ja, laat me alsjеblieft,[/tab]
+ 
+ 
+[Pre-Chorus]
+[tab]    [ch]C[/ch]   [ch]D/F#[/ch] [ch]G[/ch]               [ch]Em[/ch]              [ch]C[/ch]   [ch]D/F#[/ch]
+Oh, hoe-oe   lang ik moet ik dit nog blijven doe-oen?[/tab]
+ 
+ 
+[Outro]
+[tab][ch]G[/ch]              [ch]D[/ch]               [ch]Em[/ch]
+Oh, mag ik een keer verdrietig zijn?[/tab]
+[tab]          [ch]C[/ch]                [ch]G[/ch]
+En niet alleen als niemand kijkt,[/tab]
+[tab][ch]G[/ch]          [ch]D[/ch]            [ch]Em[/ch]
+Ik moet nu even door de pijn,[/tab]
+[tab]            [ch]C[/ch]
+Het wordt teveel voor mij,[/tab]
+[tab]    [ch]G[/ch]       [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Dus laat me alsjeblieft,[/tab]
+[tab]    [ch]G[/ch]       [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Ja, laat me alsjeblieft,[/tab]
+[tab]           [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Verdrietig zijn . . .,[/tab]
+[tab]           [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Verdrietig zijn . . .,[/tab]
+[tab]           [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]C[/ch]
+Verdrietig zijn . . .,[/tab]
+[ch]G[/ch]  [ch]D/F#[/ch]  [ch]Gm[/ch]

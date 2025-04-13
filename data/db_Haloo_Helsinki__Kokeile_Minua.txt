@@ -1,0 +1,113 @@
+URL: https://tabs.ultimate-guitar.com/tab/haloo-helsinki/kokeile-minua-chords-1454608
+Artist: Haloo Helsinki!
+Song: Kokeile Minua
+Genre: 
+Key: 
+
+
+[tab]/*---------------------------------------------------------------------------------------------[/tab]
+[tab]// Haloo Helsinki - Kokeile Minua
+// --------------------------------------------------------------------------------------------[/tab]
+[tab]// chords by Joonas Greis - kamilla @ quakenet
+// joonas.greis@kamillaproductions.com
+// notes:
+*/---------------------------------------------------------------------------------------------[/tab]
+
+//tuning one semitone lower
+
+//intro
+
+[tab]    d#|-----------------------------------------------------------|
+    a#|-----------------------------------------------------------|
+    f#|-----------------------------------------------------------|
+    c#|-----------------------------------------------------------|
+    g#|-------3--5--7-----3---------------3--5--7-----3-----------|
+    D#|-5-5-5---------5-5---5--1--0-5-5-5---------5-5---5-1-1-1-1-|[/tab]
+
+
+//verse, following intonation of intro
+
+    [ch]G#5[/ch]           [ch]E5[/ch]            [ch]G#5[/ch]           [ch]E5[/ch]
+
+    Mitä sä seuraat ja mitä sä kyyläät. Joka bileissä on joku hiton hiihtäjä
+
+    [ch]G#5[/ch]           [ch]E5[/ch]            [ch]G#5[/ch]           [ch]E5[/ch]
+
+    Mitä sä pelkäät ja mitä sä nysväät. Joka bileissä on joku hyvä vesipatja
+
+
+[tab]        [ch]B5[/ch]       [ch]G#5[/ch]          [ch]B5[/ch]       [ch]G#5[/ch]
+    d#|---------------------------------------------|
+    a#|---------------------------------------------|
+    f#|---------------------------------------------|
+    c#|-5---4--2-4-2----------5---4--2-4-2----------|
+    g#|---------------5--3------------------5--3----|
+    D#|---------------------5---------------------5-|[/tab]
+
+    Tää elämä, älä jänistä
+
+    Tää elämä
+
+    [ch]G#5[/ch]           [ch]E5[/ch]            [ch]G#5[/ch]           [ch]E5[/ch]
+
+    Netissä heität niin kovana läppää, mut livenä et uskalla toimia
+
+    [ch]G#5[/ch]           [ch]E5[/ch]            [ch]G#5[/ch]           [ch]E5[/ch]
+
+    Jokainen pelkää jäävänsä yksin, mut sato pitää poimia
+
+
+
+    [ch]E5[/ch]   | [ch]C#5[/ch] [ch]D#5[/ch] |   [ch]G#5[/ch]   |   [ch]B5[/ch]
+
+    Kokeile minua, kokeile. Olen ihoa luuta ja lihaa
+
+    [ch]E5[/ch]   | [ch]C#5[/ch] [ch]D#5[/ch] |   [ch]G#5[/ch]   | [ch]B5[/ch]  [ch]C5[/ch]
+
+    Kokeile beibi, anna palaa. Ei riitä että halaat
+
+[tab]    [ch]E5[/ch]   | [ch]C#5[/ch] [ch]D#5[/ch] | [ch]G#5[/ch] [ch]F#5[/ch] | [ch]F#5/G#[/ch] [ch]F5[/ch]   // laskeva osuus vain kahdella alimmalla 
+kielellä (muutenkin olen hieman epävarma oikeellisuudesta)[/tab]
+
+    Kokeile minua, kokeile. Rakastan enkä vihaa
+
+[tab]    [ch]E5[/ch]   |   [ch]D#5[/ch]   |   [ch]G#5[/ch]   |   [ch]G#5[/ch]  // [ch]G#[/ch] laskee pohjasävelenä jonku 
+flangerin/wahwahin tai muun kaa[/tab]
+
+    Kokeile beibi, kokeile minua
+
+
+    [ch]G#5[/ch]           [ch]E5[/ch]            [ch]G#5[/ch]           [ch]E5[/ch]
+
+    Meet liian lujaa, pysää, pysää. Meet liian lujaa, pysää, pysää
+
+[tab]        [ch]B5[/ch]       [ch]G#5[/ch]          [ch]B5[/ch]       [ch]G#5[/ch]
+    d#|---------------------------------------------|
+    a#|---------------------------------------------|
+    f#|---------------------------------------------|
+    c#|-5---4--2-4-2----------5---4--2-4-2----------|
+    g#|---------------5--3------------------5--3----|
+    D#|---------------------5---------------------5-|[/tab]
+
+
+    Hyvä sä seuraat. Ja hyvä sä naurat. Joka bileissä on joku joka kolisee
+    Karataan täältä ja karataan kauas. Sillä sydän sanoo mee
+
+    Kokeile minua, kokeile. Olen ihoa luuta ja lihaa
+    Kokeile beibi, anna palaa. Ei riitä että halaat
+    Kokeile minua, kokeile. Rakastan enkä vihaa
+    Kokeile beibi, kokeile minua
+
+    Meet liian lujaa, pysää, pysää
+    Meet liian lujaa, pysää, pysää
+    Meet liian lujaa, pysää, pysää, pysää
+    Meet liian lujaa, pysää, pysää, pysää
+
+    [ch]G#5[/ch]
+
+    Karataan täältä ja karataan kauas
+    Sillä sydän sanoo mee
+    Sillä sydän sanoo mee
+    Sillä sydän sanoo mee
+
+    Kokeile minua, kokeile...

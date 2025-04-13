@@ -1,0 +1,127 @@
+URL: https://tabs.ultimate-guitar.com/tab/rachel-jenkins/untitled-chords-3648389
+Artist: Rachel Jenkins
+Song: Untitled
+Genre: 
+Key: 
+
+
+Song: Untitled
+Artist: Rachel Jenkins
+Chord proposal: Mats Fagergren, 2021
+
+Obs, !!!
+My chord version is based on the studio version found on spotify etc.
+Secondly, I have used standard tuning !! on the guitar with capo on 1 st fret, while
+Rachel’s guitar is in an open chord tuning that can be difficult to figure out ( not a std tuning )
+Due to that I use std tuning, there can be some minor difference in the coloring of the chords vs Rachels
+original version.
+
+please use Chords according to my chart below :
+***CAPO 1st Fret***.
+
+          E,A,D,G,B,e
+C/G.      3,3,2,0,1,x
+C/G*.     3,3,2,0,x,x
+Csus2/G.  3,3,0,0,1,x
+Am7-13    x,0,3,0,1,x
+F(add9)/A x,0,3,0,x,x
+Fsus2*    1,3,3,0,x,x
+Fsus2.    x,x,3,0,1,0 or F(add9)
+F(add9)   1,0,3,0,x,x
+F.        1,3,3,2,x,x
+Gsus4.    3,x,0,0,1,x
+F.        1,3,3,2,1,1
+Am.       x,0,2,2,1,0
+Em.       0,2,2,0,0,0
+Cmaj7/E   0,2,2,0,1,x
+D7/A.     5,x,4,5,3,x or 
+D7A       x,0,0,2,1,2
+C/E.      0,3,2,0,1,0
+
+[intro]
+
+| [ch]C/G[/ch]* | [ch]F(add9)/A[/ch] [ch]Fsus2[/ch]* | [ch]C/G[/ch]* | [ch]F(add9)/A[/ch] [ch]Fsus2[/ch]* |
+| [ch]C/G[/ch]* | [ch]F(add9)/A[/ch] [ch]Fsus2[/ch]* | [ch]C/G[/ch]* | [ch]F(add9)/A[/ch] [ch]Fsus2[/ch]* |
+
+[verse 1]
+[tab]        [ch]C/G[/ch]      [ch]Csus2/G[/ch]  [ch]Fsus2[/ch]
+It's tradition...   in my house[/tab]
+[tab][ch]Fsus2[/ch]            [ch]C/G[/ch]    [ch]Csus2/G[/ch] [ch]Fsus2[/ch]
+To bring the boy over....  Unan-nounced[/tab]
+[tab]     [ch]C/G[/ch]      [ch]Csus2/G[/ch] [ch]Fsus2[/ch]
+On a mission...For a  spouse[/tab]
+
+[middle]
+
+[tab][ch]Fsus2[/ch]     [ch]C/G[/ch]                    [ch]Fsus2[/ch]        [ch]Gsus4[/ch]
+Don't you smile too big or he'll ask for your hand[/tab]
+[tab]    [ch]Cmaj7/E[/ch]       [ch]Em[/ch]        [ch]Fsus2[/ch]
+And you'll end up alone and endowed[/tab]
+[tab]       [ch]Am[/ch]     [ch]Gsus4[/ch]   [ch]Fsus2[/ch]
+But it doesn't matter anyhow[/tab]
+[tab]        [ch]Am[/ch]           [ch]Gsus4[/ch] [ch]D7/A[/ch]  [ch]F[/ch]
+I don't bat for your team now[/tab]
+
+[interlude]
+
+| [ch]C/G[/ch]* | [ch]F(add9)/A[/ch] [ch]Fsus2[/ch]* | [ch]C/G[/ch]* | [ch]F(add9)/A[/ch] [ch]Fsus2[/ch]* |
+| [ch]C/G[/ch]* | [ch]F(add9)/A[/ch] [ch]Fsus2[/ch]* | [ch]C/G[/ch]* | [ch]F(add9)/A[/ch] [ch]Fsus2[/ch]* |
+
+[verse 2]
+
+[tab]        [ch]C/G[/ch]    [ch]Csus2/G[/ch]    [ch]Fsus2[/ch]
+Now I'm flying....Windows down[/tab]
+[tab]         [ch]C/G[/ch]     [ch]Csus2/G[/ch]      [ch]Fsus2[/ch]
+Burning grass on ...the temple grounds[/tab]
+[tab][ch]C/G[/ch]         [ch]Csus2/G[/ch]     [ch]Fsus2[/ch]
+One foot out...Shoot me down[/tab]
+
+[middle]
+
+[tab][ch]Fsus2[/ch]    [ch]C/G[/ch]                       [ch]Fsus2[/ch]        [ch]Gsus4[/ch]
+Mourn my death on the news..Blame my mom and tattoos[/tab]
+[tab]     [ch]Cmaj7/E[/ch]    [ch]Em[/ch]                [ch]F[/ch]  [ch]Fsus2[/ch]* [ch]F[/ch] [ch]Fsus2[/ch]*
+And keep saving your spit for the drought[/tab]
+[tab]      [ch]Am[/ch]        [ch]Gsus4[/ch]           [ch]Fsus2[/ch]
+And I pray to a god that doesn't care[/tab]
+[tab]   [ch]Am[/ch]       [ch]Gsus4[/ch]   [ch]D7/A[/ch]   [ch]F[/ch]
+At least not enough to be there[/tab]
+
+[part 3]
+[tab]   [ch]C/G[/ch]     [ch]D7/A[/ch]         [ch]F[/ch]
+Oh I'm not afraid of dying[/tab]
+[tab]    [ch]Am[/ch] [ch]Gsus4[/ch]        [ch]F[/ch] [ch]Fsus2[/ch]* [ch]F[/ch] [ch]Fsus2[/ch]*
+But I  swear to god if I lose[/tab]
+[tab]     [ch]C/G[/ch]      [ch]D7/A[/ch]
+This self-proclaimed quitter[/tab]
+[tab]            [ch]Am[/ch]      [ch]Gsus4[/ch]     [ch]F[/ch] [ch]Fsus2[/ch]*
+Will have a bone to pick with you[/tab]
+
+[outro]
+
+[tab][ch]F[/ch] [ch]C/E[/ch] [ch]F[/ch] [ch]F[/ch] [ch]F[/ch] [ch]G[/ch]
+..............[/tab]
+[tab][ch]F(add9)/A[/ch] [ch]F(add9)/A[/ch] [ch]F(add9)/A[/ch] [ch]F(add9)/A[/ch]
+.....ooooooohhhh...............[/tab]
+[tab][ch]Gsus4[/ch] [ch]Gsus4[/ch] [ch]Gsus4[/ch] [ch]Gsus4[/ch]
+..ooohh.............[/tab]
+[tab][ch]Fsus2[/ch]* [ch]Fsus2[/ch]* [ch]Fsus2[/ch]* [ch]Fsus2[/ch]*
+....oooo...............[/tab]
+[tab][ch]Fsus2[/ch]* [ch]Fsus2[/ch]*
+............[/tab]
+[tab][ch]C/G[/ch] [ch]C/G[/ch] [ch]C/G[/ch] [ch]C/G[/ch]
+..............[/tab]
+[tab][ch]F[/ch] [ch]F[/ch] [ch]F[/ch] [ch]F[/ch]
+.......[/tab]
+[tab][ch]C/G[/ch] [ch]C/G[/ch] [ch]C/G[/ch] [ch]C/G[/ch]
+..............[/tab]
+[tab][ch]F[/ch] [ch]F[/ch] [ch]F[/ch] [ch]F[/ch]
+.......[/tab]
+[tab]        [ch]C/G[/ch]        [ch]F[/ch]
+Bet you did........it[/tab]
+[tab]       [ch]C/G[/ch]           [ch]F[/ch]
+think you'd see......me.[/tab]
+[tab]       [ch]C/G[/ch]          [ch]F[/ch]
+..........[/tab]
+[tab][ch]C/G[/ch]
+...[/tab]

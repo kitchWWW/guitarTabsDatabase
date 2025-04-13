@@ -1,0 +1,62 @@
+URL: https://tabs.ultimate-guitar.com/tab/karen-o/anti-lullaby-chords-3237074
+Artist: Karen O
+Song: Anti-Lullaby
+Genre: 
+Key: G#m
+
+
+The chord shapes
+[tab]          [ch]E[/ch] [ch]A[/ch] [ch]D[/ch] [ch]G[/ch] [ch]B[/ch] [ch]E[/ch]
+Em      : 0 2 2 0 0 0[/tab]
+Am      : X 0 2 2 1 0
+Am6     : 0 0 2 2 1 2
+Cadd(b5): X 3 2 0 1 2
+G       : 3 2 0 0 0 x
+
+Below, C* is Cadd(b5)
+
+
+[Intro]
+[ch]Em[/ch]
+
+[Verse]
+[tab]       [ch]Em[/ch]
+Do not sleep, my starling[/tab]
+[tab][ch]Am[/ch]
+Sleep, my doe[/tab]
+[tab]       [ch]Am6[/ch]
+She is wrapped in curtains[/tab]
+[tab][ch]Em[/ch]
+Laid in snow[/tab]
+[tab]         [ch]C[/ch]*         [ch]Am[/ch]
+She will bury you inside her fur[/tab]
+
+[Chorus]
+[tab]       [ch]C[/ch]*
+Do not sleep[/tab]
+[tab]                     [ch]Am[/ch]
+She waits for you to sleep[/tab]
+[tab]       [ch]C[/ch]*
+Do not sleep[/tab]
+[tab]                     [ch]Am[/ch]
+She waits for you to sleep[/tab]
+
+[Bridge]
+[tab]   [ch]C[/ch]*
+My breath you breathe[/tab]
+[tab]        [ch]G[/ch]
+It will carry you[/tab]
+[tab]   [ch]C[/ch]*
+My breath you breathe[/tab]
+[tab]   [ch]G[/ch]
+It carries you[/tab]
+
+[Chorus]
+[tab]       [ch]C[/ch]*
+Do not sleep[/tab]
+[tab]                     [ch]Am[/ch]
+She waits for you to sleep[/tab]
+[tab]       [ch]C[/ch]*
+Do not sleep[/tab]
+[tab]                    [ch]Em[/ch]
+My starling, do not sleep[/tab]

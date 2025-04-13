@@ -1,0 +1,140 @@
+URL: https://tabs.ultimate-guitar.com/tab/sam-sam/sandcastles-chords-4057987
+Artist: Sam + Sam
+Song: Sandcastles
+Genre: 
+Key: A
+
+
+[tab][Chord shapes]
+    [ch]A[/ch]*  [ch]C[/ch]*  [ch]G[/ch]* [ch]Bm7[/ch]* [ch]A[/ch]  [ch]Gsus2[/ch]
+e|--X---X---X---X---0---3---|
+B|--5---8---3---3---2---3---|
+G|--6---9---4---2---2---0---|
+D|--7---10--5---4---2---0---|
+A|--0---0---0---0---0---0---|[/tab]
+[ch]E[/ch]|--X---X---X---X---X---3---|
+
+Note: - For the verses, Ludeman plays A all the way through, while Russel does the progression.
+      - For each bar in the verses, the progression is a single strum of the chord at the start,
+        followed by muted strumming, followed by another single strum before sliding to the next chord.
+      - Intro, verses and bridge use the * version of the chords, while the chorus uses the full chords.
+
+* At time of posting, this song is unreleased on Spotify, iTunes, and the like, but has been played many times
+  during their livestreams and live gigs.
+     For a direct link to the full band arrangement:
+        https://www.youtube.com/watch?v=TNGc3xsgK4c&t=6942s
+     For a direct link to the acoustic duo arrangement:
+        https://www.youtube.com/watch?v=u7s7zldu_ro&t=3480s
+
+[Intro] *
+[ch]A[/ch]
+[ch]A[/ch]  [ch]C[/ch]  [ch]G[/ch]  [ch]Bm7[/ch]
+[ch]A[/ch]  [ch]C[/ch]  [ch]G[/ch]  [ch]Bm7[/ch]
+
+[Verse 1]
+[tab][ch]A[/ch]              [ch]C[/ch]             [ch]G[/ch]
+Let's set out the building blocks[/tab]
+[tab]             [ch]Bm7[/ch]                [ch]A[/ch]
+Raise an empire as time tick tocks[/tab]
+[tab]                   [ch]C[/ch]           [ch]G[/ch]
+Lay foundations to an interchange[/tab]
+[tab]                  [ch]Bm7[/ch]
+Cheeky but certain[/tab]
+[tab]                     [ch]A[/ch]
+Familiar but strange[/tab]
+[tab]                 [ch]C[/ch]
+We had it flowin'[/tab]
+[tab]             [ch]G[/ch]
+We made it good[/tab]
+[tab]             [ch]Bm7[/ch]                      [ch]A[/ch]
+Sweeping stones through our neighbourhood[/tab]
+[tab]                               [ch]C[/ch]       [ch]G[/ch]
+The road less travelled leads to real life[/tab]
+[tab][ch]G[/ch]            [ch]Bm7[/ch]
+Our hope survives[/tab]
+
+[Chorus]
+[tab]                         [ch]Gsus2[/ch]
+We build castles in the sand[/tab]
+[tab]                        [ch]A[/ch]
+But we were standing on foriegn land[/tab]
+[tab]                        [ch]Gsus2[/ch]
+When the wheels hit the ground[/tab]
+[tab]                    [ch]Bm[/ch]
+We were spinning to fast[/tab]
+[tab]                  [ch]A[/ch]
+Too fast to rebound[/tab]
+
+[Break]
+[ch]A[/ch] [ch]Gsus[/ch] [ch]A[/ch] [ch]Gsus[/ch] [ch]A[/ch]
+
+[Verse 2] *
+[tab][ch]A[/ch]                    [ch]C[/ch]             [ch]G[/ch]
+Tempted by choices that we must resist[/tab]
+[tab]             [ch]Bm7[/ch]                [ch]A[/ch]
+A bitter sweet symphony exists, yeah[/tab]
+[tab][ch]A[/ch]                  [ch]C[/ch]             [ch]G[/ch]
+No matter the price, despite the pain[/tab]
+[tab][ch]G[/ch]                  [ch]Bm7[/ch]
+We'll absorb the rain[/tab]
+
+[Chorus]
+[tab]                        [ch]Gsus2[/ch]
+We build castles in the sand[/tab]
+[tab]                        [ch]A[/ch]
+But we were standing on foriegn land[/tab]
+[tab]                        [ch]Gsus2[/ch]
+When the wheels hit the ground[/tab]
+[tab]                    [ch]Bm[/ch]
+We were spinning to fast[/tab]
+[tab]              [ch]A[/ch]
+Too fast to rebound[/tab]
+
+[ch]A[/ch] [ch]Gsus[/ch] [ch]A[/ch] [ch]Gsus[/ch] [ch]A[/ch]
+
+[Brdige] *
+[tab][ch]Bm7[/ch]
+It's magnificent[/tab]
+[tab]   [ch]G[/ch]
+It has it's flaws[/tab]
+[tab]     [ch]A[/ch]
+I've watched it break[/tab]
+[tab]        [ch]G[/ch]
+Through all the doors[/tab]
+[tab]  [ch]Bm7[/ch]
+I hope we can still believe[/tab]
+[tab]    [ch]G[/ch]
+In sandcastles[/tab]
+[tab]    [ch]A[/ch]
+But when we are old[/tab]
+[tab]                 [ch]C[/ch]
+They'll be made out of stone[/tab]
+
+[Chorus]
+N.C.
+We build castles in the...
+[tab]                         [ch]Gsus2[/ch]
+We build castles in the sand[/tab]
+[tab]                        [ch]A[/ch]
+But we were standing on foriegn land[/tab]
+[tab]                        [ch]Gsus2[/ch]
+When the wheels hit the ground[/tab]
+[tab]                    [ch]Bm[/ch]
+We were spinning to fast[/tab]
+[tab]              [ch]A[/ch]
+Too fast to rebound[/tab]
+[tab]                         [ch]Gsus2[/ch]
+We build castles in the sand[/tab]
+[tab]                        [ch]A[/ch]
+But we were standing on foriegn land[/tab]
+[tab]                        [ch]Gsus2[/ch]
+When the wheels hit the ground[/tab]
+[tab]                    [ch]Bm[/ch]
+We were spinning to fast[/tab]
+[tab]              [ch]A[/ch]
+Too fast to rebound[/tab]
+
+[Outro]
+[ch]A[/ch] [ch]Gsus2[/ch] [ch]A[/ch] [ch]Gsus2[/ch] [ch]Bm[/ch] [ch]A[/ch]
+[tab][ch]A[/ch]                       [ch]Gsus2[/ch] N.C.
+We build castles in the sand - sand - sand[/tab]

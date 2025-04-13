@@ -1,0 +1,68 @@
+URL: https://tabs.ultimate-guitar.com/tab/4283146
+Artist: Dan Luiten
+Song: Reçois Nous Chantons
+Genre: 
+Key: E
+
+
+[Intro]
+[ch]Esus2[/ch]   [ch]C#m7[/ch]   [ch]Amaj7[/ch]      [ch]C#m[/ch]   [ch]B[/ch]  [ch]E[/ch]       [ch]Esus2[/ch] [ch]E[/ch]
+
+[Couplet 1]
+[tab][ch]E[/ch]             [ch]C#m7[/ch]             [ch]A[/ch]
+Reçois, ce parfum de reconnaissance[/tab]
+[tab]       [ch]C#m[/ch]  [ch]B[/ch]        [ch]E[/ch]       [ch]Bsus4[/ch]
+Qui s'élève vers ton trône[/tab]
+[tab]  [ch]E[/ch]           [ch]C#m7[/ch]           [ch]A[/ch]
+Reçois, la louange de ta création[/tab]
+[tab]      [ch]C#m7[/ch]  [ch]B[/ch]         [ch]E[/ch]     [ch]Esus2[/ch]
+Qui célèbre ton Saint Nom[/tab]
+
+[Refrain 1]
+[tab][ch]E[/ch]             [ch]A[/ch]     [ch]Bsus4[/ch]   [ch]E[/ch]     [ch]A[/ch]
+Nous chantons Alléluia,     Alléluia[/tab]
+[tab][ch]A[/ch]   [ch]Bsus4[/ch]      [ch]E[/ch]
+Alléluia  Vers toi[/tab]
+
+[Couplet 2]
+[tab][ch]E[/ch]             [ch]C#m7[/ch]            [ch]A[/ch]
+Reçois, ce parfum de reconnaissance[/tab]
+[tab][ch]C#m7[/ch]        [ch]B[/ch]        [ch]E[/ch]       [ch]Esus4[/ch]
+Qui s'élève vers ton trône[/tab]
+[tab]  [ch]E[/ch]           [ch]C#m7[/ch]           [ch]A[/ch]
+Reçois, la louange de ta création[/tab]
+[tab]      [ch]C#m[/ch]  [ch]B[/ch]         [ch]E[/ch]     [ch]Esus2[/ch]
+Qui célèbre ton Saint Nom[/tab]
+
+[Refrain 2]
+[tab][ch]E[/ch]             [ch]A[/ch]     [ch]Bsus4[/ch]   [ch]E[/ch]     [ch]A[/ch]
+Nous chantons Alléluia,     Alléluia[/tab]
+[tab][ch]A[/ch]   [ch]Bsus4[/ch]      [ch]E[/ch]
+Alléluia  Vers toi[/tab]
+[tab][ch]E[/ch]             [ch]A[/ch]     [ch]Bsus4[/ch]   [ch]E[/ch]     [ch]A[/ch]
+Nous chantons Alléluia,     Alléluia[/tab]
+[tab][ch]A[/ch]   [ch]Bsus4[/ch]      [ch]E[/ch]
+Alléluia  Vers toi[/tab]
+
+[Middle Eight]
+[tab][ch]A[/ch]                [ch]C#m[/ch]                [ch]Bsus4[/ch]     [ch]E[/ch]
+À toi la Gloire, À toi la Gloire, Ô Jésus[/tab]
+[tab][ch]A[/ch]                [ch]C#m[/ch]                [ch]Bsus4[/ch]     [ch]E[/ch]
+À toi la Gloire, À toi la Gloire, Ô Jésus[/tab]
+[tab][ch]A[/ch]                [ch]C#m[/ch]                [ch]Bsus4[/ch]     [ch]E[/ch]
+À toi la Gloire, À toi la Gloire, Ô Jésus[/tab]
+[tab][ch]A[/ch]                [ch]C#m[/ch]                [ch]Bsus4[/ch]     [ch]E[/ch]
+À toi la Gloire, À toi la Gloire, Ô Jésus[/tab]
+
+[Refrain 3]
+[tab][ch]E[/ch]             [ch]A[/ch]     [ch]Bsus4[/ch]   [ch]E[/ch]     [ch]A[/ch]
+Nous chantons Alléluia,     Alléluia[/tab]
+[tab][ch]A[/ch]   [ch]Bsus4[/ch]      [ch]E[/ch]
+Alléluia  Vers toi[/tab]
+[tab][ch]E[/ch]             [ch]A[/ch]     [ch]Bsus4[/ch]   [ch]E[/ch]     [ch]A[/ch]
+Nous chantons Alléluia,     Alléluia[/tab]
+[tab][ch]A[/ch]   [ch]Bsus4[/ch]      [ch]E[/ch]
+Alléluia  Vers toi[/tab]
+
+[Outro]
+[ch]E[/ch]   [ch]Esus4[/ch]   [ch]Esus4[/ch] [ch]E[/ch]     [ch]Esus4[/ch] [ch]E[/ch]

@@ -1,0 +1,86 @@
+URL: https://tabs.ultimate-guitar.com/tab/nils-lofgren/girls-in-motion-chords-74327
+Artist: Nils Lofgren
+Song: Girls In Motion
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#10-9-94 Chord 3.5
+# formatted by Joe Balshi jdb@aloft.cnet.att.com
+#
+#  chord -a -g -t 14 -T Times-Bold filename > output.ps
+#
+{chordsize: 11}
+{title:Girl in Motion}
+{subtitle: Nils Lofgren}
+
+
+[Verse 1]
+[tab][ch]C[/ch]                                                                                                  
+I know a girl with a new blue dress[/tab]
+[tab][ch]F[/ch]                                  [ch]C[/ch]                                                                
+Ready to lead a stranger with good intentions[/tab]
+                                                                                                  
+She's so (   ) with no corners at all
+[tab][ch]F[/ch]                            [ch]C[/ch]                                                                      
+She is one of natures unique inventions[/tab]
+
+                                                                                                  
+[Pre-Chorus]
+[tab][ch]C[/ch]             [ch]G[/ch]               [ch]F[/ch]        [ch]Em[/ch]            [ch]C[/ch]                                                  
+I know a girl wavin' goodbye, I love a girl in motion[/tab]
+     
+                                                                                             
+[Verse 2]
+[tab][ch]C[/ch]                                                                                                  
+Somedays at the job I get so tied up in knots[/tab]
+[tab][ch]F[/ch]                                  [ch]C[/ch]                                                                                                      
+I come home drunk and angry, and so demandin'[/tab]
+                                                                                                  
+She lay me down and squeeze it out
+[tab][ch]F[/ch]                            [ch]C[/ch]                                                                                                      
+Rub my head while I cried, so understandin', understandin'[/tab]
+                                                                                                  
+
+[Chorus]
+[tab][ch]C[/ch]                    [ch]G[/ch]                [ch]F[/ch]                  [ch]C[/ch]                                            
+I know a girl with a tear in her eye, I know a girl with notion[/tab]
+                                                                                                  
+I know a girl wavin' goodbye, I love a girl in motion
+[tab]                   [ch]Fmaj7[/ch]     [ch]C[/ch]              [ch]Fmaj7[/ch]    [ch]C[/ch]                                                        
+Girl in motion, Oh yeah, all right, oh yeah now, all right[/tab]
+                                                                                                  
+                                                                                                  
+[Solo]
+      
+                                                                                            
+[Verse 3]
+[tab][ch]C[/ch]                                             [ch]F[/ch]                                               [ch]C[/ch]      
+Guess it got to be too much takin' care of me, guess it got to be too much, I guess it got to be[/tab]
+                                                                                                  
+I know a girl with a suitcase packed
+[tab][ch]F[/ch]                                              [ch]C[/ch]                                                    
+I love a girl with a train ticket, takin' her away from me[/tab]
+                                                                                                  
+Takin' her away
+  
+                                                                                                
+[Chorus]
+[tab][ch]C[/ch]                    [ch]G[/ch]                [ch]F[/ch]                  [ch]C[/ch]                                            
+I know a girl with a tear in her eye, I know a girl with notion[/tab]
+                                                                                                  
+I know a girl wavin' goodbye, I love a girl in motion
+[tab][ch]C[/ch]                                                                                                  
+Girl in motion[/tab]
+[tab]             [ch]Fmaj7[/ch]         [ch]C[/ch]                                                                            
+I know a girl, girl with a notion[/tab]
+[tab]             [ch]Fmaj7[/ch]         [ch]C[/ch]                                                                            
+I know a girl, girl with a notion[/tab]
+[tab]             [ch]Fmaj7[/ch]         [ch]C[/ch]                                                                            
+I know a girl, girl with a notion[/tab]
+[tab][ch]F[/ch]        [ch]Em7[/ch]           [ch]C[/ch]                                                                               
+I love a girl in motion[/tab]

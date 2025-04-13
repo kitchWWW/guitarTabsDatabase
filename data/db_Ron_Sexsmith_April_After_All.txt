@@ -1,0 +1,126 @@
+URL: https://tabs.ultimate-guitar.com/tab/ron-sexsmith/april-after-all-tabs-84742
+Artist: Ron Sexsmith
+Song: April After All
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+#
+
+Date: Mon, 17 Nov 1997 10:29:05 +1300
+From: "Kean, John" &lt;keanj@agresearch.cri.nz>
+Subject: TAB: April After All  - Ron Sexsmith
+
+April After All  - Ron Sexsmith
+~~~~~~~~~~~~~~~
+>From "Other Songs".
+
+Transcribed and tabbed by John Kean.
+
+Capo 2nd fret.
+
+
+[tab]INTRO:
+    A         A/G       F#7       G
+2/4 , . , .   , . , .   , . , .   , . , .
+||----------|---------|---------|---------||
+||--2---0-3-|-2---0-2-|---------|-0--0----||
+||----------|---------|-2-----2-|---2-0---||
+||----2-----|---2-----|-----2-2-|-------0-||
+||--0-------|---------|---------|---------||
+||----------|-3---3---|-2-------|-3-------||[/tab]
+
+
+VERSE 1: (simple picking of chords)
+      A(x0x22x)     A/G#(4x2x20)
+ It's really coming down
+ C#m(x4x120)      D(xx023x)
+ Raining cats and hounds
+      D/F#(2x023x) A(x02x2x)
+ It's falling on parades
+     Bm7(x242xx)        E(02x10x)
+ And on the plans we've made
+     A(x02x2x)         A/G#(4x2x20)
+ But there'll be other days
+     C#m(x4x120)          D(xx023x)
+ And things will turn our way
+     D/F#(2x02xx)    A(x0222x)
+ The rain has got to fall
+      E(02x10x)
+ It's April after all
+
+
+REPEAT INTRO
+
+
+VERSE 2:
+ Even the longest night
+ Will lead you to daylight
+ It's the way May leads to June
+ And it's how I've come to you
+ The world goes spinning round
+ Life goes up and down
+ And rain is bound to fall
+ It's April after all
+
+
+[tab]SOLO:
+   A         A/G       F#7       G
+   , . , .   , . , .   , . , .   , . , .
+||---------|---------|-------0-|---------|
+||-2---0-3-|-2---0-2-|---------|-0-----1-|
+||---------|---------|-2-----2-|-----2---|
+||---2-----|---2-----|---2-2---|---0-----|
+||-0-------|---------|---------|---------|
+||---------|-3---3---|-2-------|-3---3---|[/tab]
+
+[tab]  G/F       Em        Fmaj7
+  , . , .   , . , .   , . , .   , . , .
+|---------|---------|---------|---------||
+|-0-----0-|---------|---------|-0---2---||
+|-----2---|-0-----0-|-----2---|-0-------||
+|---------|-----2---|-2---3---|---------||
+|---------|---------|---------|---------||
+|-1---1---|-0-------|-1-------|---------||[/tab]
+
+
+VERSE 3:
+ There'll be other days
+ Darling come what may
+ The rain has got to fall
+      E(02x10x)   F#m(2xx22x)  A/G#(4xx22x)
+ It's April after all
+ D/F#(2x02xx)       A(x0222x)
+ Tears are bound to fall
+      E(02x10x)
+ It's April after all
+
+
+[tab]CODA:
+   A         A/G       F#7       G
+   , . , .   , . , .   , . , .   , . , .
+||---------|---------|---------|---------|
+||-2---0-3-|-2---0-2-|---------|-0--0----|
+||---------|---------|-2-----2-|---2-0---|
+||---2-----|---2-----|---2-2-2-|-------0-|
+||-0-------|---------|-----4---|---------|
+||---------|-3---3---|-2-------|-3-------|[/tab]
+
+[tab]  G/F       G
+  , . , .   , . , .
+|---------|---------||
+|-0--0----|-0-------||
+|---2-0---|-0-------||
+|---------|-0-------||
+|-------3-|-2-------||
+|-1-------|-3-------||[/tab]
+
+
+--------------------------------
+ John Kean
+ keanj@agresearch.cri.nz
+--------------------------------

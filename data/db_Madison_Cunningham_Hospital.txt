@@ -1,0 +1,160 @@
+URL: https://tabs.ultimate-guitar.com/tab/madison-cunningham/hospital-chords-4232305
+Artist: Madison Cunningham
+Song: Hospital
+Genre: 
+Key: B
+
+
+Notes: Madison's original version is on a baritone guitar (tuned a 4th lower).  This version, however, is 
+intended for standard tuning.
+
+Chorus Chords:
+[ch]B[/ch]         X2444X
+[ch]B/A[/ch]       X0444X
+
+[ch]G#m6[/ch]      4x344x
+[ch]Emaj7/G#[/ch]  4x244x
+
+
+Bridge Chords:
+[ch]B[/ch]         X2444X
+[ch]B/A[/ch]       X0444X
+[ch]E[/ch]         X7645X
+[ch]C#7[/ch]       X4342X
+
+Here's the riff that repeats to end the chorus: 
+
+[tab]Chorus Riff:
+    [ch]B[/ch]             [ch]E[/ch]
+e|---------------|----0----|
+B|---------------|----0----|
+G|-------------4-|----1----|
+D|--6-4----------|----2----|
+A|------6-4/2----|----2----|
+E|---------------|----0----|[/tab]
+
+[Intro]
+[ch]B7[/ch] [ch]E7[/ch]   [ch]B7[/ch] [ch]E7[/ch]   [ch]B7[/ch] [ch]E7[/ch]   [ch]B7[/ch] [ch]E7[/ch]
+
+[Verse 1]
+[tab]             [ch]B7[/ch]           [ch]E7[/ch]
+Well, you'll never see me dying[/tab]
+[tab]   [ch]B7[/ch]             [ch]E7[/ch]
+On screen or microscope[/tab]
+[tab][ch]B7[/ch]                     [ch]E7[/ch]
+  I'll be the first to laugh it off[/tab]
+[tab]   [ch]C#m[/ch]                      [ch]A[/ch]  [ch]E[/ch]
+To not be the brunt of your joke[/tab]
+
+
+[Verse 2]
+[tab][ch]B7[/ch]                 [ch]E7[/ch]
+  Let me make a mistake[/tab]
+[tab]      [ch]B7[/ch]              [ch]E7[/ch]
+It'll pay for its own cost[/tab]
+[tab][ch]B7[/ch]                       [ch]E7[/ch]
+  'Cause regret is like an infant[/tab]
+[tab]     [ch]C#m[/ch]                    [ch]A[/ch] [ch]E[/ch]
+That won't let you sleep it off[/tab]
+
+
+[Chorus]
+[tab][ch]C#m7[/ch]             [ch]F#7[/ch]
+Checking in to a hospital[/tab]
+[tab]          [ch]B7[/ch]                 [ch]E7[/ch]  [ch]B7[/ch]
+Where the nurse is earth and sky[/tab]
+[tab][ch]C#m7[/ch]                [ch]F#7[/ch]
+Fighting against my flesh and blood[/tab]
+[tab]        [ch]B7[/ch]              [ch]E7[/ch]  [ch]B7[/ch]
+There's nothing I won't try[/tab]
+[tab]     [ch]C#m7[/ch]               [ch]F#7[/ch]
+Even heartache looks so easy[/tab]
+[tab]     [ch]B[/ch]       [ch]B/A[/ch]      [ch]G#m6[/ch]  [ch]Emaj7/G#[/ch]
+To a pair of grieving eyes[/tab]
+[tab][ch]B[/ch] (riff)            [ch]E[/ch]
+I am always one man down[/tab]
+[tab][ch]B[/ch] (riff)            [ch]E[/ch]
+I am always one man down[/tab]
+[tab]    [ch]B7[/ch]         [ch]E7[/ch]    [ch]B7[/ch]    [ch]E7[/ch]
+And dressed up[/tab]
+
+
+[Verse 3]
+[tab][ch]B7[/ch]          [ch]E7[/ch]
+  I am an antenna[/tab]
+[tab]  [ch]B7[/ch]                      [ch]E7[/ch]
+A feeding tube and a hard drive[/tab]
+[tab][ch]B7[/ch]               [ch]E7[/ch]
+  Entertaining myself to death[/tab]
+[tab]       [ch]C#m[/ch]               [ch]A[/ch] [ch]E[/ch]
+To maintain some sort of life[/tab]
+
+
+[Verse 4]
+[tab][ch]B7[/ch]                [ch]E7[/ch]
+  Staring up at a concrete roof thinking[/tab]
+[tab][ch]B7[/ch]                [ch]E7[/ch]
+It could fall any minute[/tab]
+[tab][ch]B7[/ch]                        [ch]E7[/ch]
+  The fault line can't be reasoned with[/tab]
+[tab]          [ch]C#m[/ch]                 [ch]A[/ch]  [ch]E[/ch]
+No matter what the house has in it[/tab]
+
+
+[Chorus]
+[tab][ch]C#m7[/ch]             [ch]F#7[/ch]
+Checking in to a hospital[/tab]
+[tab]          [ch]B7[/ch]                  [ch]E7[/ch]   [ch]B7[/ch]
+Where the nurse is church and state[/tab]
+[tab]    [ch]C#m7[/ch]              [ch]F#7[/ch]
+The cure has got that oxygen[/tab]
+[tab]      [ch]B7[/ch]             [ch]E7[/ch]   [ch]B7[/ch]
+We're all looking to taste[/tab]
+[tab]         [ch]C#m7[/ch]            [ch]F#7[/ch]
+With the face lines of a moth's wings[/tab]
+[tab]  [ch]B[/ch]         [ch]B/A[/ch]     [ch]G#m6[/ch]  [ch]Emaj7/G#[/ch]
+I want more time to waste[/tab]
+[tab][ch]B[/ch] (riff)            [ch]E[/ch]
+I am always one man down[/tab]
+[tab][ch]B[/ch] (riff)            [ch]E[/ch]
+I am always one man down[/tab]
+[tab]               [ch]G#m6[/ch]
+And dressed up[/tab]
+
+[Instrumental Break]
+[ch]G#m6[/ch]   [ch]Emaj7/G#[/ch]   [ch]G#m6[/ch]   [ch]Emaj7/G#[/ch]  [ch]G#m6[/ch]   [ch]Emaj7/G#[/ch]  
+[ch]B[/ch]  [ch]B/A[/ch]  [ch]E[/ch]  [ch]C#7[/ch]
+[ch]G#m6[/ch]   [ch]Emaj7/G#[/ch]   [ch]G#m6[/ch]   [ch]Emaj7/G#[/ch]  [ch]G#m6[/ch]   [ch]Emaj7/G#[/ch]  
+[ch]B[/ch]  [ch]B/A[/ch]  [ch]E[/ch]  [ch]C#7[/ch]
+[ch]B[/ch]  [ch]B/A[/ch]  [ch]E[/ch]  [ch]C#7[/ch]
+
+[Verse 5]
+[tab][ch]B7[/ch]                [ch]E7[/ch]
+  If my mind's an orphanage[/tab]
+[tab]       [ch]B7[/ch]                   [ch]E7[/ch]
+You're not in the market to mind[/tab]
+[tab][ch]B7[/ch]            [ch]E7[/ch]
+  Living like this is[/tab]
+[tab][ch]C#m[/ch]            [ch]A[/ch]  [ch]E[/ch]
+Just no way to die[/tab]
+
+
+[Outro]
+[tab][ch]C#m7[/ch]                  [ch]F#7[/ch]
+Put it in terms I can understand[/tab]
+[tab]      [ch]B7[/ch]               [ch]E7[/ch]  [ch]B7[/ch]
+This wound is all I've got[/tab]
+[tab]    [ch]C#m7[/ch]         [ch]F#7[/ch]
+But I can't disconnect my hand[/tab]
+[tab]         [ch]C#m7[/ch]             [ch]A[/ch]   [ch]E[/ch]
+From the damage that it's brought[/tab]
+[tab]           [ch]C#m7[/ch]                 [ch]F#7[/ch]
+Well, the straight face on this cruel place[/tab]
+[tab]   [ch]B[/ch]          [ch]B/A[/ch]      [ch]G#m6[/ch]  [ch]Emaj7/G#[/ch]
+It just won't crack or break[/tab]
+[tab]    [ch]B[/ch] (riff)            [ch]E[/ch]
+And I am always one man down[/tab]
+[tab][ch]B[/ch] (riff)            [ch]E[/ch]
+I am always one man down[/tab]
+[tab]    [ch]B[/ch]
+And fed up[/tab]

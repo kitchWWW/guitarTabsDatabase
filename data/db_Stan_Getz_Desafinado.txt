@@ -1,0 +1,80 @@
+URL: https://tabs.ultimate-guitar.com/tab/stan-getz/desafinado-chords-3584741
+Artist: Stan Getz
+Song: Desafinado
+Genre: 
+Key: Bm
+
+
+[Intro]
+| [ch]Cmaj7[/ch]     | [ch]Cmaj7[/ch]     |
+
+
+[Verse 1]
+[tab][ch]Cmaj7[/ch]                          [ch]D7[/ch]
+     Se você disser que eu desafino, amor[/tab]
+[tab][ch]G7[/ch]                                [ch]Em[/ch]        [ch]A7[/ch]
+  Saiba que isto em mim provoca imensa dor[/tab]
+[tab][ch]Dm7[/ch]           [ch]E7[/ch]         [ch]Amaj7[/ch]         [ch]A7[/ch]
+  Só privilegiados têm ouvido igual ao seu[/tab]
+[tab][ch]D7[/ch]                               [ch]Dbmaj7[/ch]
+  Eu possuo apenas o que Deus me deu[/tab]
+
+
+[Verse 2]
+[tab][ch]Cmaj7[/ch]                   [ch]D7[/ch]
+     Se você insiste em classificar[/tab]
+[tab][ch]G7[/ch]                       [ch]Em[/ch]       [ch]A7[/ch]
+  Meu comportamento anti-musical[/tab]
+[tab][ch]Dm7[/ch]            [ch]E7[/ch]                [ch]Am7[/ch]   [ch]B7[/ch]
+   Eu mesmo mentindo devo argumentar[/tab]
+[tab][ch]Emaj7[/ch]                 [ch]Ebmaj7[/ch]           [ch]D7[/ch]        [ch]Db7[/ch]
+     Que isto é bossa nova, que isto é muito natural[/tab]
+
+
+[Verse 3]
+[tab][ch]Emaj7[/ch]          [ch]C#7[/ch]              [ch]F#m7[/ch]      [ch]B7[/ch]
+O que você não sabe nem sequer pressente[/tab]
+[tab][ch]Emaj7[/ch]          [ch]G7[/ch]           [ch]F#m7[/ch]       [ch]B7[/ch]
+É que os desafinados também têm um coração[/tab]
+[tab][ch]Gmaj7[/ch]         [ch]Gm7[/ch]              [ch]Am7[/ch]    [ch]D7[/ch]
+Fotografei você na minha Rolleyflex[/tab]
+[tab]    [ch]G7[/ch]                               [ch]Db7[/ch]
+Revelou-se a sua enorme ingratidão[/tab]
+
+
+[Verse 4]
+[tab][ch]Cmaj7[/ch]                [ch]D7[/ch]
+Só não poderá falar assim do meu amor[/tab]
+[tab][ch]G7[/ch]                        [ch]Gm7[/ch]             [ch]C7[/ch]
+  Este é o maior que você pode encontrar, viu?[/tab]
+[tab]  [ch]Fmaj7[/ch]        [ch]Bb7[/ch]               [ch]Em[/ch]         [ch]Am7[/ch]
+Você com a sua música esqueceu o principal[/tab]
+[tab]       [ch]D7[/ch]
+Que no peito dos desafinados[/tab]
+[tab]            [ch]Dbmaj7[/ch]         [ch]Bb7[/ch]
+No fundo do peito bate calado[/tab]
+[tab]   [ch]D7[/ch]              [ch]G7[/ch]
+No peito dos desafinados[/tab]
+[tab]       [ch]Cmaj7[/ch]
+Também bate um coração[/tab]
+
+
+[Outro]
+| [ch]Cmaj7[/ch]     | [ch]Cmaj7[/ch]     | [ch]D7[/ch]     | [ch]D7[/ch]     |
+| [ch]G7[/ch]        | [ch]G7[/ch]        | [ch]Em[/ch]     | [ch]A7[/ch]     |
+| [ch]Dm7[/ch]       | [ch]E7[/ch]        | [ch]A7[/ch]     | [ch]A7[/ch]     |
+| [ch]D7[/ch]        | [ch]D7[/ch]        | [ch]G7[/ch]     | [ch]G7[/ch]     |
+| [ch]Cmaj7[/ch]     | [ch]Cmaj7[/ch]     | [ch]D7[/ch]     | [ch]D7[/ch]     |
+| [ch]Dm7[/ch]       | [ch]G7[/ch]        | [ch]Em[/ch]     | [ch]A7[/ch]     |
+| [ch]Dm7[/ch]       | [ch]E7[/ch]        | [ch]Am7[/ch]    | [ch]A7[/ch]     |
+| [ch]Emaj7[/ch]     | [ch]Ebmaj7[/ch]    | [ch]D7[/ch]     | [ch]Db7[/ch]    |
+| [ch]Emaj7[/ch]     | [ch]Em[/ch]        | [ch]F#m7[/ch]   | [ch]B7[/ch]     |
+| [ch]Emaj7[/ch]     | [ch]G7[/ch]        | [ch]F#m7[/ch]   | [ch]B7[/ch]     |
+| [ch]Gmaj7[/ch]     | [ch]E7[/ch]        | [ch]Am7[/ch]    | [ch]D7[/ch]     |
+| [ch]Gm[/ch]        | [ch]Dm7[/ch]       | [ch]Db7[/ch]    |
+| [ch]Cmaj7[/ch]     | [ch]Cmaj7[/ch]     | [ch]D7[/ch]     | [ch]D7[/ch]     |
+| [ch]Dm7[/ch]       | [ch]G7[/ch]        | [ch]Gm[/ch]     | [ch]C7[/ch]     |
+| [ch]Fmaj7[/ch]     | [ch]Bb7[/ch]       | [ch]C7[/ch]     | [ch]Am7[/ch]    |
+| [ch]D7[/ch]        | [ch]D7[/ch]        | [ch]Bb7[/ch]    | [ch]Bb7[/ch]    |
+| [ch]D7[/ch]        | [ch]G7[/ch]        | [ch]C7[/ch]     | [ch]C7[/ch]     |
+| [ch]C7[/ch]        | [ch]C7[/ch]        | [ch]C7[/ch]     | [ch]C7[/ch]     | x4

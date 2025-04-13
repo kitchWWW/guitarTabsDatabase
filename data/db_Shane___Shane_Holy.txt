@@ -1,0 +1,53 @@
+URL: https://tabs.ultimate-guitar.com/tab/shane-shane/holy-chords-140298
+Artist: Shane & Shane
+Song: Holy
+Genre: 
+Key: 
+
+
+This will give you an idea of the chords.  Of course he does lots
+more fancy stuff, but I dont have time to tab it all right now
+so hopefully you can figure it out starting with these chords.
+
+
+[ch]D[/ch]     xx0232 
+[ch]Dsus[/ch]  xx0233
+[ch]D2[/ch]    xx0230
+[tab][ch]D2[/ch]/[ch]C#[/ch] x4x230
+G/B   x20032 hammer on x20033 then off again[/tab]
+[ch]G[/ch]     3x0033
+[ch]D/F#[/ch]  200230
+[tab][ch]Em7[/ch]   022033
+A     x02200 hammer on 2nd string 2->3 then 1st string 0->2->3->2->0[/tab]
+
+Intro and verses:
+[ch]D[/ch]  [ch]D2[/ch]/[ch]C#[/ch]  [ch]G/B[/ch]  [ch]D[/ch]
+[ch]G[/ch]  [ch]D/F#[/ch]  [ch]Em7[/ch]  [ch]A[/ch]
+
+
+Chorus:
+B#m  x24432
+B#m2 x24422
+[ch]G[/ch]    3x0033
+[ch]D5[/ch]   xx0235
+[ch]A5[/ch]   xx0225
+[ch]G5[/ch]   3x0005
+
+B#m B#m2   G
+         holy
+B#m B#m2   G
+         holy
+[tab]B#m B#m2   [ch]G[/ch]   [ch]D/F#[/ch]   [ch]A[/ch] (picking)
+         holy  as You are[/tab]
+[tab][ch]D5[/ch]   [ch]A5[/ch]   [ch]G5[/ch] (picking) [ch]D5[/ch]   [ch]A5[/ch]   [ch]G5[/ch] (picking)
+  ho -  ly,              ho -  ly,[/tab]
+[tab][ch]D5[/ch]   [ch]A5[/ch]   [ch]G5[/ch] (picking) [ch]D5[/ch]   [ch]A5[/ch]   [ch]G5[/ch] (picking)
+  ho -  ly,              ho -  ly[/tab]
+
+
+[tab]B#m        [ch]A[/ch]   [ch]G[/ch]     [ch]A[/ch]
+  You give me mercy                              [/tab]
+[tab]B#m        [ch]A[/ch]   [ch]G[/ch]     [ch]A[/ch]
+  You give me grace                              [/tab]
+[tab]B#m        [ch]A[/ch]  [ch]G[/ch]      [ch]C/F#[/ch]   [ch]Em7[/ch]    (picking)
+  You give me mercy, mercy, mercy[/tab]

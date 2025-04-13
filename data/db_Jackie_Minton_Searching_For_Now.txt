@@ -1,0 +1,130 @@
+URL: https://tabs.ultimate-guitar.com/tab/jackie-minton/searching-for-now-tabs-1965639
+Artist: Jackie Minton
+Song: Searching For Now
+Genre: 
+Key: 
+
+
+Pick 5th string alone first, then strum rest of strings. Use this pattern for the [Intro] and [Verses].
+Play Bm, C#m, and F#m like this:
+
+[tab]Bm = e|-0-----|  OR  [02440]   C#m = e|-0-----|  OR  [046600]   F#m = e|-0-----|  OR [044200]
+     B|-0-----|                      B|-0-----|                       B|-0-----|
+     G|-----4-|                      G|-----6-|                       G|---2---|
+     D|-----4-|                      D|-----6-|                       D|-----4-|
+     A|---2---|                      A|---4---|                       A|-----4-|
+     E|-0-----|                      E|-0-----|                       E|-0-----|[/tab]
+
+
+[Intro] (4x)
+
+[tab]e|-0-----|-0-------|
+B|-0-----|-0-------|
+G|-----9-|-----8---|
+D|-----9-|-------9-|
+A|---7---|---7-----|
+E|-x-----|-x-------|[/tab]
+
+
+[Verse]
+
+[tab]e|-0-----|        |-0-----|                     |-0---|
+B|-0-----|        |-0-----|                     |-0---|
+G|-----9-|        |-----9-|                     |---9-|
+D|-----9-|        |-----9-|                     |---9-|
+A|---7---|        |---6---|                     |-0---|
+E|-x-----|        |-x-----|                     |-x---|[/tab]
+
+ |We got|         |here, and we're not sure|    |how|
+ |Take my|        |hand, and we'll figure it|   |out|
+ |Reasons will|   |come like the melody|        |x|
+ |And you can|    |always sing along with me|   |x|
+
+
+[Chorus]
+
+              E
+So, live the life you’re living
+  Bm
+Song you’re singing
+C#m               Bm              F#m
+Wishing, hoping, loving, dreaming
+                           Bm
+And someday, we’ll get it down
+
+But we’ll be searching for now
+
+
+[Intro] (2x)
+
+[tab]e|-0-----|-0-------|
+B|-0-----|-0-------|
+G|-----9-|-----8---|
+D|-----9-|-------9-|
+A|---7---|---7-----|
+E|-x-----|-x-------| [/tab]
+
+
+[Verse]
+
+[tab]e|-0-----|        |-0-----|                     |-0---|
+B|-0-----|        |-0-----|                     |-0---|
+G|-----9-|        |-----9-|                     |---9-|
+D|-----9-|        |-----9-|                     |---9-|
+A|---7---|        |---6---|                     |-0---|
+E|-x-----|        |-x-----|                     |-x---|[/tab]
+
+ |You can|        |sing me a lullaby|           |x|
+ |As this|        |day turns into night|        |x|
+ |Don’t let the   |shadows bring you down|      |x|
+ |‘Cause the|     |sun is coming back a-|       |-round|
+
+
+[Chorus]
+
+          E
+Live the life you’re living
+  Bm
+Song you’re singing
+C#m               Bm              F#m
+Wishing, hoping, loving, dreaming
+                            Bm
+And someday, we’ll get it down
+                               F#m
+But we’ll be searching for now
+
+
+[Bridge]
+
+                B                     C#m       B
+Even when it’s hard and you think you can’t go on
+  C#m        B
+You’ll be strong
+F#m                           Bm
+Take my heart, I’ll take your hand
+             E  B C#m
+And we will sta-a-a-and
+ B        E  B
+We will stand
+
+
+[Chorus]
+
+              E
+And live the life we’re living
+  Bm
+Song we’re singing
+C#m               Bm              F#m
+Wishing, hoping, loving, dreaming
+                            Bm
+And someday, we’ll get it down
+                               E
+But we’ll be searching for now
+
+
+[Outro]
+
+E                   Bm      E
+Searchin', searchin' for now
+E                                         Bm      E
+Searchin', searchin', searchin', searchin' for now

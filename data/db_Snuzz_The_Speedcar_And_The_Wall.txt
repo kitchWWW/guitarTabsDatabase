@@ -1,0 +1,80 @@
+URL: https://tabs.ultimate-guitar.com/tab/snuzz/the-speedcar-and-the-wall-chords-3467915
+Artist: Snuzz
+Song: The Speedcar And The Wall
+Genre: 
+Key: E
+
+
+Artist: Snuzz
+Song:   The Speedcar and the Wall
+Album:  Harper
+
+[The A chords]
+[ch]A[/ch]       x02220
+[ch]Asus4[/ch]   x02230
+[ch]A5[/ch]      x02250
+[ch]Asus2[/ch]   x02200
+[ch]A5[/ch]*     x022xx
+
+
+[Intro]
+[ch]A[/ch]     [ch]A5[/ch]     [ch]Asus4[/ch]  [ch]A5[/ch]
+[ch]A5[/ch]*   [ch]Asus2[/ch]  [ch]A[/ch]      [ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]  [ch]Asus4[/ch]  [ch]A[/ch]*
+[ch]A[/ch]     [ch]A5[/ch]     [ch]Asus4[/ch]  [ch]A5[/ch]
+[ch]A[/ch]     [ch]A5[/ch]     [ch]Asus4[/ch]  [ch]A5[/ch]
+[ch]Asus2[/ch] [ch]A[/ch]      [ch]Asus4[/ch]  [ch]A[/ch]
+[ch]A5[/ch]    [ch]A[/ch]      [ch]Asus4[/ch]
+
+[Verse]
+[tab][ch]A[/ch]
+I seldom feel that I'm understood[/tab]
+[tab][ch]A[/ch]                                    [ch]E[/ch]   [ch]E[/ch]     [ch]E[/ch]   [ch]E[/ch]
+I'm not alone but I feel I should explain[/tab]
+[tab][ch]A[/ch]
+Like the wound loves the alcohol[/tab]
+[tab][ch]A[/ch]                                    [ch]F#m[/ch]
+We get along like a speedcar and the wall[/tab]
+
+[Chorus]
+[tab]                         [ch]D[/ch]        [ch]E[/ch]
+It's too late 'cause the wheel is fun[/tab]
+[tab][ch]F#m[/ch]                [ch]G[/ch]
+Yeah, so let the machine run[/tab]
+
+[Instrumental]
+[ch]A5[/ch]*   [ch]Asus2[/ch]  [ch]A[/ch]      [ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]  [ch]Asus4[/ch]  [ch]A[/ch]*
+[ch]A5[/ch]*   [ch]Asus2[/ch]  [ch]A[/ch]      [ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]  [ch]Asus4[/ch]  [ch]A[/ch]*
+[ch]A[/ch]     [ch]A5[/ch]  [ch]Asus4[/ch]  [ch]A5[/ch]
+[ch]A[/ch]     [ch]A5[/ch]  [ch]Asus4[/ch]  [ch]A5[/ch]
+[ch]Asus2[/ch] [ch]A[/ch]   [ch]Asus4[/ch]
+
+[Verse]
+[tab][ch]A[/ch]
+Things that I could tell you[/tab]
+[tab]                              [ch]E[/ch]   [ch]E[/ch]     [ch]E[/ch]   [ch]E[/ch]
+But it isn't what you want me to[/tab]
+[tab][ch]A[/ch]
+So how the pigs and deep the sea[/tab]
+[tab][ch]A[/ch]                                   [ch]F#m[/ch]
+True inspiration will come so seldomly[/tab]
+
+[Chorus]
+[tab]                  [ch]D[/ch]       [ch]E[/ch]
+It paralysed your writing hand[/tab]
+[tab][ch]F#m[/ch]                     [ch]G[/ch]
+That you never did understand[/tab]
+
+[Bridge]
+[ch]A[/ch]    [ch]A[/ch]      [ch]A[/ch]    [ch]A[/ch]
+[ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]    [ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]  [ch]Asus4[/ch]  [ch]A[/ch]*
+[ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]    [ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]  [ch]Asus4[/ch]  [ch]A[/ch]*
+[ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]    [ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]  [ch]Asus4[/ch]  [ch]A[/ch]*
+[ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]    [ch]A5[/ch]*  [ch]Asus2[/ch]  [ch]A[/ch]  [ch]Asus4[/ch]  [ch]A[/ch]*
+
+[Outro]
+[tab][ch]A[/ch]
+Like the wound loves the alcohol[/tab]
+[tab]                                     [ch]F#m[/ch]
+We get along like a speedcar and the wall[/tab]
+[tab]                             [ch]D[/ch]        [ch]E[/ch]
+And it's too late 'cause the wheel is fun[/tab]

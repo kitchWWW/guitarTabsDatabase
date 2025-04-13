@@ -1,0 +1,105 @@
+URL: https://tabs.ultimate-guitar.com/tab/matanza/o-ultimo-bar-chords-3700838
+Artist: Matanza
+Song: O Ultimo Bar
+Genre: 
+Key: 
+
+
+[Intro]
+
+[ch]E[/ch]      [ch]C#m[/ch]    [ch]E[/ch]     [ch]C#m[/ch]    [ch]E[/ch]         [ch]A[/ch]        [ch]B[/ch]
+
+[tab]E|-----------------------------------------------------------------------------------------------------|
+B|-----------------------------------------------------------------------------------------------------|
+G|----------------------------------------4-6-6-6-6-6--4---4-4--6-4---------6-6-6-6-6--4--4-4----------|
+D|--------------------------4----------6------------------6----------6-6--4------------------6---6-4-6-|
+A|----4--7-7-7-7-7--4--7---7-7--4--7-------------------------------------------------------------------|
+E|-7---------------------------------------------------------------------------------------------------|[/tab]
+
+
+[tab][Solo]
+E|---------------------------------------------|
+B|---------------------------------------------|
+G|---------------------------------------------|
+D|---------------------------------------------|
+A|---4-6-7-6-4------------4-----7-4-7-4--------|
+D|--------------7-4-7---------------------7----|[/tab]
+
+[tab][Riff]
+E|----------------------------|
+B|----------------------------|
+G|----------------------------|
+D|----------------------------|
+A|------7-7--4-4------4-------|   quatro vezes o riff (play 4 times).
+E|--0---------------7-----0---|[/tab]
+
+[Verse]
+[tab][ch]E[/ch]
+O último bar quando fecha de manhã[/tab]
+[tab]       [ch]C#m[/ch]                            [ch]E[/ch]
+só me lembra que eu não tenho aonde ir[/tab]
+[tab]      [ch]C#m[/ch]                        [ch]E[/ch]
+Bourbon tenho demais, mas que diferença faz[/tab]
+[tab]     [ch]A[/ch]                         [ch]B[/ch]
+Se você não está aqui pra dividir[/tab]
+[tab][ch]E[/ch]
+Nada hoje em dia é como costumava a ser[/tab]
+[tab]            [ch]C#m[/ch]                        [ch]E[/ch]
+do jeito que era divertido um tempo atrás[/tab]
+[tab]   [ch]C#m[/ch]                        [ch]E[/ch]
+Varava noite a dentro pelos bares por aí[/tab]
+[tab]            [ch]A[/ch]                    [ch]B[/ch]
+Enchendo a cara e perturbando a paz[/tab]
+
+[Bridge]
+[tab][ch]C#m[/ch]                 [ch]G#[/ch]
+Não é nenhuma novidade[/tab]
+[tab]   [ch]A[/ch]                     [ch]E[/ch]    [ch]E[/ch] [ch]D#[/ch]
+Ficar uma semana sem dormir[/tab]
+[tab]           [ch]C#m[/ch]
+Em cada esquina tem um bar[/tab]
+[tab]         [ch]D[/ch]                     [ch]E[/ch]
+Em cada copo uma vontade de sumir de vez daqui[/tab]
+
+[tab]        [ch]C#m[/ch]                   [ch]G#[/ch]
+Mas se eu voltei pra essa cidade[/tab]
+[tab]       [ch]A[/ch]                           [ch]E[/ch]    [ch]E[/ch] [ch]D#[/ch]
+Foi atrás de muito tempo que eu perdi[/tab]
+[tab]        [ch]C#m[/ch]                        [ch]D[/ch]
+E cada vez que passa um cadillac fico eu procurando[/tab]
+[tab]       [ch]E[/ch]
+se é você a dirigir[/tab]
+
+[Chorus]
+[tab] [ch]A[/ch]                       [ch]E[/ch]
+Toda noite tem sempre alguem pra lhe dizer[/tab]
+[tab]       [ch]A[/ch]                             [ch]E[/ch]
+Que mulher que vai querer te ver  assim?[/tab]
+[tab]  [ch]A[/ch]                   [ch]E[/ch]                   [ch]C#m[/ch]
+Pleno festival, mulherada, carnaval e eu aqui[/tab]
+[tab]            [ch]D[/ch]
+com uma garrafa já no fim[/tab]
+
+[Solo 2]
+
+[tab]E|---------------------------------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------5-5---------------------|
+G|---------------------------------------4-6-6-6-6-6--4---4-4--6-4--4-6-4---6-4-6---4--4-------------|
+D|-------------------------4----------6------------------6-----------6--------------------6--6-6-6-6-|
+A|----4--7-7-7-7-7--4--7--7-7--4--7------------------------------------------------------------------|
+E|-7-------------------------------------------------------------------------------------------------|[/tab]
+
+[tab]E|---------------------------------------------|
+B|---------------------------------------------|
+G|---------------------------------------------|
+D|---------------------------------------------|
+A|---4-6-7-6-4------------4-----7-4-7-4--------|
+D|--------------7-4-7---------------------7----|[/tab]
+
+[tab][Riff]
+E|----------------------------|
+B|----------------------------|
+G|----------------------------|
+D|----------------------------|
+A|------7-7--4-4------4-------|   quatro vezes o riff (play 4 times).
+E|--0---------------7-----0---|[/tab]

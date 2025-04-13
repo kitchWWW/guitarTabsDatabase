@@ -1,0 +1,82 @@
+URL: https://tabs.ultimate-guitar.com/tab/kimmernaq/ikusimiaq-chords-3962050
+Artist: Kimmernaq
+Song: Ikusimiaq
+Genre: 
+Key: Bm
+
+
+[tab][Intro]
+e|-------------------------------------------------|
+B|-------------------------------------------------|
+G|-------------------------------------------------|
+D|-------0-----------0-----------0-----------0-----|
+A|---2-------2---2-------2---2-------2---2-------2-|
+E|-2---2---2---2---2---2---3---3---3---2---2---2---|[/tab]
+
+[tab]e|-------------------------------------------------|
+B|-------------------------------------------------|
+G|-------------------------------------------------|
+D|-------2-----------2-----------2-----------2-----|
+A|---1-------1---1-------1---1-------1---1-------1-|
+E|-2---2---2---2---2---2---3---3---3---2---2---2---|[/tab]
+
+
+[Verse]
+[tab][ch]Bm/F#[/ch]          [ch]G[/ch]        [ch]Bm/F#[/ch]       [ch]F#7[/ch]
+Arpappunga malugalugu malinneqarlunga[/tab]
+[tab][ch]Gdim[/ch]  [ch]F#7[/ch]    [ch]Bm/F#[/ch]
+      Ikusimiaq[/tab]
+[tab][ch]G[/ch]       [ch]Bm/F#[/ch]  [ch]F#7[/ch]
+Kiinara attorlugu[/tab]
+[tab]  [ch]Gdim[/ch]      [ch]F#7[/ch]       [ch]Bm/F#[/ch]  [ch]G[/ch]  [ch]Bm/F#[/ch]  [ch]F#7[/ch]  [ch]Gdim[/ch] [ch]F#7[/ch]
+Noqinneqartutut ililluni[/tab]
+[tab]   [ch]Bm/F#[/ch]              [ch]G[/ch]      [ch]Bm/F#[/ch]
+Unippunga uniffeqarnanga isigalugu[/tab]
+[tab][ch]F#7[/ch]               [ch]Gdim[/ch]      [ch]F#7[/ch]      [ch]Bm/F#[/ch]
+Avatangiisera uumaneranik malunnartoqanngilaq[/tab]
+[tab][ch]G[/ch]      [ch]Bm/F#[/ch] [ch]F#7[/ch]       [ch]Gdim[/ch]  [ch]F#7[/ch]
+Sumukarfissaaruppunga[/tab]
+
+[Bridge]
+[tab] [ch]Am7[/ch]            [ch]B7[/ch]
+Uissangujartorpunga[/tab]
+[tab]  [ch]Am7[/ch]              [ch]B7[/ch]
+Pulaffigineqarnissara[/tab]
+[tab]N.C.    [ch]Em/B[/ch]
+Mattuppara[/tab]
+
+[Instrumental]
+|: [ch]Em/B[/ch]  [ch]C[/ch]  [ch]Em/B[/ch] | [ch]B7[/ch]  [ch]Cdim[/ch]  [ch]B7[/ch] :|
+
+[Verse]
+[tab][ch]Em/B[/ch]           [ch]C[/ch]     [ch]Em/B[/ch]    [ch]B7[/ch]
+Sukkanerpaamik aqqut ammasoq nakkutigalugu[/tab]
+[tab]  [ch]Cdim[/ch]   [ch]B7[/ch]       [ch]Em/B[/ch]
+Tunummut qiviaqqajaananga[/tab]
+[tab]  [ch]C[/ch]       [ch]Em/B[/ch] [ch]B7[/ch]  [ch]Cdim[/ch]  [ch]B7[/ch]
+Sumimita nuissava?[/tab]
+[tab][ch]Em/B[/ch]              [ch]C[/ch]         [ch]Em/B[/ch]     [ch]B7[/ch]
+Nukillaartutut eqisaartutut aalalerpunga[/tab]
+[tab]  [ch]Cdim[/ch]    [ch]B7[/ch]      [ch]Em/B[/ch]
+Malugisaqalerlungalu[/tab]
+[tab]  [ch]C[/ch]        [ch]Em/B[/ch]   [ch]B7[/ch]    [ch]Cdim[/ch]  [ch]B7[/ch]
+Sunaana siuninniittoq?[/tab]
+
+[Bridge]
+[tab]  [ch]Am7[/ch]                 [ch]B7[/ch]
+Silaannarmiit nakkarpunga[/tab]
+[tab]   [ch]Am7[/ch]             [ch]B7[/ch]
+Anersaap anersaarmanga[/tab]
+
+[Chorus]
+[tab][ch]C[/ch]           [ch]Em[/ch]
+Uuuh arsarnerit[/tab]
+[tab]  [ch]D[/ch]                      [ch]Em[/ch]
+Annaanneqartutut isikkoqalersillugu[/tab]
+[tab][ch]C[/ch]               [ch]Em[/ch]
+Uuuh qimagutilerpoq[/tab]
+[tab]   [ch]D[/ch]                [ch]Em[/ch]
+Silaannaap ujaraata sipivaa[/tab]
+
+[Outro]
+|: [ch]C[/ch] | [ch]Em[/ch] | [ch]D[/ch] | [ch]Em[/ch] :|

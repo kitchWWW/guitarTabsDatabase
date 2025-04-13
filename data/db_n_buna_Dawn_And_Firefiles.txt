@@ -1,0 +1,112 @@
+URL: https://tabs.ultimate-guitar.com/tab/n-buna/dawn-and-firefiles-chords-3105809
+Artist: n-buna
+Song: Dawn And Firefiles
+Genre: 
+Key: 
+
+
+BPM = 80
+
+[Intro]
+[ch]Em[/ch]    [ch]Bm[/ch]    [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]  [ch]Bm[/ch]
+[ch]Em[/ch]    [ch]Bm[/ch]    [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]     x3
+
+[Verse 1]
+[tab][ch]Em[/ch]     [ch]Bm[/ch]         [ch]C[/ch]   [ch]D[/ch]     [ch]G[/ch]   [ch]Bm[/ch]
+  Awai tsuki ni mitorete shimau kara[/tab]
+[tab][ch]Em[/ch]      [ch]Bm[/ch]       [ch]C[/ch]    [ch]D[/ch]   [ch]G[/ch]
+  Kurai ashimoto mo miezu ni[/tab]
+[tab][ch]Em[/ch]     [ch]Bm[/ch]         [ch]C[/ch]     [ch]D[/ch]    [ch]G[/ch]   [ch]Bm[/ch]
+  Koronda koto ni ki ga tsukenai mama[/tab]
+[tab][ch]Em[/ch]     [ch]Bm[/ch]        [ch]C[/ch]      [ch]D[/ch]   [ch]G[/ch]
+  Tooi yoru no hoshi ga nijimu[/tab]
+
+[Bridge]
+[ch]Em[/ch]    [ch]Bm[/ch]    [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]  [ch]Bm[/ch]
+[ch]Em[/ch]    [ch]Bm[/ch]    [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]
+
+[Verse 2]
+[tab][ch]Em[/ch]       [ch]Bm[/ch]        [ch]C[/ch]     [ch]D[/ch]   [ch]G[/ch]   [ch]Bm[/ch]
+  Shitai koto ga mitsuke rarenai kara[/tab]
+[tab][ch]Em[/ch]     [ch]Bm[/ch]       [ch]C[/ch]    [ch]D[/ch]    [ch]G[/ch]
+  Isoi da furi utsumuku mama[/tab]
+[tab][ch]Em[/ch]     [ch]Bm[/ch]        [ch]C[/ch]    [ch]D[/ch]   [ch]G[/ch]    [ch]Bm[/ch]
+  Koronda ato ni wara wareteru no mo[/tab]
+[tab][ch]Em[/ch]       [ch]Bm[/ch]       [ch]C[/ch]   [ch]D[/ch]     [ch]G[/ch]
+  Kidzukanai furi o suru no da[/tab]
+
+[Chorus]
+[tab]  [ch]Em[/ch]          [ch]Bm[/ch]      [ch]C[/ch]   [ch]D[/ch]   [ch]G[/ch]       [ch]Bm[/ch]
+Katachi no nai uta de asa o kaita mama[/tab]
+[tab][ch]Em[/ch]       [ch]Bm[/ch]  [ch]C[/ch]     [ch]D[/ch]    [ch]G[/ch]
+  Asai, asai natsu no mukou ni[/tab]
+[tab]   [ch]Em[/ch]       [ch]Bm[/ch]       [ch]C[/ch]     [ch]D[/ch]     [ch]G[/ch]     [ch]Bm[/ch]
+Tsumetakunai kimi no te no hira... ga mieta[/tab]
+[tab][ch]Em[/ch]    [ch]Bm[/ch]      [ch]C[/ch]     [ch]D[/ch]   [ch]G[/ch]
+  Awai, sora ake no hotaru[/tab]
+
+[Bridge]
+[ch]Em[/ch]  [ch]Bm[/ch]  [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]  [ch]Bm[/ch]
+[ch]Em[/ch]  [ch]Bm[/ch]  [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]
+
+[Verse 3]
+[tab][ch]Em[/ch]      [ch]Bm[/ch]         [ch]C[/ch]     [ch]D[/ch]    [ch]G[/ch]   [ch]Bm[/ch]
+  Jibun ga tada no shimi ni mieru hodo[/tab]
+[tab][ch]Em[/ch]      [ch]Bm[/ch]         [ch]C[/ch]  [ch]D[/ch]     [ch]G[/ch]
+  Kirai na mono ga fueta no de[/tab]
+[tab][ch]Em[/ch]        [ch]Bm[/ch]      [ch]C[/ch]    [ch]D[/ch]   [ch]G[/ch]   [ch]Bm[/ch]
+  Chikyuu no uragawa e tobitai no da[/tab]
+[tab][ch]Em[/ch]      [ch]Bm[/ch]        [ch]C[/ch]   [ch]D[/ch]     [ch]G[/ch]
+  Mujin no eki ni todoku made[/tab]
+[tab][ch]Em[/ch]      [ch]Bm[/ch]         [ch]C[/ch]  [ch]D[/ch]   [ch]G[/ch]   N.C.
+ (Kinou no boku ni deau made)[/tab]
+
+[Chorus]
+[tab][ch]Em[/ch]            [ch]Bm[/ch]       [ch]C[/ch]    [ch]D[/ch]     [ch]G[/ch]   [ch]Bm[/ch]
+  Mune ga itai kara shita o muku... tabi ni[/tab]
+[tab][ch]Em[/ch]       [ch]Bm[/ch]       [ch]C[/ch]   [ch]D[/ch]   [ch]G[/ch]
+  Kimi ga, mata tooku o yukunda[/tab]
+[tab]  [ch]Em[/ch]           [ch]Bm[/ch]   [ch]C[/ch]   [ch]D[/ch]   [ch]G[/ch]  [ch]Bm[/ch]
+Yume o mitai bokura o yogose saraba[/tab]
+[tab][ch]Em[/ch]     [ch]Bm[/ch]       [ch]C[/ch]     [ch]D[/ch]    [ch]G[/ch]
+  Kinou, yoru saku hi no hana[/tab]
+
+[Bridge]
+[ch]Em[/ch]  [ch]Bm[/ch]  [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]  [ch]Bm[/ch]  [ch]Em[/ch]  [ch]Bm[/ch]  [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]
+[ch]Em[/ch]  [ch]Bm[/ch]  [ch]C[/ch]  [ch]D[/ch]  [ch]G[/ch]  [ch]Bm[/ch]  [ch]Em[/ch]  [ch]Bm[/ch]  [ch]C[/ch]  [ch]D[/ch]
+
+[Verse 4]
+[tab]  [ch]Em[/ch]     [ch]C[/ch]          [ch]D[/ch]    [ch]G[/ch]           [ch]Em[/ch]   [ch]C[/ch]    [ch]D[/ch]    [ch]G[/ch]
+Mizu ni utsuru hana o, hana o miteita[/tab]
+[tab]  [ch]Em[/ch]      [ch]C[/ch]          [ch]D[/ch]       [ch]G[/ch]            [ch]Em[/ch]    [ch]C[/ch]    [ch]D[/ch]
+Mizu ni kasumu tsuki o, tsuki o miteita...............Kara[/tab]
+
+[ch]D#dim[/ch]    [ch]B7[/ch]
+
+[Chorus]
+[tab]  [ch]Em[/ch]          [ch]Bm[/ch]       [ch]C[/ch]    [ch]D[/ch]     [ch]G[/ch]      [ch]Bm[/ch]
+Natsu ga konai mama no sora o egai... ta nara[/tab]
+[tab][ch]Em[/ch]       [ch]Bm[/ch]       [ch]C[/ch]   [ch]D[/ch]    [ch]G[/ch]
+  Kimi wa, boku o warau darou ka[/tab]
+[tab] [ch]Em[/ch]      [ch]Bm[/ch]      [ch]C[/ch]    [ch]D[/ch]     [ch]G[/ch]      [ch]Bm[/ch]     [ch]C[/ch]    [ch]D[/ch]
+Akegata no yume ukabu tsuki... ga mieta.........Sora[/tab]
+
+[Chorus]
+[tab] [ch]Fm[/ch]        [ch]Cm[/ch]        [ch]Db[/ch]  [ch]Eb[/ch]   [ch]Ab[/ch]      [ch]Cm[/ch]
+Asa ga konai mama de iki ga de..ki ta nara[/tab]
+[tab][ch]Fm[/ch]    [ch]Cm[/ch]     [ch]Db[/ch]    [ch]Eb[/ch]   [ch]Ab[/ch]
+  Tooi, tooi natsu no mukou he[/tab]
+[tab]   [ch]Fm[/ch]      [ch]Cm[/ch]        [ch]Db[/ch]    [ch]Eb[/ch]   [ch]Ab[/ch]     [ch]Cm[/ch]
+Tsumetakunai kimi no te no hira... ga mieta[/tab]
+[tab][ch]Fm[/ch]   [ch]Cm[/ch]     [ch]Db[/ch]    [ch]Eb[/ch]  [ch]Ab[/ch]
+  Awai asayake no yozora[/tab]
+
+[Bridge]
+[ch]Fm[/ch]    [ch]Cm[/ch]    [ch]Db[/ch]  [ch]Eb[/ch]  [ch]Ab[/ch]  [ch]Cm[/ch]
+[ch]Fm[/ch]    [ch]Cm[/ch]    [ch]Db[/ch]  [ch]Eb[/ch]  [ch]Ab[/ch]
+
+[Outro]
+[tab]  [ch]Fm[/ch]         [ch]Cm[/ch]        [ch]Db[/ch]    [ch]Eb[/ch] [ch]Ab[/ch]   [ch]Cm[/ch]
+Natsu ga konai mama no machi o ima[/tab]
+[tab] [ch]Fm[/ch]        [ch]Cm[/ch]     [ch]Db[/ch]    [ch]Eb[/ch]  [ch]Ab[/ch]   [ch]Ab[/ch]
+Aah, ai no iro yoake to hotaru[/tab]

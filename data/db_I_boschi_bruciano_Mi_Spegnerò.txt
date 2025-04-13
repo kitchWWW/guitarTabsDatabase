@@ -1,0 +1,103 @@
+URL: https://tabs.ultimate-guitar.com/tab/3228836
+Artist: I boschi bruciano
+Song: Mi Spegnerò
+Genre: 
+Key: C#m
+
+
+Per suonarla più facilmente, mettete il capotasto al primo tasto e usate l'opzione "transpose" in basso,
+abbassando di un tono la canzone.
+
+[Verse 1]
+[tab][ch]C#m[/ch]
+Crollano le tue teorie sull’umanità[/tab]
+[tab][ch]G#m[/ch]
+Continuerò a spalare la terra[/tab]
+[tab]         [ch]A[/ch]
+E con le mani in tasca[/tab]
+[tab]      [ch]B[/ch]
+Guarderò il mio tempo che passa[/tab]
+[tab][ch]C#m[/ch]            [ch]A[/ch]
+Che ne è stato delle nostre domande?[/tab]
+[tab][ch]Amaj7[/ch]   [ch]C#m[/ch]
+Che è successo?[/tab]
+[tab][ch]F#m[/ch]
+Anni interi senza risposte[/tab]
+[tab][ch]B[/ch]
+Ce ne accorgeremo un giorno forse[/tab]
+
+[Interlude]
+[ch]C#m[/ch]  [ch]A[/ch]   [ch]B[/ch]  [ch]C#m[/ch]
+[ch]F#m7[/ch]  [ch]B[/ch]  [ch]C#m[/ch]
+
+[Chorus]
+[tab][ch]C#m[/ch]         [ch]A[/ch]   [ch]B[/ch]
+Vivere è un po’ come lavorare di domenica[/tab]
+
+[Verse 2]
+[tab][ch]C#m[/ch]               [ch]E[/ch]
+Sfumano le tue speranze nella società[/tab]
+[tab][ch]G#m[/ch]
+combatterò come fossimo in guerra[/tab]
+[tab]      [ch]A[/ch]
+Ormai senza una guancia[/tab]
+[tab]    [ch]B[/ch]
+Finirò per amare la sabbia[/tab]
+[tab][ch]C#m[/ch]            [ch]A[/ch]
+Che ne è stato delle nostre domande?[/tab]
+[tab][ch]G#m[/ch]
+Che è successo?[/tab]
+[tab][ch]F#m[/ch]
+Anni interi con le loro risposte[/tab]
+[tab][ch]B[/ch]
+Ma alla fine siam rimasti io e te[/tab]
+
+[Interlude]
+[ch]C#m[/ch]  [ch]A[/ch]   [ch]B[/ch]  [ch]C#m[/ch]
+[ch]F#m7[/ch]  [ch]B[/ch]  [ch]C#m[/ch]
+
+[Chorus]
+[tab][ch]C#m[/ch]         [ch]A[/ch]   [ch]B[/ch]
+Vivere è un po’ come lavorare di domenica[/tab]
+
+[Verse 3]
+[tab][ch]C#m[/ch]      [ch]G#m[/ch]
+Gireremo tutta la notte[/tab]
+[tab][ch]A[/ch]                           [ch]G#m[/ch]
+Alla ricerca di un nuovo rimpianto[/tab]
+[tab][ch]F#m[/ch]                 [ch]E[/ch]
+Per dire c’è ancora tempo[/tab]
+[tab]           [ch]A[/ch]         [ch]F#m7[/ch]
+C’è ancora tempo non sono stanco[/tab]
+[tab][ch]C#m[/ch]
+Avremo case così piccole[/tab]
+[tab][ch]Amaj7[/ch]               [ch]G#m[/ch]
+Da non sentirci mai soli[/tab]
+[tab][ch]F#m7[/ch]      [ch]E[/ch]
+E saranno sempre fredde[/tab]
+[tab][ch]A[/ch]            [ch]F#m7[/ch]
+Per dormire vicini[/tab]
+[tab][ch]G#m[/ch]            [ch]C#m[/ch]
+Per dormire vicini[/tab]
+[tab][ch]Amaj7[/ch]         [ch]G#m[/ch]
+Per dormire vicini[/tab]
+[tab][ch]F#m7[/ch]          [ch]E[/ch]     [ch]A[/ch]   [ch]F#m[/ch]
+Per dormire vicini[/tab]
+
+[Chorus]
+[tab][ch]F#m[/ch]         [ch]E[/ch]   [ch]A[/ch]                  [ch]C#m[/ch]    [ch]G#m[/ch]
+Vivere è un po’ come lavorare di domenica[/tab]
+[tab][ch]C#m[/ch]  [ch]B[/ch]     [ch]A[/ch]    [ch]E[/ch]
+Mi   spegnerò[/tab]
+[tab][ch]F#m[/ch]         [ch]E[/ch]   [ch]A[/ch]                  [ch]C#m[/ch]    [ch]G#m[/ch]
+Vivere è un po’ come lavorare di domenica[/tab]
+[tab][ch]C#m[/ch]  [ch]B[/ch]     [ch]A[/ch]
+Mi   spegnerò[/tab]
+[tab][ch]C#m[/ch]  [ch]B[/ch]     [ch]A[/ch]
+Mi   spegnerò[/tab]
+[tab][ch]C#m[/ch]  [ch]B[/ch]     [ch]A[/ch]
+Mi   spegnerò[/tab]
+
+[Outro]
+[ch]C#m[/ch]  [ch]A[/ch]   [ch]B[/ch]  [ch]C#m[/ch] [ch]F#m7[/ch]  [ch]B[/ch]  [ch]C#m[/ch]   x2
+[ch]C#m[/ch]  [ch]F#m[/ch]   [ch]B[/ch]

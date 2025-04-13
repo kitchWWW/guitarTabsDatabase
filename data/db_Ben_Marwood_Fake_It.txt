@@ -1,0 +1,110 @@
+URL: https://tabs.ultimate-guitar.com/tab/ben-marwood/fake-it-tabs-1100581
+Artist: Ben Marwood
+Song: Fake It
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------------
+                             Fake It – Ben Marwood
+-------------------------------------------------------------------------------
+Tabbed by: Neil Wicker
+Email: wicker101@hotmail.co.uk
+
+tried to make this easier to understand by separating it into a base pattern and an 
+ending pattern that is only played sometimes. Make sure to pay attention to how many times 
+each part of the pattern is played at the end of each bar.
+
+[tab]Intro:
+e|-----------0---------------------------------------------------------------|
+B|--5-----------5------------------------------------------------------------|
+G|-----6--------------6-----6--4--6-----6--4--6-----6 -----------------------| x3
+D|--------6--------------6-----------6-----------6---------------------------|
+A|--4------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|[/tab]
+
+[tab]e|--------------------------|
+B|--------------------------|
+G|--4--6-----6--4--6-----6--|
+D|--------6-----------6-----|  x2
+A|--------------------------|
+E|--------------------------|[/tab]
+
+Verse pattern:
+
+[tab]Base pattern:-
+e|-----------0---------------------------------------------------------------|
+B|--5-----------5------------------------------------------------------------|
+G|-----6--------------6-----6--4--6-----6--4--6-----6 -----------------------| x6
+D|--------6--------------6-----------6-----------6---------------------------|
+A|--4------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|[/tab]
+
+[tab]Ending pattern:-
+e|--------------------------|
+B|--------------------------|
+G|--4--6-----6--4--6-----6--|
+D|--------6-----------6-----|
+A|--------------------------|
+E|--------------------------|[/tab]
+
+
+Recently I've realised as I have stood atop my stage
+looking at the rows of faces, I think I'm filled with twisted rage
+it's taken me 'till 9pm one rainy Saturday in June to realize
+that this is no way near where I thought I could be it's true.
+
+Chorus:
+
+[tab]e|--------------|
+B|--8-----------|
+G|-----9-----9--|
+D|--------9-----|  x14
+A|--------------|
+E|--------------|[/tab]
+
+This is the way I feel now, and it's taken me so long to see
+that the words you hang off of, are never really the feelings of me.
+
+Base Verse pattern x2
+
+(don’t play at these lyrics)
+Do you honestly believe there is no fucking difference between
+all the boys and all the girl bands you see every day on your TV,
+(Base Verse pattern x2)
+and me?
+
+Verse: (includes end pattern)
+Someone once told me that ambition fuels the human race
+well I believe that inspiration more than has it's pride of place.
+if you strip me of ambition I would not sit motionless,
+but if we're stripped of inspiration we'd all run for government I guess.
+
+Chorus:
+This is the way I feel now, and it's taken me so long to see
+that the words you hang off on, are never really the feelings of me.
+
+Chorus:
+(same again but use the base verse pattern once then go back to chorus pattern)
+This is the way I feel now, and it's taken me so long to see
+that the words you hang off on, are never really the feelings of…
+
+
+
+
+************************************
+
+| /   slide up
+| \   slide down
+| h   hammer-on
+| p   pull-off
+| ~   vibrato
+| +   harmonic
+| x   Mute note
+| b   Bend
+| pb  Pre-bend
+| br  Bend release
+| pbr Pre-bend release
+| brb Bend release bend
+
+************************************

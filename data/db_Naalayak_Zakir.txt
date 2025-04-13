@@ -1,0 +1,107 @@
+URL: https://tabs.ultimate-guitar.com/tab/naalayak/zakir-chords-4352321
+Artist: Naalayak
+Song: Zakir
+Genre: 
+Key: G
+
+
+Strumming - DDUDUDDD
+
+[tab][Intro]
+[ch]Amaj7[/ch]
+E|-0----0--0--0-0--2--0--0---------|
+B|-2----2--2--2-2--2--2--2---------|
+G|-0h1--1--1--0h1--1--1--1---------|
+D|-2----2--2--2-2--2--2--2---------|
+A|-0----0--0--0-0--0--0--0---------|
+E|-x----x--x--x-x--x--x--x---------|[/tab]
+
+[tab][ch]B7[/ch]
+E|-0-0--0--0--0-0--0--0--0---------|
+B|-0-0--0--0--0-0--0--0--0---------|
+G|-2-2--2--2--0-0--0--0--0---------|
+D|-0h1--1--1--0-0--1--1--1---------|
+A|-2-2--2--2--2----2--2--2---------|
+E|-x-x--x--x--x----x--x--x---------|[/tab]
+
+[tab]  [ch]Amaj7[/ch]           [ch]B7[/ch]
+E|-0----0-------~|-0-~|
+B|-2----2-------~|-0-~|
+G|-0h1--2-------~|-2-~|
+D|-2------------~|-1-~|
+A|-0------------~|-2-~|
+E|-x------------~|-x-~|
+Shamein shubha...Milte nahi.[/tab]
+
+[tab]  [ch]Amaj7[/ch]           [ch]B7[/ch]
+E|-0----0-------~|-0-0-0-0-0-0-0-0-|
+B|-2----2-------~|-0-0-0-0-0-0-0-0-|
+G|-0h1--2-------~|-2-2-2-2-2-2-2-2-|
+D|-2------------~|-1-1-1-1-1-1-1-1-|
+A|-0------------~|-2-2-2-2-2-2-2-2-|
+E|-x------------~|-x-x-x-x-x-x-x-x-|
+Khalid hai par.. .Dil chasp bhi[/tab]
+
+[Verse]
+[tab]        [ch]Amaj7[/ch]    [ch]B7[/ch]
+Shamein shubha...Milte nahi.[/tab]
+[tab]       [ch]Amaj7[/ch]      [ch]B7[/ch]
+Khalid hai par.. .Dil chasp bhi[/tab]
+
+[tab]      [ch]Emaj7[/ch]                [ch]Asus2[/ch]
+Subha puche ratein shamein kya haseen[/tab]
+[tab]      [ch]Emaj7[/ch]                [ch]Asus2[/ch]
+Shamein puche ratein Subbha kya nayi[/tab]
+
+[tab]      [ch]Amaj7[/ch]          [ch]B7[/ch]
+Zakir kare wo........Zahir nahi.[/tab]
+[tab]      [ch]Amaj7[/ch]          [ch]B7[/ch]
+Akil hun main........Asim nahi.(x2)[/tab]
+
+[tab]      [ch]Emaj7[/ch]                [ch]Asus2[/ch]
+Subha puche ratein shamein kya haseen.[/tab]
+[tab]      [ch]Emaj7[/ch]                 [ch]Asus2[/ch]
+Shamein puche ratein Subbha kya nayi.[/tab]
+
+[Bar Chords - Top Strings]
+[tab]        [ch]C#m[/ch]    [ch]Bm[/ch]    [ch]Am[/ch]   [ch]B7[/ch]
+Uohuhu  hu     hu    hu.. Shamein shubha[/tab]
+[tab]        [ch]C#m[/ch]    [ch]B7[/ch]    [ch]Am[/ch]   [ch]B7[/ch]
+Uohuhu  hu     hu    hu.. millo zara[/tab]
+
+[Solo]
+[ch]Emaj7[/ch]    [ch]Asus2[/ch]    [ch]Emaj7[/ch]    [ch]Asus2[/ch]
+
+[ch]Emaj7[/ch]    [ch]Asus2[/ch]    [ch]Emaj7[/ch]    [ch]Asus2[/ch]
+
+[Bridge]
+[tab]          [ch]Emaj7[/ch]       [ch]Asus2[/ch]
+Chali na jaaye ghadi..is dor ki.[/tab]
+[tab]      [ch]Emaj7[/ch]       [ch]Asus2[/ch]
+Unse chupi hai jo.humse nahi.(x2)[/tab]
+
+[tab]      [ch]Amaj7[/ch]                [ch]B7[/ch]
+Subha puche ratein shamein kya haseen.[/tab]
+[tab]      [ch]Amaj7[/ch]                [ch]B7[/ch]
+Shamein puche ratein Subbha kya nayi.[/tab]
+
+[tab]        [ch]Amaj7[/ch]    [ch]B7[/ch]
+Shamein shubha...Milte Nahi[/tab]
+[tab]       [ch]Amaj7[/ch]      [ch]B7[/ch]
+Khalid hai par.. .Dil chasp bhi[/tab]
+
+
+[tab]      [ch]Amaj7[/ch]          [ch]B7[/ch]
+Zakir kare wo........Zahir nahi.[/tab]
+[tab]      [ch]Amaj7[/ch]          [ch]B7[/ch]
+Akil hun main........Asim nahi[/tab]
+
+
+
+************************************
+
+| h  Hammer-on
+| x  Dead note
+| ~  Vibrato
+
+************************************

@@ -1,0 +1,74 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/masquerade-chords-339940
+Artist: Caedmon's Call
+Song: Masquerade
+Genre: 
+Key: 
+
+
+============================                      =========================
+Masquerade---Caedmon's Call-----------------------Transfered by Asa Gaston
+============================                      =========================
+
+Drop-D capo 3.  I think this is at least half-way accurate; it should suffice until the songbook is out.
+
+VERSE:
+D2      000230 or 007750
+[ch]E7[/ch]/[ch]G#[/ch]   676700
+[ch]A#6[/ch],[ch]B5[/ch]  8x8780
+[ch]A4[/ch]      x07700 -> x07600
+[ch]Em[/ch]      222000 // 777xxx
+[ch]A2[/ch]      x02020 -> x02000
+
+[ch]D2[/ch]     [ch]E7[/ch]     [ch]A#[/ch]     [ch]A4[/ch]
+[ch]D2[/ch]     [ch]E7[/ch]     [ch]Em[/ch]     [ch]A2[/ch]
+
+BRIDGE:
+[tab][ch]Bm[/ch]      x24432
+A#mb5   x12320[/tab]
+C#m7b5  x45600
+[ch]F#7[/ch]     4443x0
+[tab][ch]C#[/ch]      x43121
+C#7b5   x43403[/tab]
+F#b2    xx4023
+
+[ch]Bm[/ch]     [ch]A#[/ch]     [ch]C#m[/ch]    [ch]F#7[/ch]
+[ch]Bm[/ch]     [ch]C#[/ch]     [ch]C#7[/ch]    F#b2
+
+CHORUS:
+[ch]G[/ch]       5x0033
+[ch]D[/ch]       000232
+[ch]F#7[/ch]     4443x0
+[ch]D/F#[/ch]    400230
+[ch]G6[/ch]      5x0030
+[ch]A[/ch]       x02220 &lt;-> x02230
+[ch]Gm6[/ch]     5x0330
+[ch]D2[/ch]      000230
+
+[ch]G[/ch]      [ch]D[/ch]
+[ch]F#7[/ch]    [ch]G[/ch]
+[ch]D[/ch]
+[ch]D/F#[/ch]   [ch]G6[/ch]     [ch]A[/ch]
+[ch]D/F#[/ch]   [ch]G[/ch]      [ch]Gm6[/ch]    [ch]D2[/ch]
+
+VERSE 2:
+
+BRIDGE 2:
+
+REPEAT CHORUS
+
+OUTRO:  
+[ch]C2[/ch]      x30030 &lt;-> x30032
+[ch]G6[/ch]/[ch]B[/ch]    x20030 ...
+[ch]D[/ch]       xx0230 &lt;-> xx0232
+[ch]A/C#[/ch]    x4x220
+[ch]Bm[/ch]      x2443x
+[tab][ch]A4[/ch]      x0022x
+Em2     2240x0[/tab]
+[ch]A7[/ch]      x0202x -> x04x30
+[tab][ch]Gm[/ch]      0xx775 -> xxx786
+Dend    000230 -> 000232[/tab]
+
+|[ch]C[/ch]    .   |[ch]G/B[/ch]  .   |[ch]D[/ch]    .   |.    .   |
+|[ch]C[/ch]    .   |[ch]G/B[/ch]  .   |[ch]D[/ch]    .   |.    .   |
+|[ch]C[/ch]    .   |[ch]G/B[/ch]  .   |[ch]D[/ch]    [ch]A/C#[/ch]|[ch]Bm[/ch]   [ch]A4[/ch]  |
+|Em2  .   |[ch]A7[/ch]   .   |[ch]Gm[/ch]   .   |Dend .   |

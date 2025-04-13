@@ -1,0 +1,155 @@
+URL: https://tabs.ultimate-guitar.com/tab/olive-jones/nobody-knows-chords-5407845
+Artist: Olive Jones
+Song: Nobody Knows
+Genre: 
+Key: C
+
+
+https://www.youtube.com/watch?v=Q3VjaCy5gck
+
+Note: Play C chord as x30210 in the pre-chorus and chorus sections for easier transition to Dm7b5.
+
+[Chords]
+  [ch]C[/ch] x35553       [ch]Gm9[/ch] 353335
+[ch]C/B[/ch] x20010       [ch]Fm6[/ch] 1x011x
+[ch]CM7[/ch] x32000       [ch]FM7[/ch] 1x2210
+ [ch]Dm[/ch] x57765     [ch]Dm7b5[/ch] xx0111
+[ch]Am7[/ch] 575555     [ch]F#7b5[/ch] 2x231x
+[ch]Am9[/ch] 575557    [ch]F#m7b5[/ch] 2x221x
+[ch]A#9[/ch] x1011x        [ch]E7[/ch] 020100
+  [ch]G[/ch] 344233     [ch]A7b13[/ch] 5x566x
+ [ch]Gm[/ch] 355333      [ch]E7b9[/ch] 07676x
+[ch]Gm7[/ch] 353333
+
+[tab][Lick 1 (⁕)]
+e|-----------|
+B|-----------|
+G|-----------|
+D|-----------|
+A|------3-5--|
+E|--3h5------|[/tab]
+
+[tab][Lick 2 (†)]
+e|-------------|
+B|-------------|
+G|-------------|
+D|--5---5h7-5--|
+A|---5h7-------|
+E|-------------|[/tab]
+
+[tab][Lick 3 (‡)]
+e|------------|
+B|------------|
+G|---5h7--5---|
+D|--5------7--|
+A|------------|
+E|------------|[/tab]
+
+
+[tab][Intro]
+             [ch]C[/ch]       [ch]Dm[/ch]  [ch]C[/ch]               [ch]Am7[/ch]    [ch]G[/ch]  [ch]Am7[/ch]
+e|---------------3----5---------------------5----------------------|
+B|-----------5---5----6--5--5------------5--5------5--5------------|
+G|-----------5---5----7--5--5------------5--5----4-5--5-5---5h7-5--|
+D|-----------5---5-------5--5------5h7---5--5----5-5--5--5h7-------|
+A|------3-5--3---3---5---3----3-5h7------7--7----5-----------------|
+E|--3h5--------------------------------7-5------3--5-5-------------|[/tab]
+
+[tab]    [ch]Gm9[/ch]     [ch]FM7[/ch]     [ch]CM7/G[/ch]    [ch]Dm[/ch]  [ch]C[/ch]
+e|--5---5-----------0----3----5-----|
+B|--3---3---1---1---0----5----6--5--|
+G|--3---3---2---2---0----5----7--5--|
+D|--3---3---2---2---2----5-------5--|
+A|--5---5---x---x---3----3---5---3--|
+E|--3---3---1---1---3---------------|[/tab]
+
+[Verse 1]
+[tab]⁕              [ch]C[/ch]         [ch]Dm[/ch] [ch]C[/ch] †
+I don't want acceptance[/tab]
+[tab][ch]Am7[/ch]                       [ch]Am9[/ch] [ch]Am7[/ch]
+  And I don't need no lies[/tab]
+[tab]       [ch]Gm7[/ch]
+But my mind gets crazy[/tab]
+[tab]   [ch]FM7[/ch]                         [ch]C[/ch]      [ch]Dm[/ch] [ch]C[/ch]
+It tells me I’m wrong when I’m right[/tab]
+
+[Verse 2]
+[tab]⁕                  [ch]CM7[/ch]    [ch]Dm[/ch] [ch]C[/ch]
+Been hiding in the shadow[/tab]
+[tab]         [ch]C/B[/ch]            [ch]Am7[/ch]   [ch]G[/ch] [ch]Am9[/ch] [ch]Am7[/ch]
+And I’ve been there too long[/tab]
+[tab]     [ch]Gm7[/ch]                  [ch]FM7[/ch]
+Do I hide from myself, my pride[/tab]
+[tab]                 [ch]C[/ch]
+Or what could go wrong?[/tab]
+
+[Chorus]
+[tab]  [ch]Dm7b5[/ch]       [ch]C[/ch]           [ch]Dm7b5[/ch]      [ch]C[/ch]
+I talk to the mirror  and ask myself why[/tab]
+[tab]  [ch]A#9[/ch]         [ch]C[/ch]             [ch]E7b9[/ch]       [ch]Am7[/ch]
+I wait in the darkness  for things to arrive[/tab]
+[tab]    [ch]Am9[/ch]  [ch]Am7[/ch]    [ch]Gm7[/ch]
+And each moment passing[/tab]
+[tab][ch]Gm9[/ch]  [ch]Gm7[/ch]      [ch]F#7b5[/ch] [ch]FM7[/ch]
+Wave time goodbye[/tab]
+[tab]    [ch]C[/ch]   [ch]Dm[/ch] [ch]CM7[/ch] † [ch]Am7[/ch]  [ch]G[/ch] [ch]Am7[/ch] ‡ [ch]Gm9[/ch] [ch]Gm7[/ch] [ch]F[/ch] [ch]C[/ch]  [ch]Dm[/ch] [ch]C[/ch]
+Goodbye[/tab]
+
+[Verse 3]
+[tab]⁕                 [ch]C[/ch]          [ch]Dm[/ch] [ch]C[/ch]
+Life’s a long old road, baby[/tab]
+[tab]     [ch]E7[/ch]           [ch]Am7[/ch]         [ch]G[/ch] [ch]Am7[/ch] ‡
+With baggage from time gone by[/tab]
+[tab]           [ch]Gm9[/ch]           [ch]Gm7[/ch]
+You’re out there on your own[/tab]
+[tab][ch]FM7[/ch]                       [ch]C[/ch]
+Grown but alone   and you find[/tab]
+
+
+[Chorus]
+[tab]     [ch]Dm7b5[/ch]      [ch]C[/ch]           [ch]Dm7b5[/ch]      [ch]C[/ch]
+They tell you a story   and give you a name[/tab]
+[tab][ch]A#9[/ch]          [ch]C[/ch]            [ch]C/B[/ch]            [ch]Am7[/ch]
+Send you off flying   and pray you’ll be safe[/tab]
+[tab]    [ch]Am9[/ch]           [ch]Gm9[/ch]
+But time’s always changing[/tab]
+[tab]     [ch]Gm7[/ch] [ch]F#7b5[/ch] [ch]FM7[/ch]
+It’s ne        -ver the same[/tab]
+
+[Bridge]
+[tab]      [ch]D7[/ch]           [ch]Gm7[/ch]
+Cause nobody knows[/tab]
+[tab]    [ch]FM7[/ch]
+No, nobody knows[/tab]
+[tab]    [ch]D7[/ch]     [ch]A7b13[/ch]
+No, nobody knows[/tab]
+[tab]  [ch]D7[/ch]
+Nothing at all[/tab]
+[tab]           [ch]D7[/ch]              [ch]Gm7[/ch]
+If there’s one thing I know[/tab]
+[tab]   [ch]F#7b5[/ch]   [ch]FM7[/ch]
+No, nobody knows[/tab]
+
+[Verse 4]
+[tab]                      [ch]C[/ch]
+I’ll ask the same old question[/tab]
+[tab]                [ch]Am7[/ch]
+I’m getting the same reply[/tab]
+[tab][ch]Gm7[/ch]    [ch]FM7[/ch]
+No one tells you[/tab]
+[tab]               [ch]C[/ch]
+You’re gonna die[/tab]
+
+[Ending]
+[tab]      ⁕      [ch]C[/ch]    [ch]Dm[/ch] [ch]C[/ch]    [ch]E7[/ch]  [ch]Am7[/ch]
+Cause nobody knows,  hmm, why[/tab]
+[tab]         [ch]Gm9[/ch]      [ch]Gm7[/ch]          [ch]FM7[/ch]    [ch]Fm6[/ch]
+Battles arise and things don’t survive[/tab]
+[tab]        [ch]C[/ch]
+So I’ll go[/tab]
+[tab]                             [ch]A#9[/ch]          [ch]C[/ch]
+I’ll take to the water, find peace by the shore[/tab]
+[tab][ch]Dm7b5[/ch]    [ch]C[/ch]            [ch]E7b9[/ch]        [ch]Am7[/ch]
+Voices inside me  are silent once more[/tab]
+[tab]    [ch]Am9[/ch] [ch]Am7[/ch]  [ch]G#m7[/ch] [ch]Gm7[/ch]   [ch]Gm9[/ch]   [ch]Gm7[/ch]      [ch]F#7b5[/ch]
+And clo-sing my   eyes, float with the tide.[/tab]

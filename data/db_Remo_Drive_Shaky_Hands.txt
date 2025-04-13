@@ -1,0 +1,66 @@
+URL: https://tabs.ultimate-guitar.com/tab/remo-drive/shaky-hands-tabs-2162547
+Artist: Remo Drive
+Song: Shaky Hands
+Genre: 
+Key: 
+
+
+Tuned in open G
+
+[tab][Intro]
+D|------|
+B|------|
+G|------|
+D|-9-11-|
+G|-8-8--|
+D|-9-9--|[/tab]
+
+[tab][Verse]
+D|-----|
+B|-----|
+G|-----|
+D|-9-6-|
+G|-8-4-|
+D|-9-2-|[/tab]
+
+[tab][Descending riff]
+D|-----------|
+B|-----------|
+G|-----------|
+D|-9-9-9-8-6-|
+G|-8-8-8-6-4-|
+D|-9-8-6-4-2-|[/tab]
+
+[tab][Palm muted riff]
+D|---------|
+B|---------|
+G|---------|
+D|---------|
+G|-4-4-8-8-|
+D|-2-1-6-5-|[/tab]
+
+"eaaaarrrrttth"
+
+[tab][Chorus]
+D|-----|
+B|-----|
+G|---6-|
+D|-6-x-|
+G|-4-4-|
+D|-2-2-|[/tab]
+
+[tab][Bridge]
+D|------|
+B|------|
+G|------|
+D|-9-11-|
+G|-8-8--|
+D|-9-9--|[/tab]
+
+[tab][Outro]
+D|-------|
+B|-------|
+G|---6---|
+D|-6-x-9-|
+G|-4-4-8-|
+D|-2-2-9-|[/tab]

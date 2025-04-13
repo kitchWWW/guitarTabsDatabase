@@ -1,0 +1,100 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/rich-song-chords-341301
+Artist: Caedmon's Call
+Song: Rich Song
+Genre: 
+Key: 
+
+
+===============================                  =========================
+The Rich Song---Caedmon's Call-------------------Transfered by Asa Gaston
+===============================                  =========================
+
+Chord  -  Name
+[tab]XX0232    [ch]D[/ch]
+X20033    G/B (hammer 5th string)[/tab]
+320033    [ch]G[/ch]
+X02220    [ch]A[/ch]
+XX0032    [ch]Dsus4[/ch]
+X24432    [ch]Bm[/ch]
+022033    [ch]Em7[/ch]
+200232    [ch]D/F#[/ch]
+355333    [ch]Gm[/ch]
+244222    [ch]F#m[/ch]
+
+
+[intro lick 4x]
+
+[tab]Count 1   2   3   4   1   2   3   4   
+   e-|----2-----2----|------3--------|
+   b-|----3---------3|----------3----|
+   g-|----2----------|----0---------0|
+   d-|0--------------|---------------|
+   a-|---------------|0h2------------|
+   e-|---------------|---------------|[/tab]
+      [ch]D[/ch].............. [ch]G/B[/ch]............ 
+
+
+[verse 1]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]Dsus[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]Bm[/ch]     [ch]A[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]Bm[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]G/B[/ch]
+
+
+[verse 2]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]Dsus[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]Bm[/ch]     [ch]A[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]Bm[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]G/B[/ch]
+
+
+[chorus]
+[ch]Em7[/ch]
+[ch]D/F#[/ch]
+[ch]G[/ch]
+[ch]Gm[/ch]
+[ch]D[/ch]      [ch]A[/ch]
+[ch]G[/ch]
+[ch]A[/ch]
+
+
+[repeat intro lick 4x (8 bar organ solo)]
+
+
+[verse 3]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]Dsus[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]Bm[/ch]     [ch]A[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]Bm[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]Bm[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]      [ch]G/B[/ch]
+
+
+[chorus]
+[ch]Em7[/ch]
+[ch]D/F#[/ch]
+[ch]G[/ch]
+[ch]Gm[/ch]
+[ch]D[/ch]      [ch]A[/ch]
+[ch]G[/ch]
+[ch]A[/ch]
+
+[bridge]
+[ch]Bm[/ch]     [ch]A[/ch]
+[ch]Bm[/ch]     [ch]F#m[/ch]
+[ch]Em7[/ch]    [ch]D/F#[/ch]
+[ch]G[/ch]
+[ch]Gm[/ch]
+
+[8 bar guitar solo]  [ch]D[/ch], [ch]A[/ch], [ch]G[/ch], [ch]A[/ch]
+
+
+[tag]
+[ch]Em7[/ch]    [ch]D/F#[/ch]
+[ch]G[/ch]
+[ch]Gm[/ch]
+[ch]D[/ch]
+[ch]A[/ch]      [ch]G[/ch]
+[ch]A[/ch]      [ch]G[/ch]
+[ch]A[/ch]
+
+[repeat intro lick 4x]

@@ -1,0 +1,26 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/i-waited-chords-339558
+Artist: Caedmon's Call
+Song: I Waited
+Genre: 
+Key: 
+
+
+==========================                       =========================
+I Waited---Caedmon's Call------------------------Transfered by Asa Gaston
+==========================                       =========================
+
+Chord  -  Name
+[tab]320003    [ch]G[/ch]
+X02010    Am7 (hammer 2nd string)[/tab]
+[tab]X32010    [ch]C[/ch]
+XX0232    D (hammer 1st string)[/tab]
+XX0233    Dsus4 (hammer 1st string)
+022000    [ch]Em[/ch]
+200232    [ch]D/F#[/ch]
+X32033    [ch]C9[/ch]
+
+[chorus]  [ch]G[/ch], [ch]Am7[/ch], [ch]C[/ch], [ch]D[/ch], [ch]Dsus4[/ch]
+
+[verse 1]  [ch]Em[/ch], [ch]D/F#[/ch], [ch]G[/ch], [ch]Em[/ch], [ch]D/F#[/ch], [ch]C9[/ch] (2X) [ch]Dsus4[/ch]
+
+[verse 2]  [ch]Em[/ch], [ch]D/F#[/ch], [ch]G[/ch], [ch]Em[/ch], [ch]D/F#[/ch], [ch]C9[/ch] (2X) [ch]Dsus4[/ch]

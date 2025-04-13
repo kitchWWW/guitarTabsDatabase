@@ -1,0 +1,178 @@
+URL: https://tabs.ultimate-guitar.com/tab/x-session/ik-geef-me-niet-gewonnen-chords-5120404
+Artist: X-Session
+Song: Ik Geef Me Niet Gewonnen
+Genre: 
+Key: 
+
+
+Cover van het Soulsister nummer "Like a Mountain".
+
+Capo: 3 fret
+
+       Capo positie aanpassingen zijn gemakkelijk te maken door de Transpose knop te gebruiken.
+          Transpose -1 is capo een fret hoger; Transpose knop +1 is capo een fret lager.
+          De akkoorden worden automatisch aangepast aan de nieuwe capo positie.
+          Let wel bij gebruik van de transpose functie kunnen de akkoorden iets op de regel
+             verschuiven omwille van de lengte van de akkoord namen.
+          Bv:  Spelen zonder capo? Zet de transpose knop dan op +3.
+
+
+[Chord]
+[A7sus4        x0203x]
+[Dsus2         3x0230]
+[Esus4         022200]
+[F#m           244222]
+
+
+
+[Intro]
+[ch]A7sus4[/ch]  [ch]A[/ch]
+[ch]A7sus4[/ch]  [ch]A[/ch]
+[ch]A7sus4[/ch]  [ch]A[/ch]
+[ch]A7sus4[/ch]  [ch]A[/ch]
+
+
+[Verse 1]
+[tab][ch]A7sus4[/ch]     [ch]A[/ch]
+Nooit meer zorgeloos zijn,[/tab]
+[tab][ch]A7sus4[/ch]         [ch]A[/ch]
+Denk maar niet dat ik dat aanvaard,[/tab]
+[tab][ch]A7sus4[/ch]      [ch]A[/ch]
+Hoe hoog de berg ook mag zijn,[/tab]
+[tab][ch]A7sus4[/ch]      [ch]A[/ch]
+Ooit geraak ik er overheen.[/tab]
+
+
+[Pre-Chorus]
+[tab][ch]Em[/ch]               [ch]Dsus2/F#[/ch]
+Ik verwacht geen medelij,[/tab]
+[tab]  [ch]Fmaj7[/ch]           [ch]Esus4[/ch]  [ch]E[/ch]
+Geloof in mij, in mij.[/tab]
+
+
+[Chorus]
+[tab]   [ch]Asus4[/ch]          [ch]A[/ch]
+Ik geef me niet gewonnen,[/tab]
+[tab][ch]C#m[/ch]            [ch]Dsus2[/ch]
+Weet je wat ik doe,[/tab]
+[tab]         [ch]Em[/ch]     [ch]Dsus2[/ch]   [ch]F#m[/ch]    [ch]E[/ch]
+Ik vecht hard terug, keihard terug,[/tab]
+[tab]     [ch]Asus4[/ch]           [ch]A[/ch]
+Mijn strijd is pas begonnen,[/tab]
+[tab][ch]C#m[/ch]           [ch]Dsus2[/ch]
+Zoveel nog te doen,[/tab]
+[tab]        [ch]Em[/ch]    [ch]Dsus2[/ch]   [ch]F#m[/ch]   [ch]E[/ch]
+Maar ik kom terug, ik kom terug.[/tab]
+
+
+[Interlude]
+[ch]A7sus4[/ch]  [ch]A[/ch]
+[ch]A7sus4[/ch]  [ch]A[/ch]
+
+
+[Verse 2]
+[tab][ch]A7sus4[/ch]   [ch]A[/ch]
+Voor jou ga ik voluit,[/tab]
+[tab][ch]A7sus4[/ch]      [ch]A[/ch]
+Want ik wil weer de oude zijn,[/tab]
+[tab][ch]A7sus4[/ch]   [ch]A[/ch]
+Voor jou wil ik vooruit,[/tab]
+[tab][ch]A7sus4[/ch]         [ch]A[/ch]
+Ja voor jou verbijt ik al mijn pijn.[/tab]
+
+
+[Pre-Chorus]
+[tab][ch]Em[/ch]               [ch]Dsus2/F#[/ch]
+Ik verwacht geen medelij,[/tab]
+[tab]  [ch]Fmaj7[/ch]           [ch]Esus4[/ch]  [ch]E[/ch]
+Geloof in mij, in mij.[/tab]
+
+
+[Chorus]
+[tab]   [ch]Asus4[/ch]          [ch]A[/ch]
+Ik geef me niet gewonnen,[/tab]
+[tab][ch]C#m[/ch]            [ch]Dsus2[/ch]
+Weet je wat ik doe,[/tab]
+[tab]         [ch]Em[/ch]     [ch]Dsus2[/ch]   [ch]F#m[/ch]    [ch]E[/ch]
+Ik vecht hard terug, keihard terug,[/tab]
+[tab]     [ch]Asus4[/ch]           [ch]A[/ch]
+Mijn strijd is pas begonnen,[/tab]
+[tab][ch]C#m[/ch]           [ch]Dsus2[/ch]
+Zoveel nog te doen,[/tab]
+[tab]        [ch]Em[/ch]    [ch]Dsus2[/ch]   [ch]F#m[/ch]   [ch]E[/ch]
+Maar ik kom terug, ik kom terug.[/tab]
+
+
+[Interlude]
+[tab]         [ch]Asus4[/ch] [ch]A[/ch]
+Ja, voor jou   ou[/tab]
+[tab][ch]C#m[/ch]    [ch]Dsus2[/ch]   [ch]Em[/ch]    [ch]Dsus2[/ch]   [ch]F#m[/ch]   [ch]E[/ch]
+Jou . . .[/tab]
+
+
+[Bridge]
+[tab][ch]Em[/ch]  [ch]D/F#[/ch] [ch]A[/ch]
+Langzaam krabbel ik overeind,[/tab]
+[tab][ch]C[/ch]        [ch]G[/ch]          [ch]D[/ch]  [ch]A[/ch]
+Elke dag voel ik me beter,[/tab]
+[tab][ch]Em[/ch]  [ch]D/F#[/ch] [ch]A[/ch]
+Langzaam kom ik weer dichterbij,[/tab]
+[tab][ch]C[/ch]
+Meer en meer en meer en meer,[/tab]
+[tab][ch]D/F#[/ch]
+Langzaam word ik beter.[/tab]
+
+
+[Interlude]
+[tab][ch]A7sus4[/ch]  [ch]A[/ch]
+Ooooooooooh.[/tab]
+[ch]A7sus4[/ch]  [ch]A[/ch]
+
+
+[Hook]
+[tab]   [ch]Asus4[/ch]
+Ik geef me niet gewonnen,[/tab]
+[tab][ch]Asus4[/ch]
+Weet je wat ik doe,[/tab]
+[tab]   [ch]A[/ch]
+Ik vecht hard terug, keihard terug,[/tab]
+[tab]     [ch]Asus4[/ch]
+mijn strijd is pas begonnen,[/tab]
+[tab][ch]Asus4[/ch]
+Zoveel nog te doen,[/tab]
+[tab]        [ch]A[/ch]
+Maar ik kom terug, ja, ik kom terug.[/tab]
+
+
+[Pre-Chorus]
+[tab][ch]Em[/ch]               [ch]Dsus2/F#[/ch]
+Ik verwacht geen medelij,[/tab]
+[tab]  [ch]Fmaj7[/ch]           [ch]Esus4[/ch]  [ch]E[/ch]
+Geloof in mij, in mij.[/tab]
+
+
+[Chorus]
+[tab]   [ch]Asus4[/ch]          [ch]A[/ch]
+Ik geef me niet gewonnen,[/tab]
+[tab][ch]C#m[/ch]            [ch]Dsus2[/ch]
+Weet je wat ik doe,[/tab]
+[tab]         [ch]Em[/ch]     [ch]Dsus2[/ch]   [ch]F#m[/ch]    [ch]E[/ch]
+Ik vecht hard terug, keihard terug,[/tab]
+[tab]     [ch]Asus4[/ch]           [ch]A[/ch]
+Mijn strijd is pas begonnen,[/tab]
+[tab][ch]C#m[/ch]           [ch]Dsus2[/ch]
+Zoveel nog te doen,[/tab]
+[tab]        [ch]Em[/ch]    [ch]Dsus2[/ch]   [ch]F#m[/ch]   [ch]E[/ch]
+Maar ik kom terug, ik kom terug.[/tab]
+
+
+[Outro]
+[tab]        [ch]Asus4[/ch] [ch]A[/ch]
+Al maar beter,[/tab]
+[tab][ch]C#m[/ch]    [ch]Dsus2[/ch]   [ch]Em[/ch]    [ch]Dsus2[/ch]   [ch]F#m[/ch]   [ch]E[/ch]
+Jou . . .[/tab]
+[tab]        [ch]Asus4[/ch] [ch]A[/ch]
+Al maar beter,[/tab]
+[tab][ch]C#m[/ch]    [ch]Dsus2[/ch]   [ch]Em[/ch]    [ch]Dsus2[/ch]   [ch]F#m[/ch]   [ch]E[/ch]
+Jou . . .[/tab]
+[ch]E[/ch]

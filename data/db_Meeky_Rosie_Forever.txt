@@ -1,0 +1,72 @@
+URL: https://tabs.ultimate-guitar.com/tab/meeky-rosie/forever-chords-2417887
+Artist: Meeky Rosie
+Song: Forever
+Genre: 
+Key: 
+
+
+[Chords]
+(progression-beginning of verse)
+[ch]Bm[/ch] X24432
+[ch]A[/ch] X02220
+[ch]Emadd9[/ch] 022002
+[tab][ch]F#m7[/ch] 242222
+G6(omit 3rd) 3X0030[/tab]
+(progression-end of verse)
+Em(add highest 3rd) 022003
+[ch]Emadd9[/ch] 022002
+[ch]Em[/ch] 022000
+[ch]Em7[/ch] 022030
+[tab][ch]A[/ch] X02220
+G6(omit 3rd) 3X0030[/tab]
+
+
+[Intro]
+[ch]Bm[/ch] [ch]A[/ch] [ch]Emadd9[/ch] [ch]F#m7[/ch] [ch]G6[/ch]
+
+[Verse]
+[tab][ch]Bm[/ch]  [ch]A[/ch]       [ch]Emadd9[/ch]   [ch]F#m7[/ch] [ch]G6[/ch]
+Realize the greatest love[/tab]
+[tab][ch]Bm[/ch] [ch]A[/ch]      [ch]Emadd9[/ch] [ch]F#m7[/ch] [ch]G6[/ch]
+We are the only ones[/tab]
+[tab][ch]Em[/ch] [ch]Emadd9[/ch] [ch]Em[/ch] [ch]Em7[/ch] [ch]A[/ch]
+We are so real[/tab]
+[tab][ch]Em[/ch] [ch]Emadd9[/ch] [ch]Em[/ch] [ch]Em7[/ch] [ch]A[/ch] [ch]G6[/ch]
+Nothing to fear[/tab]
+
+[Verse]
+[tab][ch]Bm[/ch]   [ch]A[/ch]     [ch]Emadd9[/ch]   [ch]F#m7[/ch] [ch]G6[/ch]
+This is forever and more[/tab]
+[tab][ch]Bm[/ch]  [ch]A[/ch]       [ch]Emadd9[/ch]   [ch]F#m7[/ch] [ch]G6[/ch]
+Realize the greatest love[/tab]
+[tab][ch]Em[/ch] [ch]Emadd9[/ch] [ch]Em[/ch] [ch]Em7[/ch] [ch]A[/ch]
+We are so real[/tab]
+[tab][ch]Em[/ch] [ch]Emadd9[/ch] [ch]Em[/ch] [ch]Em7[/ch] [ch]A[/ch] [ch]G6[/ch]
+Nothing to fear[/tab]
+
+{Verse]
+[tab][ch]Em[/ch]     [ch]A[/ch]    [ch]F#m[/ch]
+Don't look down[/tab]
+[tab][ch]G6[/ch]           [ch]Em[/ch]    [ch]A[/ch]    [ch]F#m[/ch] [ch]G6[/ch]
+Do what you feel, feel how you move[/tab]
+[tab][ch]Em[/ch]     [ch]A[/ch]    [ch]F#m[/ch]
+Don't look back[/tab]
+[tab][ch]G6[/ch]     [ch]Em[/ch] [ch]A[/ch] [ch]F#m[/ch] [ch]G6[/ch]
+We are alone,[/tab]
+[tab][ch]Bm[/ch]   [ch]A[/ch]    [ch]Emadd9[/ch]
+We are forever[/tab]
+
+[Bridge]
+[ch]Em[/ch] [ch]Emadd9[/ch]
+
+[Outro]
+[tab][ch]A[/ch]
+Aaah[/tab]
+[tab][ch]Em[/ch]
+Eeaaah[/tab]
+[tab][ch]A[/ch]
+Aaah[/tab]
+[tab][ch]Em[/ch]
+Eeaaah[/tab]
+[tab][ch]A[/ch]   [ch]Em[/ch]
+Aaah[/tab]

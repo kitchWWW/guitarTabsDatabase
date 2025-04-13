@@ -1,0 +1,161 @@
+URL: https://tabs.ultimate-guitar.com/tab/david-bazan/eating-paper-tabs-1693825
+Artist: David Bazan
+Song: Eating Paper
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+
+                                  EATING PAPER
+                           As recorded by David Bazan
+                   (From the 2011 Album STRANGE NEGOTIATIONS)
+
+Tabbed by: (zaftigpenguin at hotmail dot com)
+
+Standard tuning
+
+Couldn't find a tab for this fantastic song so I made it myself. Thought I'd share.
+I never used power tab before so the measures aren't quite divided up right, but hey
+it sounds right.
+
+
+Verse
+
+[tab]   4/4
+    Gtr I
+    Q  E  E  E  E  Q   E  E  E  E  Q E    E  E  E  Q E E E E
+||-------------------|----------------------------------------||----|
+||o------------------|---------------------------------------o||----|
+||-------12-12-------|---14-14-----------12-12---------9-9----||----|
+||--9----12-12-12-12-|---14-14-14-14-----12-12-12-12---9-9-9--||----|
+||o-9----10-10-12-12-|---12-12-14-14-----10-10-12-12---7-7-9-o||----|
+||--7----------10-10-|---------12-12-----------10-10-------7--||----|[/tab]
+
+
+Chorus 1
+
+[tab]    Q  E E Q E E Q E E Q E E
+||----------------------------||----|
+||o--------------------------o||----|
+||-------------5-5------------||----|
+||--8----5-5---5-5---7-7---8--||----|
+||o-8----5-5---3-3---7-7---8-o||----|
+||--6----3-3---------5-5---6--||----|[/tab]
+
+
+Chorus 2
+
+[tab]  Q  E E E  E E  Q     E  E  E  E  E  E  E  E    E  E  E  E  E  E
+|-------------------|-------------------------|----------------------|
+|-------------------|-------------------------|----------------------|
+|--------9-11---12--|-12-12-12-12-12-12-12-12-|-12-12-12-12-12-12----|
+|-9--9---9-11---12--|-12-12-12-12-12-12-12-12-|-12-12-12-12-12-12----|
+|-9--9---7--9---10--|-10-10-10-10-10-10-10-10-|-10-10-10-10-10-10----|
+|-7--7--------------|-------------------------|----------------------|[/tab]
+
+
+[tab]  e E E E E Q  Q  E Q    E  E E  Q   E  E  E    E  E  E  E e E E E
+|----------------------|---------------------|------------------------|
+|----------------------|---------------------|------------------------|
+|-9-9-9-9-9-9----------|-9-11---12--12-12-12-|-12-12-12-12-9-9-9-9----|
+|-9-9-9-9-9-9--9--9-9--|-9-11---12--12-12-12-|-12-12-12-12-9-9-9-9----|
+|-7-7-7-7-7-7--9--9-9--|-7--9---10--10-10-10-|-10-10-10-10-7-7-7-7----|
+|--------------7--7-7--|---------------------|------------------------|[/tab]
+
+
+[tab]  e E E E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E  E
+|------------------------------------------------------------|
+|------------------------------------------------------------|
+|-9-9-9-9-14-14-14-14-14-14-14-14-11-11-11-11-11-11-11-11----|
+|-9-9-9-9-14-14-14-14-14-14-14-14-11-11-11-11-11-11-11-11----|
+|-7-7-7-7-12-12-12-12-12-12-12-12--9--9--9--9--9--9--9--9----|
+|------------------------------------------------------------|[/tab]
+
+
+Verse
+
+By now you probably have noticed
+And I'm so relieved
+To see while you have been leaving me be
+That my younger sisters and brothers
+Have all grown to be
+Stronger and smarter than you would believe
+
+
+Chorus 1
+
+But like all good things, it did not last
+Your appetite returns so fast
+And just in time for supper
+
+
+Verse
+
+Why would would you sweat my confession
+What I claim to be
+When you see the fruit as is hangs on the tree
+
+
+Chorus 2
+
+While this may be the rare occasion
+Where high tide lifts all boats
+I'm keeping my head down under the water
+'Cause man, I've gotta get there on my own
+
+Verse
+
+I've done all you have required
+Still you feel the need
+To quiz me on books I did not claim to read
+
+Well alright, John Henry dies in a tunnel
+Hammer in his hand
+Steam drill lives on to make fools of every man
+
+
+Chorus 1
+
+When I lived alone I did as I please
+Eating paper I swung from the trees
+But like all good things it did not last
+Your appetite returns so fast
+And just in time for supper
+
+
+Verse
+
+
+
+Duration Legend
+---------------
+W - whole; H - half; Q - quarter; E - 8th; S - 16th; T - 32nd; X - 64th; a - acciaccatura
++ - note tied to previous; . - note dotted; .. - note double dotted
+Uncapitalized letters represent notes that are staccato (1/2 duration)
+Irregular groupings are notated above the duration line
+Duration letters will always appear directly above the note/fret number it represents the
+duration for.  Duration letters with no fret number below them represent rests.  Multi-
+bar rests are notated in the form Wxn, where n is the number of bars to rest for.  Low
+melody durations appear below the staff
+
+
+Misc Legend
+-----------
+ |  - bar
+||  - double bar
+||o - repeat start
+o|| - repeat end
+*|  - double bar (ending)
+ :  - bar (freetime)
+ $  - Segno
+ &amp;  - Coda
+Tempo markers -  = BPM(8/16=s8/s16), where s8 = swing 8ths, s16 = swing 16ths
+
+
+***************************************************************************************
+* Generated using Power Tab Editor by Brad Larsen - http://powertab.guitarnetwork.org *
+***************************************************************************************

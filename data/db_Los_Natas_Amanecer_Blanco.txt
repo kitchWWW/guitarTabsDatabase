@@ -1,0 +1,88 @@
+URL: https://tabs.ultimate-guitar.com/tab/los-natas/amanecer-blanco-chords-1630494
+Artist: Los Natas
+Song: Amanecer Blanco
+Genre: 
+Key: 
+
+
+Paso una version de acordes abiertos, mas para
+tocar en acustica. Luego abajo riff y acordes
+para distorsion.
+
+A9=x02200
+Am=x02210
+Em=022000
+C=032010
+D=x00232
+
+El tema es en 16 tiempos, marcados asi:
+123 123 123 123 12 12 y repite (el acento esta en "1", claro...)
+-esto lo explico porque hace un tiempo a mi me hubiera servido-
+[tab][ej. intro: [ch]A9[/ch]  [ch]A9[/ch]  [ch]Am[/ch]  [ch]A9[/ch]  [ch]A9[/ch] [ch]A9[/ch]
+            123 123 123 123 12 12 ][/tab]
+
+Intro: [ [ch]A9[/ch] ([ch]Am[/ch]-[ch]A9[/ch]) -  [ch]C[/ch] ]x2
+
+[tab][ch]Em[/ch]           [ch]C[/ch]
+     Un desafio...[/tab]
+[tab][ch]Em[/ch]                [ch]C[/ch]
+     volverlo a olvidar ¿?[/tab]
+[tab][ch]Em[/ch]                [ch]C[/ch]
+     y ahora maldigo[/tab]
+[ch]Em[/ch]
+
+[tab][ch]C[/ch]                [ch]D[/ch]
+rezando verte cambiar,[/tab]
+[tab]     [ch]C[/ch]
+cambiar.[/tab]
+[tab]   [ch]D[/ch]
+Jamas[/tab]
+[tab]            [ [ch]A9[/ch] ([ch]Am[/ch]-[ch]A9[/ch]) -  [ch]C[/ch] ]x4
+volver atras...[/tab]
+
+[todo esto se repite]
+
+Ahora paso la cosa un poco mas para electrica, claro que se
+puede tocar en tu ukulele.
+
+[tab]Intro:
+      [ch]A9[/ch]                 [ch]Am[/ch]         [ch]A9[/ch]
+E||--------------------------------------------------------|
+B||--------------------------------------------------------|
+G||--------------------------------------------------------|
+D||---7---------9--------10---------9---------7------9-----|
+A||---0---------0---------0---------0---------0------0-----|
+E||--(0)-----------------(0)-----------------(0)-----------|[/tab]
+
+[tab]   [ch]C[/ch]
+--------------------------------------------------------|
+--------------------------------------------------------|
+--------------------------------------------------------|
+---5---------5---------5---------5---------5------5-----|
+---3---------3---------3---------3---------3------3-----|
+--(0)-----------------(0)-----------------(0)-----------|[/tab]
+
+[tab]Parte 1 (Em-C):
+      [ch]Em[/ch]          [ch]C[/ch]
+E||----------|------------|
+B||----------|------------|
+G||--(4)-----|---(5)------|
+D||---5------|----5-------|
+A||---2------|----3-------|
+E||---0------|----0-------|[/tab]
+
+Parte 2 (D-C):
+
+[tab]E||---------|----------|
+B||---------|----------|
+G||--(7)----|----(5)---|
+D||---7-----|-----5----|
+A||---5-----|-----3----|
+E||---5-----|-----3----|[/tab]
+
+Termina en A5 o A9 o Am.
+
+Para buscar los solos, fijense de merodear con la 5ta cuerda al
+aire -como en la intro- por la escala en la 4ta.
+No tengo el cd conmigo en este momento, por eso la duda en esa
+parte de la letra.

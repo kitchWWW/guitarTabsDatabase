@@ -1,0 +1,125 @@
+URL: https://tabs.ultimate-guitar.com/tab/poesie-zero/ton-pays-c4est-de-la-merde-chords-4352924
+Artist: Poesie Zero
+Song: Ton Pays C4Est De La Merde
+Genre: 
+Key: 
+
+
+Voilà les accords pour la chanson Ton Pays C'est de la Merde de Poésie Zéro
+(stylisé  TON PAYS C4EST DE LA MERDE). Les moments où le la est joué seul sans
+chant en dessous (exemple : "même pas bien dessinées" our "sont même pads réguliers")
+il y a un petit riff à la guitare qui continue aussi sous les C#m et C et ensuite boucle
+
+[tab]e|--------------------------------------|
+B|--------------------------------------|
+G|--------------------------------------|
+D|-5--6--5--6--9--8--7------------------|
+A|---------------------------6-----4--3-|
+E|--------------------------------------|[/tab]
+
+
+[Intro]
+[ch]E[/ch] [ch]A[/ch] [ch]C#m[/ch] [ch]C[/ch]
+
+
+[Couplet 1]
+[tab][ch]E[/ch]             [ch]A[/ch]
+  Alors comme ça t'es nazi[/tab]
+[tab][ch]C#m[/ch]          [ch]C[/ch]               [ch]E[/ch]
+T'es fier de ton sale pays d'merde[/tab]
+[tab]       [ch]A[/ch]                     [ch]C#m[/ch]
+Et des ses p'tites frontière[/tab]
+[tab]              [ch]C[/ch]              [ch]E[/ch]     [ch]A[/ch]
+Qui sont même pas bien dessinées[/tab]
+[tab][ch]C#m[/ch]                [ch]C[/ch]             [ch]E[/ch]     [ch]A[/ch]
+   Les traits sont même pas réguliers[/tab]
+[tab][ch]C#m[/ch]         [ch]C[/ch]                 [ch]A[/ch]
+   On dirait juste un truc raté[/tab]
+
+
+[Refrain]
+[tab][ch]E[/ch]                            [ch]A[/ch]
+  Ouais ton pays c'est de la merde[/tab]
+[tab][ch]E[/ch]                         [ch]A[/ch]
+  On ferait mieux de le raser[/tab]
+[tab][ch]E[/ch]                         [ch]C#m[/ch]
+  Car ton pays il est à chier[/tab]
+
+[ch]B[/ch] [ch]A[/ch]
+
+
+[Couplet 2]
+[tab][ch]E[/ch]             [ch]A[/ch]
+  Alors comme ça t'es fasciste[/tab]
+[tab][ch]C#m[/ch]             [ch]C[/ch]               [ch]E[/ch]
+   T'es fier de ton drapeau pourri[/tab]
+[tab]           [ch]A[/ch]
+Mais c'est juste un tapis[/tab]
+[tab][ch]C#m[/ch]         [ch]C[/ch]              [ch]E[/ch]   [ch]A[/ch]
+  Un paillasson en moins joli[/tab]
+[tab][ch]C#m[/ch]            [ch]C[/ch]              [ch]E[/ch]    [ch]A[/ch]
+  Les couleurs sont pas assorties[/tab]
+[tab][ch]C#m[/ch]           [ch]C[/ch]               [ch]A[/ch]
+   On dirait juste un truc moisi[/tab]
+
+
+[Refrain]
+[tab][ch]E[/ch]                            [ch]A[/ch]
+  Ouais ton pays c'est de la merde[/tab]
+[tab][ch]E[/ch]                         [ch]A[/ch]
+On ferait mieux d'le bombarder[/tab]
+[tab][ch]E[/ch]                         [ch]C#m[/ch]
+  Car ton pays il est à chier[/tab]
+
+[ch]B[/ch] [ch]A[/ch]
+
+
+[Solo]
+
+[tab]   [ch]A[/ch]                      [ch]E[/ch]
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|------------------------------------------------|
+D|-------------5--6--5----------------------------|
+A|-6--7--6--7----------7--6--------4--------2-----|
+E|------------------------------------------------|[/tab]
+
+[tab]   [ch]A[/ch]                      [ch]E[/ch]           [ch]D#[/ch] [ch]D[/ch]
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|------------------------------------------------|
+D|-------------5--6--5----------------8--7--------|
+A|-6--7--6--7----------6--7-----------------------|
+E|------------------------------------------------|[/tab]
+
+[tab]   [ch]A[/ch]                      [ch]E[/ch]
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|------------------------------------------------|
+D|-------------5--6--5----------------------------|
+A|-6--7--6--7----------7--6--------4--------2-----|
+E|------------------------------------------------|
+  (Ouais ça c'est pas un solo d'nazi, ok?)[/tab]
+
+[tab]   [ch]A[/ch]                      [ch]E[/ch]           [ch]A[/ch]  [ch]G#[/ch]
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|------------------------------------------------|
+D|-------------5--6--5----------------7--6--------|
+A|-6--7--6--7----------6--7-----------7-----------|
+E|------------------------------------------------|[/tab]
+
+
+[Outro]
+[tab][ch]E[/ch]                            [ch]C#m[/ch]
+  Ouais ton pays c'est de la merde[/tab]
+[tab]          [ch]B[/ch]             [ch]E[/ch]
+On ferait mieux de le raser[/tab]
+[tab]                                [ch]C#m[/ch]  [ch]A[/ch]
+Ça ferait de la place pour se garer[/tab]
+[tab][ch]E[/ch]                            [ch]C#m[/ch]
+  Ouais ton pays c'est de la merde[/tab]
+[tab]          [ch]B[/ch]                [ch]E[/ch]
+On ferait mieux d'le bombarder[/tab]
+[tab]                       [ch]A[/ch]   [ch]B[/ch]   [ch]E[/ch]
+De napalm et de l'regarder brûler[/tab]

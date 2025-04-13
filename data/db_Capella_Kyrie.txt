@@ -1,0 +1,33 @@
+URL: https://tabs.ultimate-guitar.com/tab/capella/kyrie-chords-4810529
+Artist: Capella
+Song: Kyrie
+Genre: 
+Key: F#m
+
+
+[Intro] 
+[ch]F#m[/ch]  [ch]C#m7[/ch]  [ch]D7+[/ch]  [ch]A9[/ch]  [ch]Bm7[/ch]  [ch]E[/ch]  [ch]A9[/ch]  [ch]E[/ch]
+
+[Verse]
+[tab]   [ch]A7+[/ch]       [ch]Bm7[/ch]       [ch]C#m7[/ch]  [ch]D7+[/ch]         [ch]A9[/ch]   [ch]Bm7[/ch]             [ch]E[/ch]
+Senhor, que viestes ao mundo para nos salvar, tem piedade de nós[/tab]
+[tab][ch]F#m[/ch]  [ch]C#m7[/ch]    [ch]D7+[/ch]  [ch]A9[/ch]     [ch]Bm7[/ch]     [ch]A9[/ch] [ch]E[/ch]
+Kyri.e,      Kyri..e,    Kyrie Eleison[/tab]
+[tab][ch]F#m[/ch]  [ch]C#m7[/ch]    [ch]D7+[/ch]  [ch]A9[/ch]     [ch]Bm7[/ch]     [ch]E[/ch]   [ch]A9[/ch]   [ch]E[/ch]
+Kyri..e,     Kyri..e,    Kyrie Eleison[/tab]
+
+[Verse]
+[tab]   [ch]A7+[/ch]        [ch]Bm7[/ch]   [ch]C#m7[/ch]  [ch]D7+[/ch]       [ch]A9[/ch]          [ch]Bm7[/ch]      [ch]E[/ch]
+Ó Cristo, que continuais  a nos visitar, tem piedade de nós[/tab]
+[tab][ch]F#m[/ch]  [ch]C#m7[/ch]     [ch]D7+[/ch]  [ch]A9[/ch]       [ch]Bm7[/ch]     [ch]A9[/ch]   [ch]E[/ch]
+Christe,      Christe,      Christe Eleison[/tab]
+[tab][ch]F#m[/ch]  [ch]C#m7[/ch]     [ch]D7+[/ch]  [ch]A9[/ch]       [ch]Bm7[/ch]     [ch]E[/ch]  [ch]A[/ch]   [ch]E[/ch]
+Christe,      Christe,      Christe Eleison[/tab]
+
+[Verse]
+[tab]   [ch]A7+[/ch]        [ch]Bm7[/ch]     [ch]C#m7[/ch]  [ch]D7+[/ch]         [ch]A9[/ch]          [ch]Bm7[/ch]      [ch]E[/ch]
+Senhor, que vireis um dia   para nos julgar, tem piedade de nós[/tab]
+[tab][ch]F#m[/ch]  [ch]C#m7[/ch]     [ch]D7+[/ch]  [ch]A9[/ch]       [ch]Bm7[/ch]     [ch]A9[/ch] [ch]E[/ch]
+Kyri..e,      Kyri..e,      Kyrie Eleison[/tab]
+[tab][ch]F#m[/ch]  [ch]C#m7[/ch]     [ch]D7+[/ch]  [ch]A9[/ch]       [ch]Bm7[/ch]     [ch]E[/ch]   [ch]D[/ch] [ch]Dm[/ch] [ch]A[/ch]
+Kyri..e,      Kyri..e,      Kyrie Eleison[/tab]

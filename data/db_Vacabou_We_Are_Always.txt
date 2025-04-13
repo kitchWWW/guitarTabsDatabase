@@ -1,0 +1,74 @@
+URL: https://tabs.ultimate-guitar.com/tab/vacabou/we-are-always-chords-4242055
+Artist: Vacabou
+Song: We Are Always
+Genre: 
+Key: C
+
+
+https://open.spotify.com/track/5JYEBFN9PU8Zw1fJkMH7x6?si=f61002ffc5de4d47
+Album : twelve songs Inside
+Music Joan Feliu
+Vocals Pascale Saravelli
+Cabrera és meva
+* half measure
+
+p = pouce
+i = index
+m = majeur
+a = annulaire
+
+
+[Intro][Chorus]
+
+| Sounds | Sounds | Sounds |
+
+[tab] [ch]C[/ch]                                                
+e|----------3----|----------3----|----------3----|----------0----|  
+B|1---1----------|1---1----------|1---1----------|1---1----------| 
+G|--0---0---0---0|--0---0---0---0|--0---0---0---0|---------------| 
+D|---------------|---------------|---------------|--2---2---2---2| 
+A|--------3---3--|3-------3---3--|3-------3---3--|3-------3---3--| 
+E|---------------|---------------|---------------|---------------| x4 
+            a
+  m i m i p i p i[/tab]
+            
+
+ | Sounds | Sounds | Sounds | Sounds |
+ | Sounds | Sounds | Sounds | Sounds |
+ | Sounds | Sounds | Sounds | Sounds |
+
+
+[Verse 1]
+[tab][ch]C[/ch]       [ch]F/C[/ch]
+  Gusty day...[/tab]
+[tab][ch]C[/ch]                   [ch]Dm[/ch]        [ch]G[/ch]
+  The sun starts to shi-ne...[/tab]
+[tab][ch]G[/ch]              [ch]Bb[/ch]
+   And it's co-old[/tab]
+[tab][ch]Bb7[/ch]                  [ch]F[/ch]
+  The ocean soaks my feet.[/tab]
+
+[tab][ch]C[/ch]                            [ch]F/C[/ch]
+I still can hear you filming clouds...[/tab]
+[tab][ch]Dm[/ch]                      [ch]G[/ch]
+   "They slide over the sand...[/tab]
+[tab][ch]G[/ch]          [ch]Bb[/ch]
+   Drawing ti-ime...[/tab]
+[tab][ch]Bb7[/ch]               [ch]F[/ch]     [ch]F[/ch]*
+   Showing us the play"[/tab]
+
+
+[Chorus]
+[tab][ch]Dm[/ch]*   [ch]Am[/ch]* [ch]G[/ch]* [ch]C[/ch]      [ch]F[/ch]
+     Emo-----tions[/tab]
+[tab][ch]Dm[/ch]    [ch]Am[/ch]* [ch]G[/ch]* [ch]C[/ch]      [ch]F[/ch]    [ch]Dm[/ch]
+E-----mo-----tions[/tab]
+[tab] [ch]Dm[/ch]     [ch]C[/ch]      [ch]F[/ch]*      [ch]Dm[/ch]*      [ch]C[/ch]
+Emo-----tions  five to ten  degrees[/tab]
+[tab][ch]Ab[/ch]                  [ch]G[/ch]                    [ch]C[/ch]      [ch]C[/ch]
+Heading  south and  switching but-ton "sleep".[/tab]
+
+
+[Outro]
+[tab][ch]Ab[/ch]                 [ch]Bb[/ch]     [ch]C[/ch]    [ch]G[/ch]
+We  are  always  dying.[/tab]

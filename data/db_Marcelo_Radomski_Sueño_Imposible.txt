@@ -1,0 +1,73 @@
+URL: https://tabs.ultimate-guitar.com/tab/4846046
+Artist: Marcelo Radomski
+Song: Sueño Imposible
+Genre: 
+Key: D
+
+
+[Intro]
+[ch]C[/ch]
+
+[Verso 1]
+[tab][ch]C[/ch]                  [ch]Em[/ch]
+Soñar, lo imposible soñar[/tab]
+[tab][ch]F[/ch]                   [ch]Dm[/ch]
+Vencer al invicto rival[/tab]
+[tab]  [ch]Em[/ch]              [ch]F[/ch]
+Sufrir el dolor insufrible[/tab]
+[tab][ch]Dm[/ch]                 [ch]G[/ch]
+Morir por un noble ideal[/tab]
+
+[tab] [ch]C[/ch]                 [ch]Cmaj7[/ch]
+Saber enmendar el error[/tab]
+[tab][ch]F[/ch]                    [ch]Dm[/ch]
+Amar con pureza y bondad[/tab]
+[tab][ch]Em[/ch]                    [ch]F[/ch]
+Creer en un sueño imposible[/tab]
+[tab]    [ch]Dm[/ch] [ch]Dm7[/ch]               [ch]G[/ch]   [ch]G7[/ch]
+Con fe una estrella alcanzar[/tab]
+
+[Estribillo]
+[tab]           [ch]C[/ch]
+Ese es mi afán[/tab]
+[tab]             [ch]Am[/ch]  [ch]Asus2[/ch]
+Y lo he de lograr[/tab]
+[tab]     [ch]Am[/ch]         [ch]Em[/ch]
+No importa el esfuerzo[/tab]
+[tab]                [ch]F[/ch]
+No importa el lugar[/tab]
+[tab]              [ch]Am[/ch]
+Saldré a combatir[/tab]
+[tab]            [ch]Ab[/ch] [ch]Ab9[/ch] [ch]Ab[/ch]
+Y mi lema será[/tab]
+[tab]     [ch]C[/ch]         [ch]Caug[/ch]       [ch]Am[/ch]              [ch]A#[/ch]
+Defender la virtud aunque deba el infierno pisar[/tab]
+
+[Puente]
+[tab]      [ch]Dm[/ch]                   [ch]A#[/ch]
+Porque sé que si logro ser fiel[/tab]
+[tab]           [ch]E7[/ch]
+A tan noble ideal[/tab]
+[tab][ch]Dm[/ch]                    [ch]Dm6[/ch]
+Dormirá mi alma en paz al llegar[/tab]
+[tab]           [ch]E7[/ch]
+El instante final[/tab]
+
+[Verso 2]
+[tab]  [ch]C[/ch]               [ch]Em[/ch]
+Y será éste mundo mejor[/tab]
+[tab]      [ch]F[/ch]                   [ch]Dm6[/ch]
+Porque yo, sin rendirme jamás[/tab]
+[tab]   [ch]Em[/ch]                  [ch]F[/ch]
+Busqué en mi sueño imposible[/tab]
+[tab]    [ch]C[/ch]  [ch]Caug[/ch]          [ch]Fm[/ch]            [ch]Ab[/ch]                 [ch]C[/ch]
+Con fe, una estrella, una estrella, una estrella alcanzar.[/tab]
+
+[Interludio]
+[ch]C[/ch] [ch]Em[/ch] [ch]F[/ch] [ch]Faug[/ch] [ch]Dm[/ch] [ch]Em[/ch] [ch]Esus2[/ch] [ch]Em[/ch] [ch]F[/ch]
+
+[Coda]
+[tab]             [ch]C[/ch]   [ch]Fm[/ch]              [ch]C[/ch]  [ch]Fm[/ch]
+Sí, quiero soñar, lo imposible soñar[/tab]
+[tab]            [ch]Am[/ch] [ch]Fm[/ch] [ch]Ab[/ch]             [ch]C[/ch]  [ch]F[/ch] [ch]Ab[/ch] [ch]C[/ch]
+Sí, quiero soñar, lo imposible soñar.[/tab]

@@ -1,0 +1,130 @@
+URL: https://tabs.ultimate-guitar.com/tab/h1-key/deeper-chords-5173159
+Artist: H1-Key
+Song: Deeper
+Genre: 
+Key: 
+
+
+[Chords]
+[ch]A[/ch]      5x765x
+[ch]Amaj7[/ch]  5x665x
+[ch]Am7[/ch]    5x555x
+[ch]Bsus4[/ch]  7x997x
+[ch]B[/ch]      7x987x
+[ch]Bm7[/ch]    7x777x
+[ch]C#m7[/ch]   x46454
+[ch]D7[/ch]     x5453x
+[ch]E[/ch]      022100
+[ch]Esus4[/ch]  022200
+[ch]F#m7[/ch]   2x222x
+[ch]G#m7[/ch]   4x444x
+[ch]G#7[/ch]    4x454x
+
+[Intro]
+[ch]E[/ch]
+
+[Verse 1]
+[tab][ch]E[/ch]   [ch]F#m7[/ch]  [ch]G#m7[/ch]    [ch]A[/ch]   [ch]Amaj7[/ch]
+Ige manna sipeosseo[/tab]
+[tab]        [ch]Am7[/ch]   [ch]D7[/ch]         [ch]E[/ch]    [ch]Esus4[/ch]  [ch]E[/ch]
+Maeiri cham jidokaesseunikka[/tab]
+[tab]         [ch]F#m7[/ch] [ch]G#m7[/ch]      [ch]A[/ch]   [ch]Amaj7[/ch]
+Useumyeo anin cheokaedo[/tab]
+[tab]           [ch]Am7[/ch]     [ch]Bm7[/ch]           [ch]E[/ch]  [ch]Esus4[/ch]  [ch]E[/ch]
+Teumman namyeon tto apasseunikka[/tab]
+
+[Pre Chorus]
+[tab]       [ch]Amaj7[/ch]                        [ch]G#m7[/ch]
+Geunde eonje geuraennyan deut jamjamhaejyeo ganeun mameun[/tab]
+[tab]   [ch]F#m7[/ch]               [ch]E[/ch]                   [ch]Esus4[/ch]  [ch]E[/ch]
+Da noeurago hae geuraedo gwaenchanta hae[/tab]
+[tab]   [ch]Amaj7[/ch]                             [ch]G#m7[/ch]
+Deo isangeun jim gataseo ijen beoril ttaein geot gataseo[/tab]
+[tab]        [ch]F#m7[/ch]                [ch]Bsus4[/ch]  [ch]B[/ch]
+'Cause I know it's time to go[/tab]
+
+[Chorus]
+[tab]      [ch]E[/ch]                 [ch]A[/ch]
+Gippeo, I'm gon' get up[/tab]
+[tab]         [ch]G#7[/ch]                    [ch]C#m7[/ch]
+Dalkomhadaga sseuryeotdeon gieok[/tab]
+[tab]          [ch]A[/ch]
+Jeonbu da dwirohago apeul bon chae[/tab]
+[tab][ch]G#m7[/ch]
+Han baljaguk naedidil maeume[/tab]
+[tab][ch]Am7[/ch]                  [ch]D7[/ch]
+Nan geujeo neomu gippeo[/tab]
+[tab]              [ch]E[/ch]              [ch]A[/ch]
+Nan an seulpeo jeongmal gippeo[/tab]
+[tab]         [ch]G#7[/ch]               [ch]C#m7[/ch]
+Doraboneun ge gwichanta sipeo[/tab]
+[tab]        [ch]A[/ch]
+Jinagan sungandeureul dwirohan chae[/tab]
+[tab][ch]G#m7[/ch]
+Geotdaga da sarajyeosseul ttae[/tab]
+[tab][ch]Am7[/ch]                          [ch]D7[/ch]
+Nae mameun jayuroul tenikka[/tab]
+[tab]                    [ch]A[/ch]
+Nan geuge gippeo[/tab]
+
+ [Rap Verse]
+[tab][ch]Amaj7[/ch]                                             [ch]G#m7[/ch]
+Not gonna cry, I'm not gonna try to put on a smile[/tab]
+[tab]                                                   [ch]F#m7[/ch]
+Ijeneun gamyeon sseuneun geon da jichyeosseunikka[/tab]
+[tab]                              [ch]E[/ch]
+Geoure bichin naui minnache[/tab]
+[tab]                [ch]Esus4[/ch]     [ch]E[/ch]      [ch]Amaj7[/ch]
+Jayeonseureoun misoga beonjige[/tab]
+[tab]                                     [ch]G#m7[/ch]
+Miryeonege heorageun an bada (No, no)[/tab]
+[tab]                                           [ch]F#m7[/ch]
+Tto huhoehal ge ppeonhae an bwado (No, no)[/tab]
+
+On sesange ti nage
+[tab]   [ch]Bsus4[/ch]                      [ch]B[/ch]
+Geujeo haengbokan na doellae[/tab]
+
+[Chorus]
+[tab]      [ch]E[/ch]                 [ch]A[/ch]
+Gippeo, I'm gon' get up[/tab]
+[tab]          [ch]G#7[/ch]                   [ch]C#m7[/ch]
+Dalkomhadaga sseuryeotdeon gieok[/tab]
+[tab]          [ch]A[/ch]
+Jeonbu da dwirohago apeul bon chae[/tab]
+[tab][ch]G#m7[/ch]
+Han baljaguk naedidil maeume[/tab]
+[tab][ch]Am7[/ch]                    [ch]D7[/ch]       [ch]C#m7[/ch]
+Nan geujeo neomu gippeo[/tab]
+
+[Bridge]
+
+I told myself
+[tab]              [ch]Dmaj7[/ch]
+"You're gonna be okay"[/tab]
+[tab]        [ch]Ebm7b5[/ch]
+Nal ulliji anke[/tab]
+[tab]            [ch]Dmaj7[/ch]                  [ch]E[/ch]       [ch]A[/ch]
+Let me move on, goodbye, my pain[/tab]
+
+[Chorus]
+[tab]          [ch]G#7[/ch]                       [ch]C#m7[/ch]
+Dalkomhadaga sseuryeotdeon gieok[/tab]
+[tab]           [ch]A[/ch]
+Jeonbu da dwirohago apeul bon chae[/tab]
+[tab][ch]G#m7[/ch]
+Han baljaguk naedidil maeume[/tab]
+[tab][ch]Am7[/ch]                    [ch]D7[/ch]
+Nan geujeo neomu gippeo (neomu gippeo)[/tab]
+[tab]              [ch]E[/ch]               [ch]A[/ch]
+Nan an seulpeo jeongmal gippeo (jeongmal gippeo)[/tab]
+[tab]         [ch]G#7[/ch]                  [ch]C#m7[/ch]
+Doraboneun ge gwichanta sipeo (gwichanta sipeo)[/tab]
+[tab]         [ch]A[/ch]
+Jinagan sungandeureul dwirohan chae (dwirohan chae)[/tab]
+[tab][ch]G#m7[/ch]
+Geotdaga da sarajyeosseul ttae (sarajyeosseul ttae)[/tab]
+[tab][ch]Am7[/ch]                          [ch]D7[/ch]
+Nae mameun jayuroul tenikka[/tab]
+
+Nan geuge gippeo

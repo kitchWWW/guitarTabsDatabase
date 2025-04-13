@@ -1,0 +1,120 @@
+URL: https://tabs.ultimate-guitar.com/tab/feliks-rybicki/na-todce-tabs-1764024
+Artist: Feliks Rybicki
+Song: Na Todce
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+
+                                    NA TODCE
+                          As recorded by Feliks Rybicki
+
+Music by Feliks Rybicki (1899 - 1978)
+Transcribed by Simon Mathias
+
+Gtr I (E A D G B E) - 'Standard'
+
+[tab]  E=100
+ 3/8
+  Gtr I
+  E.    S E    Q     e    E.    S E    Q.
+|-0----------|----------|------------|-------------|
+|-------3-1--|-3-----3--|-3-----1-0--|-1-----------|
+|---------0--|-------1--|---------0--|--------0----|
+|-----2------|----3-----|-----3------|-----2-------|
+|-3----------|-3--------|-2----------|-3-----------|
+|------------|----------|------------|-------------|
+  E   E   E    E  E  E    E   E   E    E   E  E[/tab]
+
+
+[tab] 3/8
+  E.    S E    Q     e    E.    S E    Q.
+|-3-----1-0--|-1-----1--|-1-----0----|-0-----------|
+|---------1--|-------0--|---------3--|-------------|
+|-----0------|----0-----|---------0--|--------0----|
+|-2----------|-0--------|-----0------|-----2-------|
+|------------|----------|-2----------|-3-----------|
+|------------|----------|------------|-------------|
+  E   E   E    E  E  E    E   E   E    E   E  E[/tab]
+
+
+[tab] 3/8
+  E.    S E    Q     e    E.    S E    Q.
+|-0-----1-3--|-1-----1--|-------0-1--|-0-----------|
+|------------|----------|-3----------|-------------|
+|---------2--|-------2--|---------0--|--------0----|
+|-----2------|-0--3-----|-----0------|-----2-------|
+|-4----------|----------|-2----------|-3-----------|
+|------------|----------|------------|-------------|
+  E   E   E    E  E  E    E   E   E    E   E  E[/tab]
+
+
+[tab] 3/8
+  E.    S E    Q     e    E.    S E    Q
+|-0----------|----------|------------|------*|
+|-------3-1--|-3-----3--|-3-----1-0--|-1----*|
+|------------|----------|------------|------*|
+|---------4--|-------3--|-----0---3--|-2----*|
+|-0---3------|----3-----|------------|-3----*|
+|------------|-4--------|-3----------|------*|
+  E   E   E    E  E  E    E   E   E    Q[/tab]
+
+
+Duration Legend
+---------------
+W - whole; H - half; Q - quarter; E - 8th; S - 16th; T - 32nd; X - 64th; a - acciaccatura
++ - note tied to previous; . - note dotted; .. - note double dotted
+Uncapitalized letters represent notes that are staccato (1/2 duration)
+Irregular groupings are notated above the duration line
+Duration letters will always appear directly above the note/fret number it represents the
+duration for.  Duration letters with no fret number below them represent rests.  Multi-
+bar rests are notated in the form Wxn, where n is the number of bars to rest for.  Low
+melody durations appear below the staff
+
+Tablature Legend
+----------------
+ h   - hammer-on
+ p   - pull-off
+ b   - bend
+ pb  - pre-bend
+ r   - bend release (if no number after the r, then release immediately)
+ /\  - slide into or out of (from/to "nowhere")
+ s   - legato slide
+ S   - shift slide
+  - natural harmonic
+[n]  - artificial harmonic
+n(n) - tapped harmonic
+ ~   - vibrato
+ tr  - trill
+ T   - tap
+ TP  - trem. picking
+ PM  - palm muting
+\n/  - tremolo bar dip; n = amount to dip
+ \n  - tremolo bar down
+ n/  - tremolo bar up
+/n\  - tremolo bar inverted dip
+ =   - hold bend; also acts as connecting device for hammers/pulls
+ &lt;&gt;  - volume swell (louder/softer)
+ x   - on rhythm slash represents muted slash
+ o   - on rhythm slash represents single note slash
+
+Misc Legend
+-----------
+ |  - bar
+||  - double bar
+||o - repeat start
+o|| - repeat end
+*|  - double bar (ending)
+ :  - bar (freetime)
+ $  - Segno
+ &amp;  - Coda
+Tempo markers -  = BPM(8/16=s8/s16), where s8 = swing 8ths, s16 = swing 16ths
+
+
+***************************************************************************************
+* Generated using Power Tab Editor by Brad Larsen - http://powertab.guitarnetwork.org *
+***************************************************************************************

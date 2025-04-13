@@ -1,0 +1,63 @@
+URL: https://tabs.ultimate-guitar.com/tab/3902117
+Artist: Wabi Ryvola
+Song: To Zatracený Vedro
+Genre: 
+Key: G
+
+
+[Intro]
+[tab][ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+[Verse 1][/tab]
+
+[tab]   [ch]G[/ch]                     [ch]Em[/ch]
+Já zapomněl už dávno, co je to boty zout[/tab]
+[tab]  [ch]G[/ch]                [ch]Em[/ch]
+a už si ani nemůžu vzteky odplivnout[/tab]
+[tab][ch]C[/ch]      [ch]C#[/ch]   [ch]D[/ch]                  [ch]C[/ch]     [ch]C#[/ch]  [ch]D[/ch]   [ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+docela jsem zapomněl, kam jsem chtěl vlastně jít[/tab]
+[tab][ch]C[/ch]     [ch]C#[/ch]    [ch]D[/ch]            [ch]C[/ch]         [ch]C#[/ch]    [ch]D[/ch]   [ch]G[/ch]  [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+šlapu dál a nezbejvá než klít, než klít, než klít[/tab]
+
+[Verse 2]
+[tab]  [ch]G[/ch]                         [ch]Em[/ch]
+Jen v prachu tichý kroky a místo vody prach[/tab]
+[tab]   [ch]G[/ch]                       [ch]Em[/ch]
+ta cesta nikde nekončí já začínám mít strach[/tab]
+[tab][ch]C[/ch]      [ch]C#[/ch]   [ch]D[/ch]               [ch]C[/ch]     [ch]C#[/ch]  [ch]D[/ch]   [ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+že někde tečou řeky už mi zbejvá jenom snít[/tab]
+[tab][ch]C[/ch]      [ch]C#[/ch]   [ch]D[/ch]           [ch]C[/ch]     [ch]C#[/ch]  [ch]D[/ch]   [ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+plavat s hubou dokořán a pít a pít a pít[/tab]
+
+[Chorus]
+[tab] [ch]Em[/ch]     [ch]C[/ch]      [ch]D7[/ch]    [ch]G[/ch]     [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]      [ch]C[/ch]    [ch]D7[/ch]  [ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+ Šílený slunce nad vobzorem      divný čáry maluje[/tab]
+[tab] [ch]Em[/ch]         [ch]C[/ch]      [ch]D7[/ch]      [ch]G[/ch]   [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]     [ch]C[/ch]           [ch]B7[/ch]
+ z trávy se práší, sůl jak bičem      kůži ze zad stahuje[/tab]
+[tab] [ch]Em[/ch]          [ch]C#dim[/ch]     [ch]Em[/ch]        [ch]C#dim[/ch]
+ to zatracený vedro, to zatracený vedro[/tab]
+[tab]     [ch]Am[/ch]         [ch]B7[/ch]            [ch]Am[/ch]       [ch]C7[/ch] [ch]B7[/ch] [ch]Em[/ch] [ch]Dm[/ch] [ch]D#m[/ch] [ch]Emi[/ch]
+ ta žhavá koule se z mý žízně zatraceně ra-du-je[/tab]
+[tab]     [ch]Am[/ch]         [ch]B7[/ch]            [ch]Am[/ch]       [ch]C7[/ch] [ch]B7[/ch] [ch]Em[/ch] [ch]Dm[/ch] [ch]D#m[/ch] [ch]Emi[/ch]
+ ta žhavá koule se z mý žízně zatraceně ra-du-je[/tab]
+
+[Verse 3]
+[tab]  [ch]G[/ch]                     [ch]Em[/ch]
+Táhnu vedrem do ticha a nikde ani stín[/tab]
+[tab]    [ch]G[/ch]                       [ch]Em[/ch]
+jsem v tomhle kraji jedinej kdo žije co já vím[/tab]
+[tab][ch]C[/ch]      [ch]C#[/ch]   [ch]D[/ch]         [ch]C[/ch]     [ch]C#[/ch]  [ch]D[/ch]    [ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+sup se snáší pomalu a slyším zvony znít[/tab]
+[tab][ch]C[/ch]      [ch]C#[/ch]   [ch]D[/ch]         [ch]C[/ch]      [ch]C#[/ch]    [ch]D[/ch]   [ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+lezu dál a zbejvá jen umřít, umřít, umřít[/tab]
+
+[Chorus]
+[tab] [ch]Em[/ch]     [ch]C[/ch]      [ch]D7[/ch]    [ch]G[/ch]     [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]      [ch]C[/ch]    [ch]D7[/ch]  [ch]G[/ch] [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]
+ Šílený slunce nad vobzorem      divný čáry maluje[/tab]
+[tab] [ch]Em[/ch]         [ch]C[/ch]      [ch]D7[/ch]      [ch]G[/ch]   [ch]F[/ch] [ch]F#[/ch] [ch]G[/ch]     [ch]C[/ch]           [ch]B7[/ch]
+ z trávy se práší, sůl jak bičem      kůži ze zad stahuje[/tab]
+[tab] [ch]Em[/ch]          [ch]C#dim[/ch]     [ch]Em[/ch]        [ch]C#dim[/ch]
+ to zatracený vedro, to zatracený vedro[/tab]
+[tab]     [ch]Am[/ch]         [ch]B7[/ch]            [ch]Am[/ch]       [ch]C7[/ch] [ch]B7[/ch] [ch]Em[/ch] [ch]Dm[/ch] [ch]D#m[/ch] [ch]Emi[/ch]
+ ta žhavá koule se z mý žízně zatraceně ra-du-je[/tab]
+[tab] [ch]Em[/ch]         [ch]C#dim[/ch]     [ch]Em[/ch]        [ch]C#dim[/ch]     [ch]Em[/ch]       [ch]C#dim[/ch]
+ to zatracený vedro, to zatracený vedro, to zatracený vedro[/tab]

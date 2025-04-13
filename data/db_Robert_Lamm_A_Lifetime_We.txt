@@ -1,0 +1,127 @@
+URL: https://tabs.ultimate-guitar.com/tab/robert-lamm/a-lifetime-we-chords-4938670
+Artist: Robert Lamm
+Song: A Lifetime We
+Genre: 
+Key: 
+
+
+Robert Lamm - A Lifetime We
+https://www.youtube.com/watch?v=bDwdL11GLhA
+Played with feel... Speed drifts slightly between 85 bpm and 89 bpm.
+
+[Chords]
+* indicates single notes, don't play chords there
+
+Instrumental + Verse Bassline: 
+[ch]E[/ch] [ch]F#[/ch]     - for [ch]F#m11[/ch] 
+[ch]G[/ch]    [ch]A[/ch] [ch]B[/ch] - for [ch]Gmaj9[/ch] 
+
+End of Verse:
+Bassline [ch]A[/ch]* [ch]Bb[/ch]* going from [ch]Aaug[/ch] to [ch]Bm7[/ch],
+[ch]A[/ch]* walking down from [ch]Bm7[/ch] to [ch]G7[/ch]
+
+Bridge: 
+the [ch]C#m7b5[/ch] chord is actually a dominant, [ch]C#7#9[/ch]#11 (UG didn't take that name).
+x43453, notes (low to high) [ch]C#[/ch] [ch]F[/ch] [ch]B[/ch] [ch]E[/ch] [ch]G[/ch].
+
+
+**********
+
+
+[Intro]
+(strings)
+[ch]B[/ch]* [ch]C#[/ch]* [ch]A[/ch]* [ch]F#[/ch]*
+[ch]B[/ch]* [ch]C#[/ch]* [ch]A[/ch]* [ch]F#[/ch]*
+[ch]F#m11[/ch] [ch]Gmaj9[/ch]
+
+
+[Instrumental]
+[ch]F#m11[/ch] [ch]Gmaj9[/ch]
+[ch]F#m11[/ch] [ch]Gmaj9[/ch]
+
+
+[Verse 1]
+[tab]  [ch]F#m11[/ch]    [ch]Gmaj9[/ch]
+I found my way[/tab]
+[tab]    [ch]F#m11[/ch]     [ch]Gmaj9[/ch]
+You saved the day[/tab]
+[tab]    [ch]F#m11[/ch] [ch]Gmaj9[/ch]
+I'm gonna stay[/tab]
+
+[tab][ch]Amaj7[/ch]   [ch]A7[/ch]  
+Lady,     oh[/tab]
+[tab]                       [ch]A6[/ch]    [ch]Aaug[/ch]   [ch]A[/ch]* [ch]Bb[/ch]*
+Cause you always wanna play me[/tab]
+[tab][ch]Bm7[/ch]       [ch]A[/ch]*  [ch]G7[/ch]
+  Marisee me[/tab]
+
+
+[Instrumental]
+[ch]F#m11[/ch] [ch]Gmaj9[/ch]
+
+
+[Verse 2]
+[tab]    [ch]F#m11[/ch]   [ch]Gmaj9[/ch]
+You gave me blue[/tab]
+[tab]    [ch]F#m11[/ch]  [ch]Gmaj9[/ch]
+And yellow too[/tab]
+[tab]    [ch]F#m11[/ch]   [ch]Gmaj9[/ch]
+You gave me you[/tab]
+
+[tab]       [ch]Amaj7[/ch]   [ch]A7[/ch] 
+You're shady[/tab]
+[tab]                      [ch]A6[/ch]     [ch]Aaug[/ch]   [ch]A[/ch]* [ch]Bb[/ch]*
+Cause you have to override me[/tab]
+[tab][ch]Bm7[/ch]           [ch]A[/ch]*  [ch]G7[/ch]
+  Rendez-vous me[/tab]
+
+
+[Bridge]
+[tab]   [ch]F#m11[/ch]  [ch]Em11[/ch]
+We har- monise[/tab]
+[tab]   [ch]F#m11[/ch] [ch]Em11[/ch]  [ch]C#m7b5[/ch]
+We re-  alise[/tab]
+[tab][ch]F#m[/ch]       [ch]C#m/F#[/ch]
+  What it means to be[/tab]
+[tab][ch]Dmaj7[/ch]      [ch]Gmaj7[/ch]
+Each other always [/tab]
+[tab]  [ch]Cmaj7[/ch]     [ch]Fmaj7[/ch]
+together as one[/tab]
+
+
+[Instrumental]
+[ch]F#m11[/ch] [ch]Gmaj9[/ch]
+[ch]F#m11[/ch] [ch]Gmaj9[/ch]
+
+
+[Verse 3]
+[tab]   [ch]F#m11[/ch]    [ch]Gmaj9[/ch]
+We have the time[/tab]
+[tab]  [ch]F#m11[/ch]     [ch]Gmaj9[/ch]
+Tequila and lime[/tab]
+[tab]  [ch]F#m11[/ch]         [ch]Gmaj9[/ch]
+Approaching our prime[/tab]
+
+[tab][ch]Amaj7[/ch]   [ch]A7[/ch] 
+Lady[/tab]
+[tab]               [ch]A6[/ch]                  [ch]Aaug[/ch]   [ch]A[/ch]* [ch]Bb[/ch]*
+No telling how high we'll climb, we[/tab]
+[tab][ch]Bm7[/ch]     [ch]A[/ch]*     [ch]G7[/ch]
+  A lifetime we[/tab]
+
+
+[Instrumental]
+[ch]F#m11[/ch] [ch]Gmaj9[/ch]
+[ch]F#m11[/ch] [ch]Gmaj9[/ch]
+
+
+[Outro]
+[tab]  [ch]F#m11[/ch]    [ch]Gmaj9[/ch]
+A lifetime we[/tab]
+[tab]  [ch]F#m11[/ch]    [ch]Gmaj9[/ch]
+A lifetime we[/tab]
+[tab]  [ch]F#m11[/ch]    [ch]Gmaj9[/ch]
+A lifetime we[/tab]
+[tab]  [ch]F#m11[/ch]    [ch]Gmaj9[/ch]
+A lifetime we[/tab]
+(repeat and fade)

@@ -1,0 +1,34 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/only-one-chords-341260
+Artist: Caedmon's Call
+Song: Only One
+Genre: 
+Key: 
+
+
+==============================                    ========================= 
+The Only One---Caedmon's Call---------------------Transfered by Asa Gaston
+==============================                    ========================= 
+
+Capo 4.
+
+022000  Em &lt;-> 022200
+x02210  [ch]Am[/ch] &lt;-> x02010
+x32010  [ch]C[/ch]
+320003  [ch]G[/ch]
+133211  [ch]F[/ch]
+x00232  [ch]D[/ch]
+x21202  [ch]B7[/ch]
+
+INTRO:
+|[ch]Em[/ch]  .  |[ch]Am[/ch]  .  | x4
+
+VERSE:
+|[ch]Em[/ch]  .  |[ch]Am[/ch]  .  | x3
+|[ch]C[/ch]   [ch]G[/ch]  |[ch]F[/ch]   [ch]G[/ch]  |
+|[ch]Am[/ch]  [ch]G[/ch]  |[ch]F[/ch]   .  |[ch]G[/ch]   .  |
+
+CHORUS:
+|[ch]C[/ch]   [ch]D[/ch]  |[ch]G[/ch]   [ch]B7[/ch] |
+|[ch]C[/ch]   [ch]D[/ch]  |[ch]G[/ch]   .  |
+|[ch]C[/ch]   [ch]D[/ch]  |[ch]G[/ch]   [ch]B7[/ch] |
+|[ch]C[/ch]   [ch]D[/ch]  |[ch]G[/ch]   .  |

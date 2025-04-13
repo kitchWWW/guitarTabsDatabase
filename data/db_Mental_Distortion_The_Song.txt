@@ -1,0 +1,58 @@
+URL: https://tabs.ultimate-guitar.com/tab/mental-distortion/the-song-tabs-6758
+Artist: Mental Distortion
+Song: The Song
+Genre: 
+Key: 
+
+
+Mental Distortion   The Song!.
+ Tabbed by Richard    DeaditeBeast2000@aol.com.
+  
+b=bend
+&lt;=slide up
+>=slide down
+h=hammer on
+p=pull off
+x=harmonics
+///=pick slide
+~=ring note out
+%= repeat 
+
+Intro
+
+[tab]Guitar 1
+a--3--4-3--3x3x4-3-3--4-3--3--4~--
+e--1--2-1--1x1x2-1-1--2-1--1--2~--[/tab]
+
+Verse 1
+Guitar 1 & 2
+
+[tab]a--xxxx4&lt;3-xxxx-3~xxxx4-3-------   o /     4 times
+e--xxxx2&lt;1-xxxx-1~xxxx2-1-------    / o[/tab]
+
+[tab]Chorus
+a-2-3-4--2-3-4--2-3-4--2-3-2-4-2-4-2-3-2-4-2-2-3~----
+e-0-3-2--0-3-2--0-3-2--0-3-2-2-2-2-0-3-2-2-2-0-0~----[/tab]
+
+verse 1
+
+[tab]Guitar verse 2
+a-33333-------33335-------33333--  o /  4 times
+e-11111x-x-x-x11113x-x-x-x11111--   / o [/tab]
+
+Chorus 
+
+[tab]Solo
+e-11-13h14----------------11-13-14-13-14-13-14-13-11b
+b----------11-13-14-13-11----------------------------
+g----------------------------------------------------[/tab]
+
+[tab]Outro  Guitar 2
+e------------------------
+b----2-------------------
+g---2---2-4-2h4----------
+d--4---4-----------------
+a-2----------------------
+e------------------------ 
+:: Ultimate Guitar Archive :: 
+http://www.ultimate-guitar.com [/tab]

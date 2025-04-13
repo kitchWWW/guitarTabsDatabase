@@ -1,0 +1,167 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/forget-what-you-know-chords-339224
+Artist: Caedmon's Call
+Song: Forget What You Know
+Genre: 
+Key: 
+
+
+======================================          =========================
+Forget What You Know---Caedmon's Call-----------Transfered by Asa Gaston
+======================================          =========================
+
+
+
+First off: if you are here, you may have come looking for the version 
+of this song on the first CD.  It is not here... (but it is not risen).  
+Derek and I both agreed, with his vote counting about 100 times more 
+than mine, that this 2nd version is far superior; really the only one 
+worth knowing.  So the older version is not gonna be available.  Sorry!
+  A quick note on my notation in this song:  sometimes you will see the
+letter h in front of a chord.  This means strum down, and then hammer on
+the chord.  For example, the tab of a hE would be:
+[tab]--0-----
+--0-----  You will want to really hammer down hard, or else
+--0h1---    the sound will be lost.  Also, the higher your
+--0h2---    action, the harder this is to do.  If you are
+--0h2---    lost, just e-mail me.  Listen to the CD and it 
+--0-----    will help.[/tab]
+
+  Finally, be sure and look at the chord signatures at the bottom,
+as some chords are played barred, not open, and will only sound right,
+as well as be able to be played smoothly, if these particular forms
+are used.  Again, just mail me with any questions.
+
+  Now:
+
+Cliff: Clean Guitar (playing in E)
+-------------------
+
+Intro:
+  (Derek only; Cliff does not play)
+
+Verse 1:
+--------
+hE       hAsus2   [ch]C#m[/ch]      [ch]A[/ch]
+[tab]hE       hAsus2   [ch]C#m[/ch]      [ch]A[/ch]
+hE       hAsus2   C#m [/tab]
+[ch]A[/ch]        hE       hAsus2   [ch]C#m[/ch]      [ch]A[/ch]
+   
+Bridge 1:
+---------
+[ch]C#m[/ch]      [ch]A[/ch]        [ch]A[/ch]        [ch]B[/ch]        [ch]C#m[/ch]
+[ch]C#m[/ch]      [ch]A[/ch]        [ch]E[/ch]
+[ch]C#m[/ch]      [ch]A[/ch]
+[ch]F#m[/ch]      [ch]D[/ch]
+
+Chrous 1:
+---------
+[ch]E[/ch]    open-[ch]A[/ch]
+[ch]E[/ch]    open-[ch]A[/ch]   
+[ch]E[/ch]    open-[ch]A[/ch]
+[ch]E[/ch]    open-[ch]A[/ch]
+
+Verse 2: (Same as Verse 1)
+
+Chorus 2:
+[ch]E[/ch]        open-[ch]A[/ch]
+open-[ch]B[/ch]   open-[ch]A[/ch]
+[ch]E[/ch]
+open-[ch]A[/ch]   open-[ch]B[/ch]   open-[ch]A[/ch]
+[ch]E[/ch]        open-[ch]A[/ch]
+open-[ch]B[/ch]   open-[ch]A[/ch]
+[ch]E[/ch]
+open-[ch]A[/ch]   open-[ch]B[/ch]   open-[ch]A[/ch]
+
+(Solo) Play verse chords over it: hE  hAsus2  C#m  A
+
+Bridge 2: (Same as Bridge 1 above)
+
+Chorus 3:
+
+Play Chorus 1, then Chorus 2 until out...
+
+
+Play verse riff and then stop as Derek, then cajon drums lead out.
+-----------------
+
+Derek: (Capo 2 --> His part is in D)
+------
+
+Intro: This is _fast_ and is built around a Dsus2 chord.  Practice,
+  practice, practice... it is played through all the verses also.
+
+[tab]--------0----3----2-----0----------------
+-----3---3----3----3----3---3----3-3-3---
+---2------2----2----2---2----2-----------
+-0----------------------0-----0----------
+-----------------------------------------
+-----------------------------------------[/tab]
+
+This is repeated about a million times, i didn't even try to count.
+It doesn't change until the bridge
+
+Verse 1:
+--------
+  Play intro riff
+
+Bridge: (These changes are along with Cliff's... finally, an easy part!)
+-------
+  [ch]Bm[/ch]  [ch]G[/ch]  ([ch]G[/ch] [ch]A[/ch] [ch]Bm[/ch])
+  [ch]Bm[/ch]  [ch]G[/ch]  [ch]D[/ch]
+  [ch]Bm[/ch]  [ch]G[/ch]  [ch]Em[/ch]  [ch]C[/ch]
+
+Chorus 1: (Changes at same time with Cliff)
+---------
+  [ch]D[/ch]  [ch]G[/ch]
+  [ch]D[/ch]  [ch]G[/ch]
+  [ch]D[/ch]  [ch]G[/ch]
+  [ch]D[/ch]  [ch]G[/ch]
+
+Verse 2:
+--------
+  Go back to playing intro riff
+
+Chorus 2: (Changes at same time as Cliff's)
+---------
+  [ch]D[/ch]  [ch]G[/ch]
+  [ch]A[/ch]  [ch]G[/ch]
+  [ch]D[/ch]  [ch]G[/ch]
+  [ch]A[/ch]  [ch]G[/ch]
+
+(Solo)
+
+Bridge 2 (Same as Bridge 1, see above)
+
+Chorus 2: (Same changes as Cliff's)
+---------
+Play Chorus 1, then Chorus 2 through
+
+Outro:
+------
+Intro riff over cajon drums, end on strummed Dsus2 chord
+
+------------------
+Chord Signatures:
+------------------
+Cliff: (clean)
+
+[tab]E|-0----0-----4----5---0---2---2---0-----0--
+B|-0----0-----5----5---0---2---3---0-----0--
+G|-0h1--0h2---6----6---1---2---2---6-----8--
+D|-0h2--0h2---6----7---2---4---0---7-----9--
+A|-0h2--0-----4----7---2---4---x---7-----9--
+e|-0----x-----x----5---0---2---x---0-----0--[/tab]
+
+   hE hAsus2 [ch]C#m[/ch]   [ch]A[/ch]   [ch]E[/ch]  [ch]F#m[/ch]  [ch]D[/ch] open-[ch]A[/ch] open-[ch]B[/ch]
+
+----
+Derek (all given relative to capo)
+
+[tab]E|-2---3---0---0----2--
+B|-3---3---2---0----3--
+G|-4---0---2---0----2--
+D|-4---0---2---2----0--
+A|-2---2---0---2----x--
+e|-x---3---x---0----x--[/tab]
+
+   [ch]Bm[/ch]  [ch]G[/ch]   [ch]A[/ch]   [ch]Em[/ch]   [ch]D[/ch]

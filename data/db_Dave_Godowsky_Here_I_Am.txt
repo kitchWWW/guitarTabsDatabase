@@ -1,0 +1,93 @@
+URL: https://tabs.ultimate-guitar.com/tab/dave-godowsky/here-i-am-chords-2892017
+Artist: Dave Godowsky
+Song: Here I Am
+Genre: 
+Key: 
+
+
+Capo: 5
+
+Authors notes:
+Lots of the chord changes are outside the lyrics section; listen to the song for timings. Timings look
+complicated when they're written out, but once you get going it should all feel pretty natural.
+
+[Chords]
+[ch]C[/ch]     | 032010
+[ch]C/B[/ch]   | 020010
+[ch]A[/ch]     | 002220
+[ch]Dm[/ch]    | xx0231
+[ch]G[/ch]     | 320033
+[ch]Am[/ch]    | 002210
+[ch]Em[/ch]    | 022000
+[ch]Fmaj7[/ch] | xx3210
+
+
+[Intro]
+[ch]C[/ch] [ch]C/B[/ch] [ch]A[/ch] [ch]A[/ch]
+[ch]Dm[/ch] [ch]C[/ch] [ch]G[/ch] [ch]G[/ch]
+[ch]Am[/ch] [ch]Em[/ch] [ch]F[/ch] [ch]F[/ch]
+[ch]G[/ch] [ch]G[/ch]
+
+[Verse 1]
+[tab]         [ch]C[/ch]   [ch]C/B[/ch]  [ch]A[/ch]
+  Here I am;[/tab]
+[tab][ch]A[/ch]             [ch]Dm[/ch]         [ch]C[/ch]  [ch]G[/ch]
+patient, as a good dog,[/tab]
+[tab][ch]G[/ch]                 [ch]Am[/ch]          [ch]Em[/ch]  [ch]Fmaj7[/ch]
+trying to write a love song.[/tab]
+
+[ch]Fmaj7[/ch] [ch]G[/ch] [ch]G[/ch]
+
+[tab]             [ch]C[/ch]     [ch]C/B[/ch]  [ch]A[/ch]
+  What's the use[/tab]
+[tab]  [ch]A[/ch]       [ch]Dm[/ch]      [ch]C[/ch]  [ch]G[/ch]
+in co-operating[/tab]
+[tab][ch]G[/ch]            [ch]Am[/ch]      [ch]Em[/ch]  [ch]Fmaj7[/ch]
+it's only imitating[/tab]
+
+[ch]Fmaj7[/ch]
+
+[Chorus]
+[tab][ch]G[/ch]             [ch]G[/ch]      [ch]C[/ch]  [ch]C/B[/ch]   [ch]A[/ch]
+    And it's another loveless song[/tab]
+[tab]        [ch]A[/ch]      [ch]Dm[/ch]    [ch]C[/ch]    [ch]G[/ch]
+about a broken heart gone wrong[/tab]
+[tab]           [ch]G[/ch]      [ch]C[/ch]    [ch]C/B[/ch] [ch]A[/ch]
+and like a fallen star in  space[/tab]
+[tab]            [ch]A[/ch]   [ch]Dm[/ch] [ch]C[/ch] [ch]G[/ch]
+I guess I'm easily replaced[/tab]
+
+[ch]G[/ch]
+[ch]C[/ch] [ch]C[/ch] [ch]C[/ch] [ch]G[/ch]
+
+[Verse 2]
+[tab]       [ch]C[/ch]   [ch]C/B[/ch]  [ch]A[/ch]
+Take a bow;[/tab]
+[tab] [ch]A[/ch]             [ch]Dm[/ch]      [ch]C[/ch]  [ch]G[/ch]
+do your best impression[/tab]
+[tab][ch]G[/ch]                [ch]Am[/ch]      [ch]Em[/ch]  [ch]Fmaj7[/ch]
+of somebody's confessions[/tab]
+
+[ch]Fmaj7[/ch] [ch]G[/ch] [ch]G[/ch]
+
+[tab]            [ch]C[/ch]     [ch]C/B[/ch]  [ch]A[/ch]
+And sing it loud,[/tab]
+[tab][ch]A[/ch]               [ch]Dm[/ch]      [ch]C[/ch]  [ch]G[/ch]
+don't make me repeat it,[/tab]
+[tab][ch]G[/ch]              [ch]Am[/ch]      [ch]Em[/ch]  [ch]Fmaj7[/ch]
+do it like you mean it[/tab]
+
+[ch]Fmaj7[/ch]
+
+[Chorus]
+[tab][ch]G[/ch]             [ch]G[/ch]      [ch]C[/ch]  [ch]C/B[/ch]   [ch]A[/ch]
+    And it's another loveless song[/tab]
+[tab]        [ch]A[/ch]      [ch]Dm[/ch]    [ch]C[/ch]    [ch]G[/ch]
+about a broken heart gone wrong[/tab]
+[tab]           [ch]G[/ch]      [ch]C[/ch]    [ch]C/B[/ch] [ch]A[/ch]
+and like a fallen star in  space[/tab]
+[tab]            [ch]A[/ch]   [ch]Dm[/ch] [ch]C[/ch] [ch]G[/ch]
+I guess I'm easily replaced[/tab]
+
+[tab][ch]G[/ch]            [ch]C[/ch]
+  and here I am.[/tab]

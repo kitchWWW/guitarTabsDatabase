@@ -1,0 +1,167 @@
+URL: https://tabs.ultimate-guitar.com/tab/u-s-bombs/retreads-drums-869150
+Artist: U.S. Bombs
+Song: Retreads
+Genre: 
+Key: 
+
+
+
+     Album: Never Mind the Open Minds
+   Drummer: Alex Gomez
+    Timing: 4/4
+     Tempo: 95
+      Time: 3:13
+
+X on Hithat= Slightly opened
+x on Hithat= closed
+
+S = Spalsh
+C = China
+X = Crash
+
+[tab] Count:| 1 + 2e+a3e+a4e+a | 1 + 2e+a3e+a4e+a | 1 + 2e+a3e+a4e+a |
+   Cym:| S-C------------- | S-C------------- | S-C------------- |
+  Ride:| ----xxxxxxxxxxxx | ----xxxxxxxxxx-- | ----xxxxxxxxxxxx |
+   SnD:| --o---o---o---o- | --o---o---o---r- | --o---o---o---o- |
+   BD1:| o---oo-o-o--oo-- | o---oo-o-o--oo-o | o---oo-o-o--oo-- |[/tab]
+
+
+[tab] Count:| 1 + 2e+a3e+a4e+a | 1 + 2e+a3e+ 4e+  | 1e+ 2e+a3e+ 4e+  |
+   Cym:| S-C------------- | S--------------- | ---------------- |
+  Ride:| ----xxxxxxxxxx-- | ---------------- | ---------------- |
+    Hh:| ---------------- | --X-X-X-X-X-X-X- | X-X-X-X-X-X-X-X- |
+   SnD:| --o---o---o---r- | --o---o---o---o- | --o---o---o---o- |
+   BD1:| o---oo-o-o--oo-o | o---oo-o-o--oo-- | oo--oo-o-o--oo-- |[/tab]
+
+
+[tab]       | ====== 4x ====== |
+ Count:| 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  | 1 + 2 + 3e+a4e+a |[/tab]
+[tab]   Cym:| ---------------- | C--------------- | ---------------- |
+    Hh:| X-X-X-X-X-X-X-X- | --X-X-X-X-X-X-X- | X-X-X-X-X-X----- |
+   SnD:| --o---o---o---o- | --o---o---o---o- | --o---o---o-dddd |
+   BD1:| o---oo-o-o--oo-- | o---oo-o-o--oo-- | o---o---oo-o---- |[/tab]
+
+
+[tab] Count:| 1 +a2e+ 3 +a4e+a | 1 +a2e+a e+a4e+a | 1 +a2e+a3e+a4e+a |
+   Cym:| X-------X------- | X------X-------- | X--------------- |
+  Ride:| --xxxxx---xxxxxx | --xxxx---xxx---- | --xxxxxxxxxxxx-- |
+   SnD:| --o---o---o---o- | --o---o---o-dddd | --o---o---o---r- |
+   BD1:| o---o---o---o--- | o---oo-o-o-o---- | o---oo--oo--oo-o |[/tab]
+
+
+[tab] Count:| 1 +a2e+a e+a4e+a | 1 +a2e+a3e+a4e+a | 1e+a2e+a3e+a4e+a |
+   Cym:| S--X---X-------- | X--------------- | --------S--X--S- |
+  Ride:| -----x---xx----- | --xxxxxxxxxxxxxx | xxxxxxx--------- |
+   SnD:| --o---o---o-dddd | --o---o---o---o- | --o---or--o-o--o |
+   BD1:| o---oo-o-o-o---- | o---oo--oo--oo-- | oo--oo--oo-o-oo- |[/tab]
+
+
+[tab] Count:| 1 +a2e+a3e+a4e+a | 1e+a2e+a3e+a4e+a | 1 + 2e+a3e+ 4e+  |
+   Cym:| X--------------- | X--------------- | X-S------------- |
+  Ride:| --xxxxxxxxxxxxx- | -xxxxxx--------- | ---------------- |
+    Hh:| ---------------- | ---------------- | ----X-X-X-X-X-X- |
+  Tom2:| ---------------- | ----------dd---- | ---------------- |
+   SnD:| --o---o---o----r | --o---o-dd------ | --o---o---o---o- |
+  FlT1:| ---------------- | ------------dddd | ---------------- |
+   BD1:| o---oo--oo--oo-- | o---oo-o-------- | o---oo-o-o--oo-- |[/tab]
+
+[tab]                          | ====== 2x ====== | ====== 2x ====== |
+ Count:| 1e+ 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  |[/tab]
+[tab]    Hh:| X-X-X-X-X-X-X-X- | X-X-X-X-X-X-X-X- | x-x-x-x-x-x-x-x- |
+   SnD:| --o---o---o---o- | --o---o---o---o- | --o---o---o---o- |
+   BD1:| oo--oo-o-o--oo-- | o---oo-o-o--oo-- | o---oo-o-o--oo-- |[/tab]
+
+
+[tab] Count:| 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  |
+   Cym:| X--------------- | ---------------- | S--------------- |
+    Hh:| --x-x-x-x-x-x-x- | x-x-x-x-x-x-x-x- | --x-x-x-x-x-x-x- |
+   SnD:| --o---o---o---o- | --o---o---o---o- | --o---o---o---o- |
+   BD1:| o---oo-o-o--oo-- | o---oo-o-o--oo-- | o---oo-o-o--oo-- |[/tab]
+ 
+
+[tab]       | ====== 2x ====== |
+ Count:| 1 + 2e+a3e+ 4e+  |[/tab]
+[tab]    Hh:| x-x-x-x-x-x-x-x- |
+   SnD:| --o---o---o---o- |
+   BD1:| o---oo-o-o--oo-- |[/tab]
+
+
+[tab]Count:| 1 + 2e+a3e+a4e+a | 1 +a2e+ 3 +a4e+a | 1e+ 2e+a3e+a4e+a |
+   Cym:| ---------------- | X-------X------- | --X-----X------- |
+  Ride:| ---------------- | --xxxxx---xxxxxx | x---xxx---x----- |
+    Hh:| x-x-x-x-x-x----- | ---------------- | ---------------- |
+   SnD:| --o---o---o-dd-- | --o---o---o---o- | --o--o--o-o-dddd |
+  FlT1:| --------------oo | ---------------- | ---------------- |
+   BD1:| o---oo-o-o-o---- | o---o---o---oo-- | oo----oo-o-o---- |[/tab]
+
+
+[tab] Count:| 1e+a2e+ 3 +a4e+a | 1e+a2e+a3e+a4e+a | 1 +a2e+a3e+a4e+a |
+   Cym:| --------X------- | ---X------------ | X--------------- |
+  Ride:| xxxxxxx---xxxxxx | xx---xxxxxx----- | --xxxxxxxxxxxxxx |
+   SnD:| --o---o---o---o- | --o---o---o-dddd | --o---o---o---o- |
+   BD1:| o---oo--o---oo-- | oo--oo-o-o-o---- | o---o---oo--oo-- |[/tab]
+
+
+[tab] Count:| 1e+a2e+ 3 +a e+  | 1e+a2e+a3e+a4e+a | 1e+a2e+a3e+a4e+a |
+   Cym:| --------X--X--X- | ---------------- | ---------------- |
+  Ride:| xxxxxxx--------- | xxxxxxxxxxxxxxxx | xxxxxxxxxxx----- |
+   SnD:| --o---o-o--o--o- | --o---o---o---o- | --o---o---o-dddd |
+   BD1:| oo--oo----o--o-- | o---oo--oo--oo-- | o---oo-o-o-o---- |[/tab]
+
+[tab]                          | ====== 3x ====== |
+ Count:| 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  |[/tab]
+[tab]   Cym:| X--------------- | ---------------- | X--------------- |
+    Hh:| --X-X-X-X-X-X-X- | X-X-X-X-X-X-X-X- | --X-X-X-X-X-X-X- |
+   SnD:| --o---o---o---o- | --o---o---o---o- | --o---o---o---o- |
+   BD1:| o---oo-o-o--oo-- | o---oo-o-o--oo-- | o---oo-o-o--oo-- |[/tab]
+
+
+[tab]       | ====== 3x ====== |                  | ====== 6x ====== |
+ Count:| 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  |[/tab]
+[tab]   Cym:| ---------------- | X--------------- | ---------------- |
+    Hh:| X-X-X-X-X-X-X-X- | --X-X-X-X-X-X-X- | X-X-X-X-X-X-X-X- |
+   SnD:| --o---o---o---o- | --o---o---o---o- | --o---o---o---o- |
+   BD1:| o---oo-o-o--oo-- | o---oo-o-o--oo-- | o---oo-o-o--oo-- |[/tab]
+
+
+[tab] Count:| 1 + 2e+a3e+a4e+a | 1 +a2e+ 3 +a4e+a | 1e+ 2e+a3e+a4e+a |
+   Cym:| ---------------- | X-------X------- | --X------------- |
+  Ride:| ---------------- | --xxxxx---xxxxxx | x---xxxxxxx----- |
+    Hh:| X-X-X-X-X-X----- | ---------------- | ---------------- |
+   SnD:| --o---o---o-dddd | --o---o---o---o- | --o---o---o-dddd |
+   BD1:| o---oo-o-o-o---- | o---oo--o---oo-- | oo--oo-o-o-o---- |[/tab]
+
+
+[tab] Count:| 1 +a2e+ 3 +a4e+a | 1 +a2e+a3e+a4e+a | 1 +a2e+ 3 +a4e+a |
+   Cym:| X-------X------- | X--------------- | X-------X------- |
+  Ride:| --xxxxx---xxxxxx | --xxxxxxxxx----- | --xxxxx---xxxxxx |
+   SnD:| --o---o---o---o- | --o---o---o-dddd | --o---o---o---o- |
+   BD1:| o---o---o---o--- | o---o--o-o-o---- | o---oo--o---oo-- |[/tab]
+
+
+[tab] Count:| 1e+a2e+ 3 +a e+  | 1e+a2e+a3e+a4e+a | 1e+a2e+ 3e+a4e+a |
+   Cym:| --------X--X--X- | ---------------- | ---------------- |
+  Ride:| xxxxxxx--------- | xxxxxxxxxxxxxxxx | xxxxxxx--------- |
+   SnD:| --o---o-o--o--o- | --o---o---o---o- | --o----ddddddddd |
+   BD1:| oo--oo----o--o-- | o---oo--oo-o-o-- | o---o-o--------- |[/tab]
+
+
+[tab]       | ====== 2x ====== |                  | ====== 2x ====== |
+ Count:| 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  |[/tab]
+[tab]   Cym:| ---------------- | C--------------- | ---------------- |
+    Hh:| X-X-X-X-X-X-X-X- | --X-X-X-X-X-X-X- | X-X-X-X-X-X-X-X- |
+   SnD:| --o---o---o---o- | --o---o---o---o- | --o---o---o---o- |
+   BD1:| o---oo-o-o--oo-- | o---oo-o-o--oo-- | o---oo-o-o--oo-- |[/tab]
+
+
+[tab] Count:| 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+  | 1 + 2e+a3e+ 4e+a |
+   Cym:| ---------------- | C--------------- | ---------------- |
+    Hh:| X-X-X-X-X-X-X--- | X-X-X-X-X-X-X-X- | X-X-X-X-X-X-X--- |
+   SnD:| --o---o---o---r- | --o---o---o---o- | --o---o---o---f- |
+   BD1:| o---oo-o-o--oo-- | o---oo-o-o--oo-- | o---oo-o-o--oo-o |[/tab]
+
+
+[tab] Count:| 1                |
+   Cym:| X--------------- |
+   SnD:| o--------------- |
+   BD1:| o--------------- |[/tab]

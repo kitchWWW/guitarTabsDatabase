@@ -1,0 +1,110 @@
+URL: https://tabs.ultimate-guitar.com/tab/gregory-alan-isakov/before-the-sun-chords-4819754
+Artist: Gregory Alan Isakov
+Song: Before The Sun
+Genre: 
+Key: A
+
+
+BPM:      93
+Single released: 14 June 2023 (Today)
+
+
+[Chords]
+[G6     322003]
+
+Note: specific in this song is the sound when playing the G chord. Hammer on the 2nd fret
+     of the D string (like the G6 shape mentioned) and repeat.
+
+Capo: 2 fret
+
+        Different capo fret positions are easily possible by using the transpose button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example To play this without capo put the transpose button at +2
+                  Half step down tuning put the transpose button at +3
+
+
+[Intro]
+[ch]Em[/ch]  [ch]G[/ch]  [ch]C[/ch]  [ch]G[/ch]
+[ch]Em[/ch]  [ch]G[/ch]  [ch]C[/ch]   [ch]G[/ch]
+
+
+[tab][Intro]
+                  [ch]Em[/ch]     [ch]G[/ch]               [ch]C[/ch]       [ch]G[/ch]
+e|----------------0--0---3---------------3---3---3---|
+B|----------------0--0---0---------------1---1---0---|
+G|----------------0--0---0---------------0---0---0---|
+D|------0---------2-h2---0--------------h2--p2---0---|
+A|--/2-----/2--0--2--2---2-h2--2--0------3---3---2---|
+E|----------------0--0---3-----------3-----------3---|[/tab]
+
+     | /   Slide up
+     | h   Hammer-on
+     | p   Pull-off
+
+
+[Verse 1]
+[tab]           [ch]Em[/ch]   [ch]G[/ch]
+Fifty-five mile signs,[/tab]
+[tab]                 [ch]C[/ch]    [ch]G[/ch]
+Thunder crackin’ lightning,[/tab]
+[tab]                [ch]Am[/ch]          [ch]Fmaj7[/ch]                       [ch]C[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch]
+Well, something else inside shines like the Fourth of July.[/tab]
+
+
+[Chorus]
+[tab]                 [ch]Em[/ch]    [ch]G[/ch]
+I'll go it on my own,[/tab]
+[tab]                 [ch]C[/ch]    [ch]Em[/ch]
+I'll go it on my own,[/tab]
+[tab][ch]Em[/ch]
+I'll go it on my own,[/tab]
+[tab]          [ch]G[/ch]
+Sand city bus,[/tab]
+[tab]           [ch]D/F#[/ch]             [ch]C[/ch]    [ch]C[/ch]
+Kickin’ up dust, kickin’ up dust,[/tab]
+[tab]                     [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch]
+Before the sun comes up.[/tab]
+
+
+[Interlude]
+[tab][ch]Em[/ch]     [ch]G[/ch]
+  Oooh ooh[/tab]
+[tab][ch]C[/ch]      [ch]Em[/ch]
+  Oooh ooh[/tab]
+[ch]Em[/ch]  [ch]G[/ch]   [ch]D/F#[/ch]  [ch]C[/ch]
+[ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch]
+
+
+[Verse 2]
+[tab]              [ch]Em[/ch]    [ch]G[/ch]
+Devil sees us now,[/tab]
+[tab]                  [ch]C[/ch]    [ch]G[/ch]
+Clear as the moon glows,[/tab]
+[tab]                [ch]Am[/ch]
+Sleepin’ in our winter clothes,[/tab]
+[tab][ch]Fmaj7[/ch]               [ch]C[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch]
+Radios, a cracklin’ fire.[/tab]
+
+
+[Chorus]
+[tab]                 [ch]Em[/ch]    [ch]G[/ch]
+I'll go it on my own,[/tab]
+[tab]                 [ch]C[/ch]    [ch]Em[/ch]
+I'll go it on my own,[/tab]
+[tab][ch]Em[/ch]
+I'll go it on my own,[/tab]
+[tab]          [ch]G[/ch]
+Sand city bus,[/tab]
+[tab]           [ch]D/F#[/ch]             [ch]C[/ch]    [ch]C[/ch]
+Kickin’ up dust, kickin’ up dust,[/tab]
+[tab]                     [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch]
+Before the sun comes up.[/tab]
+
+
+[Outro]
+[ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch]
+[tab][ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch] [ch]G6[/ch]  [ch]G[/ch]
+Hmmmm.[/tab]

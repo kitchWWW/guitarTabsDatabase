@@ -1,0 +1,43 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/ballad-of-san-francisco-chords-338031
+Artist: Caedmon's Call
+Song: Ballad Of San Francisco
+Genre: 
+Key: 
+
+
+=============================================     =========================
+The Ballad Of San Francisco---Caedmon's Call------Transfered by Asa Gaston
+=============================================     =========================
+
+(Verse 1)
+[ch]G[/ch]     [ch]D2[/ch]    [ch]Em[/ch]    [ch]D[/ch]
+[ch]G[/ch]     [ch]D2[/ch]    [ch]C[/ch]
+[ch]G[/ch]     [ch]D2[/ch]    [ch]Em[/ch]    [ch]D[/ch]
+[ch]C[/ch]     [ch]D[/ch]     [ch]G[/ch]     [sus]
+
+(Verse 2)
+
+(Chorus)
+[ch]D[/ch]     [ch]C[/ch]     [ch]G[/ch]
+[ch]D[/ch]     [/[ch]C[/ch] /[ch]B[/ch] /[ch]A[/ch]]
+[ch]G[/ch]     [ch]D2[/ch]    [ch]Em[/ch]    [ch]A7[/ch]
+[ch]C[/ch]     [ch]D[/ch]     [ch]G[/ch]     [sus]
+
+(Verse 3)
+
+(Chorus)
+
+(Bridge)
+[ch]Em[/ch]    [ch]A7[/ch]
+[ch]Em[/ch]    [ch]D[/ch]     [/[ch]C[/ch] /[ch]B[/ch] /[ch]A[/ch]]
+[ch]G[/ch]     [ch]D2[/ch]    [ch]Em[/ch]    [ch]D[/ch]
+[ch]C[/ch]     [ch]D[/ch]     [ch]G[/ch]
+
+(Chorus x2)
+
+[ch]G[/ch]     320003
+[ch]D2[/ch]    200230
+[ch]Em[/ch]    022000
+[ch]D[/ch]     x00232
+[ch]C[/ch]     x32010
+[ch]A7[/ch]    x02020

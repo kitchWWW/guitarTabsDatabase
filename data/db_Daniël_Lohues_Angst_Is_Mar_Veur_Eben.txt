@@ -1,0 +1,76 @@
+URL: https://tabs.ultimate-guitar.com/tab/1966093
+Artist: Daniël Lohues
+Song: Angst Is Mar Veur Eben
+Genre: 
+Key: 
+
+
+[ch]A7[/ch]     x02020
+[ch]B7[/ch]     x21202
+[ch]C[/ch]      x32010
+[ch]C/E[/ch]    xx2010
+[ch]Cm[/ch]     x35543
+[ch]Cm/D#[/ch]  xx1013
+[ch]C#dim[/ch]  xx2323
+[ch]D/F#[/ch]   2x0232
+[ch]D7[/ch]     xx0212
+[ch]Dadd9[/ch]  xx0230
+[ch]D#dim[/ch]  xx4545
+[ch]Em[/ch]     022000
+[ch]Em7[/ch]    022033
+[ch]Em7/D[/ch]  xx0033
+[ch]Em7/B[/ch]  x22033
+[ch]Em[/ch]*    x7x050
+[ch]Em/D#[/ch]* x6x040
+[ch]Em/D[/ch]*  x5x030
+[ch]Em/C#[/ch]* x4x020
+[ch]G[/ch]      320003
+[ch]G7/B[/ch]   x20001
+[ch]G7/F[/ch]   xx3001
+[ch]G/D[/ch]    xx0003
+
+(tekst is Drents Dialect)
+
+[Intro] [ch]G[/ch] – [ch]Em7[/ch] – [ch]D7[/ch] (2x)
+
+[tab] [ch]G[/ch]                    [ch]G7/B[/ch]       [ch]C[/ch]                [ch]G[/ch]
+Ie moeten niet bange wezen veur hoe de wind soms stiet[/tab]
+[tab] [ch]G[/ch]        [ch]D/F#[/ch]     [ch]Em7[/ch]   [ch]A7[/ch]              [ch]D7[/ch]
+Angst is mar veur eben, spiet is veur altied[/tab]
+[tab] [ch]G[/ch]              [ch]G7/B[/ch]       [ch]C[/ch]                 [ch]Cm[/ch]
+Wees mar nie benauwd, ie zien ja wel hoe ‘t giet[/tab]
+[tab] [ch]G[/ch]        [ch]D/F#[/ch]     [ch]Em7[/ch]  [ch]Em7/D[/ch]    [ch]C[/ch]        [ch]D7[/ch]      [ch]G[/ch]
+Angst is mar veur eben,         spiet is veur altied[/tab]
+
+[tab] [ch]Em[/ch]             [ch]G/D[/ch]                 [ch]C[/ch]               [ch]G/B[/ch]
+Donkere wolken botsen soms, waor dan bliksem uut ontstiet[/tab]
+[tab][ch]C[/ch]               [ch]Em7[/ch]            [ch]C[/ch]       [ch]Dbdim[/ch]    [ch]D[/ch]   [ch]D#dim[/ch]
+Mar laot joe niet beletten deur de kans op groot verdriet[/tab]
+[tab] [ch]Em[/ch]               [ch]Em/D#[/ch]         [ch]Em/D[/ch]          [ch]Em/Db[/ch]
+Haol joe mar nie in, stort joe dapper in de stried[/tab]
+[tab][ch]C[/ch]                       [ch]D7[/ch]              [ch]G[/ch] – [ch]C[/ch] - [ch]G[/ch]
+Angst is mar veur eben, spiet is veur altied[/tab]
+
+[Mondharmonica-solo]
+ | [ch]G[/ch]        | [ch]Em7/B[/ch]      |  [ch]C[/ch]    |    [ch]G[/ch]     |
+ | [ch]G[/ch] – [ch]D/F#[/ch] | [ch]Em[/ch]  – [ch]Em/D[/ch] |  [ch]C[/ch]    |    [ch]D7[/ch]    |
+ | [ch]G[/ch]        | [ch]G7/F[/ch]       |  [ch]C/E[/ch]  |    [ch]Cm/D#[/ch] |
+ | [ch]G[/ch] – [ch]D/F#[/ch] | [ch]Em[/ch]  – [ch]Em/D[/ch] |  [ch]C[/ch]    |    [ch]G[/ch]     |
+ | [ch]D[/ch] – [ch]B7[/ch]   |
+
+[tab] [ch]Em[/ch]              [ch]G/D[/ch]                 [ch]C[/ch]               [ch]G/B[/ch]
+Zwarte nachten, zwiet en jeuk en verlichting is d’r niet[/tab]
+[tab][ch]C[/ch]                 [ch]Em7[/ch]    [ch]C[/ch]      [ch]Cdim[/ch]      [ch]D[/ch]   [ch]Ddim[/ch]
+Doodsbenauwd veur alles, mar ‘t gevaor bestiet[/tab]
+[tab][ch]Em[/ch]*             [ch]Em/D#[/ch]*        [ch]Em/D[/ch]*     [ch]Em/C#[/ch]*
+dat zo naost ’t slechte ok ‘t goeie overgiet[/tab]
+[tab][ch]C[/ch]                       [ch]Dadd9[/ch]           [ch]G[/ch]
+Denk dan: angst is mar veur eben, spiet is veur altied[/tab]
+
+| [ch]G[/ch]  |  [ch]C[/ch] – [ch]D7[/ch] |
+| [ch]G[/ch]  |  [ch]C[/ch] – [ch]D7[/ch] |
+
+[tab] [ch]G[/ch]                 [ch]G7/B[/ch]       [ch]C[/ch]                [ch]G[/ch]
+Ie moeten niet bange wezen veur hoe de wind soms stiet[/tab]
+[tab] [ch]G[/ch]        [ch]D/F#[/ch]     [ch]Em7[/ch]  [ch]Em7/D[/ch]    [ch]C[/ch]        [ch]D7[/ch]      [ch]G[/ch]
+Angst is mar veur eben, spiet is veur altied[/tab]

@@ -1,0 +1,106 @@
+URL: https://tabs.ultimate-guitar.com/tab/viejas-locas/homero-chords-1635475
+Artist: Viejas Locas
+Song: Homero
+Genre: 
+Key: 
+
+
+Intro:
+
+Guitarra 1:
+
+[tab]E|-----------------------------------------|
+B|-----------------------------------------|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-2-2-------6-6-6-6-7-7-7-7s2-2-2---------|
+e|-0-0-0-2-0-4-4-4-4-5-5-5-5s4-4-4--2h4h0--|[/tab]
+
+La segunda guitarra entra despues de esto haciendo
+
+[tab][ch]E[/ch]  [ch]G#m[/ch] [ch]A[/ch] [ch]F[/ch] X 2 [ch]A[/ch] guitarra 1 aca hace lo mismo que en la intro, la primera vez, la segunda hace este arpegio
+   [ch]E[/ch] [ch]G#m[/ch]    [ch]A[/ch]           [ch]F#[/ch]
+E|-0-----4------5-------2-|
+B|-0------4-------5-----2-|
+G|-1---4------6-----6---3-|
+D|-2--5-----7-----------4-|
+A|-2--------------------4-|
+e|-0--------------------2-|[/tab]
+
+la 2° guitarra hace los acordes, la 1° hace la intro nuevamente y termina haciendo los arpegios pero en vez de terminar en F# termina en B.
+
+
+[tab]       [ch]E[/ch]                        [ch]G#m[/ch]
+Cuando sale del trabajo, Homero viene pensando[/tab]
+[tab]       [ch]A[/ch]                        [ch]F#[/ch]
+que al bajar del colectivo, esquivara algunos autos,[/tab]
+[tab]       [ch]E[/ch]                        [ch]G#m[/ch]
+cruzara la avenida, se metera en el barrio,[/tab]
+[tab]       [ch]A[/ch]                        [ch]F#[/ch]
+pasara dando saludos y monedas a unos vagos.[/tab]
+
+[tab][ch]E[/ch]                     [ch]G#[/ch]
+Dobla en el primer pasillo[/tab]
+[tab][ch]A[/ch]                [ch]F#[/ch]
+y ve que va llegando,[/tab]
+[tab][ch]E[/ch]                [ch]G#m[/ch]
+y un ascensor angosto[/tab]
+[tab][ch]A[/ch]                        [ch]F#[/ch]
+lo lleva a la puerta del rancho.[/tab]
+
+[tab][ch]C#m[/ch]         [ch]F#m[/ch]
+Dice que esta muy cansado[/tab]
+[tab][ch]C#m[/ch]         [ch]F#m[/ch]
+y encima hoy no pagaron[/tab]
+[tab][ch]C#m[/ch]         [ch]F#m[/ch]
+imposible bajarse de esta rutina[/tab]
+[tab][ch]A[/ch]                     [ch]B[/ch]
+y se pregunta ''Hasta Cuando''?[/tab]
+
+
+Se hace dificil siendo obrero hacerse cargo del pan
+de tu esposa, tus hijos, del alquiler y algo mas
+y poco disfruta
+sus dias pensando como hara,
+si en ese empleo no pagan y cada vez le piden mas
+
+Que injusticia que no se valore
+la eficacia y responsibiladad
+porque el hoy se mato pensando
+y es lo mismo que uno mas
+
+Homero esta cansado,
+come y se quiere acostar
+vuelve amanecer y entre diario mate
+se pregunta ''Cuanto mas''?
+
+Y es asi,
+la vida de un obrero es asi,
+la vida en un barrio es asi
+y pocos son los que van a zafar, ay....
+Y es asi,
+aprendemos a ser felices asi,
+la vida del obrero es asi
+y pocos son los que van a zafar.
+
+Solo Saxo: Sobre |La Si| X 8
+
+Descripcion de acordes:
+
+[ch]E[/ch]                  [ch]G#m[/ch]            [ch]F#[/ch]            [ch]B[/ch] 
+                           
+[tab]      E|-0-|            E|-4-|            E|-2-|            E|-2-|  o  E|-7-|
+      B|-0-|            B|-4-|            B|-2-|            B|-4-|     B|-7-|
+      G|-1-|          G|-4-|            G|-3-|            G|-4-|     G|-8-|
+      D|-2-|            D|-6-|            D|-4-|            D|-4-|     D|-9-|
+      A|-2-|            A|-6-|            A|-4-|            A|-2-|     A|-9-|
+      e|-0-|            e|-4-|            e|-2-|            e|-X-|     e|-7-|[/tab]
+
+[ch]G#[/ch]                      [ch]C#m[/ch]             [ch]F#m[/ch]
+      
+[tab]      E|-4-|            E|-4-|            E|-2-|
+      B|-4-|            B|-5-|            B|-2-|
+      G|-5-|            G|-6-|            G|-2-|
+      D|-6-|            D|-6-|            D|-4-|
+      A|-6-|            A|-4-|            A|-4-|
+      e|-4-|            e|-X-|            e|-2-|[/tab]

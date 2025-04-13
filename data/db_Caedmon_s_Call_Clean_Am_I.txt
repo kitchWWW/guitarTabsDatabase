@@ -1,0 +1,24 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/clean-am-i-chords-338367
+Artist: Caedmon's Call
+Song: Clean Am I
+Genre: 
+Key: 
+
+
+============================                      =========================
+Clean Am I---Caedmon's Call-----------------------Transfered by Asa Gaston
+============================                      =========================
+
+Pick at a moderate tempo in 4.
+
+Chord  -  Name
+320033    [ch]G[/ch]
+X32033    [ch]Cadd9[/ch]
+XX0232    [ch]D[/ch]
+320203    [ch]Gadd9[/ch]
+
+VERSES:
+[ch]G[/ch]      [ch]D[/ch]      [ch]Cadd9[/ch]
+[ch]G[/ch]      [ch]D[/ch]      [ch]Cadd9[/ch]     [ch]D[/ch]
+
+END:  [ch]G[/ch], [ch]D[/ch], [ch]Cadd9[/ch], [ch]D[/ch], [ch]Gadd9[/ch]

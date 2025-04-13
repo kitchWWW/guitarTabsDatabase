@@ -1,0 +1,46 @@
+URL: https://tabs.ultimate-guitar.com/tab/k-d-a-krebs-durch-arbeit/life-tabs-2709114
+Artist: K.D.A. (Krebs Durch Arbeit)
+Song: Life
+Genre: 
+Key: 
+
+
+K.D.A. - l.i.f.e. (Jesusatan)
+
+tabbed by PelzR
+
+BPM: approx. 135
+Tuning: Standard E (E A D G B E)
+
+This song is pretty minimalistic and only just contains two riffs. I didn't wrote the whole song structure,
+so just repeat every riff as often as necessary.
+
+Riffs:
+------
+
+[tab]Riff 1 (Intro/Verse...)
+   E E E E E E E E                      
+E|-----------------||
+B|-----------------||
+G|-----------------||
+D|-----------------||
+A|-2-2-2-2-2-2-2-2-||
+E|-0-0-0-0-0-0-0-0-||
+   . . . . . . . .[/tab]
+
+[tab]Riff 2 (Refrain/Bridge...)
+   E E E E E E E E   E E E Q  Q.
+E|-----------------|------------||
+B|-----------------|------------||
+G|-----------------|------------||
+D|-----------------|------------||
+A|-2-2-2-2-3-2-2-2-|-4-2-2-8--7-||
+E|-0-0-0-0-1-0-0-0-|-2-0-0-6--5-||
+     . . .   . . .     . .[/tab]
+
+
+Description:
+------------
+Q     -> quarter notes (a point behind the note - like "Q." - is a dotted note)
+E     -> eighth notes 
+.     -> palm mute

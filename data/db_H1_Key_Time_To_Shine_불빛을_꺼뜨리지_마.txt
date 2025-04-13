@@ -1,0 +1,155 @@
+URL: https://tabs.ultimate-guitar.com/tab/4956115
+Artist: H1-Key
+Song: Time To Shine 불빛을 꺼뜨리지 마
+Genre: 
+Key: 
+
+
+[Chords]
+
+[tab]E5         x-7-9-x-x-x
+E7sus4     x-7-9-7-10-x
+E7         x-7-9-7-9-x
+Em7        x-7-9-7-8-x
+Em         x-7-9-9-8-x
+Cmaj7      8-x-9-9-10-x
+Cm7        8-x-8-8-x-x
+Bm7        7-x-7-7-x-x
+Am7        5-x-5-5-x-x
+Gmaj7      3-x-4-4-3-x
+Dm6        10-x-9-10-10-x
+Bbm6       6-x-5-6-6-x
+D          x-5-7-7-7-x
+C          x-3-5-5-5-x
+Cadd#11    x-3-5-5-7-x
+Bm7#5      7-x-7-7-8-x
+Bm7*       7-x-7-7-10-x
+A7         5-x-5-6-5-x
+A7/C#      x-4-5-6-5-x[/tab]
+
+[Intro]
+
+N.C
+It's time to shine
+Brighter than the starlight
+[tab][ch]E5[/ch]
+One, two, three, let's go[/tab]
+
+[Verse 1]
+
+[tab][ch]E7sus4[/ch]                    [ch]E7[/ch]
+Binnago sipda mammeogeun igoseun mariya[/tab]
+[tab]    [ch]E7sus4[/ch]                       [ch]E7[/ch]
+Jeo haneurui byeolboda ttang wie byeori mana[/tab]
+[tab]     [ch]Cmaj7[/ch]                 [ch]Bm7[/ch]
+Modu neoksi nagage gwayeon hal su isseulkka[/tab]
+[tab]         [ch]Am7[/ch]                   [ch]Cmaj7[/ch]
+Deolkeok geobi natjiman, still, I lit me up[/tab]
+[tab][ch]E7sus4[/ch]                   [ch]E7[/ch]
+Mabeop gateun geon jonjaehaji anneun sesang[/tab]
+[tab]        [ch]E7sus4[/ch]                       [ch]E7[/ch]
+Kkeojil deut mal deut han naege jumuneul georeobwa[/tab]
+[tab]    [ch]Cmaj7[/ch]          [ch]Bm7[/ch]
+Dangdanghaejija kkeokkiji malja[/tab]
+[tab]    [ch]Am7[/ch]       [ch]Cmaj7[/ch]
+Haenael su itdarago[/tab]
+
+[Pre-Chorus]
+
+[tab][ch]Gmaj7[/ch]
+Yeah, it's not a fantasy[/tab]
+[tab][ch]Dm6[/ch]
+Hyeonsireun garodeung dwi[/tab]
+[tab][ch]Cmaj7[/ch]
+Geurimja wie seo itji[/tab]
+[tab][ch]Cm7[/ch]
+Geuraedo neukkyeo jogeumssik[/tab]
+[tab][ch]Bm7[/ch]
+Balgajineun i neukkim[/tab]
+[tab][ch]Bbm6[/ch]
+Ssaagaji gyeongheomchireul[/tab]
+[tab][ch]Am7[/ch]          [ch]Bm7[/ch]
+Eonjengan yeogireul[/tab]
+[tab]        [ch]Cmaj7[/ch]
+Deopeul geoya bandeusi[/tab]
+
+[Chorus]
+
+[tab]  [ch]Gmaj7[/ch]     [ch]Cm6[/ch]         [ch]Bm7[/ch]
+Hime gyeoun nal bureodaeneun baram[/tab]
+[tab]    [ch]Em[/ch]               [ch]D[/ch]                  [ch]C[/ch]
+Ttawie jiji ma, bulbicheul kkeotteuriji ma[/tab]
+[tab]     [ch]Cadd#11[/ch]     [ch]Bm7#5[/ch]        [ch]Bm7[/ch]*      [ch]A7[/ch]
+Ayy, gwaenchana doego isseo, level up[/tab]
+[tab]        [ch]A7/C#[/ch]        [ch]D7[/ch]
+Maeil baradeon naega doel su itdorok[/tab]
+[tab]   [ch]Gmaj7[/ch]     [ch]Cm6[/ch]       [ch]Bm7[/ch]
+Andoendaneun mal, nayakaejineun mam[/tab]
+[tab]    [ch]Em[/ch]                 [ch]D[/ch]               [ch]C[/ch]
+Ttawie sokji ma, i tteugeoumeul ilchi ma[/tab]
+[tab]              [ch]Bm7[/ch]                          [ch]A7[/ch]
+Sigan jinaseo mundeuk tteoollyeosseul ttae[/tab]
+[tab]       [ch]A7/C#[/ch]        [ch]D7[/ch]
+Binnajwoseo gomapda gieokdoedorok[/tab]
+N.C
+Kkeotteuriji ma
+
+[Pre Chorus]
+
+[tab][ch]Gmaj7[/ch]            [ch]Dm6[/ch]
+Kkum nugunganeun pumgo[/tab]
+[tab]                 [ch]Cmaj7[/ch]
+Kkum nugunganeun noko[/tab]
+[tab]                   [ch]Cm7[/ch]
+Igoseun haru suman beon[/tab]
+[tab]                  [ch]Bm7[/ch]
+Eotgeona hogeun ileo nan jogeumssik[/tab]
+[tab][ch]Bbm6[/ch]
+Ssaa gaji gyeongheomchireul[/tab]
+[tab][ch]Am7[/ch]          [ch]Bm7[/ch]
+Eonjengan yeogireul[/tab]
+[tab]         [ch]Cmaj7[/ch]
+Deopeul geoya bandeusi[/tab]
+
+[Chorus]
+
+[tab]  [ch]Gmaj7[/ch]     [ch]Cm6[/ch]       [ch]Bm7[/ch]
+Hime gyeoun nal bureodaeneun baram[/tab]
+[tab]     [ch]Em[/ch]              [ch]D[/ch]                  [ch]C[/ch]
+Ttawie jiji ma, bulbicheul kkeotteuriji ma[/tab]
+[tab]                [ch]Bm7[/ch]           [ch]A7[/ch]
+Ayy, gwaenchana doego isseo, level up[/tab]
+[tab]        [ch]A7/C#[/ch]        [ch]D7[/ch]
+Maeil baradeon naega doel su itdorok[/tab]
+
+[Post Chorus]
+
+[tab][ch]E7sus4[/ch]
+It's time to shine[/tab]
+[tab][ch]E7[/ch]
+Brighter than the starlight (Woah-oh)[/tab]
+[tab][ch]E7sus4[/ch]
+It's time to shine[/tab]
+[tab][ch]E7[/ch]                          N.C
+Greater than the moonlight (Oh, oh, oh, oh)[/tab]
+
+[Chorus]
+
+[tab]  [ch]Gmaj7[/ch]       [ch]Cm6[/ch]      [ch]Bm7[/ch]
+Ajik huimihan na bojalgeoseopgetjiman[/tab]
+[tab]       [ch]Em[/ch]               [ch]D[/ch]                        [ch]C[/ch]
+Gyesok kkumkkuneun han jeoldae kkeotteuriji ana[/tab]
+[tab]            [ch]Bm7[/ch]                   [ch]A7[/ch]
+Oneurui nal neomeoseo miraero ga[/tab]
+[tab]       [ch]A7/C#[/ch]         [ch]D7[/ch]
+Maeil baradeon naega doel su itdorok[/tab]
+[tab]  [ch]Gmaj7[/ch]      [ch]Cm6[/ch]      [ch]Bm7[/ch]
+Andoendaneun mal, nayakaejineun mam[/tab]
+[tab]   [ch]Em[/ch]                [ch]D[/ch]                [ch]C[/ch]
+Ttawie sokji ma, i tteugeoumeul ilchi ma[/tab]
+[tab]              [ch]Bm7[/ch]               [ch]A7[/ch]
+Sigan jinaseo mundeuk tteoollyeosseul ttae[/tab]
+[tab]    [ch]A7[/ch]      [ch]A7/C#[/ch]   [ch]D7[/ch]
+Binnajwoseo gomapda gieokdoedorok[/tab]
+N.C
+Kkeotteuriji ma

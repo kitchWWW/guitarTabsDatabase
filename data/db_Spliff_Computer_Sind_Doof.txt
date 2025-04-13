@@ -1,0 +1,139 @@
+URL: https://tabs.ultimate-guitar.com/tab/spliff/computer-sind-doof-chords-3021080
+Artist: Spliff
+Song: Computer Sind Doof
+Genre: 
+Key: Cm
+
+
+---------------------------------------------------------------------------
+                      Computer sind doof – Spliff
+---------------------------------------------------------------------------
+
+Written by: Reinhold Heil
+From: “85555” (1982)
+
+Tabbed by: maguri
+Tuning: Standard
+Capo: 3rd fret
+Play: Am
+Key: Cm
+For chords in original key transpose +3 (and “use flats”)
+
+---------------------------------------------------------------------------
+
+Riff [Intro], [Verse], [Interlude], [Outro]
+
+[tab]Capo 3rd fret                          No capo
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +     1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|  |----------------|----------------|
+B|----------------|----------------|  |----------------|----------------|
+G|----------------|----------------|  |----------------|----------------|
+D|--------0---1-2-|--------0---1-0-|  |--------3---4-5-|--------3---4-3-|
+A|0-0-3-0---0-----|0-0-3-0---0-----|  |3-3-6-3---3-----|3-3-6-3---3-----|
+E|----------------|----------------|  |----------------|----------------|[/tab]
+
+[tab][Coda]
+  N.C
+  1 + 2 + 3 + 4 +  1 + 2 +
+e|----------------|----------------|
+B|----------------|-----4----------|
+G|----------------|------2---------|
+D|----------------|0-1-0-----------|
+A|--------0-003-0-|----------------|
+E|----------------|----------------|[/tab]
+
+---------------------------------------------------------------------------
+
+[tab]CHORDS
+           E-A-D-G-B-e
+D/A        x-0-x-2-3-2
+Dm9        x-x-0-2-1-0
+E9        (0)x-2-1-3-2
+A6sus2     x-0-2-2-0-2
+Fmaj7/A    x-0-3-2-1-0
+D(add11)/A x-0-0-0-3-2[/tab]
+
+---------------------------------------------------------------------------
+
+[Intro]
+| N.C. | % | % | % |
+ (riff only)
+| [ch]D/A[/ch] | % | [ch]Am[/ch] | % |
+| [ch]D/A[/ch] | % | [ch]Am[/ch] | % |
+| [ch]Dm9[/ch] | [ch]E9[/ch] | [ch]Dm9[/ch] | [ch]G9[/ch] |
+| [ch]A6sus4[/ch] | % | [ch]Fmaj7/A[/ch] | % |
+
+
+[Verse]
+[tab][ch]D/A[/ch]
+Sonntagmorgen um viertel vor acht[/tab]
+[tab]         [ch]Am[/ch]
+Geht das Radio an - mitten in der Nacht[/tab]
+[tab][ch]D/A[/ch]
+ Das ist jetzt mindestens schon fünf Mal passiert[/tab]
+[tab]            [ch]Am[/ch]
+Ich hab den Schweinehund falsch programmiert, falsch programmiert[/tab]
+[tab]| [ch]Dm9[/ch] | [ch]E9[/ch]             [ [ch]Dm9[/ch] ]
+          Falsch programmiert[/tab]
+[tab]| [ch]Dm9[/ch] | [ch]E9[/ch]             [ [ch]A6sus4[/ch] ]
+          Falsch programmiert[/tab]
+[tab]| [ch]A6sus4[/ch] | % | [ch]Fmaj7/A[/ch] | % |
+                  (Mein Mikroprozessor bringt mich um ...)[/tab]
+              (break)
+
+
+[Chorus]
+[tab]| [ch]A[/ch] | [ch]G[/ch]          [ch]D[/ch]      | [ch]A[/ch] | [ch]G[/ch] [ch]D[/ch] |
+   Computer sind doof[/tab]
+[tab]| [ch]A[/ch] |           [ch]G[/ch]     [ch]D[/ch]  | [ch]A[/ch] | [ch]G[/ch] [ch]D[/ch] |
+  Computer sind doof[/tab]
+
+
+[Interlude]
+| [ch]D/A[/ch] | % | [ch]Am[/ch] | % |
+| [ch]D/A[/ch] | % | [ch]Am[/ch] | % |
+
+
+[Verse]
+[tab]    [ch]D/A[/ch]
+Der Wäschetrockner flirtet mit dem Video[/tab]
+[tab]           [ch]Am[/ch]
+Und sendet Strahlen aus - ein elektronischer Zoo[/tab]
+[tab]    [ch]D/A[/ch]
+Die Kaffeemaschine törnt den Toaster an[/tab]
+[tab]              [ch]Am[/ch]
+Ich krieg die Kurve nicht mehr - oh Mann, oh Mann ...[/tab]
+[tab]| [ch]Dm9[/ch] | [ch]E9[/ch]             [ [ch]Dm9[/ch] ]
+          Falsch programmiert[/tab]
+[tab]| [ch]Dm9[/ch] | [ch]E9[/ch]             [ [ch]A6sus4[/ch] ]
+          Falsch programmiert[/tab]
+[tab]| [ch]A6sus4[/ch] | % | [ch]Fmaj7/A[/ch] | % |
+               (Ich werde wahnsinnig!)[/tab]
+              (break)
+
+
+[Chorus]
+[tab]| [ch]A[/ch] | [ch]G[/ch]          [ch]D[/ch]      | [ch]A[/ch] | [ch]G[/ch] [ch]D[/ch] |
+   Computer sind doof[/tab]
+[tab]| [ch]A[/ch] | [ch]G[/ch]          [ch]D[/ch]      | [ch]A[/ch] | [ch]G[/ch] [ch]D[/ch] |
+   Computer sind doof[/tab]
+[tab]| [ch]A[/ch] | [ch]G[/ch]          [ch]D[/ch]      | [ch]A[/ch] | [ch]G[/ch] [ch]D[/ch] |
+   Computer sind doof[/tab]
+[tab]| [ch]A[/ch] | [ch]G[/ch]          [ch]D[/ch]      | [ch]A[/ch] | [ch]G[/ch] [ch]D[/ch] |
+   Computer sind doof[/tab]
+
+
+[Outro]
+[tab]| [ch]D(add11)/A[/ch] | % | [ch]Am[/ch] | % |
+(spoken:)           Der in den USA hergestellte, mikroprozessorgesteuerte[/tab]
+[tab]| [ch]D(add11)/A[/ch] | % | [ch]Am[/ch] | % |
+Herzschrittmacher von Leonid Breschnew erleidet einen Chipinfarkt der das Herz des Generalsekretärs[/tab]
+[tab]| [ch]D(add11)/A[/ch] | % | [ch]Am[/ch] | % |
+zum Stillstand und den Kopf zum Aufschlag auf einem roten Knopf bringt, [/tab]
+                                                       der seinerseits mikroprozessorgesteuerte
+[tab]| [ch]D(add11)/A[/ch] | % | [ch]Am[/ch] | % |
+Abläufe in Gang setzt, von denen Strategen dies- und jenseits des Eisernen Vorhangs [/tab]
+                                                              bisher nur zu träumen wagten.
+[Coda]
+[tab]  [ch]Am[/ch]
+(break)      (Diesmal funktioniert alles ...)   (+ lick, see above)[/tab]

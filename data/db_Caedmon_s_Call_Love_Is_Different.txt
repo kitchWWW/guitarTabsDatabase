@@ -1,0 +1,63 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/love-is-different-chords-339934
+Artist: Caedmon's Call
+Song: Love Is Different
+Genre: 
+Key: 
+
+
+===================================               =========================
+Love Is Different---Caedmon's Call----------------Transfered by Asa Gaston
+===================================               ========================= 
+
+Capo 3.  The "Long Line Of Leavers" version is basically the same but capo 2.
+
+VERSE:
+320003  G    (hammer on and off 320013, 3x2013 in outro)
+320033  [ch]G[/ch]
+020033  [ch]Em7[/ch]
+[tab]x32033  [ch]Cadd9[/ch]
+320003  G    (hammer on and off 320013)[/tab]
+320033  [ch]G[/ch]
+020033  [ch]Em7[/ch]
+[tab]x32033  [ch]Cadd9[/ch]
+x00232  D/A  (hammer on and off x00233)[/tab]
+[tab]x00212  [ch]D7[/ch]/[ch]A[/ch] (hammer on and off x00213)
+  Then:[/tab]
+ x30013 [ch]C2[/ch]
+ x20013 [ch]Gsus4[/ch]/[ch]B[/ch]
+ x02013 [ch]Am7[/ch]
+ 3x0013 [ch]Gsus4[/ch]
+[tab] 2x0230 [ch]Dadd9[/ch]/[ch]F#[/ch]
+  Repeat twice, then:[/tab]
+x21202  [ch]B7[/ch]
+022000  [ch]Em[/ch]
+x02020  [ch]A7[/ch]
+x32030  [ch]Cadd9[/ch]
+x30033  [ch]C2[/ch]
+
+CHORUS:
+330033  C2/G (alternating bass notes)
+221202  B7/E (alternating bass notes)
+022000  [ch]Em[/ch]
+[tab]x00230  [ch]Dadd9[/ch]/[ch]A[/ch]
+  Repeat, then:[/tab]
+ x30013  [ch]C2[/ch]
+ x20013  [ch]Gsus4[/ch]/[ch]B[/ch]   (x20003 in outro)
+ x02013  [ch]Am7[/ch]
+ 3x0013  [ch]Gsus4[/ch]     (3x0003 in outro)
+ 2x0230  [ch]Dadd9[/ch]/[ch]F#[/ch]
+
+BRIDGE:
+x30013  [ch]C2[/ch]
+[tab]x20003  [ch]G/B[/ch]  (pull off from x20013)
+x02003  Am9  (hammer on and off x02013)[/tab]
+320003  G    (hammer on and off 320013)
+[tab]x30013  [ch]C2[/ch]
+320003  G    (hammer on and off 320013)[/tab]
+[tab]x30013  [ch]C2[/ch]
+320003  G    (hammer on and off 320013)[/tab]
+x30013  [ch]C2[/ch]
+022000  [ch]Em[/ch]
+x02020  [ch]A7[/ch]
+x32030  [ch]Cadd9[/ch]
+x30033  [ch]C2[/ch]

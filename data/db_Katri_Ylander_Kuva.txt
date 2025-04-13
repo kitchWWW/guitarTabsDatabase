@@ -1,0 +1,62 @@
+URL: https://tabs.ultimate-guitar.com/tab/katri-ylander/kuva-chords-4616867
+Artist: Katri Ylander
+Song: Kuva
+Genre: 
+Key: C#m
+
+
+[Intro]
+|[ch]Am[/ch]   |[ch]Am[/ch]
+
+[Verse 1]
+[tab][ch]Am[/ch]           [ch]G/B[/ch]   [ch]C[/ch]    [ch]F[/ch]               [ch]G[/ch]
+ Toukokuinen maanantai, mitä kaikkea se tuokaan[/tab]
+[tab][ch]Am[/ch]          [ch]G/B[/ch]    [ch]C[/ch]     [ch]F[/ch]               [ch]G[/ch]
+ Seinäkello kuulee vain, kun huoneessasi huokaat[/tab]
+[tab][ch]Am[/ch]            [ch]G/B[/ch]    [ch]C[/ch]          [ch]F[/ch]                  [ch]G[/ch]
+ Joku jossain sanoo kiitos, ja vaikket kuule sanaakaan[/tab]
+[tab]     [ch]Dm[/ch]        [ch]G[/ch]          [ch]Am[/ch]
+Sinä teet maailmasta parempaa[/tab]
+
+[Chorus]
+[tab][ch]Dm[/ch]               [ch]G[/ch]                    [ch]Em[/ch]                   [ch]Am[/ch]
+Taas harteillesi saat lisää kannateltavaa tuhat tummaa tarinaa[/tab]
+[tab][ch]F[/ch]    [ch]Dm[/ch]        [ch]G[/ch]                [ch]Am[/ch]       [ch]G/B[/ch]  [ch]C[/ch]
+Sanomatta sanaakaan alat hiljaa rakentaa[/tab]
+[tab][ch]Dm[/ch]             [ch]G[/ch]                    [ch]Em[/ch]                    [ch]Am[/ch]  AmG
+Kun kuva muodostuu kunnian saa joku muu ja vaikket huomaakkaan[/tab]
+[tab][ch]F[/ch]         [ch]Dm[/ch]          [ch]G[/ch]                [ch]C[/ch] [ch]Cadd4[/ch] [ch]C[/ch]
+On suurin pala paikallaan sun ansiosta vaan[/tab]
+
+[Verse 2]
+[tab][ch]Am[/ch]          [ch]G/B[/ch]   [ch]C[/ch]   [ch]F[/ch]                [ch]G[/ch]
+ Tuolla moni odottaa, olet tottunut jo ruuhkaan[/tab]
+[tab][ch]Am[/ch]            [ch]G/B[/ch]    [ch]C[/ch]   [ch]F[/ch]                   [ch]G[/ch]
+ Ketään et voi ohittaa, olet päättänyt vain jaksaa[/tab]
+[tab][ch]Am[/ch]            [ch]G/B[/ch]    [ch]C[/ch]      [ch]F[/ch]                   [ch]G[/ch]
+ Joku jossain sanoo kiitos, ja joka päivä uudestaan[/tab]
+[tab]     [ch]Dm[/ch]        [ch]G[/ch]          [ch]Am[/ch]
+Sinä teet maailmasta parempaa[/tab]
+
+[Chorus]
+[tab][ch]Dm[/ch]               [ch]G[/ch]                    [ch]Em[/ch]                   [ch]Am[/ch]
+Taas harteillesi saat lisää kannateltavaa tuhat tummaa tarinaa[/tab]
+[tab][ch]F[/ch]    [ch]Dm[/ch]        [ch]G[/ch]                [ch]Am[/ch]       [ch]G/B[/ch]   [ch]C[/ch]
+Sanomatta sanaakaan alat hiljaa rakentaa[/tab]
+[tab][ch]Dm[/ch]             [ch]G[/ch]                    [ch]Em[/ch]                    [ch]Am[/ch]  [ch]Am/G[/ch]
+Kun kuva muodostuu kunnian saa joku muu ja vaikket huomaakkaan[/tab]
+[tab][ch]F[/ch]         [ch]Dm[/ch]          [ch]G[/ch]                [ch]C[/ch]
+On suurin pala paikallaan sun ansiosta vaan[/tab]
+
+[Solo]
+|[ch]Ebm[/ch]    |[ch]G#[/ch]   |[ch]Fm[/ch]    |[ch]Bbm[/ch]
+|[ch]F#[/ch] [ch]Ebm[/ch] |[ch]G#[/ch] [ch]A[/ch] |[ch]Bbm[/ch]  [ch]C[/ch]|[ch]C#[/ch]
+
+[Bridge]
+[tab][ch]Ebm[/ch]             [ch]G#[/ch]                  [ch]Fm[/ch]                    [ch]Bbm[/ch]
+Kun kuva muodostuu kunnian saa joku muu ja vaikket huomaakkaan[/tab]
+[tab][ch]F#[/ch]        [ch]Ebm[/ch]         [ch]G#[/ch]               ([ch]C#[/ch])
+On suurin pala paikallaan, sun ansiosta vaan[/tab]
+
+[Outro]
+|[ch]C#[/ch]   |[ch]C#[/ch]   |[ch]C#[/ch]   |[ch]C#[/ch]

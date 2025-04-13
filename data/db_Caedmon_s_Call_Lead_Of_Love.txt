@@ -1,0 +1,147 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/lead-of-love-chords-339561
+Artist: Caedmon's Call
+Song: Lead Of Love
+Genre: 
+Key: 
+
+
+==============================                    =========================
+Lead Of Love---Caedmon's Call---------------------Transfered by Asa Gaston
+==============================                    =========================
+
+Capo 2 in E (F#), standard-tuned six-string acoustic.  Quick tempo in
+4.  This also sounds great on a 12-string.
+
+
+This is a simple song that can work well with a single guitar and 
+even with a single voice.  It's all strumming, except for some 
+optionial flat-picking for the intro.
+
+Chord fingerings:
+
+[tab]e|---0----------------0(2,0,0)----0----0---        ---0----0---
+b|---0----------------0(0,2,0)----0----0---        ---0----0---
+g|---1(h2,p1)----(1h2)2-----------4----6---        ---6----8---
+d|---2----------------2-----------4----6---        ---7----9---
+a|---2----------------0-----------2----4---        ---7----9---
+e|---0----------------x-----------x----x---        ---5----7---[/tab]
+[tab]     [ch]E[/ch]               [ch]A9[/ch]         [ch]Bsus4[/ch] [ch]C#m7[/ch]           ([ch]A9[/ch] [ch]Bsus4[/ch])
+                                               (try these alternate[/tab]
+() = optional/ad-lib                            fingerings to spice
+h  = hammer-on                                  up the guitar solo
+p  = pull-off                                   section)
+s  = slide
+
+***********************************************************************
+     
+   Opening to "Lead of Love"
+   Written by Aaron Tate
+   Arranged by Caedmon's Call
+   Transcribed by Alex. =)
+
+   Here's the opening of "Lead of Love." Just capo on 2, it's all on
+[tab]   the highest three strings ([ch]G[/ch], [ch]B[/ch], [ch]E[/ch]). The highest two strings ([ch]B[/ch], [ch]E[/ch]) 
+   are always open (no fingers, just play the capoed note), so [/tab]
+   basically you just move up and down the G string. Just make sure 
+   your finger doesn't hit the open strings, to keep them ringing.
+
+   Since the highest two strings are always open, I numbered them as 0, 
+   (even though they're technically 2nd fret because of the capo), but
+   for the G string I've named the fret by the ACTUAL number, so it's 
+   easier to figure out where you are that way.
+
+   And as in all tab, make sure you're reading this in a font that 
+   gives equal spaces for each character (ex. courier), or else the 
+   lines won't line up.
+
+[tab]                                 *              
+   E|-------0--------0-----------0----0--------0----------|
+   B|----------0-------0-----------------0--------0-----0-|
+   G|--11--------10------10----10-8--------6--------6-----|[/tab]
+
+[tab]   E|-------0------------0--------------0--------0----------|
+   B|----------0------------0-----0--------0--------0-----0-|
+   G|--11--------11/13--------13----8--------6--------6-----|[/tab]
+
+
+   * = these three notes are rhythmically faster, cross 
+       the strings quick.
+   11/13 = slide from 11 to 13
+
+   Thatalex@aol.com
+
+***********************************************************************
+
+[intro]  [ch]E[/ch], [ch]A9[/ch], [ch]E[/ch], [ch]A9[/ch]
+
+[tab]e|-----0-----0----0----0-----0----0----0----0----0----0-----0---0-
+b|--5-----4-----4---2-----0-----0---5----5s7---7---2-----0----0---
+g|----------------------------------------------------------------
+d|----------------------------------------------------------------
+a|----------------------------------------------------------------
+e|----------------------------------------------------------------[/tab]
+
+     Normally Alex's version of the intro is better, but on a 12-string 
+use this version on just the bottom two "courses" (pairs of strings), b 
+and e.  I run through the intro lick--Alex's unless I'm on a 
+12-string--once, and then I start strumming the full chords.
+
+     Once you go to strumming full chords, the easiest way is to use 
+the basic E and A9 fingerings.  This way your hand is always in the 
+same position at the second fret.  You can also add the hammer to the E 
+and the optional notes to the A9 with your pinky finger.  This puts 
+part of the intro lick within the chords and spices things up a bit.  
+But here's an even better way that's not much more difficult:
+
+[tab]e|---0-----0---------0-----0---------0-----0---------0-----0---
+b|---0-----0---------0-----0---------0-----7---------0-----0---
+g|---9-----8---------6-----1---------9-----9---------6-----2---
+d|---9-----9---------7-----2---------9-----9---------7-----2---
+a|---7-----9---------7-----2---------0-----0---------0-----0---
+e|---0-----0---------0-----0---------x-----x---------x-----x---[/tab]
+     [ch]E[/ch]   [ch]Emaj7[/ch]     Esus6   [ch]E[/ch]         [ch]A9[/ch]  Asus6      [ch]A(9)[/ch]   [ch]A9[/ch]
+
+     These chords also contain the intro lick and sound much better 
+than just the basic E and A9.  I use these in the intro, after the 
+first chorus, and in the outro, though I use the basic E and A9 for 
+about half of the outro to keep these from getting monotonous.  Note 
+that you can play all this keeping your ring finger on the 4th string.
+
+
+[verse 1]
+[ch]E[/ch]      [ch]A9[/ch]
+[ch]E[/ch]      [ch]A9[/ch]
+
+[verse 2]
+[ch]E[/ch]      [ch]A9[/ch]
+[ch]E[/ch]      [ch]A9[/ch]
+
+[bridge] 
+[ch]E[/ch]      [ch]A9[/ch]
+[ch]E[/ch]      [ch]Bsus4[/ch]
+[ch]C#m7[/ch]   [ch]Bsus4[/ch]  [ch]C#m7[/ch]   [ch]Bsus4[/ch]
+
+[chorus]
+[tab][ch]E[/ch]      [ch]A9[/ch]
+E      Bsus4 (one clean strum)[/tab]
+
+[verse 3]
+[ch]E[/ch]      [ch]A9[/ch]
+[ch]E[/ch]      [ch]A9[/ch]
+
+[repeat bridge]
+[ch]E[/ch]      [ch]A9[/ch]
+[ch]E[/ch]      [ch]Bsus4[/ch]
+[ch]C#m7[/ch]   [ch]Bsus4[/ch]  [ch]C#m7[/ch]   [ch]Bsus4[/ch]
+
+[repeat chorus]
+[ch]E[/ch]      [ch]A9[/ch]
+[ch]E[/ch]      [ch]Bsus4[/ch]
+
+[guitar solo]  [ch]A9[/ch], [ch]Bsus4[/ch] (4x)
+
+[repeat chorus]
+[tab][ch]E[/ch]       [ch]A9[/ch]
+E       Bsus4 (one hard strum, then building to the E)[/tab]
+
+[outro]  [ch]E[/ch], [ch]A9[/ch] (4x) [ch]E[/ch]

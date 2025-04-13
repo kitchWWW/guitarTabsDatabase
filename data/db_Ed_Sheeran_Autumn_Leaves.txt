@@ -1,0 +1,166 @@
+URL: https://tabs.ultimate-guitar.com/tab/ed-sheeran/autumn-leaves-chords-1060972
+Artist: Ed Sheeran
+Song: Autumn Leaves
+Genre: 
+Key: Gm
+
+
+Autumn Leaves - Ed Sheeran
+Tabbed by: Josh Richardson
+Tuning: EABGBe (capo 3rd fret)
+
+(Chords used)
+
+       EADGBe
+Em7:   022033
+G/F#:  200033
+G:     320033
+Cadd9: X32033
+D:     XX0232
+C#add9:X22033
+
+Use this strumming pattern to match Ed's:
+
+[tab]e|-------------|
+B|------x------|
+G|---x-----x---|
+D|-------------|
+A|-------------|
+E|R------------|[/tab]
+
+The R stands for the root note (the lowest note in the chord) and the x's are the 
+notes that follow it.
+It follows that pattern for the whole song: 'Root, G string, B string, G string'.
+__________________________________________________
+
+
+[Intro]
+
+[ch]Em7[/ch] [ch]G/F#[/ch] [ch]G[/ch] [ch]Cadd9[/ch]
+
+
+[Verse]
+
+[tab][ch]Em7[/ch]     [ch]G/F#[/ch]         [ch]G[/ch] 
+Another day, another life [/tab]
+[tab]       [ch]Cadd9[/ch]        [ch]Em7[/ch]
+Passes by just like mine [/tab]
+[tab]         [ch]G/F#[/ch]        [ch]G[/ch]     [ch]Cadd9[/ch]
+It's not complicated [/tab]
+
+[tab][ch]Em7[/ch]     [ch]G/F#[/ch]          [ch]G[/ch]
+Another mind, another soul [/tab]
+[tab]        [ch]Cadd9[/ch]        [ch]Em7[/ch]
+Another body to grow old [/tab]
+[tab]         [ch]G/F#[/ch]        [ch]G[/ch]     [ch]Cadd9[/ch]
+It's not complicated [/tab]
+
+[tab][ch]Cadd9[/ch]                     [ch]D[/ch]
+Do you ever wonder if the stars shine out for you? [/tab]
+
+
+[Chorus]
+
+[tab][ch]G[/ch]     [ch]G/F#[/ch]
+Float down[/tab]
+[tab][ch]Em7[/ch]  [ch]Cadd9[/ch] 
+Like autumn leaves [/tab]
+[tab][ch]G[/ch]    [ch]G/F#[/ch]
+Hush now [/tab]
+[tab][ch]Em7[/ch]             [ch]Cadd9[/ch]
+Close your eyes before the sleep[/tab]
+[tab][ch]G[/ch]          [ch]G/F#[/ch]      [ch]Em7[/ch]   [ch]Cadd9[/ch]     [ch]G[/ch]
+And you're miles away, and yesterday [/tab]
+[tab][ch]G/F#[/ch]     [ch]Em7[/ch]       [ch]Cadd9[/ch]
+You were here with me [/tab]
+
+
+[Interlude]
+
+[ch]Em7[/ch] [ch]G/F#[/ch] [ch]G[/ch] [ch]Cadd9[/ch]
+[ch]Em7[/ch] [ch]G/F#[/ch] [ch]G[/ch] [ch]Cadd9[/ch]
+
+
+[Verse]
+
+[tab][ch]Em7[/ch]     [ch]G/F#[/ch]          [ch]G[/ch]
+Another tear, another cry [/tab]
+[tab]        [ch]Cadd9[/ch]           [ch]Em7[/ch]
+Another place for us to die [/tab]
+[tab]         [ch]G/F#[/ch]        [ch]G[/ch]     [ch]Cadd9[/ch]
+It's not complicated [/tab]
+
+[tab][ch]Em7[/ch]     [ch]G/F#[/ch]                [ch]G[/ch]
+Another life that's gone to waste [/tab]
+[tab]        [ch]Cadd9[/ch]                [ch]Em7[/ch]
+Another light lost from your face [/tab]
+[tab]     [ch]G/F#[/ch]       [ch]G[/ch]      [ch]Cadd9[/ch]
+It's complicated [/tab]
+
+[tab][ch]Cadd9[/ch]                      [ch]D[/ch]
+Is it that it's over or do birds still sing for you? [/tab]
+
+
+[Chorus]
+
+[tab][ch]G[/ch]     [ch]G/F#[/ch]
+Float down[/tab]
+[tab][ch]Em7[/ch]  [ch]Cadd9[/ch] 
+Like autumn leaves [/tab]
+[tab][ch]G[/ch]    [ch]G/F#[/ch]
+Hush now [/tab]
+[tab][ch]Em7[/ch]             [ch]Cadd9[/ch]
+Close your eyes before the sleep[/tab]
+[tab][ch]G[/ch]          [ch]G/F#[/ch]      [ch]Em7[/ch]   [ch]Cadd9[/ch]     [ch]G[/ch]
+And you're miles away, and yesterday [/tab]
+[tab][ch]G/F#[/ch]     [ch]Em7[/ch]       [ch]Cadd9[/ch]
+You were here with me [/tab]
+
+
+[Bridge]
+
+[tab][ch]A7sus4[/ch]     [ch]Cadd9[/ch]
+Ooh, how I miss you [/tab]
+[tab]   [ch]G[/ch]                   [ch]D[/ch]
+My symphony played the song that carried you out [/tab]
+[tab][ch]A7sus4[/ch]    [ch]Cadd9[/ch]
+Ooh how I miss you [/tab]
+[tab]   [ch]G[/ch]              [ch]D[/ch]
+I miss you and I wish you'd stay [/tab]
+
+[tab][ch]Cadd9[/ch]                     [ch]D[/ch]
+Do you ever wonder if the stars shine out for you? [/tab]
+
+
+[Chorus]
+
+[tab][ch]G[/ch]     [ch]G/F#[/ch]
+Float down[/tab]
+[tab][ch]Em7[/ch]  [ch]Cadd9[/ch] 
+Like autumn leaves [/tab]
+[tab][ch]G[/ch]    [ch]G/F#[/ch]
+Hush now [/tab]
+[tab][ch]Em7[/ch]             [ch]Cadd9[/ch]
+Close your eyes before the sleep[/tab]
+[tab][ch]G[/ch]          [ch]G/F#[/ch]      [ch]Em7[/ch]   [ch]Cadd9[/ch]     [ch]G[/ch]
+And you're miles away, and yesterday [/tab]
+[tab][ch]G/F#[/ch]     [ch]Em7[/ch]       [ch]Cadd9[/ch]
+You were here with me [/tab]
+
+
+[Bridge]
+
+[tab][ch]Em7[/ch]     [ch]G[/ch]   [ch]G/F#[/ch]
+Ooh oh, ooh oh [/tab]
+[tab][ch]Em7[/ch]     [ch]G[/ch]   [ch]G/F#[/ch]
+Ooh oh, ooh oh [/tab]
+
+
+[Outro]
+
+[tab][ch]G[/ch]     [ch]G/F#[/ch]     [ch]Em7[/ch]
+Touch down [/tab]
+[tab]       [ch]Cadd9[/ch]
+Like a seven four seven [/tab]
+[tab][ch]G[/ch]    [ch]G/F#[/ch] [ch]Em7[/ch]      [ch]A7sus4[/ch]            
+Stay out and we'll live forever now[/tab]

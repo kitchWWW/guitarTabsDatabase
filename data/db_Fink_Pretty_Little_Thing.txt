@@ -1,0 +1,146 @@
+URL: https://tabs.ultimate-guitar.com/tab/fink/pretty-little-thing-chords-5355894
+Artist: Fink
+Song: Pretty Little Thing
+Genre: 
+Key: 
+
+
+[ch]E5[/ch] : 0x240x
+[ch]Esus4[/ch] : 0x220x
+[ch]E5/G[/ch] ([ch]G[/ch]) : 3x240x
+[ch]Esus4/F#[/ch] ([ch]F#[/ch]) : 2x220x
+[ch]Esus4/F[/ch] ([ch]F[/ch]): 1x220x
+[ch]Asus2[/ch] : x0220X
+[ch]Asus2/C[/ch] ([ch]C[/ch]): x3220x
+[ch]Cmaj7[/ch] : x3240x
+[ch]Dbm7[/ch] : x4240X
+[ch]B7sus4[/ch] : x2220x
+
+[Intro]
+[ch]E5[/ch]      [ch]E5[/ch]      [ch]E5[/ch]     [ch]Esus4[/ch]
+[ch]E5[/ch]      [ch]E5[/ch]      [ch]E5[/ch]     [ch]Esus4[/ch]
+
+[Verse 1]
+[tab][ch]E5[/ch]               [ch]G[/ch]
+   When she leaves[/tab]
+[tab]                [ch]F#[/ch]
+She's just asking[/tab]
+[tab]      [ch]G[/ch]         [ch]F#[/ch] [ch]E5[/ch]
+To be followed[/tab]
+[tab]               [ch]G[/ch]
+When she walks out[/tab]
+[tab]                [ch]F#[/ch]
+All she wants is[/tab]
+[tab]      [ch]G[/ch]         [ch]F#[/ch] [ch]E5[/ch]
+To be lead[/tab]
+[tab]            [ch]G[/ch]
+All my boys say[/tab]
+[tab]               [ch]F#[/ch]      [ch]G[/ch]   [ch]F#[/ch] [ch]E5[/ch]
+She's just asking for it[/tab]
+[tab]                  [ch]G[/ch]      [ch]F#[/ch] [ch]G[/ch] [ch]F#[/ch]
+And I aint sayin' nothing[/tab]
+[tab][ch]F[/ch]                         [ch]Asus2[/ch]
+        She couldn't care less[/tab]
+[tab]    [ch]F[/ch]
+(oh oh)[/tab]
+[tab]             [ch]Asus2[/ch]
+Wearing that dress[/tab]
+
+
+[Chorus]
+[tab][ch]E5[/ch]      [ch]C[/ch]                  [ch]Asus2[/ch]
+        Pretty little thing[/tab]
+[tab]    [ch]E5[/ch]
+(oh no)[/tab]
+[tab][ch]C[/ch]                 [ch]Asus2[/ch]
+Hot little thing[/tab]
+[tab][ch]E5[/ch]      [ch]C[/ch]                    [ch]Asus2[/ch]
+        Hot little thing who knows it[/tab]
+[tab]         [ch]G[/ch]                [ch]F#[/ch]              [ch]E5[/ch]
+Don't suppose it would be cool if we hung out?[/tab]
+
+[Verse 2]
+[tab]                   [ch]G[/ch]
+'Cos when you walk by[/tab]
+[tab]               [ch]F#[/ch]       [ch]G[/ch]   [ch]F#[/ch] [ch]E5[/ch]
+You know every guy noticed[/tab]
+[tab]                  [ch]G[/ch]
+The way that your dress[/tab]
+[tab]         [ch]F#[/ch]       [ch]G[/ch]   [ch]F#[/ch] [ch]E5[/ch]
+Clings on for the ride[/tab]
+(mm mm)
+
+[tab]            [ch]G[/ch]
+All my boys say[/tab]
+[tab]          [ch]F#[/ch]      [ch]G[/ch]      [ch]F#[/ch] [ch]E5[/ch]
+She's the type to fake it[/tab]
+[tab]                  [ch]G[/ch]      [ch]F#[/ch] [ch]G[/ch] [ch]F#[/ch]
+And I aint sayin' nothing[/tab]
+
+[tab][ch]F[/ch]                         [ch]Asus2[/ch]
+        She couldn't care less[/tab]
+[tab]    [ch]F[/ch]
+(oh oh)[/tab]
+[tab]             [ch]Asus2[/ch]
+Wearing that dress[/tab]
+
+[Chorus]
+[tab][ch]E5[/ch]      [ch]C[/ch]                  [ch]Asus2[/ch]
+        Pretty little thing[/tab]
+[tab]    [ch]E5[/ch]
+(oh no)[/tab]
+[tab][ch]C[/ch]                 [ch]Asus2[/ch]
+Hot little thing[/tab]
+[tab][ch]E5[/ch]      [ch]C[/ch]                    [ch]Asus2[/ch]
+        Hot little thing who knows it[/tab]
+[tab]         [ch]G[/ch]                [ch]F#[/ch]              [ch]E5[/ch]
+Don't suppose it would be cool if we hung out?[/tab]
+
+[Bridge]
+[tab][ch]Cmaj7[/ch]                [ch]Dbm7[/ch]
+     We could go out[/tab]
+[tab]                             [ch]Cmaj7[/ch]
+We could go anywhere that you want[/tab]
+[tab]              [ch]Dbm7[/ch]
+We could stay in[/tab]
+[tab]                              [ch]Cmaj7[/ch]
+We could do anything that you want[/tab]
+[tab]            [ch]B7sus4[/ch]
+We could do lunch[/tab]
+[tab]   [ch]Asus2[/ch]
+in Soho[/tab]
+[tab]   [ch]G[/ch]
+Or something[/tab]
+
+[Verse 3]
+[tab][ch]E5[/ch]                       [ch]G[/ch]
+    ´Cos when you walked in[/tab]
+[tab]           [ch]F#[/ch]       [ch]G[/ch]   [ch]F#[/ch] [ch]E5[/ch]
+All I want is the reason[/tab]
+[tab]               [ch]G[/ch]
+To talk to the girl[/tab]
+[tab]           [ch]F#[/ch]       [ch]G[/ch]   [ch]F#[/ch] [ch]E5[/ch]
+Whose grace is so rare[/tab]
+
+[tab]            [ch]G[/ch]
+All my boys say[/tab]
+[tab]             [ch]F#[/ch]   [ch]G[/ch]      [ch]F#[/ch] [ch]E5[/ch]
+You wont get her numbers[/tab]
+[tab]                  [ch]G[/ch]      [ch]F#[/ch] [ch]G[/ch] [ch]F#[/ch]
+And I aint sayin' nothing[/tab]
+
+[ch]F[/ch]    [ch]Asus2[/ch]
+[ch]F[/ch]    [ch]Asus2[/ch]
+
+[Outro]
+[tab][ch]E5[/ch]      [ch]C[/ch]                   [ch]Asus2[/ch]
+        Pretty little thing[/tab]
+[tab]    [ch]E5[/ch]
+(oh no)[/tab]
+[tab][ch]C[/ch]                 [ch]Asus2[/ch]
+Hot little thing[/tab]
+[ch]E5[/ch]
+[tab][ch]C[/ch]                    [ch]Asus2[/ch]
+Hot little thing who knows it[/tab]
+[tab]         [ch]G[/ch]                [ch]F#[/ch]              [ch]E5[/ch]
+Don't suppose it would be cool if we hung out?[/tab]

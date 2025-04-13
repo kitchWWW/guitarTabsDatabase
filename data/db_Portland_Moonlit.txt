@@ -1,0 +1,127 @@
+URL: https://tabs.ultimate-guitar.com/tab/portland/moonlit-chords-4691453
+Artist: Portland
+Song: Moonlit
+Genre: 
+Key: D
+
+
+BPM:      119
+Released: 18 Oct 2019
+Album:    Your Colours will wtain
+
+
+[Chords]
+[Am6    504550]
+
+
+Capo: 2 fret
+
+        Different capo fret positions are easily possible by using the transpose button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example To play this without capo put the transpose button at +2
+                  Half step down tuning put the transpose button at +3
+
+       Capo positie aanpassingen zijn gemakkelijk te maken door de Transpose knop te gebruiken.
+          Transpose -1 is capo een fret hoger; Transpose knop +1 is capo een fret lager.
+          De akkoorden worden automatisch aangepast aan de nieuwe capo positie.
+          Let wel bij gebruik van de transpose functie kunnen de akkoorden iets op de regel
+             verschuiven omwille van de lengte van de akkoord namen.
+          Bv Spelen zonder capo? Zet de transpose knop dan op +2.
+
+
+[Intro]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]C[/ch]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+
+
+[Verse 1]
+[tab]    [ch]C[/ch]         [ch]Cmaj7[/ch]      [ch]C[/ch]    [ch]Cmaj7[/ch]
+The loneliest war you’ve ever seen,[/tab]
+[tab][ch]Am6[/ch]
+Moves across the moonlit streets,[/tab]
+[tab]                [ch]C[/ch]      [ch]Cmaj7[/ch]     [ch]C[/ch] [ch]Cmaj7[/ch]
+Hearts packed in sco o otch  tape,[/tab]
+[tab]                 [ch]Am6[/ch]
+Now there’s  only  moonscape.[/tab]
+
+
+[Verse 2]
+[tab][ch]C[/ch]       [ch]Cmaj7[/ch]   [ch]C[/ch]      [ch]Cmaj7[/ch]
+Candles cry, the tallow drips,[/tab]
+[tab][ch]Am6[/ch]
+You chose for truce and sealed your lips,[/tab]
+[tab]          [ch]C[/ch]       [ch]Cmaj7[/ch] [ch]Cmaj7[/ch]
+What am I yelling at?[/tab]
+[tab]            [ch]Am6[/ch]
+How can you do that?[/tab]
+
+
+[Pre-Chorus]
+[tab]   [ch]G[/ch]            [ch]G7[/ch]  [ch]G[/ch]  [ch]G7[/ch]
+So leave for e  e   e  e  ever.[/tab]
+
+
+[Chorus]
+[tab]    [ch]Am6[/ch]       [ch]Fmaj7[/ch]         [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]
+You ache, and oh my god you brea    eak,[/tab]
+[tab]   [ch]Am6[/ch]                    [ch]Fmaj7[/ch]           [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]
+My heart, while you’re preparing your new sta  a  art,[/tab]
+[tab]    [ch]Am6[/ch]     [ch]C[/ch]     [ch]Cmaj7[/ch]
+You move so heavenly,[/tab]
+[tab]          [ch]Am6[/ch]               [ch]C[/ch]         [ch]Cmaj7[/ch]
+While you prove that you’re done with me,[/tab]
+[tab]       [ch]Fmaj7[/ch]     [ch]G[/ch]
+And it breaks my heart,[/tab]
+[tab]        [ch]Fmaj7[/ch]     [ch]G[/ch]         N.C.
+Yes, it breaks my hea eart, heart.[/tab]
+
+
+[Interlude]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+
+
+[Verse 3]
+[tab]        [ch]C[/ch]       [ch]Cmaj7[/ch]           [ch]C[/ch]    [ch]Cmaj7[/ch]
+And the line is drawn it’s your victory,[/tab]
+[tab][ch]Am6[/ch]
+I’m on my knees now finish me,[/tab]
+[tab]                [ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]C[/ch]  [ch]Cmaj7[/ch]
+There’s nothing le eft of me,[/tab]
+[tab]            [ch]Am6[/ch]
+Yeah, I can guarantee.[/tab]
+
+
+[Pre-Chorus]
+[tab]   [ch]G[/ch]            [ch]G7[/ch]  [ch]G[/ch]  [ch]G7[/ch]
+So leave for e  e   e  e  ever.[/tab]
+
+
+[Chorus]
+[tab]    [ch]Am6[/ch]       [ch]Fmaj7[/ch]         [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]
+You ache, and oh my god you brea    eak,[/tab]
+[tab]   [ch]Am6[/ch]                    [ch]Fmaj7[/ch]           [ch]C[/ch] [ch]Cmaj7[/ch] [ch]G[/ch]
+My heart, while you’re preparing your new sta  a  art,[/tab]
+[tab]    [ch]Am6[/ch]     [ch]C[/ch]     [ch]Cmaj7[/ch]
+You move so heavenly,[/tab]
+[tab]          [ch]Am6[/ch]               [ch]C[/ch]         [ch]Cmaj7[/ch]
+While you prove that you’re done with me,[/tab]
+[tab]       [ch]Fmaj7[/ch]     [ch]G[/ch]
+And it breaks my heart,[/tab]
+[tab]        [ch]Fmaj7[/ch]     [ch]G[/ch]         N.C.
+Yes, it breaks my hea eart, heart.[/tab]
+
+
+[outro]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+[ch]C[/ch]  [ch]Cmaj7[/ch]  [ch]Am6[/ch]
+[tab]   [ch]G[/ch]     [ch]G7[/ch]  N.C.
+So leave for e  e  e  e  ever.[/tab]

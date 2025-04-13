@@ -1,0 +1,130 @@
+URL: https://tabs.ultimate-guitar.com/tab/faber/wer-nicht-schwimmen-kann-der-taucht-chords-2983646
+Artist: Faber
+Song: Wer Nicht Schwimmen Kann Der Taucht
+Genre: 
+Key: Em
+
+
+[Picking Pattern]
+
+  6-string chords       5-string chords       4-string chords
+
+  1 + 2 + 3 + 4 +       1 + 2 + 3 + 4 +       1 + 2 + 3 + 4 +
+
+[tab]e|----------------|    |----------------|    |------X---------|[/tab]
+[tab][ch]B[/ch]|------X---------|    |------X---------|    |----------X---X-|
+G|----------X---X-|    |----------X---X-|    |----------------|
+D|----------------|    |----------------|    |X---X-----------|
+A|----------------|    |X---X-----------|    |----------------|
+E|X---X-----------|    |----------------|    |----------------|[/tab]
+
+
+[Intro]
+
+(play every Em like this)
+
+[tab]   [ch]Em[/ch]              [ch]Em#5[/ch]             [ch]Em[/ch]               [ch]Em[/ch]
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +[/tab]
+[tab]e|----------------|----------------|----------------|----------------|
+B|------0---------|------0h1-------|------0---------|------0---------|
+G|----------0---0-|----------0---0-|----------0---0-|----------0---0-|
+D|----------------|----------------|----------------|----------------|
+A|----------------|----------------|----------------|----------------|
+E|0---0-----------|0---0-----------|0---0-----------|0---0-----------|[/tab]
+
+
+[Verse]
+[tab]              [ch]Em[/ch]
+Mein Dorf ist grau[/tab]
+[tab]                           [ch]G[/ch]
+Mein Alltag und meine Alte auch[/tab]
+[tab]        [ch]D[/ch]                             [ch]Em[/ch]
+Nur die "Bunte" bringt hier Farbe ins Haus[/tab]
+
+Ich träum oft von früher
+[tab]                 [ch]G[/ch]
+Und wie schön es war[/tab]
+[tab]             [ch]D[/ch]                                 [ch]Am[/ch]
+Als man sich heimisch fühlen konnte im eigenen Land[/tab]
+
+
+[Chorus]
+[tab]        [ch]Am[/ch]
+Ich bin bestimmt kein Rassist[/tab]
+[tab]          [ch]C[/ch]                  [ch]B7[/ch]
+Und gegen Ausländer habe ich nichts[/tab]
+[tab]         [ch]Em[/ch]          [ch]D[/ch]                   [ch]Am[/ch]
+Aber ich schau euren Schlauchbooten beim Kentern zu[/tab]
+[tab]        [ch]Em[/ch]                 [ch]D[/ch]             [ch]Am[/ch]
+Im Liegestuhl, am Swimming Pool, am Mittelmeer[/tab]
+[tab]              [ch]Em[/ch]                  [ch]D[/ch]
+Kratz mich am Bart, kratz mich am Bauch[/tab]
+[tab]          [ch]Am[/ch]                  [ch]Em[/ch] [ch]Em#5[/ch] [ch]Em[/ch] [ch]Em[/ch]
+Wer nicht schwimmen kann, der taucht[/tab]
+[tab]                              [ch]C[/ch] [ch]Cmaj7[/ch] [ch]Cmaj7[/ch] [ch]Cmaj7[/ch]
+Wer nicht schwimmen kann, der taucht[/tab]
+[tab]                              [ch]Em[/ch] [ch]Em#5[/ch] [ch]Em[/ch] [ch]Em[/ch]
+Wer nicht schwimmen kann, der taucht[/tab]
+
+
+[Verse]
+[tab]              [ch]Em[/ch]
+Mein Dorf ist grau[/tab]
+[tab]                              [ch]G[/ch]
+Asi-TV, jeden Tag die gleiche Show[/tab]
+[tab]              [ch]D[/ch]                              [ch]Em[/ch]
+Das baut mich auf im Plattenbau, mein Schäferhund[/tab]
+[tab]                                    [ch]G[/ch]
+Ich fliege vogelfrei nach Lampedusa von daheim[/tab]
+[tab]            [ch]D[/ch]                                         [ch]Am[/ch]
+Wenn es mir schlecht geht, seh ich gern, dass es euch schlechter geht[/tab]
+
+
+[Chorus]
+[tab]        [ch]Am[/ch]
+Ich bin bestimmt kein Rassist[/tab]
+[tab]          [ch]C[/ch]                  [ch]B7[/ch]
+Und gegen Ausländer habe ich nichts[/tab]
+[tab]         [ch]Em[/ch]          [ch]D[/ch]                   [ch]Am[/ch]
+Aber ich schau euren Schlauchbooten beim Kentern zu[/tab]
+[tab]        [ch]Em[/ch]                 [ch]D[/ch]             [ch]Am[/ch]
+Im Liegestuhl, am Swimming Pool, am Mittelmeer[/tab]
+[tab]              [ch]Em[/ch]                  [ch]D[/ch]
+Kratz mich am Bart, kratz mich am Bauch[/tab]
+[tab]          [ch]Am[/ch]                  [ch]C[/ch] [ch]Cmaj7[/ch] [ch]Cmaj7[/ch] [ch]Cmaj7[/ch]
+Wer nicht schwimmen kann, der taucht[/tab]
+[tab]                              [ch]Em[/ch] [ch]Em#5[/ch] [ch]Em[/ch] [ch]Em[/ch]
+Wer nicht schwimmen kann, der taucht[/tab]
+[tab]                              [ch]C[/ch] [ch]Cmaj7[/ch] [ch]Cmaj7[/ch] [ch]Cmaj7[/ch]
+Wer nicht schwimmen kann, der taucht[/tab]
+
+
+[Bridge]
+[tab]                         [ch]Am[/ch]
+Und ich meine doch nicht dich[/tab]
+
+Dich kenn ich lange schon
+[tab]    [ch]C[/ch]
+Ich meine all die anderen[/tab]
+[tab]    [ch]B7[/ch]                        [ch]C[/ch]            [ch]D[/ch]
+Die uns täglich bestehlen und in den Parks dealn[/tab]
+[tab]           [ch]G[/ch]            [ch]B7[/ch]
+Früher wär sowas nie passiert[/tab]
+[tab]          [ch]C[/ch]                  [ch]D[/ch]
+Weil's ja sonst hier niemand macht[/tab]
+[tab]             [ch]G[/ch]             [ch]B7[/ch]
+Nehm ich das selber in die Hand[/tab]
+[tab]    [ch]C[/ch]            [ch]D[/ch]        [ch]G[/ch]          [ch]B7[/ch]
+Mit Fahnen und Gesang für unser Vaterland[/tab]
+
+
+[Outro] (strum chords once)
+
+[tab]         [ch]Em[/ch]          [ch]D[/ch]                   [ch]Am[/ch]
+Aber ich schau euren Schlauchbooten beim Kentern zu[/tab]
+        N.C.
+Im Liegestuhl, am Swimming Pool, am Mittelmeer
+
+Kratz mich am Bart, kratz mich am Bauch
+
+Wer nicht schwimmen kann, der taucht

@@ -1,0 +1,164 @@
+URL: https://tabs.ultimate-guitar.com/tab/3314189
+Artist: Joaquín Sabina
+Song: Así Estoy Yo Sin Tí
+Genre: 
+Key: G
+
+
+Así Estoy Yo Sin Tí
+Joaquín Sabina
+Album: Hotel Dulce Hotel - 1987 -
+https://youtu.be/fyCmiBNsajs
+72 bpm - Signature 4/4 -
+
+[ch]A/C#[/ch]    x4222x      [ch]Bm[/ch]      x20230  x24432     [ch]D[/ch]       xx0232
+[ch]A7[/ch]      x02020      [ch]B7[/ch]      x21202             [ch]Dsus4[/ch]   xx0234
+[ch]Am7[/ch]     x02010      [ch]C[/ch]       x32010             [ch]Dsus2[/ch]   xx0230
+[ch]Am[/ch]      x02210      [ch]C/B[/ch]     x2x010  x22010     [ch]D/F#[/ch]    200232  20023x  xx4232
+[ch]Am7/G[/ch]   3x2010      [ch]C/G[/ch]     332010             [ch]Em[/ch]      022000
+[tab][ch]G[/ch]       320033      [ch]C9[/ch]      x32033             [ch]Em7[/ch]     x20000
+* Brush once and let ring[/tab]
+** Little strum in E, a,& d steels
+
+[Intro]
+
+[tab]   [ch]G[/ch]           [ch]Am7[/ch]       [ch]Bm[/ch]         [ch]C[/ch]
+e |-3---3---||-0---0---||-2---2---||-0---0---|
+b |-3---3---||-1---1---||-3---3---||-1---1---|
+g |-0---0---||-0---0---||-4---4---||-0---0---|
+d |---------||---2-----||---4-----||---2-----|
+a |---2-----||-0-----0-||-2-----2-||-3-----3-|
+E |-3-----3-||---------||---------||---------|[/tab]
+
+[tab]    [ch]Bm[/ch]        [ch]Am7[/ch]         [ch]C/G[/ch]      [ch]C[/ch]
+e |-2---2---||-0---0---||-0-------||---------|
+b |-3---3---||-1---1---||-1-------||---------|
+g |-4---4---||-0---0---||-0-------||---------|
+d |---4-----||---2-----||-2-------||-2-------|
+a |-2-----2-||-0-----0-||-3-------||-3-------|
+E |---------||---------||---------||-x-------|
+                          *          **
+-------------------------------------------------------------------------
+[Intro][/tab]
+[tab][ch]G[/ch]  [ch]Am7[/ch]   [ch]Bm[/ch] [ch]C/G[/ch]   [ch]Bm[/ch] [ch]Am7[/ch]   [ch]C/G[/ch]    [ch]C[/ch]
+Patern intro               *      **[/tab]
+
+[Verse 1]
+[tab]  [ch]G[/ch]              [ch]D[/ch]               [ch]G[/ch]     [ch]G[/ch]
+Extraño, como un pato en el manzanares,[/tab]
+[tab][ch]C9[/ch]                [ch]D[/ch]            [ch]G[/ch]    [ch]G[/ch]
+Torpe, como un suicida sin vocación,[/tab]
+[tab]  [ch]C9[/ch]             [ch]D[/ch]             [ch]Em[/ch]    [ch]Em7[/ch]
+Absurdo, como un belga por soleares,[/tab]
+[tab]  [ch]C[/ch]               [ch]A[/ch]  [ch]A/C#[/ch]     [ch]D[/ch]    [ch]D/F#[/ch]
+Vacío, como una isla sin Robinson.[/tab]
+[tab]  [ch]G[/ch]             [ch]D[/ch]                [ch]Em[/ch]    [ch]Em7[/ch]
+Oscuro, como un túnel sin tren expreso,[/tab]
+[tab][ch]C[/ch]               [ch]D[/ch]            [ch]G[/ch]    [ch]G[/ch]
+Negro, como los ángeles de Machin,[/tab]
+[tab]  [ch]B7[/ch]            [ch]B7[/ch]                  [ch]Em[/ch]    [ch]Em7[/ch]
+Febril, como la carta de amor de un preso;[/tab]
+[tab]          [ch]C[/ch]     [ch]A7[/ch]       [ch]A/C#[/ch]     [ch]Dsus4[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]D[/ch]
+Así estoy yo,- así estoy yo,- sin ti.[/tab]
+
+[Chorus 1]
+[tab]   [ch]Am[/ch]            [ch]C/G[/ch]                 [ch]G[/ch]
+Perdido, como un quinto en día de permiso,[/tab]
+[tab]        [ch]D/F#[/ch]          [ch]Em[/ch]
+Como un santo sin paraíso,[/tab]
+[tab]         [ch]Em7[/ch]        [ch]C[/ch]     [ch]C/B[/ch]
+Como el ojo del maniquí;[/tab]
+[tab]  [ch]Am[/ch]            [ch]Am7/G[/ch]          [ch]D/F#[/ch]
+Huraño, como un dandi con lamparones,[/tab]
+[tab]        [ch]D[/ch]             [ch]Am[/ch]
+Como un barco sin polizones;[/tab]
+[tab] [ch]Am7/G[/ch]           [ch]Dsus4[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]D[/ch]
+Así estoy yo sin ti.[/tab]
+[tab]      [ch]Am[/ch]              [ch]C[/ch]
+Más triste que un torero[/tab]
+[tab]   [ch]G[/ch]         [ch]D/F#[/ch]          [ch]C/G[/ch]      [ch]C[/ch]
+Al otro lado del telón de acero. *  **[/tab]
+
+[Bridge]
+[tab] [ch]G[/ch]        [ch]Am7[/ch]
+Así estoy yo,[/tab]
+[tab] [ch]Bm[/ch]       [ch]C[/ch]
+Así estoy yo,[/tab]
+[tab] [ch]Bm[/ch]       [ch]Am7[/ch]      [ch]C/G[/ch]    [ch]C[/ch]
+Así estoy yo,- sin ti-.[/tab]
+
+[Verse 2]
+[tab]   [ch]G[/ch]             [ch]D[/ch]                   [ch]G[/ch]     [ch]G[/ch]
+Vencido, como un viejo que pierde al tute,[/tab]
+[tab]   [ch]C9[/ch]            [ch]D[/ch]            [ch]G[/ch]    [ch]G[/ch]
+Lascivo, como el beso del coronel,[/tab]
+[tab]   [ch]C9[/ch]            [ch]D[/ch]                  [ch]Em[/ch]     [ch]Em7[/ch]
+Furtivo, como el Lute cuando era el Lute, Hey![/tab]
+[tab]  [ch]C[/ch]               [ch]A/C#[/ch]             [ch]D[/ch]    [ch]D/F#[/ch]
+Inquieto, como un párroco en un burdel.[/tab]
+[tab]  [ch]G[/ch]              [ch]D[/ch]             [ch]Em[/ch]    [ch]Em7[/ch]
+Errante, como un taxi por el desierto,[/tab]
+[tab]   [ch]C[/ch]             [ch]D[/ch]              [ch]G[/ch]    [ch]G[/ch]
+Quemado, como el cielo de Chernobil,[/tab]
+[tab][ch]B7[/ch]            [ch]B7[/ch]              [ch]Em[/ch]    [ch]Em7[/ch]
+Solo, como un poeta en el aeropuerto;[/tab]
+[tab]          [ch]C[/ch]     [ch]A7[/ch]       [ch]A/C#[/ch]     [ch]Dsus4[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]D[/ch]
+Así estoy yo,- así estoy yo.- sin ti.[/tab]
+
+[Chorus 2]
+[tab] [ch]Am[/ch]             [ch]C[/ch]               [ch]G[/ch]
+Inútil, como un sello por triplicado,[/tab]
+[tab]        [ch]D/F#[/ch]             [ch]Em[/ch]
+Como el semen de los ahorcados,[/tab]
+[tab]        [ch]Em7[/ch]            [ch]C[/ch]     [ch]C/B[/ch]
+Como el libro del porvenir;[/tab]
+[tab]    [ch]Am[/ch]            [ch]Am7/G[/ch]          [ch]D/F#[/ch]
+Violento, como un niño sin cumpleaños[/tab]
+[tab]        [ch]D[/ch]                [ch]Am[/ch]
+Como el perfume del desengaño,[/tab]
+[tab] [ch]Am7/G[/ch]           [ch]Dsus4[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]D[/ch]
+Así estoy yo sin ti.[/tab]
+[tab]    [ch]Am[/ch]                [ch]C[/ch]
+Más triste que un torero[/tab]
+[tab]   [ch]G[/ch]         [ch]D/F#[/ch]          [ch]C/G[/ch]     [ch]C[/ch]
+Al otro lado del telón de acero.*  **[/tab]
+
+[Bridge]
+[tab] [ch]G[/ch]        [ch]Am7[/ch]
+Así estoy yo,[/tab]
+[tab] [ch]Bm[/ch]       [ch]C[/ch]
+Así estoy yo,[/tab]
+[tab] [ch]Bm[/ch]       [ch]Am7[/ch]      [ch]C/G[/ch]   [ch]C[/ch]
+Así estoy yo,- sin ti-.[/tab]
+
+[Instrumental]
+[ch]G[/ch]  [ch]D/F#[/ch] [ch]Em[/ch] [ch]Em7[/ch]
+[ch]C[/ch]  [ch]D[/ch]    [ch]G[/ch]  [ch]G[/ch]
+[ch]B7[/ch] [ch]B7[/ch]   [ch]Em[/ch] [ch]Em7[/ch]
+[ch]C[/ch]  [ch]A2[/ch]   [ch]Dsus4[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]D[/ch]
+
+[Chorus 3]
+[tab] [ch]Am[/ch]             [ch]C[/ch]           [ch]G[/ch]
+Amargo, como el vino del exiliado,[/tab]
+[tab]        [ch]D/F#[/ch]            [ch]Em[/ch]
+Como el domingo del jubilado,[/tab]
+[tab]         [ch]Em7[/ch]           [ch]C[/ch]     [ch]C/B[/ch]
+Como una boda por lo civil.[/tab]
+[tab]  [ch]Am[/ch]             [ch]Am7/G[/ch]            [ch]D/F#[/ch]
+Macabro, como el vientre de los misiles,[/tab]
+[tab]        [ch]D[/ch]               [ch]Am[/ch]
+Como un pájaro en un desfile,[/tab]
+[tab] [ch]C[/ch]               [ch]Dsus4[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]D[/ch]
+Así estoy yo sin ti.[/tab]
+[tab]      [ch]Am[/ch]              [ch]C[/ch]
+Más triste que un torero[/tab]
+[tab]   [ch]G[/ch]         [ch]D/F#[/ch]          [ch]C/G[/ch]    [ch]C[/ch]
+Al otro lado del telón de acero.* **[/tab]
+
+[Outro]
+[tab] [ch]G[/ch]        [ch]Am7[/ch]
+Así estoy yo,[/tab]
+[tab] [ch]Bm[/ch]       [ch]C[/ch]
+Así estoy yo,[/tab]
+[tab] [ch]Bm[/ch]       [ch]Am7[/ch]      [ch]C/G[/ch]   [ch]C[/ch]    [ch]G[/ch]
+Así estoy yo,- sin tiiiiiiiii.*...fade brushing G once and let ring.[/tab]

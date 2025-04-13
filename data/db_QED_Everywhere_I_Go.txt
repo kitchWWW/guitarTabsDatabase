@@ -1,0 +1,139 @@
+URL: https://tabs.ultimate-guitar.com/tab/qed/everywhere-i-go-chords-3363572
+Artist: QED
+Song: Everywhere I Go
+Genre: 
+Key: Am
+
+
+Everywhere I Go - QED (other releases are by Jenny Morris, the lead singer).
+From 1984's "Animal Magic".
+
+Notes: you can follow the vocal in the chorus and play F, F6, Fmaj7 if you want to emulate the lead line.
+Note that the recording is slightly sharp. Also, the Bm - Am - Em sequence at the end of each chorus is power
+chords, but I think minor chords work well, followed by the E major as played by the synth. Jenny Morris' solo
+version has a different chord progression in the chorus. Solo chords are the same as the chorus.
+
+
+[Intro]
+4x riff
+4x Am(add9)
+
+[Verse]
+[tab][ch]Am(add9)[/ch]
+I see you everywhere I go[/tab]
+[tab][ch]Am(add9)[/ch]
+Can't bring myself to say hello hello[/tab]
+[tab][ch]Dm[/ch]
+I speak and I'm quite sure you hear[/tab]
+[tab][ch]Am(add9)[/ch]
+I know you want to 'cause you've made it clear[/tab]
+
+[Chorus]
+[tab][ch]F[/ch]
+Everywhere I go[/tab]
+[tab][ch]F[/ch]
+Everywhere I go[/tab]
+[tab]       [ch]C[/ch]       [ch]C9[/ch]
+You're there[/tab]
+[tab][ch]F[/ch]
+Is it a coincidence[/tab]
+[tab][ch]F[/ch]
+That everywhere I go[/tab]
+[tab]       [ch]C[/ch]
+You're there[/tab]
+[tab][ch]Bm[/ch]          [ch]Am[/ch]         [ch]Em[/ch]
+Could it be you really care[/tab]
+
+[Verse]
+[tab][ch]Am(add9)[/ch]
+I got your eye in my direction[/tab]
+[tab][ch]Am(add9)[/ch]
+You seem to smile and then walk away[/tab]
+[tab][ch]Dm[/ch]
+I know we're running the same line[/tab]
+[tab][ch]Am(add9)[/ch]
+You know it's only a matter of time[/tab]
+
+[Chorus]
+[tab][ch]F[/ch]
+Everywhere I go[/tab]
+[tab][ch]F[/ch]
+Everywhere I go[/tab]
+[tab]       [ch]C[/ch]      [ch]C9[/ch]
+You're there[/tab]
+[tab][ch]F[/ch]
+Is it a coincidence[/tab]
+[tab][ch]F[/ch]
+That everywhere I go[/tab]
+[tab]       [ch]C[/ch]
+You're there[/tab]
+[tab][ch]Bm[/ch]          [ch]Am[/ch]         [ch]Em[/ch]           [ch]E[/ch]
+Could it be you really care[/tab]
+
+[Bridge]
+[tab][ch]Dm[/ch]                           [ch]Am[/ch]
+Playing this game of cat and mouse[/tab]
+[tab][ch]Am[/ch]
+Is so exciting[/tab]
+[tab][ch]Dm[/ch]
+But isn't it about time[/tab]
+[tab]        [ch]E[/ch]
+That we lit the fire[/tab]
+
+[Solo]
+
+[ch]F[/ch]      [ch]F[/ch]      [ch]C[/ch]      [ch]C9[/ch]
+[ch]F[/ch]      [ch]F[/ch]      [ch]C[/ch]
+[ch]B5[/ch]  [ch]A5[/ch]   [ch]E5[/ch]  [ch]E[/ch]
+
+[Bridge]
+[tab][ch]Dm[/ch]                           [ch]Am[/ch]
+Playing this game of cat and mouse[/tab]
+[tab][ch]Am[/ch]
+Is so exciting[/tab]
+[tab][ch]Dm[/ch]
+But isn't it about time[/tab]
+[tab]        [ch]E[/ch]
+That we lit the fire[/tab]
+
+
+[Chorus]
+[tab][ch]F[/ch]
+Everywhere I go[/tab]
+[tab][ch]F[/ch]
+Everywhere I go[/tab]
+[tab]       [ch]C[/ch]       [ch]C9[/ch]
+You're there[/tab]
+[tab][ch]F[/ch]
+Is it a coincidence[/tab]
+[tab][ch]F[/ch]
+That everywhere I go[/tab]
+[tab]       [ch]C[/ch]
+You're there[/tab]
+[tab][ch]B5[/ch]          [ch]A5[/ch]         [ch]E5[/ch]
+Could it be you really care[/tab]
+
+[tab][ch]F[/ch]
+Everywhere I go[/tab]
+[tab][ch]F[/ch]
+Everywhere I go[/tab]
+[tab]       [ch]C[/ch]       [ch]C9[/ch]
+You're there[/tab]
+[tab][ch]F[/ch]
+Is it a coincidence[/tab]
+
+That everywhere I go
+[tab]       [ch]C[/ch]
+You're there[/tab]
+[tab][ch]B5[/ch]          [ch]A5[/ch]         [ch]E5[/ch]
+Could it be you really care[/tab]
+
+[Outro]
+[tab][ch]Am(add9)[/ch]
+Yeah Babe[/tab]
+[tab][ch]Am(add9)[/ch]
+Everywhere I go you're there[/tab]
+[tab][ch]Am(add9)[/ch]
+You're there[/tab]
+[tab][ch]Am(add9)[/ch]
+You're there[/tab]

@@ -1,0 +1,74 @@
+URL: https://tabs.ultimate-guitar.com/tab/los-natas/tomatito-chords-1630498
+Artist: Los Natas
+Song: Tomatito
+Genre: 
+Key: 
+
+
+S: slide
+X: cuerda enmudecida
+
+[tab]Base y rasgueo:
+     [ch]E[/ch]         [ch]Fmaj7/#11[/ch]
+Mi:---0---0---0-0-0-0-]
+Si:---0---0---0-0-0-0-]
+Sol:--1---1---1-2-2-2-]
+Re:---2---2---2-3-3-3-]
+La:---2---2---2-3-3-3-]
+Mi:--0-0-0-0-0-0------][/tab]
+
+Intro: Rasgueo x2
+
+Y los acordes acompañan al canto más o menos así:
+
+[tab]                   Si te digo que soy   la tierra que baña
+Mi:---0---0---0-0-x----------------0---0---0----------0---
+Si:---0---0---0-0-x----------------0---0---0----------0---
+Sol:--1---1---1-2-x----------------1---1---2----------2---
+Re:---2---2---2-3-x----------------2---2---3----------3---
+La:---2---2---2-3-x----------------2---2---3----------3---
+Mi:--0-0-0-0-0-0--x---------------0-0-0-0-----------------[/tab]
+
+[tab]El firmamento
+---0---------0---0---0-0-]
+---0---------0---0---0-0-]
+---2---------1---1---1-2-] Y vuelve a empezar
+---3---------2---2---2-3-]
+---3---------2---2---2-3-]
+------------0-0-0-0-0-0--][/tab]
+
+
+Si te digo que soy
+La tierra que baña el firmamento
+Si te digo que voy
+Toreando la corrida de la vida
+
+(Entre las dos estrofas mete
+algunos arreglos improvisados,
+usando siempre como base el rasgueo del principio)*
+
+Si te digo que soy
+El agua que recorre estos caminos
+Si te digo que soy
+El que baila paso a paso con la muerte
+
+Estribillo (se repite 3 veces)
+[tab][ch]Am[/ch] - [ch]G[/ch] - [ch]Fmaj7/6[/ch]         [ch]E[/ch]
+                    Te mentiría.[/tab]
+
+*Un ejemplo de esos arreglos es este:
+
+[tab]Mi:---0---0---0-----------------0---0-]
+Si:---0---0---0-1s7-5-4-5-4-2-1-0---0-]
+Sol:--1---1---1-----------------1---1-]
+Re:---2---2---2-----------------2---2-]
+La:---2---2---2-----------------2---2-]
+Mi:--0-0-0-0-0-0---------------0-0-0--][/tab]
+
+[tab][ch]Fmaj7/6[/ch]
+Mi:--0-][/tab]
+[tab][ch]B[/ch]:--3-]
+Sol:-2-][/tab]
+[tab][ch]D[/ch]:--3-]
+La:--3-][/tab]
+[ch]E[/ch]:--0-]

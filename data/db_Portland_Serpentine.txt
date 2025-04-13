@@ -1,0 +1,104 @@
+URL: https://tabs.ultimate-guitar.com/tab/portland/serpentine-chords-4688939
+Artist: Portland
+Song: Serpentine
+Genre: 
+Key: G
+
+
+BPM:      98
+Released: 17 Mar 2023  (Vandaag!!)
+Album:    Departures
+
+
+Note: Use the tab as in the intro a guidance.
+      You can also just maintain the Em chord.
+
+
+Capo: 3 fret
+
+        Different capo fret positions are easily possible by using the transpose button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example To play this without capo put the transpose button at +3
+                  Half step down tuning put the transpose button at  +4
+
+       Capo positie aanpassingen zijn gemakkelijk te maken door de Transpose knop te gebruiken.
+          Transpose -1 is capo een fret hoger; Transpose knop +1 is capo een fret lager.
+          De akkoorden worden automatisch aangepast aan de nieuwe capo positie.
+          Let wel bij gebruik van de transpose functie kunnen de akkoorden iets op de regel
+             verschuiven omwille van de lengte van de akkoord namen.
+          Bv Spelen zonder capo? Zet de transpose knop dan op +3.
+
+
+[Intro]
+[ch]Em[/ch]    [ch]Esus4[/ch]  [ch]Em[/ch]
+[ch]Em[/ch]    [ch]Esus4[/ch]  [ch]Em[/ch]
+[ch]Em[/ch]    [ch]Esus4[/ch]  [ch]Em[/ch]
+[ch]Em[/ch]    [ch]Esus4[/ch]  [ch]Em[/ch]
+
+
+[tab][Intro]
+   [ch]Em[/ch]              [ch]Esus4[/ch] [ch]Em[/ch]
+e|--0----1--0---0--0--0--1--0--|
+B|--0----0--0---0--0--0--0--0--|
+G|--0----0--0---0--2--0--0--0--|
+D|--2----3--2---2--2--2--3--2--|
+A|--2----2--2---2--2--2--2--2--|
+E|--0----0--0---0--0--0--0--0--|[/tab]
+
+
+[Verse 1]
+[tab][ch]Em[/ch]                               [ch]Esus4[/ch]     [ch]Em[/ch]
+Serpentine you once were mine, tomorrow is still a very long time,[/tab]
+[tab][ch]Em[/ch]                                       [ch]Esus4[/ch]      [ch]Em[/ch]
+You show up near, you disappear, there’s always something wrong up here.[/tab]
+
+
+[Chorus]
+[tab]      [ch]G[/ch]          [ch]C[/ch]     [ch]G[/ch]        [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Am[/ch]
+Serpentine, in a heart shaped design,[/tab]
+[tab]      [ch]G[/ch]              [ch]C[/ch]  [ch]G[/ch]      [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Am[/ch] [ch]Asus4[/ch]
+Serpentine, will you e--ver be mine.[/tab]
+
+
+[Verse 2]
+[tab][ch]Em[/ch]                               [ch]Esus4[/ch]   [ch]Em[/ch]
+Hard to get, so easy upset, your love disguises itself as a threat,[/tab]
+[tab][ch]Em[/ch]                                              [ch]Esus4[/ch] [ch]Em[/ch]
+You’re lustful as well, it’s easy to tell, I’ll never know how to handle this well.[/tab]
+
+
+[Chorus]
+[tab]      [ch]G[/ch]          [ch]C[/ch]     [ch]G[/ch]        [ch]Am[/ch]  [ch]Asus2[/ch] [ch]Am[/ch]
+Serpentine, in a heart shaped design,[/tab]
+[tab]      [ch]G[/ch]              [ch]C[/ch]  [ch]G[/ch]      [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Am[/ch] [ch]Asus4[/ch]
+Serpentine, will you e--ver be mine.[/tab]
+
+
+[Instrumental]
+[ch]C[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]Am[/ch]
+[ch]F[/ch]  [ch]C[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]Am[/ch]
+[ch]C[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]Am[/ch]
+[ch]F[/ch]  [ch]C[/ch]  [ch]G[/ch]  [ch]Am[/ch] Aml
+
+
+[Verse 3]
+[tab][ch]Em[/ch]                                     [ch]Esus4[/ch]   [ch]Em[/ch]
+Flower girl with eyes like pearls, creating drawings full of curls,[/tab]
+[tab][ch]Em[/ch]                           [ch]Esus4[/ch]          [ch]Em[/ch]
+So heavenly, tremendously, I wish you could take me more seriously.[/tab]
+
+
+[Chorus]
+[tab]      [ch]G[/ch]          [ch]C[/ch]     [ch]G[/ch]        [ch]Am[/ch]
+Serpentine, in a heart shaped design,[/tab]
+[tab]      [ch]G[/ch]              [ch]C[/ch]  [ch]G[/ch]      [ch]Am[/ch]   [ch]Asus2[/ch] [ch]Am[/ch] [ch]Asus4[/ch]
+Serpentine, will you e--ver be mine.[/tab]
+
+
+[Outro]
+[ch]Em[/ch]    [ch]Esus4[/ch]  [ch]Em[/ch]
+[ch]Em[/ch]    [ch]Esus4[/ch]  [ch]Em[/ch]
+[ch]Em[/ch]

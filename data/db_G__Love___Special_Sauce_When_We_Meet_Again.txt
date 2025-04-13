@@ -1,0 +1,130 @@
+URL: https://tabs.ultimate-guitar.com/tab/g-love-special-sauce/when-we-meet-again-tabs-123253
+Artist: G. Love & Special Sauce
+Song: When We Meet Again
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+#-- File created with Instab - http://www.pconline.com/~smcarey/instab.html --#
+#-----------------------------------------------------------------------------#
+
+title: 				when we meet again
+witten & performed by: 		g. love
+album:				yeah, it's that easy (g.love & special sauce)
+transcribed by:			sebas (sebasraaijmakers@tiscali.nl)
+
+"when we meet again" is a strange song, because he doesn't play whole chords.
+he only plays parts of chords. bassline is most important thing, don't let the
+chord names mislead you; it's actually quite easy to play.
+when I play it like this it sounds really nice, so here it is.
+
+first the chords used:
+
+D		xx023x
+D		xx0232
+D/C#		x4023x
+Bm#5		x2003x
+D/A		x0023x
+C		x3201x
+Csus2/B (G)	x2001x
+Am7   (C/A)	x0201x
+G		320003
+G		3200xx
+Gsus2/F#	2000xx
+G6-5sus4	3x2013
+G 	(end)	3554xx
+
+
+G.Love - When we meet again
+
+
+intro
+
+D	D/C#	Bm#5	D/A    C	Csus2/B	C/A	G
+
+verse 1
+
+D		   D/C	     Bm#5		D/A
+Springtime is here, and the wind from the south
+
+	C		Csus2/B	Am7		G		(repeat chords)
+Blows strong and warm, to clean out your house
+
+
+The sun has arisen and the lies that were told
+are driven outside with the freezing cold
+
+I can remember a spring just like this
+I was 19 years old, now the time is sorely missed
+The first year that I left my mother's house
+Out to make my way in this world somehow  (G)
+
+
+chorus  (harp solo)
+play 3 times
+
+[tab]rif:							C	Csus2/B  Gsus2/F#  G
+----------------------------------------|
+----------------------------------------|
+----------------------0--0--0--0--0-----|
+--------------0---2/4----4--4--4\\2--0--|
+-------0--2-----------------------------|
+----------------------------------------|[/tab]
+
+
+intro
+
+verse 2
+
+I can't believe how the times they have changed
+All the dreams that came through still seem so far away
+I remember the day sittin'on the front porch
+With the sun beatin' down in my neighborhood
+I'd sit out all night singin' songs to the moon
+Or try and get some sweet honey back to my bedroom
+
+
+chorus
+intro
+
+
+verse 3
+
+My friends they were few but to me they were true
+All we was trying to do was just make it thru
+Always thought for the future, but we shouldn't have cared
+all the best things in life we shared them right there
+
+
+chorus
+
+third time play:
+
+rif   C 	Csus2/B 	Am7			D			G
+
+rif	C	Csus2/B	Gsus2/F#		G
+
+intro  2x
+
+
+verse 4
+So to all those old friends God be with them
+I wish, I wish I could see you again
+In the same corner bar where it all started from
+Dig your plow so deep now the stars have all gone
+
+So wherever they shine may it be warm and bright
+Out to ease my mind on this worried night
+It all seemed so simple and good tidings I send
+I'll never forget that one year that we spent
+
+
+chorus
+
+third time play (outro):
+
+rif 	C	Csus2/B	Am7	D	G 	G6-5sus4	G	G(end)

@@ -1,0 +1,68 @@
+URL: https://tabs.ultimate-guitar.com/tab/paul-stewart/glass-skull-tabs-1218089
+Artist: Paul Stewart
+Song: Glass Skull
+Genre: 
+Key: 
+
+
+Hey everyone. This is my very first tab and I finally feel like a contributing member of society.
+
+So, I'm not going to tab the strumming because it's super easy and I feel like I might
+make it more confusing if I attempt to, so just ear it out. **IMPORTANT** Paul Stewart
+does some strumming on the upper strings between chords that I did not tab, so listen 
+for that. Chord names should be pretty accurate.
+
+Standard Tuning
+
+[tab]  Gmaj7            C/G
+E|--x------x--x--x--x--|
+B|--x------x--x--x--x--|
+G|--x------x--x--x--x--|
+D|--4------4--2--0--2--|
+A|--5------5--5--5--3--|
+E|--3------3--3--3--3--|
+  1st time (0:00-0:50)
+  2nd time (1:21-1:49)
+  3rd time (2:48-3:20)[/tab]
+
+
+[tab]   Gmaj7  Cmaj7    F/C     C/G
+E|--x-------x-------x-------x--|
+B|--x-------x-------x-------x--|
+G|--x-------4-------2-------x--| (play twice, 2nd time play last chord twice)
+D|--4-------5-------3-------2--|
+A|--5-------3-------3-------3--|
+E|--3-------x-------x-------3--|
+  1st time(0:50-1:20)
+  2nd time(1:49-2:19)[/tab]
+
+[tab]    B7    C/G
+E|--x------x--|
+B|--x------x--|
+G|--2------x--|
+D|--1------2--| (hold last chord)
+A|--2------3--|
+E|--x------3--|
+  (2:20-2:27)[/tab]
+
+[tab]  Gmaj7 C/G Gmaj7 C/G Gmaj7 C/G  Am      Gmaj7 C/G
+E|--x----x----x----x----x----x----x--------x----x--|
+B|--x----x----x----x----x----x----1--------x----x--|
+G|--x----x----x----x----x----x----2--------x----x--| (then repeat beginning)
+D|--4----2----4----2----4----2----2--------4----2--|
+A|--5----3----5----3----5----3----0--------5----3--|
+E|--3----3----3----3----3----3----x--------3----3--|
+  (2:28-2:48)[/tab]
+
+
+
+
+
+Piano part at very end:
+
+[tab]E|---------------------------------------------------------------------|
+B|--------5--------------------5-----------------5---------------------|
+G|--7--7-----4--2-----0--7--7-----4--0-----7--7-----4-----4--5--4------|(0)
+D|---------------------------------------------------------------------|
+A|---------------------------------------------------------------------|
+E|---------------------------------------------------------------------|[/tab]

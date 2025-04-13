@@ -1,0 +1,225 @@
+URL: https://tabs.ultimate-guitar.com/tab/5591901
+Artist: Corbeau
+Song: Jlâche Pas
+Genre: 
+Key: C
+
+
+Version
+-------
+Album: Fou, 1981
+Durée: 4:46 (duration)
+Youtube: https://www.youtube.com/watch?v=0aJhz7LMIRY
+
+Translation
+-----------
+Couplet  Verse
+Mesures  Measures
+Refrain  Chorus
+
+Notes de l'auteur pour chaque partie de chanson
+-----------------------------------------------
+1re ligne d'une partie de chanson: la séquence d'accords de cette partie
+2e ligne: information utile interdite dans la 1re ligne
+- la durée en nombre de temps de chaque accord de la 1re ligne
+- groupe d'accords répétés ()
+- mesures |
+- chiffrage de mesure 4/4, 12/8, etc.
+- tablature à jouer TAB
+- quand jouer(+) ou ne pas jouer(-) d'un instrument:
+  GT guitare, KB clavier, BS basse, DR batterie, AL tous les instruments
+Example: à la guitare, accord F/C 4 temps et accord C 4 temps, repété 2 fois;
+         ensuite continuer avec tous les instruments
+[tab]*                                       *           [ch]F/C[/ch]  [ch]C[/ch]    x2
+*                                       *4/4 +GT (| :4 | :4 |)  +AL[/tab]
+
+Author's notes for each song part
+---------------------------------
+1st line of song part: the chord sequence of the part
+2nd line: useful info not allowed in 1st line
+- the duration in beats of each chord of the 1st line
+- repeated chords group ()
+- measures |
+- time signature 4/4, 12/8, etc.
+- tablature to play TAB
+- start+ or stop- playing instruments:
+  GT guitar, KB keyboard, BS bass, DR drums, AL all instruments
+Example: on guitar, F/C chord 4 beats and C chord 4 beats, repeated 2 times;
+         then continue will all instruments
+[tab]*                                       *           [ch]F/C[/ch]  [ch]C[/ch]    x2
+*                                       *4/4 +GT (| :4 | :4 |)  +AL[/tab]
+
+[tab]Riff intro
+e|-----------------------|   e|---------------------------------------|
+B|5---3---5---6---5---3--|   B|6---5-3-5-------5----------------------|
+G|-----------------------|   G|---------------------------------------|
+D|-----------------------|   D|---------------------------------------|
+A|-----------------------|   A|---------------------------------------|
+E|-----------------------|x9 E|---------------------------------------|
+  1   &   2   &   3   &        1   &   2   &   3   &   4   &   5   &[/tab]
+
+[tab]Riff outro
+ e|-------------------------------|   e|---------------|      e|7-------7---8---7------|
+ B|-------------------------------|   B|--------5------|      B|----8---------------8--|
+ G|--------5-------2---3----------|   G|--------5------|      G|-----------------------|
+ D|------------------------5------|   D|--------5------|      D|-----------------------|
+ A|3---3--------------------------|   A|3---3----------|      A|-----------------------|
+(E|-------------------------------|x2 E|---------------|x4)x4 E|-----------------------|x5
+   1   &   2   &   3   &   4   &        1   &   2   &           1   &   2   &   3   &[/tab]
+
+Accords (chords)
+----------------
+[ch]F/C[/ch]     x3x211 xx756x
+[ch]C[/ch]       x32010 xx555x
+[ch]C5[/ch]      x35xxx 8x5xxx
+[ch]Bb/C[/ch]    x3x331 xx876x
+[ch]C7[/ch]      x3x310 xx855x
+[ch]Fsus4[/ch]   133311
+[ch]F[/ch]       133211
+[ch]Gsus4[/ch]   355533
+[ch]G[/ch]       355433
+[ch]Asus4[/ch]   577755
+[ch]Am[/ch]      577555
+[tab][ch]D5[/ch]      x577xx
+accord suivi de * = plaquer une fois (chord followed by * = strum once)[/tab]
+
+===============================
+Compter 1 & 2 & 3 & 4 & (Count)
+===============================
+[Intro]
+[tab]*                                       *       [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]C5[/ch]   x2
+*                                       *4/4 (| :½  :½ :3 | :½   :½ :3 | :½  :½ :3 | :4 |)[/tab]
+[ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]  [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]  [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch] x2
+
+[Couplet 1]
+[tab]*                                       *   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]C5[/ch]   x4
+*                                       *(| :½  :½ :3 | :½   :½ :3 | :½  :½ :3 | :4 |)[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]     [ch]C5[/ch]             [ch]Bb/C[/ch]  [ch]C7[/ch]      [ch]C5[/ch]    [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    Tu m'avais dit qu'tu m'aimerais toujours[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]        [ch]C5[/ch]            [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]    [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    J'aurais dû savoir que tu   mentais[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]         [ch]C5[/ch]           [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]   [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    Tu m'fais l'effet d'un contre-jour[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]        [ch]C5[/ch]           [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]C5[/ch]    [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    Quand tu prétends m'aimer     d'amour[/tab]
+
+[Refrain 1]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]F/C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                   [ch]F/C[/ch]
+     J'lâche pas, moé j'sais où j'm'en vas[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]
+     J'lâche pas[/tab]
+
+[Instrumental intro]
+[tab]*                                       *   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]C5[/ch]   x2
+*                                       *(| :½  :½ :3 | :½   :½ :3 | :½  :½ :3 | :4 |)[/tab]
+[ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]  [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]  [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch] x2
+
+[Couplet 2]
+[tab]*                                       *   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]C5[/ch]   x4
+*                                       *(| :½  :½ :3 | :½   :½ :3 | :½  :½ :3 | :4 |)[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]      [ch]C5[/ch]        [ch]Bb/C[/ch] [ch]C7[/ch]  [ch]C5[/ch]  [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    Encore faut-il oublier le rêve[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]          [ch]C5[/ch]                    [ch]Bb/C[/ch] [ch]C7[/ch]  [ch]C5[/ch]       [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    J'sais pas vraiment comment faire     au- autrement[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]            [ch]C5[/ch]            [ch]Bb/C[/ch]  [ch]C7[/ch] [ch]C5[/ch]   [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    Faudrait que j'apprenne de temps en temps[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]   [ch]C5[/ch]   [ch]Bb/C[/ch] [ch]C7[/ch]   [ch]C5[/ch]        [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    À réagir drette  sur le champ[/tab]
+
+[Refrain 2]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]F/C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                   [ch]F/C[/ch]
+     J'lâche pas, moé j'sais où j'm'en vas[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]
+     J'lâche pas[/tab]
+
+[Post-refrain 1]
+[tab]*                                       *  [ch]Fsus4[/ch] [ch]F[/ch]     [ch]Gsus4[/ch] [ch]G[/ch]     [ch]Asus4[/ch] [ch]Am[/ch]    [ch]Am[/ch] [ch]G[/ch]
+*                                       *| :1½   :2½ | :1½   :2½ | :1½   :2½ | :2 :2 |[/tab]
+[tab]*                                       *  [ch]Fsus4[/ch] [ch]F[/ch]     [ch]Gsus4[/ch] [ch]G[/ch]     [ch]F/C[/ch]  [ch]F/C[/ch]  [ch]C[/ch]    [ch]C[/ch]
+*                                       *| :1½   :2½ | :1½   :2½ | :4 | :4 | :4 | :4 |[/tab]
+[ch]Fsus4[/ch] [ch]F[/ch]  [ch]Gsus4[/ch] [ch]G[/ch]  [ch]Asus4[/ch] [ch]Am[/ch]  [ch]G[/ch]  [ch]Fsus4[/ch] [ch]F[/ch]  [ch]Gsus4[/ch] [ch]G[/ch]  [ch]F/C[/ch]  [ch]C[/ch]
+
+[Couplet 3]
+[tab]*                                       *   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]C5[/ch]   x4
+*                                       *(| :½  :½ :3 | :½   :½ :3 | :½  :½ :3 | :4 |)[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]           [ch]C5[/ch]          [ch]Bb/C[/ch]  [ch]C7[/ch] [ch]C5[/ch]  [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    J'suis peut-être pas la femme idéale[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]         [ch]C5[/ch]          [ch]Bb/C[/ch] [ch]C7[/ch]   [ch]C5[/ch]       [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    J'suis plutôt du genre     internationale[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]     [ch]C5[/ch]             [ch]Bb/C[/ch] [ch]C7[/ch]      [ch]C5[/ch]  [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    Si ça t'intéresse pas     de m'garder[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]      [ch]C5[/ch]                    [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]C5[/ch]         [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]
+    Ça m'dérange pas j'en connais     d'autres que toé[/tab]
+
+[Refrain 3]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]F/C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                   [ch]F/C[/ch]
+     J'lâche pas, moé j'sais où j'm'en vas[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]
+     J'lâche pas[/tab]
+
+[Post-refrain 2]
+[tab]*                                       *  [ch]F[/ch]    [ch]G[/ch]    [ch]Am[/ch]   [ch]Am[/ch] [ch]G[/ch]    [ch]F[/ch]    [ch]G[/ch]    [ch]F/C[/ch]  [ch]F/C[/ch]  [ch]C[/ch]    [ch]C[/ch]
+*                                       *| :4 | :4 | :4 | :2 :2 | :4 | :4 | :4 | :4 | :4 | :4 |[/tab]
+[ch]F[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]G[/ch]  [ch]F[/ch]  [ch]G[/ch]  [ch]F/C[/ch]  [ch]C[/ch]
+
+[Instrumental couplet]
+[tab]*                                       *   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]   [ch]F/C[/ch] [ch]C[/ch]  [ch]C5[/ch]   [ch]C5[/ch]   x4
+*                                       *(| :½  :½ :3 | :½   :½ :3 | :½  :½ :3 | :4 |)[/tab]
+[ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch]  [ch]Bb/C[/ch] [ch]C7[/ch] [ch]C5[/ch]  [ch]F/C[/ch] [ch]C[/ch] [ch]C5[/ch] x4
+
+[Refrain 4]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]F/C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                   [ch]F/C[/ch]
+     J'lâche pas, moé j'sais où j'm'en vas[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]
+     J'lâche pas[/tab]
+
+[Refrain 5]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]F/C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab]*                                       *  [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]F/C[/ch] [ch]C[/ch]     [ch]C[/ch]
+*                                       *| :½  :3½ | :½   :3½ | :½  :3½ | :4 |[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                   [ch]F/C[/ch]
+     J'lâche pas, moé j'sais où j'm'en vas[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]                 [ch]Bb/C[/ch] [ch]C7[/ch]
+     J'lâche pas, j'attends pas d'crever[/tab]
+[tab][ch]F/C[/ch] [ch]C[/ch]
+     J'lâche pas[/tab]
+
+[Outro]
+[tab]*                                       *   [ch]F/C[/ch] [ch]C[/ch]     [ch]Bb/C[/ch] [ch]C7[/ch]    [ch]C[/ch]    [ch]C[/ch]    x4     [ch]D5[/ch] x5
+*                                       *(| :½  :3½ | :½   :3½ | :4 | :4 |)   3/4 :3[/tab]
+[ch]F/C[/ch] [ch]C[/ch]  [ch]Bb/C[/ch] [ch]C7[/ch]  [ch]C[/ch]  x4   [ch]D5[/ch] x5

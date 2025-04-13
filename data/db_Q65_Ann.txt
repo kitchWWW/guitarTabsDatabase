@@ -1,0 +1,89 @@
+URL: https://tabs.ultimate-guitar.com/tab/q65/ann-chords-1728189
+Artist: Q65
+Song: Ann
+Genre: 
+Key: 
+
+
+Q65: ANN (F. Nuyens/J. Baar/W. Bieler) 4/4 - 64
+
+Peaked on #19 in the Dutch Top-40 in 1966 and charted for 7 weeks.
+
+|%      |: Repeat the previous Measure and Chord of 4-Counts.
+|n.c.   |: No Chord
+
+
+[tab]Intro:  |n.c.         |C     |
+       e|-------------|
+       b|-------------|
+       g|-------------|
+       d|----------2--|
+       a|33333-2-3---3|
+       e|-------------|[/tab]
+
+Verse-1
+
+[tab][ch]C[/ch]          |%
+Ann, I will love you,[/tab]
+[tab]      |[ch]F[/ch]           |[ch]G[/ch]    |
+when I know  that I can.[/tab]
+
+[tab][ch]C[/ch]          |%
+Ann, I will love you,[/tab]
+[tab]        |[ch]F[/ch]           |[ch]G[/ch]
+when you know  what I am.[/tab]
+
+Chorus:
+
+[tab]   |[ch]F[/ch]
+You think  that you love me,[/tab]
+[tab]       |[ch]G[/ch]
+but you don't know  me yet.[/tab]
+[tab]   |[ch]C[/ch]                       |%
+Per-haps  I'm not what  I'll be.[/tab]
+
+[tab]   |[ch]F[/ch]
+You think  that you love me,[/tab]
+[tab]     |[ch]G[/ch]
+But I don't think it's that.[/tab]
+[tab]           |[ch]C[/ch]                   |%    |
+You have to learn  to live  with me.[/tab]
+
+Solo: |[ch]C[/ch]    |%    |[ch]F[/ch]    |[ch]G[/ch]    |: 2x
+
+Chorus:
+
+[tab]   |[ch]F[/ch]
+You think  that you love me,[/tab]
+[tab]       |[ch]G[/ch]
+but you don't know  me yet.[/tab]
+[tab]   |[ch]C[/ch]                       |%
+Per-haps  I'm not what  I'll be.[/tab]
+
+[tab]   |[ch]F[/ch]
+You think  that you love me,[/tab]
+[tab]     |[ch]G[/ch]
+But I don't think it's that.[/tab]
+[tab]           |[ch]C[/ch]                   |%    |
+You have to learn  to live  with me.[/tab]
+
+Verse-2
+
+[tab][ch]C[/ch]          |%
+Ann, I will try it,[/tab]
+[tab]     |[ch]F[/ch]            |[ch]G[/ch]    |
+but I think  that I can't.[/tab]
+
+[tab][ch]C[/ch]          |%
+Ann, I will try it,[/tab]
+[tab]       |[ch]F[/ch]           |[ch]G[/ch]    |
+But you won't  under-stand.[/tab]
+
+[tab]                     / (Break)
+Outro:  |n.c.         |
+       e|-------------|
+       b|-------------|
+       g|-------------|
+       d|----------2--|
+       a|33333-2-3---3|
+       e|-------------|[/tab]

@@ -1,0 +1,114 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/bus-driver-chords-338036
+Artist: Caedmon's Call
+Song: Bus Driver
+Genre: 
+Key: 
+
+
+============================                     =========================
+Bus Driver---Caedmon's Call----------------------Transfered by Asa Gaston
+============================                     =========================
+
+[ch]G[/ch]          3x0033
+[ch]G/F#[/ch]       2x0033
+[ch]G/E[/ch]        02x033
+[ch]G2/D[/ch]       xx0233
+[ch]C[/ch]          x3x033
+[ch]D4/F#[/ch]      2x0233
+[ch]Bb2[/ch]        x13311
+[ch]C2[/ch]         x32030
+[ch]Em9[/ch]        020032
+[tab][ch]D2[/ch]         x00230
+D2sus/C    x30030[/tab]
+D2sus/B    x20030
+D2sus/Bb   x10030
+[ch]D/A[/ch]        x02030
+
+
+-Intro-
+[ch]G[/ch] [ch]G/F#[/ch] [ch]G/E[/ch] [ch]G2/D[/ch] [ch]C[/ch] [ch]G[/ch] [ch]G2/D[/ch] [ch]Dsus4/F#[/ch] (6x)
+
+
+-Verse 1-
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]  [ch]C[/ch]
+[ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]      [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]     [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]  [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]     [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]  [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]  [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]   [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]     [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]  [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]       [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]     [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+
+
+-Chorus-
+[tab][ch]Bb2[/ch]    [ch]C2[/ch]     [ch]G[/ch]      [ch]Em9[/ch]
+Bb2    C2     D2     D2(sus)/C    D2(sus)/B[/tab]
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2    D2(sus)/C      D2(sus)/B
+D2(sus)/Bb           D2     D2(sus)/C    D2(sus)/B    D/A
+
+
+-Verse 2-
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]       [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]    [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]       [ch]G[/ch] 
+[ch]G/F#[/ch]   [ch]G/E[/ch]    G/D2   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]       [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]
+
+-Chorus-
+[tab][ch]Bb2[/ch]    [ch]C2[/ch]     [ch]G[/ch]      [ch]Em9[/ch]
+Bb2    C2     D2     D2(sus)/C     D2(sus)/B[/tab]
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb    D2     D2(sus)/C     D2(sus)/B    D/A
+D2(sus)/C     D2(sus)/C     D/A
+
+-Piano solo-
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch] (4x)
+
+-Verse 3-
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]       [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]           [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]       [ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]      [ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]
+[ch]G[/ch]      [ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]       [ch]G[/ch]
+[ch]G/F#[/ch]   [ch]G/E[/ch]    [ch]G2/D[/ch]   [ch]C[/ch]      [ch]G[/ch]
+[ch]G2/D[/ch]   [ch]Dsus4/F#[/ch]       [ch]Bb2[/ch]
+[ch]C2[/ch]     [ch]G[/ch]      [ch]Em9[/ch]    [ch]Bb2[/ch]
+[ch]C2[/ch]
+
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb
+D2     D2(sus)/C     D2(sus)/B
+D2(sus)/Bb           D2
+
+D2     D2(sus)/C     D2(sus)/B    D/A    G

@@ -1,0 +1,197 @@
+URL: https://tabs.ultimate-guitar.com/tab/john-butler-trio/faith-chords-5628609
+Artist: John Butler Trio
+Song: Faith
+Genre: 
+Key: D
+
+
+Note that this song is played by JB in Open D tuning on his 6 string guitar.
+
+The chords fingerings are these:
+
+[tab][ch]D[/ch] - 000870      [ch]Bm11[/ch] - 900870
+[ch]Gadd9[/ch] - 500500     [ch]Esus2[/ch] - 202000     [ch]F#m[/ch] - 404000
+Asus6-9/B - 909000      D11/G - 505000    A6 707000[/tab]
+
+It is played only with fingerstyle, not with strumming.
+The fingerstyle pattern is this, with double thumb:
+
+
+[tab][Intro]
+             [ch]D[/ch]                           [ch]D[/ch]                         [ch]D[/ch]                           [ch]D[/ch]
+ e|--------------------------|--------------------------|--------------------------|-------------------------|
+ A|--------------------------|--------------------------|--------------------------|-------------------------|
+F#|--------------------------|--------------------------|--------------------------|-------------------------|
+ D|-----0---0---0---0--------|-----0---0---0---0--------|-----0---0---0---0--------|-----0---0---0---0-------|
+ A|--------------------------|--------------------------|--------------------------|-------------------------|
+ D|---0---0---0---0----------|---0---0---0---0----------|---0---0---0---0----------|---0---0---0---0---------|
+      p p p p p p p p[/tab]
+
+[tab]             [ch]D[/ch]                           [ch]D[/ch]                         [ch]D[/ch]                           [ch]D[/ch]
+ e|--------------------------|--------------------------|--------------------------|-------------------------|
+ A|------------7-------------|--------------------------|------------7-------------|-------------------------|
+F#|--------8-------8---------|--------------------------|--------8-------8---------|-------------------------|
+ D|----0-----0---0-----------|-----0---0---0---0--------|----0-----0---0-----------|-----0---0---0---0-------|
+ A|--------------------------|--------------------------|--------------------------|-------------------------|
+ D|--0---0-------------------|---0---0---0---0----------|--0---0-------------------|---0---0---0---0---------|
+     p p p i p m p i[/tab]
+
+
+[Verse]
+[tab]        [ch]D[/ch]                [ch]D[/ch]
+Well I’m digging around in the sand[/tab]
+[tab][ch]D[/ch]                            [ch]D[/ch]
+Lost in the wilderness just looking for a hand[/tab]
+[tab][ch]Bm11[/ch]              [ch]Bm11[/ch]
+I’ve got seed that I must sow[/tab]
+[tab][ch]D[/ch]                [ch]D[/ch]
+Great mystery up in the sky[/tab]
+[tab][ch]D[/ch]                               [ch]D[/ch]
+Lookin' down upon me with your millions of eyes[/tab]
+[tab]       [ch]Bm11[/ch]                  [ch]Bm11[/ch]    [ch]D[/ch]     [ch]D[/ch]
+Come on, there are things I need to know[/tab]
+
+
+[Pre-Chorus]
+[tab]           [ch]Gadd9[/ch]                  [ch]Gadd9[/ch]  
+'Cause I’ve danced with religion I tried to make friends[/tab]
+[tab][ch]Esus2[/ch]                        [ch]Esus2[/ch]      [ch]F#m[/ch]
+But those seven days I could not make amends with and[/tab]
+[tab][ch]Gadd9[/ch]               [ch]Gadd9[/ch]              [ch]Esus2[/ch]    [ch]Esus2[/ch]
+Watched the kingdoms crumble as they grow[/tab]
+
+
+[Chorus] (these 5 chords under here are fast and timed with the spelling of the words)
+[tab]              [ch]D[/ch]  [ch]Esus2[/ch]  [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+Well I’m just looking  for  some     faith[/tab]
+    D11/G                                  Asus6-9/B          A6
+To get me through tomorrow with just a little grace
+[tab]            [ch]D[/ch]  [ch]Esus2[/ch]  [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+In this ole crazy    world we       live[/tab]
+[tab]    [ch]D11/G[/ch]                                  Asus6-9/B          [ch]A6[/ch]                  [ch]D[/ch]     [ch]D[/ch]
+Sometimes it’s like a life raft and other times leaks like a sieve, don’t ask me why[/tab]
+
+
+[Verse] (In this verse you can use percussion on the guitar body as in some John Butler's lives)
+[tab][ch]D[/ch]                        [ch]D[/ch]
+I brought the picks and I got the spades[/tab]
+[tab][ch]D[/ch]                     [ch]D[/ch]
+I got some dynamite I even brought grenades, come on[/tab]
+[tab][ch]Bm11[/ch]                                   [ch]Bm11[/ch]
+Let’s dig ourselves into a great big hole[/tab]
+
+[tab][ch]D[/ch]                             [ch]D[/ch]
+Dig deep enough, maybe we’ll reach Beijing,[/tab]
+[tab]        [ch]D[/ch]                                     [ch]D[/ch]
+when we arrive I’ll hit the streets, and I’ll ask for the King[/tab]
+[tab][ch]Bm11[/ch]                            [ch]Bm11[/ch]
+Taking care of business on the south side,[/tab]
+[tab]                 [ch]D[/ch]     [ch]D[/ch]
+or so I’ve been told[/tab]
+
+
+[Pre-Chorus]
+[tab][ch]Gadd9[/ch]                 [ch]Gadd9[/ch]  
+And when I see him I’ll say, «Hey you!»[/tab]
+[tab][ch]Esus2[/ch]                    [ch]Esus2[/ch]     [ch]F#m[/ch]
+«What happened to your blue Suede Shoes?, and uh[/tab]
+[tab][ch]Gadd9[/ch]                 [ch]Gadd9[/ch]         [ch]Esus2[/ch]    [ch]Esus2[/ch]
+Can you tell me where I hid all my gold?»[/tab]
+
+
+[Chorus]
+[tab]                [ch]D[/ch]   [ch]Esus2[/ch]  [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+'Cause I’m just looking    for   some     faith[/tab]
+    D11/G                        Asus6/9       A6
+To get me through tomorrow with just a little grace
+[tab]            [ch]D[/ch]  [ch]Esus2[/ch]  [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+In this ole crazy    world we       live[/tab]
+    D11/G                            Asus6/9       A6
+Sometimes it’s like a life raft and other times leaks like a sieve
+[tab]            [ch]D[/ch]   [ch]Esus2[/ch]  [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+And when it all comes  crumbling    down[/tab]
+D11/G                        Asus6/9           A6
+Help me drop an anchor, to keep my roots there on the ground
+
+[ch]D[/ch]    [ch]D[/ch]
+
+
+[Bridge]
+[tab][ch]D[/ch]         [ch]D[/ch]           [ch]Bm11[/ch]    [ch]Bm11[/ch]
+Peace of mind is all I need to unwind all these[/tab]
+[tab][ch]D[/ch]         [ch]D[/ch]
+ Tangled knots inside[/tab]
+[tab][ch]Bm11[/ch]          [ch]Bm11[/ch]
+ I’m on my knees I’m crying and a[/tab]
+[tab][ch]Gadd9[/ch]      [ch]Gadd9[/ch]    [ch]Esus2[/ch]   [ch]Esus2[/ch]
+ Tell me I’m not    alone[/tab]
+[tab][ch]D[/ch]    [ch]D[/ch]
+Alone[/tab]
+
+
+[Verse]
+[tab]    [ch]D[/ch]                     [ch]D[/ch]
+Well I’ve gone within and I’ve gone without[/tab]
+[tab][ch]D[/ch]                           [ch]D[/ch]
+ I know my greatest sins are all of my doubts[/tab]
+[tab]    [ch]Bm11[/ch]        [ch]Bm11[/ch]               [ch]D[/ch]    [ch]D[/ch]
+And all the fear that corrodes my soul[/tab]
+[tab][ch]D[/ch]                     [ch]D[/ch]
+ And I do know I’m a long time dead[/tab]
+[tab]   [ch]D[/ch]                  [ch]D[/ch]
+And my papa said you make your bed[/tab]
+[tab]   [ch]Bm11[/ch]                   [ch]Bm11[/ch]        [ch]D[/ch]     [ch]D[/ch]
+And leave all behind unbroken as you roam[/tab]
+
+
+[Chorus]
+[tab]     [ch]D[/ch]   [ch]Esus2[/ch]   [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+And then you’ll find your     faith[/tab]
+    D11/G                        Asus6/9       A6
+To get you through tomorrow, with just a little grace
+[tab]            [ch]D[/ch]  [ch]Esus2[/ch]  [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+In this ole crazy    world we       live[/tab]
+    D11/G                        Asus6/9       A6
+Sometimes it’s like a life raft and other times leaks like a sieve
+[tab]            [ch]D[/ch]   [ch]Esus2[/ch]  [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+And when it all comes  crumbling     down[/tab]
+D11/G                        Asus6/9       A6
+Help me drop an anchor, to keep my roots there on the ground
+[tab]             [ch]D[/ch]  [ch]Esus2[/ch]  [ch]F#m[/ch]  Asus6/9  [ch]F#m[/ch]
+In this ole crazy    world we       live[/tab]
+    D11/G                        Asus6/9       A6
+Sometimes it’s like a life raft and other times leaks like a sieve
+
+
+[Bridge]
+[tab][ch]D[/ch]         [ch]D[/ch]           [ch]Bm11[/ch]    [ch]Bm11[/ch]
+Peace of mind is all I need to unwind all these[/tab]
+[tab][ch]D[/ch]         [ch]D[/ch]
+ Tangled knots inside[/tab]
+[tab][ch]Bm11[/ch]          [ch]Bm11[/ch]
+ I’m on my knees I’m crying and a[/tab]
+
+[tab][ch]Gadd9[/ch]      [ch]Gadd9[/ch]    [ch]Esus2[/ch]   [ch]Esus2[/ch]
+   Tell me I’m not alone[/tab]
+[tab][ch]Gadd9[/ch]      [ch]Gadd9[/ch]    [ch]Esus2[/ch]   [ch]Esus2[/ch]
+ Tell me I’m not alone[/tab]
+[tab][ch]Gadd9[/ch]      [ch]Gadd9[/ch]    [ch]Esus2[/ch]   [ch]Esus2[/ch]
+ Tell me I’m not alone,     they keep on telling me[/tab]
+[tab][ch]Gadd9[/ch]      [ch]Gadd9[/ch]    [ch]Esus2[/ch]   [ch]Esus2[/ch]
+ No you’re not      alone,    they keep on telling me[/tab]
+[tab][ch]Gadd9[/ch]      [ch]Gadd9[/ch]    [ch]Esus2[/ch]   [ch]Esus2[/ch]
+ No you’re not      alone,    they keep on telling me[/tab]
+[tab][ch]Gadd9[/ch]      [ch]Gadd9[/ch]    [ch]Esus2[/ch]   [ch]Esus2[/ch]
+ No you’re not      alone[/tab]
+
+
+[Instrumental]
+
+
+[Outro Verse]
+[tab]        [ch]D[/ch]                [ch]D[/ch]
+Well I’m digging around in the sand[/tab]
+[tab][ch]D[/ch]                            [ch]D[/ch]
+Lost in the wilderness just looking for a hand[/tab]
+[tab][ch]Bm11[/ch]              [ch]Bm11[/ch]
+I’ve got seed that I must sow[/tab]

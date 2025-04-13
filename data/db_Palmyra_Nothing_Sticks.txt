@@ -1,0 +1,175 @@
+URL: https://tabs.ultimate-guitar.com/tab/palmyra/nothing-sticks-chords-4593731
+Artist: Palmyra
+Song: Nothing Sticks
+Genre: 
+Key: 
+
+
+[ch]C[/ch]    : x32010
+[ch]C/F[/ch]  : 3x2010
+[ch]Am[/ch]   : x02210
+[ch]D7[/ch]   : 0x2210
+[tab][ch]F[/ch]    : x33210
+F*   : 3x3210 (use this version for the choruses)[/tab]
+[tab][ch]G[/ch]    : 5x5430
+Cmaj9: x20010[/tab]
+[ch]Am7[/ch]  : x02010
+[ch]G6[/ch]   : xx5433
+
+[Intro]
+
+[ch]C[/ch] [ch]C/F[/ch] [ch]C[/ch] [ch]C/F[/ch]
+
+[Verse 1]
+
+[tab][ch]C[/ch]       [ch]C/F[/ch]
+Nothing sticks[/tab]
+[tab][ch]C[/ch]       [ch]C/F[/ch]
+Give it six more weeks[/tab]
+[tab][ch]C[/ch]        [ch]C/F[/ch]
+Southern drawl[/tab]
+[tab][ch]C[/ch]       [ch]C/F[/ch]
+Draw me something[/tab]
+[tab]     [ch]Am[/ch]    [ch]D7[/ch]
+I’ve never seen[/tab]
+[tab][ch]Am[/ch]      [ch]D7[/ch]
+Give me dreams[/tab]
+[tab][ch]Am[/ch]        [ch]D7[/ch]
+Something different[/tab]
+[tab]   [ch]Am[/ch]      [ch]D7[/ch]           [ch]F[/ch]          [ch]C[/ch]
+To set the pace of what might have been[/tab]
+
+(for accented notes, emphasize the lowest note of each chord that is not in parentheses)
+
+[tab]e|-0---0---0---|-0---0---0---|
+B|-1---1---1---|-1---1---1---|
+G|-0---0---0---|-0---0---0---|
+D|-3---2---0---|-2---2---2---|
+A|(3)-(3)-(3)--|-3---3---3---|
+D|-x---x---x---|-x---x---x---|
+   >   >   >     >[/tab]
+
+[Verse 2]
+
+[tab][ch]C[/ch]       [ch]C/F[/ch]
+Nothing sticks[/tab]
+[tab][ch]C[/ch]        [ch]C/F[/ch]       [ch]C[/ch]
+Stick it out a bit more[/tab]
+[tab]          [ch]C/F[/ch]
+Don’t sit down[/tab]
+[tab][ch]C[/ch]           [ch]C/F[/ch]
+But I can’t stand it[/tab]
+[tab]     [ch]Am[/ch]      [ch]D7[/ch]
+That I’ll be gone[/tab]
+[tab][ch]Am[/ch]     [ch]D7[/ch]
+States away[/tab]
+[tab][ch]Am[/ch]     [ch]D7[/ch]       [ch]Am[/ch]      [ch]D7[/ch]
+Hoping when I return to you[/tab]
+[tab]             [ch]F[/ch]       [ch]C[/ch]
+You’ll still want me there[/tab]
+
+[tab]e|-0---0---0---|-------------|-------------|
+B|-1---1---1---|-------------|-------------|
+G|-0---0---0---|-------------|-------------|
+D|-3---2---0---|-------------|-------------|
+A|(3)-(3)-(3)--|-3---2---1---|-0-----------|
+D|-x---x---x---|-------------|-----5---4---|
+   >   >   >[/tab]
+
+[Chorus 1]
+
+[tab][ch]F[/ch]           [ch]G[/ch]
+Spots in my eyes[/tab]
+[tab]           [ch]C[/ch]
+I can’t complain[/tab]
+[tab]      [ch]Cmaj9[/ch]          [ch]Am7[/ch]
+I got everything I’ve ever wished for[/tab]
+[tab][ch]F[/ch]          [ch]G[/ch]
+It’s no surprise[/tab]
+[tab]              [ch]C[/ch]
+I’ll find the trash[/tab]
+[tab]       [ch]Cmaj9[/ch]        [ch]Am7[/ch]
+That’s poking out under the gold mine[/tab]
+[tab][ch]F[/ch]            [ch]G6[/ch]
+Just give it time[/tab]
+
+[Break]
+
+[ch]C[/ch] [ch]C/F[/ch] [ch]C[/ch] [ch]C/F[/ch]
+[ch]C[/ch] [ch]C/F[/ch] [ch]C[/ch] [ch]C/F[/ch]
+
+[Verse 3]
+
+[tab][ch]C[/ch]       [ch]C/F[/ch]
+Driving through[/tab]
+[tab][ch]C[/ch]      [ch]C/F[/ch]
+Subtle thoughts of you[/tab]
+[tab][ch]C[/ch]           [ch]C/F[/ch]
+Driving fast[/tab]
+[tab][ch]C[/ch]       [ch]C/F[/ch]
+Just to get through[/tab]
+[tab]    [ch]Am[/ch]     [ch]D7[/ch]
+The night alone[/tab]
+[tab][ch]Am[/ch]       [ch]D7[/ch]
+Call you then[/tab]
+[tab][ch]Am[/ch]   [ch]D7[/ch]         [ch]Am[/ch]
+In a house in a room[/tab]
+[tab]     [ch]D7[/ch]           [ch]F[/ch]     [ch]C[/ch]
+On a couch that I don’t belong[/tab]
+
+[tab]e|-0---0---0---|-------------|-------------|
+B|-1---1---1---|-------------|-------------|
+G|-0---0---0---|-------------|-------------|
+D|-3---2---0---|-------------|-------------|
+A|(3)-(3)-(3)--|-3---2---1---|-0-----------|
+D|-x---x---x---|-------------|-----5---4---|
+   >   >   >[/tab]
+
+[Chorus 2]
+
+[tab][ch]F[/ch]           [ch]G[/ch]
+Spots in my eyes[/tab]
+[tab]           [ch]C[/ch]
+I can’t complain[/tab]
+[tab]      [ch]Cmaj9[/ch]          [ch]Am7[/ch]
+I got everything I’ve ever hoped for[/tab]
+[tab][ch]F[/ch]          [ch]G[/ch]
+It’s no surprise[/tab]
+[tab]              [ch]C[/ch]
+I’ll find the trash[/tab]
+[tab]       [ch]Cmaj9[/ch]        [ch]Am7[/ch]
+That’s poking out under the gold mine[/tab]
+[tab][ch]F[/ch]            [ch]G6[/ch]
+Just give it time[/tab]
+
+[Break]
+
+[ch]Am[/ch] [ch]G6[/ch] [ch]Am[/ch] [ch]G[/ch]
+[ch]Am[/ch] [ch]G6[/ch] [ch]Am[/ch] [ch]G[/ch]
+
+[Outro]
+
+[tab][ch]C[/ch]       [ch]C/F[/ch]
+Nothing sticks[/tab]
+[tab][ch]C[/ch]       [ch]C/F[/ch]          [ch]C[/ch]
+Give it time to slow down[/tab]
+[tab]       [ch]C/F[/ch]
+Let it pass[/tab]
+[tab]          [ch]C[/ch]       [ch]C/F[/ch]
+But don’t pass it on[/tab]
+[tab]       [ch]Am[/ch]        [ch]D7[/ch]
+To the ones that care[/tab]
+[tab][ch]Am[/ch]          [ch]D7[/ch]
+That really care[/tab]
+[tab][ch]Am[/ch]        [ch]D7[/ch]           [ch]Am[/ch]     [ch]D7[/ch]
+Breath it in and don’t think about[/tab]
+[tab]        [ch]F[/ch]          [ch]C[/ch]
+What it might have been[/tab]
+
+
+************************************
+
+| x   Dead note
+| >   Accented note
+
+************************************

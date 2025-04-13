@@ -1,0 +1,113 @@
+URL: https://tabs.ultimate-guitar.com/tab/5316978
+Artist: Beyond
+Song: Mou Jun Hong Hui 无尽空虚
+Genre: 
+Key: Am
+
+
+--------------------------------------
+歌曲名：Mou Jun Hong Hui 无尽空虚
+歌手/乐队: Beyond
+Guitar: Tang Siew Wai 邓少伟
+--------------------------------------
+
+[ch]G/B[/ch] = x20033
+
+[tab][Intro Guitar Solo]
+   [ch]Am[/ch]                      [ch]Fmaj7[/ch]   
+e|-15----12----------------15----12-------|
+B|----15--------------13------15----------|
+G|----------14--12s14----------------14~~-|
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|[/tab]
+
+[tab]   [ch]G[/ch]                       [ch]Am[/ch]
+e|-15----12----------------15----12~~-----|
+B|----15--------------13------15----------|
+G|----------14--12s14---------------------|
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|[/tab]
+
+[tab]   [ch]Dm[/ch]                      [ch]Dm[/ch]
+e|-15----12----------------15----12-------|
+B|----15--------------13------15----------|
+G|----------14--12s14----------------14~~-|
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|[/tab]
+
+[tab]   [ch]G[/ch]                      [ch]G[/ch]
+e|-15----12---------------15~~~-----------|
+B|----15--------------13------------------|
+G|----------14--12s14---------------------|
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|[/tab]
+
+[Intro]
+[ch]Am[/ch]   [ch]Fmaj7[/ch]   [ch]G[/ch]   [ch]Am[/ch]   [ch]Dm[/ch]   [ch]Dm[/ch]   [ch]G[/ch]   [ch]G[/ch]
+
+[Verse]
+[tab][ch]Am[/ch]       [ch]Dm[/ch]       [ch]G[/ch]             [ch]C[/ch]  [ch]G/B[/ch] [ch]Am[/ch]
+为何在这里 疲倦像半醉 曾在这空间 跟你 相  拥  抱[/tab]
+[tab]   [ch]Dm[/ch]        [ch]Em[/ch]              [ch]F[/ch]             [ch]G[/ch]
+只有唏嘘的追忆 无言落寞地落泪 谁在这晚里放纵 与他温馨[/tab]
+
+[Chorus]
+[tab]     [ch]C[/ch]      [ch]C[/ch]         [ch]G[/ch]     [ch]G[/ch]
+无尽空虚 似把刀锋静静穿过心窝  Woooh[/tab]
+[tab]        [ch]Dm[/ch]  [ch]Dm[/ch]            [ch]G[/ch]      [ch]G[/ch]
+期 待 的 爱   怎么一生总不可碰到   Woh oh oh[/tab]
+
+[Interlude]
+[ch]Am[/ch]   [ch]Am[/ch]   [ch]Dm[/ch]   [ch]G[/ch]
+
+[Verse]
+[tab][ch]Am[/ch]       [ch]Dm[/ch]       [ch]G[/ch]             [ch]C[/ch]  [ch]G/B[/ch] [ch]Am[/ch]
+仍然在这里 无力像半醉 谁令我的心 此际 多  冰  冷[/tab]
+[tab]   [ch]Dm[/ch]        [ch]Em[/ch]              [ch]F[/ch]             [ch]G[/ch]
+只有唏嘘的追忆 无言落寞地落泪 谁在这晚里放纵 与他温馨[/tab]
+
+[Chorus]
+[tab]     [ch]C[/ch]      [ch]C[/ch]         [ch]G[/ch]     [ch]G[/ch]
+无尽空虚 似把刀锋静静穿过心窝  Woooh[/tab]
+[tab]        [ch]Dm[/ch]  [ch]Dm[/ch]            [ch]G[/ch]      [ch]G[/ch]
+期 待 的 爱   怎么一生总不可碰到   Woh oh oh[/tab]
+
+[Guitar Solo]
+[ch]Am[/ch]   [ch]Fmaj7[/ch]  [ch]Dm[/ch]   [ch]E[/ch]
+[ch]Am[/ch]   [ch]Am[/ch]     [ch]Dm[/ch]   [ch]E[/ch]
+[ch]F[/ch]    [ch]G[/ch]      [ch]Dm[/ch]   [ch]G[/ch]
+
+[tab][Electric Guitar Solo Tab]
+   [ch]F[/ch]                [ch]G[/ch]          [ch]Dm[/ch]         [ch]G[/ch]
+e|------------15----------------------------------|
+B|-15b17~--15----13-12---------12---------13b15~~-|
+G|----------------------9-10-9-----9-10-9---------|
+D|------------------------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|[/tab]
+
+[Chorus]
+[tab]     [ch]C[/ch]      [ch]C[/ch]         [ch]G[/ch]     [ch]G[/ch]
+无尽空虚 似把刀锋静静穿过心窝  Woooh[/tab]
+[tab]        [ch]Dm[/ch]  [ch]Dm[/ch]            [ch]G[/ch]      [ch]G[/ch]
+期 待 的 爱   怎么一生总不可碰到[/tab]
+[tab]     [ch]C[/ch]      [ch]C[/ch]         [ch]G[/ch]     [ch]G[/ch]
+无尽空虚 似把刀锋静静穿过心窝  Woooh[/tab]
+[tab]        [ch]Dm[/ch]  [ch]Dm[/ch]            [ch]G[/ch]      [ch]G[/ch]
+期 待 的 爱   怎么一生总不可碰到   Woh oh oh[/tab]
+
+[Outro]
+[ch]Am[/ch]          [ch]Dm[/ch]           [ch]G[/ch]            [ch]C[/ch]  [ch]G/B[/ch] [ch]Am[/ch]
+
+[tab][ch]Am[/ch]          [ch]Dm[/ch]           [ch]G[/ch]            [ch]C[/ch]  [ch]G/B[/ch] [ch]Am[/ch]
+Lalalalalah Lalalalalala Lalalala Lalala la  la[/tab]
+[tab][ch]Am[/ch]          [ch]Dm[/ch]           [ch]G[/ch]            [ch]C[/ch]  [ch]G/B[/ch] [ch]Am[/ch]
+Lalalalalah Lalalalalala Lalalala Lalala la  la[/tab]
+[tab][ch]Am[/ch]          [ch]Dm[/ch]           [ch]G[/ch]            [ch]C[/ch]  [ch]G/B[/ch] [ch]Am[/ch]
+Lalalalalah Lalalalalala Lalalala Lalala la  la[/tab]
+
+Lalalalalah Lalalalalala Lalalala Lalala la  la

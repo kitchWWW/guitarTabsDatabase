@@ -1,0 +1,77 @@
+URL: https://tabs.ultimate-guitar.com/tab/pete-astor/buddha-said-chords-2309639
+Artist: Pete Astor
+Song: Buddha Said
+Genre: 
+Key: C
+
+
+---------------------------------------------------------------------------
+          Buddha Said – Pete Astor
+---------------------------------------------------------------------------
+
+Written by: Pete Astor
+From: vinyl single “Do Nothing” (2016)
+
+Tabbed by: maguri
+Tuning: Standard
+
+---------------------------------------------------------------------------
+
+[Intro] / [Interlude] / [Part 2] / [Outro]
+[tab]  [ch]Cmaj7[/ch]   [ch]C[/ch]        [ch]Cmaj7[/ch]   [ch]C[/ch]     Fmaj7(#11) [ch]Fmaj7[/ch] Fmaj7(#11) [ch]Fmaj7[/ch]
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +[/tab]
+[tab]e|0-------0---0-0-|0-0-0-0-0---0-0-|0-------0---0-0-|0-0-0-0-0---0-0-|
+B|0-------1---1-1-|0-0-0-0-1---1-1-|0-------1---1-1-|0-0-0-0-1---1-1-|
+G|0-------0---0-0-|0-0-0-0-0---0-0-|2-------2---2-2-|2-2-2-2-2---2-2-|
+D|2-------2---2-2-|2-2-2-2-2---2-2-|3-------3---3-3-|3-3-3-3-3---3-3-|
+A|3-------3---3-3-|3-3-3-3-3---3-3-|3-------3---3-3-|3-3-3-3-3---3-3-|
+E|----------------|----------------|----------------|----------------|[/tab]
+
+---------------------------------------------------------------------------
+
+[tab]CHORDS
+                               electric guitar
+            E-A-D-G-B-e
+Cmaj7       x-3-2-0-0-0
+C           x-3-2-0-1-0        x-3-2-0-1-3
+Fmaj7(#11)  x-3-3-2-0-0
+Fmaj7       x-3-3-2-1-0        x-x-3—2-1-3 (= Fadd9)[/tab]
+
+---------------------------------------------------------------------------
+
+
+[Intro]
+| [ch]Cmaj7[/ch] [ch]C[/ch] | % | Fmaj7(#11) [ch]Fmaj7[/ch] | % |
+| [ch]Cmaj7[/ch] [ch]C[/ch] | % | Fmaj7(#11) [ch]Fmaj7[/ch] | % |
+
+
+[Part 1]
+[tab][ch]C[/ch]
+Buddha sat all alone[/tab]
+[tab][ch]Fmaj7[/ch]
+Buddha sat on a stone[/tab]
+[tab][ch]C[/ch]
+Buddha said a useful line[/tab]
+[tab][ch]Fmaj7[/ch]
+Buddha said it one more time[/tab]
+
+
+[Interlude]
+| [ch]Cmaj7[/ch] [ch]C[/ch] | % | Fmaj7(#11) [ch]Fmaj7[/ch] | % |
+| [ch]Cmaj7[/ch] [ch]C[/ch] | % | Fmaj7(#11) [ch]Fmaj7[/ch] | % |
+
+
+[Part 2]
+[tab]       [ch]Cmaj7[/ch]   [ch]C[/ch]     | [ch]Cmaj7[/ch] [ch]C[/ch] |
+The mistake we make[/tab]
+       Fmaj7(#11) Fmaj7  | Fmaj7(#11) Fmaj7 |
+The mistake  we   make
+[tab]       [ch]Cmaj7[/ch]   [ch]C[/ch]
+The mistake we make[/tab]
+[tab]   [ch]Cmaj7[/ch]   [ch]C[/ch]           | Fmaj7(#11) [ch]Fmaj7[/ch] | % |
+Is when we think we have time[/tab]
+
+
+[Outro]
+| [ch]Cmaj7[/ch] [ch]C[/ch] | % | Fmaj7(#11) [ch]Fmaj7[/ch] | % |
+| [ch]Cmaj7[/ch] [ch]C[/ch] | % | Fmaj7(#11) [ch]Fmaj7[/ch] | % | [ch]Cmaj7[/ch]

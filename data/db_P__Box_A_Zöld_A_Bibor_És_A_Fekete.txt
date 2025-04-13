@@ -1,0 +1,93 @@
+URL: https://tabs.ultimate-guitar.com/tab/3761834
+Artist: P. Box
+Song: A Zöld A Bibor És A Fekete
+Genre: 
+Key: 
+
+
+[Intro]
+[ch]Bm[/ch]       [ch]G[/ch]
+[ch]Bm[/ch]       [ch]G[/ch]
+
+[Verse 1]
+[tab][ch]Bm[/ch]                       [ch]G[/ch]          [ch]A[/ch]     [ch]Bm[/ch]
+Kereslek néptelen utakon, de csak a semmi vár.[/tab]
+[tab][ch]Bm[/ch]                       [ch]G[/ch]       [ch]A[/ch]     [ch]Bm[/ch]
+Dörögve zúgnak a betonon mámoros éjszakák.[/tab]
+[tab][ch]Bm[/ch]                       [ch]G[/ch]        [ch]A[/ch]         [ch]Bm[/ch]
+Falakról bámul az unalom, csak a csend szól rám.[/tab]
+[tab][ch]Bm[/ch]                                [ch]G[/ch]      [ch]A[/ch]       [ch]Bm[/ch]
+Csillagok hullnak, születnek újak, és te messze jársz.[/tab]
+
+[Pre-chorus]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+
+[Chorus]
+[tab][ch]D[/ch]    [ch]G[/ch]       [ch]Bm[/ch]         [ch]A[/ch]     [ch]Bm[/ch]      [ch]G[/ch]       [ch]D[/ch]   [ch]A[/ch]
+Zöld csillag kihunyt az égen, a csónak partot ért.[/tab]
+[tab][ch]D[/ch]     [ch]G[/ch]        [ch]Bm[/ch]     [ch]A[/ch]       [ch]G[/ch]                [ch]A[/ch]               [ch]Bm[/ch]
+Hideg csendben fekete minden, legyen az álmod, legyen az álmod szép![/tab]
+
+[Interlude]
+[ch]Bm[/ch]                       [ch]G[/ch]          [ch]A[/ch]     [ch]Bm[/ch]
+[ch]Bm[/ch]                       [ch]G[/ch]          [ch]A[/ch]     [ch]Bm[/ch]
+
+[Verse 2]
+[tab][ch]Bm[/ch]                         [ch]G[/ch]        [ch]A[/ch]     [ch]Bm[/ch]
+Állok a felnyitott hidakon, zavaros víz fölött[/tab]
+[tab][ch]Bm[/ch]                          [ch]G[/ch]       [ch]A[/ch]        [ch]Bm[/ch]
+Kereslek túltömött buszokon, bezárt ajtók mögött[/tab]
+[tab][ch]Bm[/ch]                            [ch]G[/ch]     [ch]A[/ch]      [ch]Bm[/ch]
+Állok ott, ahol a szobád van, bíbor köd szitál[/tab]
+[tab][ch]Bm[/ch]                                [ch]G[/ch]      [ch]A[/ch]       [ch]Bm[/ch]
+Csillagok hullnak, születnek újak, és te messze jársz.[/tab]
+
+[Pre-chorus]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+
+[Chorus]
+[tab][ch]D[/ch]    [ch]G[/ch]       [ch]Bm[/ch]         [ch]A[/ch]     [ch]Bm[/ch]      [ch]G[/ch]       [ch]D[/ch]   [ch]A[/ch]
+Zöld csillag kihunyt az égen, a csónak partot ért.[/tab]
+[tab][ch]D[/ch]     [ch]G[/ch]        [ch]Bm[/ch]     [ch]A[/ch]       [ch]G[/ch]                [ch]A[/ch]               [ch]Bm[/ch]
+Hideg csendben fekete minden, legyen az álmod, legyen az álmod szép![/tab]
+
+
+[Solo]
+[ch]D[/ch]    [ch]Gm[/ch]      [ch]Bm[/ch]     [ch]A[/ch]       [ch]Bm[/ch]      [ch]Gm[/ch]      [ch]D[/ch]   [ch]A[/ch]
+[ch]D[/ch]    [ch]Gm[/ch]      [ch]Bm[/ch]     [ch]A[/ch]       [ch]G[/ch]                   [ch]A[/ch]
+[ch]D[/ch]    [ch]Gm[/ch]      [ch]Bm[/ch]     [ch]A[/ch]       [ch]Bm[/ch]      [ch]Gm[/ch]      [ch]D[/ch]   [ch]A[/ch]
+[ch]D[/ch]    [ch]Gm[/ch]      [ch]Bm[/ch]     [ch]A[/ch]       [ch]G[/ch]                   [ch]A[/ch]
+
+[Verse 3]
+[tab][ch]Bm[/ch]                               [ch]G[/ch]           [ch]A[/ch]       [ch]Bm[/ch]
+Játszd el a dalt, ami sose szólt, vedd fel a fehér gitárt![/tab]
+[tab][ch]Bm[/ch]                      [ch]G[/ch]        [ch]A[/ch]     [ch]Bm[/ch]
+Játszd el a régi húrokon az utolsó utazást![/tab]
+[tab][ch]Bm[/ch]                       [ch]G[/ch]         [ch]A[/ch]       [ch]Bm[/ch]
+Idegen árnyak a színpadon folyik a show tovább.[/tab]
+[tab][ch]Bm[/ch]                                [ch]G[/ch]      [ch]A[/ch]       [ch]Bm[/ch]
+Csillagok hullnak, születnek újak, és Te messze jársz.[/tab]
+
+[Pre-chorus]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+[ch]Bm[/ch] [ch]Bm7[/ch] [ch]Bm[/ch]    [ch]D[/ch] [ch]F#m[/ch] [ch]G[/ch]     [ch]A[/ch]
+
+[Chorus]
+[tab][ch]D[/ch]    [ch]G[/ch]       [ch]Bm[/ch]         [ch]A[/ch]     [ch]Bm[/ch]      [ch]G[/ch]       [ch]D[/ch]   [ch]A[/ch]
+Zöld csillag kihunyt az égen, a csónak partot ért.[/tab]
+[tab][ch]D[/ch]     [ch]G[/ch]        [ch]Bm[/ch]     [ch]A[/ch]       [ch]G[/ch]               [ch]A[/ch]
+Hideg csendben fekete minden, legyen az álmod szép![/tab]
+[tab][ch]D[/ch]    [ch]G[/ch]       [ch]Bm[/ch]         [ch]A[/ch]     [ch]Bm[/ch]      [ch]G[/ch]       [ch]D[/ch]   [ch]A[/ch]
+Zöld csillag kihunyt az égen, a csónak partot ért.[/tab]
+[tab][ch]D[/ch]     [ch]G[/ch]        [ch]Bm[/ch]     [ch]A[/ch]       [ch]G[/ch]
+Hideg csendben fekete minden, legyen az álmod szép,[/tab]
+[tab][ch]G[/ch]                                 [ch]Bm[/ch]
+Legyen az álmod, legyen az álmod szép[/tab]

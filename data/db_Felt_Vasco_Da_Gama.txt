@@ -1,0 +1,136 @@
+URL: https://tabs.ultimate-guitar.com/tab/felt/vasco-da-gama-chords-5474718
+Artist: Felt
+Song: Vasco Da Gama
+Genre: 
+Key: 
+
+
+ARTIST: Felt
+SONG:   Vasco Da Gama
+Album: The Strange Idols Pattern and Other Short Stories
+
+You can simplify this and play just Cmaj7, G, D, C, Am, Em, Bm, E
+
+
+
+[Chords]
+[ch]Cmaj7[/ch] x32000
+[ch]G[/ch]     320003
+[ch]D[/ch]     xx0232
+[ch]C[/ch]     x32010
+[ch]Am7[/ch]   x02010
+[ch]Dsus2[/ch] xx0230
+[ch]Dsus4[/ch] xx0233
+[ch]Em[/ch]    022000
+[ch]Bm[/ch]    x24432
+[ch]Bm7[/ch]   x24032
+[ch]E[/ch]     022100
+
+
+[Intro]
+[ch]Cmaj7[/ch]  [ch]D[/ch] (x4)
+
+[ch]G[/ch]   [ch]D[/ch]
+
+
+[Verse 1]
+[tab][ch]C[/ch]         [ch]Am7[/ch]       [ch]D[/ch]      [ch]Dsus2[/ch]
+Out of it all comes shame[/tab]
+[tab]      [ch]C[/ch]              [ch]Am7[/ch]      [ch]D[/ch]       [ch]Dsus4[/ch]
+Like the villain who laid the blame[/tab]
+[tab]         [ch]C[/ch]       [ch]Am7[/ch]      [ch]D[/ch]         [ch]Dsus2[/ch]
+And like it wasn't me who said[/tab]
+[tab]     [ch]C[/ch]             [ch]Am7[/ch]       [ch]D[/ch]      [ch]Dsus4[/ch]
+That you're better off being dead[/tab]
+
+[Pre-Chorus]
+[tab][ch]Am7[/ch]       [ch]G[/ch]            [ch]Bm[/ch]       [ch]Em[/ch]
+Out of it all comes a sense of despair[/tab]
+[tab]   [ch]Am[/ch]               [ch]G[/ch]             [ch]Bm7[/ch]      [ch]Em[/ch]
+Your head wears your mind but your body is bare[/tab]
+[tab]   [ch]Am7[/ch]             [ch]G[/ch]             [ch]D[/ch]        [ch]Dsus2[/ch]
+You wake from your sleep and you know that it's true[/tab]
+[tab]      [ch]Am7[/ch]          [ch]Em[/ch]          [ch]G[/ch]             [ch]E[/ch]        [ch]Am[/ch]
+You're starting to win but the game's nearly over for you[/tab]
+
+
+[Chorus]
+[tab]   [ch]G[/ch]               [ch]D[/ch]          [ch]Am[/ch]  [ch]Am7[/ch]
+You know that it's true, yeah you[/tab]
+[tab]    [ch]G[/ch]               [ch]Dsus2[/ch]  [ch]Em[/ch]
+And everyone's through with you[/tab]
+[tab]   [ch]Am[/ch]           [ch]Dsus4[/ch]        [ch]G[/ch]    [ch]D[/ch]
+And this day is through for you[/tab]
+
+
+[Verse 2]
+[tab][ch]C[/ch]         [ch]Am7[/ch]  [ch]D[/ch]  [ch]Dsus2[/ch]
+How is it only me[/tab]
+[tab]    [ch]C[/ch]        [ch]Am7[/ch]     [ch]D[/ch]    [ch]Dsus4[/ch]
+Who believes in honesty?[/tab]
+[tab]              [ch]C[/ch]       [ch]Am7[/ch]              [ch]D[/ch]     [ch]Dsus2[/ch]
+And like I've searched all the darkest mines[/tab]
+[tab]    [ch]C[/ch]               [ch]Am7[/ch]       [ch]D[/ch]   [ch]Dsus4[/ch]
+To try and find out where you lie[/tab]
+
+
+[Pre-Chorus]
+[tab][ch]Am7[/ch]        [ch]G[/ch]             [ch]Bm[/ch]            [ch]Em[/ch]
+Somebody's changed and I know that it's you[/tab]
+[tab]   [ch]Am[/ch]             [ch]G[/ch]                [ch]Bm7[/ch]          [ch]Em[/ch]
+But I'll take the blame 'cause I'm that kind of fool[/tab]
+[tab]   [ch]Am7[/ch]           [ch]G[/ch]               [ch]D[/ch]         [ch]Dsus2[/ch]
+And you say it's me, yeah that's probably true[/tab]
+[tab]     [ch]Am7[/ch]         [ch]Em[/ch]           [ch]G[/ch]             [ch]E[/ch]        [ch]Am[/ch]
+It's owe to the fact that the game's nearly over for you[/tab]
+
+
+[Chorus]
+[tab]   [ch]G[/ch]               [ch]D[/ch]          [ch]Am[/ch]  [ch]Am7[/ch]
+You know that it's true, yeah you[/tab]
+[tab]   [ch]G[/ch]                [ch]Dsus2[/ch]   [ch]Em[/ch]
+And everyone's through with you[/tab]
+[tab]   [ch]Am[/ch]           [ch]Dsus4[/ch]        [ch]G[/ch]    [ch]D[/ch]
+And this day is through for you[/tab]
+
+
+[Instrumental Break]
+
+
+[Verse 3]
+[tab][ch]C[/ch]         [ch]Am7[/ch]       [ch]D[/ch]      [ch]Dsus2[/ch]
+Out of it all comes shame[/tab]
+[tab]      [ch]C[/ch]              [ch]Am7[/ch]      [ch]D[/ch]       [ch]Dsus4[/ch]
+I was the villain who laid the blame[/tab]
+[tab]         [ch]C[/ch]       [ch]Am7[/ch]      [ch]D[/ch]         [ch]Dsus2[/ch]
+And like you know it was me who said[/tab]
+[tab]     [ch]C[/ch]             [ch]Am7[/ch]       [ch]D[/ch]      [ch]Dsus4[/ch]
+That you're better off being dead[/tab]
+
+
+[Pre-Chorus]
+[tab][ch]Am7[/ch]       [ch]G[/ch]            [ch]Bm[/ch]       [ch]Em[/ch]
+Out of it all comes a sense of despair[/tab]
+[tab]   [ch]Am[/ch]               [ch]G[/ch]             [ch]Bm7[/ch]      [ch]Em[/ch]
+The head wears your mind but your body is bare[/tab]
+[tab]   [ch]Am7[/ch]             [ch]G[/ch]             [ch]D[/ch]        [ch]Dsus2[/ch]
+You wake from your sleep and you know that it's true[/tab]
+[tab]      [ch]Am7[/ch]          [ch]Em[/ch]          [ch]G[/ch]             [ch]E[/ch]        [ch]Am[/ch]
+You're starting to win but the game's nearly over for you[/tab]
+
+
+[Chorus]
+[tab]   [ch]G[/ch]               [ch]D[/ch]          [ch]Am[/ch]  [ch]Am7[/ch]
+You know that it's true, yeah you[/tab]
+[tab][ch]G[/ch]           [ch]Dsus2[/ch]       [ch]Em[/ch]
+Everyone's through with you[/tab]
+[tab]   [ch]Am[/ch]           [ch]Dsus4[/ch]        [ch]G[/ch]    [ch]D[/ch]
+And this day is through for you[/tab]
+[tab]        [ch]Am[/ch]    [ch]Am7[/ch]
+And it's true[/tab]
+[tab][ch]G[/ch]           [ch]Dsus2[/ch]       [ch]Em[/ch]
+Everyone's through with you[/tab]
+[tab]   [ch]Am[/ch]           [ch]Dsus4[/ch]        [ch]G[/ch]    [ch]D[/ch]
+And this day is through for you[/tab]
+[tab]      [ch]Am[/ch]
+Yeah, you[/tab]

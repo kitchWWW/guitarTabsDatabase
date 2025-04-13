@@ -1,0 +1,114 @@
+URL: https://tabs.ultimate-guitar.com/tab/abhi-the-nomad/so-long-chords-2489490
+Artist: Abhi The Nomad
+Song: So Long
+Genre: 
+Key: A
+
+
+I recommend playing all the chords barred rather than open.
+It sounds better and will help with muting in the strum pattern.
+
+[tab]      [ch]B[/ch]*     [ch]C#[/ch]*    [ch]D[/ch]*      [ch]E[/ch]*
+E|----7------9------10------12------
+B|----7------6-------7-------9------
+G|----8------6-------7-------9------
+D|----9------6-------7-------9------
+A|----9------x-------x-------x------
+E|----7------x-------x-------x------[/tab]
+
+The B* chord in the pre-chorus is strummed once as a transition.
+It coincides with the "and" of the 3rd beat in strum pattern "Pre-Chorus (last 2 lines)".
+I tried to keep the strum patterns accurate, but it might not translate all that well to acoustic guitar.
+
+[Intro]
+[ch]A[/ch]
+
+[Verse 1]
+[tab][ch]A[/ch]                              [ch]F#m[/ch]
+Sometimes I don't know what to say[/tab]
+[tab][ch]C#[/ch]                           [ch]D[/ch]
+So much you're at a loss for words[/tab]
+[tab][ch]A[/ch]                         [ch]F#m[/ch]
+Sometimes you tell me I'm alright[/tab]
+[tab][ch]C#[/ch]                    [ch]D[/ch]
+I barely think that I concur[/tab]
+[tab]    [ch]A[/ch]         [ch]F#m[/ch]                     [ch]C#[/ch]               [ch]D[/ch]
+And all of my friends have lost their light like c-c-c-cataracts[/tab]
+[tab][ch]A[/ch]                       [ch]F#m[/ch]
+And I believe that if I chase something[/tab]
+[tab][ch]C#[/ch]                      [ch]D[/ch]
+I'll end up with what I deserve[/tab]
+
+
+[Pre-Chorus 1]
+[tab]        [ch]C#m[/ch]        [ch]Bm[/ch]                      [ch]A[/ch]
+There's many, many things that can you can do, yeah[/tab]
+[tab]        [ch]C#m[/ch]        [ch]Bm[/ch]               [ch]A[/ch]
+There's many, many places you could see, yeah[/tab]
+[tab]           [ch]F#m[/ch]               [ch]B[/ch]*
+But you're stuck right here[/tab]
+[tab][ch]C#[/ch]*                      [ch]D[/ch]*                   [ch]E[/ch]*
+Waiting for the world to change your point of view[/tab]
+
+
+[Chorus]
+[tab][ch]D[/ch]                     [ch]A[/ch]                     [ch]C#m[/ch]      [ch]D[/ch]
+I've been nothing but notes and strings for so long, so long[/tab]
+[tab][ch]D[/ch]                         [ch]A[/ch]                       [ch]C#m[/ch]     [ch]C#[/ch]
+I've heard nothing but my gramps telling me to go so far, so far[/tab]
+[tab][ch]D[/ch]                         [ch]A[/ch]
+Oh, feel it running in my hands and my head[/tab]
+[tab]        [ch]C#[/ch]              [ch]D[/ch]
+From my toes up (to my) sore heart[/tab]
+[tab][ch]A[/ch]                     [ch]F#m[/ch]                       [ch]C#[/ch]           [ch]D[/ch]
+I've seen nothing but growth and everybody show love, (so I) show love[/tab]
+
+
+[Verse 2]
+[tab][ch]A[/ch]                                [ch]F#m[/ch]
+Sometimes I don't know if you're playing me, playing me[/tab]
+[tab][ch]C#[/ch]                               [ch]D[/ch]
+You sound rehearsed and when you talk it's like a play to me[/tab]
+[tab][ch]A[/ch]             [ch]F#m[/ch]
+Say something real, don't make that face to me[/tab]
+[tab][ch]C#[/ch]                 [ch]D[/ch]
+I said I'm in too deep, it's not a phase[/tab]
+[tab]    [ch]A[/ch]      [ch]F#m[/ch]                     [ch]C#[/ch]         [ch]D[/ch]
+And all my friends have lost their light like cigarettes[/tab]
+[tab][ch]A[/ch]                    [ch]F#m[/ch]
+I believed that if I make something new[/tab]
+[tab]           [ch]C#[/ch]                     [ch]D[/ch]
+You'd love me for myself and everything I've been through[/tab]
+
+
+[Pre-Chorus 2]
+[tab]              [ch]C#m[/ch]       [ch]Bm[/ch]               [ch]A[/ch]
+Cause there's many many places you could be, yeah[/tab]
+[tab]        [ch]C#m[/ch]       [ch]Bm[/ch]              [ch]A[/ch]
+There's many many faces you could see, yeah[/tab]
+[tab]           [ch]F#m[/ch]               [ch]B[/ch]*
+But you're stuck right here[/tab]
+[tab][ch]C#[/ch]*                     [ch]D[/ch]*                   [ch]E[/ch]*
+Waiting for my words to change your point of view[/tab]
+
+So I said
+
+
+[Chorus]
+[tab][ch]D[/ch]                     [ch]A[/ch]                     [ch]C#m[/ch]      [ch]D[/ch]
+I've been nothing but notes and strings for so long, so long[/tab]
+[tab][ch]D[/ch]                         [ch]A[/ch]                       [ch]C#m[/ch]     [ch]C#[/ch]
+I've heard nothing but my gramps telling me to go so far, so far[/tab]
+[tab][ch]D[/ch]                         [ch]A[/ch]
+Oh, feel it running in my hands and my head[/tab]
+[tab]        [ch]C#[/ch]              [ch]D[/ch]
+From my toes up (to my) sore heart[/tab]
+[tab][ch]A[/ch]                     [ch]F#m[/ch]                  [ch]C#[/ch]                [ch]D[/ch]
+I've seen nothing but growth and everybody show love, (so I) show love[/tab]
+
+
+[Outro]
+N.C
+Show love, show love
+N.C
+Show love, (so I) show love

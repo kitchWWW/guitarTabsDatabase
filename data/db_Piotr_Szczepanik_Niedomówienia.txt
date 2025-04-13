@@ -1,0 +1,100 @@
+URL: https://tabs.ultimate-guitar.com/tab/3555920
+Artist: Piotr Szczepanik
+Song: Niedomówienia
+Genre: 
+Key: C
+
+
+**********************
+h  hammer-on
+**********************
+
+[Chords]
+F/C    X 3 X 2 1 1
+C7/Bb  X 1 X 0 1 0
+F7/Eb  X X 1 2 1 1
+E7/B   X 2 X 1 3 0
+A/C#   X 4 X 2 5 5
+F#dim7 X X 1 2 1 2
+Gaug   X X 5 4 4 3
+
+[tab][Intro]
+e|-3-2-5-|-5-4-5-|-5-4-5-|-7-6-7-|-------|
+B|-----5-|-----5-|-----6-|-----8-|-------|
+G|-----3-|-----5-|-----5-|-----7-|-------|
+D|-------|-------|-------|-------|-------|
+A|-------|-------|-------|-------|---0-2-|
+E|-------|-------|-------|-------|-3-----|[/tab]
+
+[Verse 1]
+[tab][ch]C[/ch]         [ch]E7[/ch]   [ch]Am/A[/ch] [ch]Am/C[/ch] [ch]F/F[/ch] [ch]F/C[/ch]       [ch]C[/ch] [ch]C7/Bb[/ch]
+Nie znasz wagi słów,     gdy    mówisz mi:[/tab]
+[tab]       [ch]F[/ch]     [ch]F7/Eb[/ch]         [ch]C[/ch]     [ch]Am[/ch]
+"Do widzenia"     i "dzień dobry"[/tab]
+[tab]         [ch]E7/E[/ch]   [ch]E7/B[/ch]       [ch]Am[/ch]   [ch]A/C#[/ch]
+W jednym zdaniu,    jednym tchem[/tab]
+
+[Chorus]
+[tab][ch]D[/ch]           [ch]F#m[/ch]    [ch]Bm[/ch]   [ch]G[/ch]
+Niedomówień sens ukryty znam[/tab]
+[tab]     [ch]D[/ch]    [ch]F#m[/ch]     [ch]Am/A[/ch]   [ch]Am/C[/ch]
+Wystarczy dotknąć twoich ust[/tab]
+[tab][ch]C[/ch]           [ch]Em[/ch]      [ch]Am[/ch]    [ch]Fm[/ch]  [ch]G[/ch] [ch]F#dim7[/ch] [ch]G[/ch] [ch]Gaug[/ch]
+Są tak obce jak nie twoje już i  nie   mo--je[/tab]
+
+[Verse 2]
+[tab][ch]C[/ch]        [ch]E7[/ch]     [ch]Am/A[/ch] [ch]Am/C[/ch] [ch]F/F[/ch] [ch]F/C[/ch]     [ch]C[/ch]    [ch]C7/Bb[/ch]
+Nie wiem czy to żart,     czy    może błąd[/tab]
+[tab]    [ch]F[/ch]     [ch]F7/Eb[/ch]     [ch]C[/ch]     [ch]Am[/ch]
+Zamierzony,    wymierzony[/tab]
+[tab]         [ch]E7/E[/ch] [ch]E7/B[/ch]        [ch]Am[/ch]  [ch]A/C#[/ch]
+Swym bezsensem    przeciw nam[/tab]
+
+[Chorus]
+[tab][ch]D[/ch]              [ch]F#m[/ch]       [ch]Bm[/ch]     [ch]G[/ch]
+Nie znasz wagi słów tak, jak ja znam[/tab]
+[tab]     [ch]D[/ch]    [ch]F#m[/ch]     [ch]Am/A[/ch]   [ch]Am/C[/ch]
+Wystarczy dotknąć twoich ust[/tab]
+[tab][ch]C[/ch]           [ch]Em[/ch]      [ch]Am[/ch]    [ch]Fm[/ch]  [ch]G[/ch] [ch]F#dim7[/ch] [ch]G[/ch] [ch]Gaug[/ch]
+Są tak obce jak nie twoje już i  nie   mo--je[/tab]
+
+[tab][Solo]
+   [ch]C[/ch]     [ch]E7[/ch]       [ch]Am/A[/ch] [ch]Am/C[/ch]         [ch]F/F[/ch]       [ch]F/C[/ch]             [ch]C[/ch]   [ch]C7/Bb[/ch]
+e|---------------|-----------------|------------------------|--------------|
+B|---------------|-----------------|-8h10-10--10-10-10-8----|--------------|
+G|-9-10-9--7-9-7-|-----------------|---------------------10-|-9------------|
+D|---------------|-10--10-10-12-10-|------------------------|----10--10-12-|
+A|---------------|-----------------|------------------------|--------------|
+E|---------------|-----------------|------------------------|--------------|[/tab]
+[tab]    [ch]F[/ch]        [ch]F7/Eb[/ch]     [ch]C[/ch]   [ch]Am[/ch]       [ch]E7/E[/ch]  [ch]E7/B[/ch]      [ch]Am[/ch]  [ch]A/C#[/ch]
+e|-------------------|-------------|---------------|---|
+B|-8h10--------------|-------------|-9-------------|---|
+G|------10---------7-|-9-7-----7-9-|---9-----------|---|
+D|----------10-10----|-----10------|-----10-9-10-9-|-7-|
+A|-------------------|-------------|---------------|---|
+E|-------------------|-------------|---------------|---|[/tab]
+
+[Chorus]
+[tab][ch]D[/ch]           [ch]F#m[/ch]    [ch]Bm[/ch]   [ch]G[/ch]
+Niedomówień sens ukryty znam[/tab]
+[tab]     [ch]D[/ch]    [ch]F#m[/ch]     [ch]Am/A[/ch]   [ch]Am/C[/ch]
+Wystarczy dotknąć twoich ust[/tab]
+[tab][ch]C[/ch]           [ch]Em[/ch]      [ch]Am[/ch]    [ch]Fm[/ch]  [ch]G[/ch] [ch]F#dim7[/ch] [ch]G[/ch] [ch]Gaug[/ch]
+Są tak obce jak nie twoje już i  nie   mo--je[/tab]
+
+[Verse 3]
+[tab][ch]C[/ch]         [ch]E7[/ch]   [ch]Am/A[/ch] [ch]Am/C[/ch] [ch]F/F[/ch] [ch]F/C[/ch]       [ch]C[/ch] [ch]C7/Eb[/ch]
+Nie znasz wagi słów,     gdy    mówisz mi:[/tab]
+[tab]       [ch]F[/ch]     [ch]F7/Eb[/ch]         [ch]C[/ch]     [ch]Am[/ch]
+"Do widzenia"     i "dzień dobry"[/tab]
+[tab]         [ch]E7/E[/ch]   [ch]E7/B[/ch]       [ch]Am[/ch]   [ch]A/C#[/ch]
+W jednym zdaniu,    jednym tchem[/tab]
+
+[tab][Outro]
+       [ch]F[/ch]         [ch]G[/ch]         [ch]C[/ch]
+e|-5-4-5-5-|-7-6-7-7-|-8-7-8-|
+B|-----6-6-|-----8-8-|-----8-|
+G|-----5-5-|-----7-7-|-----9-|
+D|---------|---------|-------|
+A|---------|---------|-------|
+E|---------|---------|-------|[/tab]

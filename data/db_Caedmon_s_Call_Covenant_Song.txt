@@ -1,0 +1,52 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/covenant-song-chords-338450
+Artist: Caedmon's Call
+Song: Covenant Song
+Genre: 
+Key: 
+
+
+===============================                   ========================= 
+Covenant Song---Caedmon's Call--------------------Transfered by Asa Gaston
+===============================                   ========================= 
+
+Capo 3.  After the first verse or chorus or two, add the 1st string 5th fret
+to spice up the verse and the first couple lines of the chorus.
+
+[tab]xx0230  [ch]D2[/ch]
+x20230  Bm (* = 5th string 0h2)[/tab]
+x30030  C  (* = 5th string 2h3)
+3x0033  G  (* = 6th string 2h3, 3rd string 0h2)
+x02230  [ch]A[/ch]
+x00232  [ch]D[/ch]
+020030  [ch]Em[/ch]
+x20030  /[ch]B[/ch]
+
+VERSE 1:
+[ch]D2[/ch]     [ch]Bm[/ch]*    [ch]C[/ch]*
+[ch]D2[/ch]     [ch]G[/ch]*
+[ch]D2[/ch]     [ch]Bm[/ch]*    [ch]C[/ch]*     [ch]D2[/ch]     [ch]Bm[/ch]*    [ch]C[/ch]*     [ch]G[/ch] (verses 2 3 & 5 [ch]D[/ch] instead of [ch]G[/ch])
+
+VERSE 2:
+
+CHORUS:
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]
+[ch]G[/ch]      [ch]A[/ch]      [ch]D[/ch]
+[ch]G[/ch]      [ch]Em[/ch]     [ch]C[/ch]              
+/[ch]B[/ch]     [ch]C[/ch]      [ch]D[/ch]
+
+SHORT TAG: |[ch]D[/ch]    .   |[ch]D[/ch]    .   |/[ch]B[/ch]  [ch]C[/ch].   |
+
+VERSE 3:
+
+REPEAT CHORUS
+
+TAG: |[ch]D[/ch]    .   |[ch]D[/ch]    .   |/[ch]B[/ch]   .   |[ch]C[/ch]    .   |
+     |[ch]D[/ch]    .   |[ch]D[/ch]    .   |/[ch]B[/ch]  [ch]C[/ch].   |
+
+VERSE 4:
+
+VERSE 5:
+
+REPEAT CHORUS 2X
+
+REPEAT TAG

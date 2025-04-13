@@ -1,0 +1,123 @@
+URL: https://tabs.ultimate-guitar.com/tab/portland/time-to-talk-chords-4996543
+Artist: Portland
+Song: Time To Talk
+Genre: 
+Key: Eb
+
+
+BPM:      92
+Single Released: 20 Oct 2023  (Vandaag !!)
+
+
+[Chords]
+[Em*    022010]
+
+
+Capo: 3 fret
+
+        Alternate or different capo fret positions are easily possible by using the transpose
+           button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example To play this without capo put the transpose button at +3.
+                  Half step down tuning put the transpose button at +4.
+
+       Capo positie aanpassingen zijn gemakkelijk te maken door de Transpose knop te gebruiken.
+          Transpose -1 is capo een fret hoger; Transpose knop +1 is capo een fret lager.
+          De akkoorden worden automatisch aangepast aan de nieuwe capo positie.
+          Let wel bij gebruik van de transpose functie kunnen de akkoorden iets op de regel
+             verschuiven omwille van de lengte van de akkoord namen.
+          Bv Spelen zonder capo? Zet de transpose knop dan op +3.
+
+
+[Intro]
+[ch]C[/ch]
+
+
+[Verse 1]
+[tab][ch]C[/ch]         [ch]Am[/ch]     [ch]Em[/ch]      [ch]Em[/ch]*
+Words are flying forward,[/tab]
+[tab][ch]C[/ch]        [ch]Am[/ch]   [ch]Em[/ch]  [ch]Em[/ch]*
+Talks to disappear,[/tab]
+[tab][ch]C[/ch]         [ch]Am[/ch]    [ch]Em[/ch]      [ch]Em[/ch]*
+While I’m going backwards,[/tab]
+[tab]  [ch]F[/ch]        [ch]G7[/ch]      [ch]C[/ch]
+I know I’m hard to hear.[/tab]
+
+
+[Verse 2]
+[tab]  [ch]C[/ch]       [ch]Am[/ch]         [ch]Em[/ch]
+I want to tell you a story,[/tab]
+[tab]  [ch]C[/ch]               [ch]Am[/ch]        [ch]Em[/ch]
+I might need some time from you,[/tab]
+[tab]    [ch]C[/ch]         [ch]Am[/ch]     [ch]Em[/ch]
+I’m stumbling and so anxious,[/tab]
+[tab]         [ch]F[/ch]        [ch]G[/ch]      [ch]C[/ch]   [ch]C[/ch]
+But your ears are needed too.[/tab]
+
+
+[Chorus]
+[tab][ch]Am[/ch]        [ch]Em[/ch]
+Oh I’m on fire,[/tab]
+[tab]       [ch]F[/ch]          [ch]G[/ch]     [ch]C[/ch]
+But it feels like I got caught,[/tab]
+[tab][ch]Am[/ch]        [ch]Em[/ch]
+Oh I’m so tired,[/tab]
+[tab]          [ch]F[/ch]          [ch]G[/ch]     [ch]C[/ch]
+‘Cause it seems that I got locked,[/tab]
+[tab]           [ch]F[/ch]         [ch]G[/ch]         [ch]C[/ch]    [ch]C[/ch]
+But I just need some time   to talk.[/tab]
+
+
+[Verse 3]
+[tab]      [ch]C[/ch]         [ch]Am[/ch]      [ch]Em[/ch]
+And I wish that I could tell you,[/tab]
+[tab]    [ch]C[/ch]        [ch]Am[/ch]       [ch]Em[/ch]
+And how this makes me feel,[/tab]
+[tab][ch]C[/ch]     [ch]Am[/ch]      [ch]Em[/ch]
+All I need is patience,[/tab]
+[tab]   [ch]F[/ch]           [ch]G[/ch]          [ch]C[/ch]   [ch]C[/ch]
+My voice never sounded so real.[/tab]
+
+
+[Verse 4]
+[tab]    [ch]C[/ch]         [ch]Am[/ch]      [ch]Em[/ch]
+And you don’t need to help me,[/tab]
+[tab]  [ch]C[/ch]           [ch]Am[/ch]      [ch]Em[/ch]
+I know how to do this too,[/tab]
+[tab]    [ch]C[/ch]         [ch]Am[/ch]     [ch]Em[/ch]
+Sometimes and I just wondered,[/tab]
+[tab][ch]F[/ch]     [ch]G[/ch]        [ch]C[/ch]   [ch]C[/ch]
+How I sound to you.[/tab]
+
+
+[Chorus]
+[tab][ch]Am[/ch]        [ch]Em[/ch]
+Oh I’m on fire,[/tab]
+[tab]       [ch]F[/ch]          [ch]G[/ch]     [ch]C[/ch]
+But it feels like I got caught,[/tab]
+[tab][ch]Am[/ch]        [ch]Em[/ch]
+Oh I’m so tired,[/tab]
+[tab]          [ch]F[/ch]          [ch]G[/ch]     [ch]C[/ch]
+‘Cause it seems that I got locked,[/tab]
+[tab]           [ch]F[/ch]         [ch]G[/ch]         [ch]C[/ch]    [ch]C[/ch]
+But I just need some time   to talk.[/tab]
+
+
+[Chorus]
+[tab][ch]Am[/ch]        [ch]Em[/ch]
+Oh I’m on fire,[/tab]
+[tab]       [ch]F[/ch]          [ch]G[/ch]     [ch]C[/ch]      [ch]G/B[/ch]
+But it feels like I got caught,[/tab]
+[tab][ch]Am[/ch]        [ch]Em[/ch]
+Oh I’m so tired,[/tab]
+[tab]          [ch]F[/ch]          [ch]G[/ch]     [ch]C[/ch]
+‘Cause it seems that I got locked,[/tab]
+[tab]           [ch]F[/ch]         [ch]G[/ch]    [ch]G7[/ch]     [ch]C[/ch]    [ch]C[/ch]
+But I just need some time     to talk.[/tab]
+
+
+[Outro]
+[ch]C[/ch]

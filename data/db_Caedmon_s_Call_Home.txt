@@ -1,0 +1,78 @@
+URL: https://tabs.ultimate-guitar.com/tab/caedmons-call/home-chords-339548
+Artist: Caedmon's Call
+Song: Home
+Genre: 
+Key: 
+
+
+======================                           =========================
+Home---Caedmon's Call----------------------------Transfered by Asa Gaston
+======================                           =========================
+
+Chord  -  Name
+X32010    [ch]C[/ch]
+320003    [ch]G[/ch]
+XX3211    [ch]F[/ch]
+X02210    [ch]Am[/ch]
+
+(Little extras)
+X2X010    [ch]C/B[/ch]
+[tab]X2000X    [ch]G/B[/ch]
+XX3011    Fadd2[/tab]
+X30010    Cadd2
+
+
+VERSE
+[ch]C[/ch]       [ch]C[/ch]
+[ch]C[/ch]       [ch]C[/ch]
+[ch]C[/ch]       [ch]C[/ch]
+[ch]G[/ch]       [ch]F[/ch]
+[ch]C[/ch]       [ch]C[/ch]   [ch]G[/ch]
+
+CHORUS
+[ch]C[/ch]       [ch]C[/ch]   [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]   [ch]G[/ch]
+[ch]Am[/ch]      [ch]C[/ch] [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]   [ch]G[/ch]
+[ch]C[/ch]       [ch]C[/ch]
+
+VERSE
+[ch]C[/ch]       [ch]C[/ch]
+[ch]C[/ch]       [ch]C[/ch]
+[ch]F[/ch]       [ch]G[/ch]
+[ch]C[/ch]       [ch]C[/ch]   (/B)
+
+BRIDGE
+[ch]Am[/ch]      [ch]C[/ch] [ch]G[/ch]
+[ch]Am[/ch]      [ch]C[/ch] [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]
+
+CHORUS
+[ch]C[/ch]       [ch]C[/ch]   [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]   [ch]G[/ch]
+[ch]Am[/ch]      [ch]C[/ch]   [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]   [ch]G[/ch]
+
+INTSRUMENTAL
+[ch]C[/ch]       [ch]C[/ch]
+[ch]F[/ch]       [ch]F(2)[/ch]
+[ch]C[/ch]       [ch]C[/ch]   (/B)
+
+BRIDGE
+[ch]Am[/ch]      [ch]C[/ch] [ch]G[/ch]
+[ch]Am[/ch]      [ch]C[/ch] [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]
+[ch]C[/ch]       [ch]C[/ch]   ([ch]G/B[/ch])
+
+CHORUS
+[ch]C[/ch]       [ch]C[/ch]   [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]   [ch]G[/ch]
+[ch]Am[/ch]      [ch]C[/ch] [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]
+
+OUTRO
+[ch]C[/ch]       [ch]C[/ch](2)[ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]
+[ch]C[/ch]       [ch]C[/ch]   [ch]G[/ch]
+[ch]F[/ch]       [ch]F[/ch]
+[ch]C[/ch]

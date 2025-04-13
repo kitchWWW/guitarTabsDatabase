@@ -1,0 +1,81 @@
+URL: https://tabs.ultimate-guitar.com/tab/k-d-lang/the-mind-of-love-chords-73913
+Artist: k.d. lang
+Song: The Mind Of Love
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From: indigo@ucscb.UCSC.EDU (Adam Schneider)
+Subject: CRD: "The Mind of Love" (k.d.lang)
+
+
+THE MIND OF LOVE (k.d. lang & Ben Mink)
+---------------------------------------
+
+[Actually in F; capo 3.]
+[Each chord is half a measure, except two chords joined by a hyphen are
+ a half-measure _total_.]
+
+[tab][ch]D[/ch]   [ch]D[/ch]         [ch]Fmaj7[/ch]   Fmaj13           [ch]D[/ch]         [ch]D[/ch]            [ch]Fmaj7[/ch]  Fmaj13
+Talking to myself here      is causing great concern for my health[/tab]
+[tab][ch]Em7[/ch]     [ch]Em7[/ch]    [ch]A7[/ch]     [ch]A7[/ch]      [ch]Em7[/ch]    [ch]Em7[/ch]      [ch]A7[/ch]    [ch]A7[/ch]
+  Where is your head, Kathryn?  Where is your head?[/tab]
+
+[tab]    [ch]D[/ch]       [ch]D[/ch]        [ch]Fmaj7[/ch]    Fmaj13   [ch]D[/ch]         [ch]D[/ch]       [ch]Fmaj7[/ch]    Fmaj13
+I'm trying hard to escape this         constant pull towards ache[/tab]
+[tab][ch]Em7[/ch]   [ch]Em7[/ch]     [ch]A7[/ch]    [ch]A7[/ch]      [ch]Em7[/ch]   [ch]Em7[/ch]     [ch]A7[/ch]    [ch]A7[/ch]
+  Why do you fight, Kathryn?  Why do you fight?[/tab]
+
+[tab][ch]A13[/ch]   [ch]A13[/ch]   [ch]G13[/ch]   [ch]G13[/ch]      [ch]A13[/ch]   [ch]A13[/ch]   [ch]G13[/ch]   [ch]G13[/ch]
+[instrumental][/tab]
+
+[tab][ch]D[/ch]       [ch]D[/ch]           [ch]Fmaj7[/ch]   Fmaj13   [ch]D[/ch]          [ch]D[/ch]        [ch]Fmaj7[/ch]   Fmaj13
+Surely help will arrive soon      to cure these self-induced wounds[/tab]
+[tab][ch]Em7[/ch]  [ch]Em7[/ch]   [ch]A7[/ch]        [ch]A7[/ch]      [ch]Em7[/ch]  [ch]Em7[/ch]   [ch]A7[/ch]       [ch]A7[/ch]  [ch]Em7[/ch]   [ch]Em7[/ch]    [ch]A7[/ch]
+  Why hurt yourself, Kathryn?  Why hurt yourself?      Why hurt yourself?[/tab]
+
+[tab][ch]D11[/ch]/[ch]A[/ch] - [ch]A7[/ch](no3)  [ch]Dm7[/ch]*  [ch]Dm7[/ch]*  [ch]E7[/ch]*  [ch]E7[/ch]*        [ch]Cm[/ch]      [ch]F#m7[/ch]-5  [ch]E7[/ch]     [ch]E7[/ch]
+Can     your     heart      conceal what the mind of love  reveals?[/tab]
+
+[tab][ch]A13[/ch]   [ch]A13[/ch]   [ch]G13[/ch]   [ch]G13[/ch]      [ch]A13[/ch]   [ch]A13[/ch]   [ch]G13[/ch]   [ch]G13[/ch]
+[instrumental][/tab]
+[tab][ch]A13[/ch]   [ch]A13[/ch]   [ch]G13[/ch]   [ch]G13[/ch]      [ch]A13[/ch]   [ch]A13[/ch]   [ch]G13[/ch]   [ch]G13[/ch]
+[instrumental][/tab]
+
+[tab]    [ch]D[/ch]   [ch]D[/ch]         [ch]Fmaj7[/ch]   Fmaj13              [ch]D[/ch]         [ch]D[/ch]    [ch]Fmaj7[/ch]     Fmaj13
+I'm talking to myself again;     it's causing great concern for my health[/tab]
+[tab][ch]Em7[/ch]    [ch]Em7[/ch]       [ch]A7[/ch]   [ch]A7[/ch]        [ch]Em7[/ch]  [ch]Em7[/ch]       [ch]A7[/ch]    [ch]A7[/ch]
+  Where is your head, Kathryn?  Where is your head?[/tab]
+[tab][ch]Em7[/ch]     [ch]Em7[/ch]    [ch]A7[/ch]     [ch]A7[/ch]      [ch]Em7[/ch]     [ch]Em7[/ch]     [ch]A7[/ch]
+  Where is your head, Kathryn?  Where is your head?[/tab]
+
+[tab][ch]D11[/ch]/[ch]A[/ch] - [ch]A7[/ch](no3)  [ch]Dm7[/ch]*  [ch]Dm7[/ch]*  [ch]E7[/ch]*  [ch]E7[/ch]*        [ch]Cm[/ch]      [ch]F#m7[/ch]-5  [ch]E7[/ch]
+Can     your     heart      conceal what the mind of love  reveals?[/tab]
+[tab][ch]D11[/ch]/[ch]A[/ch] - [ch]A7[/ch](no3)  [ch]Dm7[/ch]*  [ch]Dm7[/ch]*  [ch]E7[/ch]*  [ch]E7[/ch]*        [ch]Cm[/ch]      [ch]F#m7[/ch]-5  [ch]E7[/ch]     [ch]E7[/ch]
+Can     your     heart      conceal what the mind of love  reveals?[/tab]
+
+[tab] [ch]D/E[/ch]       [ch]D/E[/ch]   [ch]Dm7[/ch]  [ch]Dm7[/ch]   [ch]E7[/ch]        [ch]E7[/ch]         [ch]F#m7[/ch]-5   [ch]F#m7[/ch]-5  [ch]E7[/ch]  [ch]E7[/ch]
+(Does your heart conceal)   what the mind of love reveals?[/tab]
+
+[tab][ch]A13[/ch]     [ch]A13[/ch]     [ch]G13[/ch]     [ch]G13[/ch]
+[instrumental; repeat and fade][/tab]
+
+CHORDS:
+[ch]D[/ch]: x00232     [ch]Fmaj7[/ch]: x33210     Fmaj13: x33200     [ch]Em7[/ch]: 022030     [ch]A7[/ch]: x02020
+[ch]A13[/ch]: x02022     [ch]G13[/ch]: 303200     [ch]D11[/ch]/[ch]A[/ch]: x04030     [ch]A7[/ch](no3): x05050
+[ch]Dm7[/ch]*: x00565     [ch]E7[/ch]*: xx0454     [ch]Cm[/ch]: xx1013     [ch]F#m7[/ch]-5: xx4552     [ch]E7[/ch]: 020100
+[ch]D/E[/ch]: 000232     [ch]Dm7[/ch]: x00211
+
+(These fingerings are mostly right out of the songbook.  I personally play Cm
+as 3x5543 or xx5543, and F#m7-5 as 202210 or x02212.)
+
+
+[tab]==-=--=---=----=-----=-------=---------=---------=-------=-----=----=---=--=-==[/tab]
+[tab]Adam Schneider               indigo@ucscb.ucsc.edu              U.C. Santa Cruz
+              Mail me if you want guitar chords for Indigo Girls,
+                 Mary-Chapin Carpenter, Lucinda Williams, etc.
+==-=--=---=----=-----=-------=---------=---------=-------=-----=----=---=--=-==[/tab]

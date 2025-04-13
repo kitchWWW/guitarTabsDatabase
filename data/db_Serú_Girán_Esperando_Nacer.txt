@@ -1,0 +1,111 @@
+URL: https://tabs.ultimate-guitar.com/tab/1598298
+Artist: Serú Girán
+Song: Esperando Nacer
+Genre: 
+Key: 
+
+
+[tab][ch]Asus2/F#[/ch]  202200
+Bsus4/G#  4x4400 or 422452[/tab]
+[ch]G7add13[/ch]   3x3000
+
+
+[Intro]
+[ch]A[/ch]  [ch]Amaj7[/ch]  [ch]A7[/ch]    [ch]Dmaj7[/ch]    [ch]Dm7[/ch] ([ch]G[/ch]) x2
+
+[ch]E[/ch]  [ch]Asus2/F#[/ch] [ch]Bsus4/G#[/ch] [ch]G7add13[/ch]  [ch]F#m7[/ch] [ch]F#m/B[/ch]
+[ch]E[/ch]  [ch]Asus2/F#[/ch] [ch]Bsus4/G#[/ch] [ch]G7add13[/ch]  [ch]F#m7[/ch]
+
+[ch]A[/ch]  [ch]D/A[/ch]   [ch]E/A[/ch]  [ch]D/A[/ch]
+
+[Verso]
+[tab][ch]A[/ch]          [ch]Amaj7[/ch]    [ch]A7[/ch]
+  Tengo el corazon abierto[/tab]
+[tab][ch]Dmaj7[/ch]
+     todo el mundo puede ver[/tab]
+[tab]     [ch]Dm7[/ch]            [ch]F/G[/ch]
+un camino para correr[/tab]
+
+[Verso]
+[tab][ch]A[/ch]          [ch]Amaj7[/ch]        [ch]A7[/ch]
+  Tengo el alma en un desierto[/tab]
+[tab][ch]Dmaj7[/ch]
+     todo el mundo puede ser[/tab]
+[tab]     [ch]Dm7[/ch]           [ch]F/G[/ch]
+un camino para crecer[/tab]
+
+[Coro]
+[tab][ch]E[/ch]               [ch]Asus2/F#[/ch]     [ch]Bsus4/G#[/ch]  [ch]G7add13[/ch]  [ch]F#m7[/ch] [ch]F#m/B[/ch]
+  Todo el mundo dice que mi amor es en vano[/tab]
+[tab][ch]E[/ch]             [ch]Asus2/F#[/ch]   [ch]Bsus4/G#[/ch] [ch]G7add13[/ch]
+  y que llevo siglos esperando nacer[/tab]
+[tab]   [ch]F#m7[/ch]      [ch]D/A[/ch]
+Esperando nacer[/tab]
+
+[Interlude]
+([ch]D/A[/ch]) [ch]A[/ch]   [ch]E/A[/ch]  [ch]D/A[/ch]
+ [ch]D/A[/ch]  [ch]A[/ch]   [ch]E/A[/ch]  [ch]D/A[/ch]
+
+[Verso]
+[tab][ch]A[/ch]          [ch]Amaj7[/ch]         [ch]A7[/ch]  ([ch]A7sus4[/ch] [ch]A7[/ch])
+  Yo te he visto en el pasado[/tab]
+[tab][ch]Dmaj7[/ch]
+     con tu cara de jarron[/tab]
+[tab]     [ch]Dm7[/ch]                [ch]Fmaj7[/ch]  [ch]Fmaj7/G[/ch]
+y tu mundo hecho de cliches[/tab]
+
+[Verso]
+[tab][ch]A[/ch]         [ch]Amaj7[/ch]  [ch]A7[/ch]
+  Que esperas ahi al costado del camino?[/tab]
+[tab][ch]Dmaj7[/ch]
+     No escuchaste esta cancion[/tab]
+[tab]        [ch]Dm7[/ch]              [ch]Fmaj7[/ch]  [ch]Fmaj7/G[/ch]
+todo el mundo te quiere ver[/tab]
+
+[Coro]
+[tab][ch]E[/ch]              [ch]Asus2/F#[/ch]      [ch]Bsus4/G#[/ch]  [ch]G7add13[/ch]  [ch]F#m7[/ch]
+  Tengo la esperanza de encontrar un sonido[/tab]
+[tab][ch]E[/ch]               [ch]Asus2/F#[/ch]      [ch]Bsus4/G#[/ch] [ch]G7add13[/ch]
+  y un amor tan grande que te pueda mover[/tab]
+[tab]    [ch]A/F#[/ch]   [ch]A/B[/ch]   [ch]D/A[/ch]
+por Dios escuchame![/tab]
+
+[Interlude]
+([ch]D/A[/ch]) [ch]A[/ch]   [ch]E/A[/ch]  [ch]D/A[/ch]
+ [ch]D/A[/ch]  [ch]A[/ch]   [ch]E/A[/ch]  [ch]D/A[/ch]
+
+[Solo]
+[ch]Dm7[/ch]    [ch]G7add13[/ch]    [ch]Cmaj7[/ch]   ([ch]Cmaj7[/ch] [ch]Dm7[/ch] [ch]Ebm7[/ch]) [ch]Em7[/ch]  [ch]A7[/ch]
+[ch]Fmaj7[/ch]    [ch]G[/ch]   ([ch]G7[/ch] [ch]F#7[/ch] [ch]F7[/ch]) [ch]E[/ch]  [ch]A/E[/ch]   [ch]G/E[/ch]  [ch]E[/ch]
+
+[Verso]
+[tab][ch]A[/ch]       [ch]Amaj7[/ch]      [ch]A7[/ch]
+  Te imaginas el lamento[/tab]
+[tab][ch]Dmaj7[/ch]
+     de la gente y su manual[/tab]
+[tab]       [ch]Dm7[/ch]                [ch]Fmaj7[/ch]  [ch]Fmaj7/G[/ch]
+de las cosas que nunca fueron[/tab]
+
+[Verso]
+[tab][ch]A[/ch]       [ch]Amaj7[/ch]   [ch]A7[/ch]         ([ch]A7sus4[/ch] [ch]A7[/ch])
+  Y el olor de los jazmines viejos[/tab]
+[tab][ch]Dmaj7[/ch]
+     y la mustia sensacion[/tab]
+[tab]          [ch]Dm7[/ch]                   [ch]Fmaj7[/ch]  [ch]Fmaj7/G[/ch]
+de que el tiempo se hecho a perder[/tab]
+
+[Coro]
+[tab][ch]E[/ch]            [ch]Asus2/F#[/ch]     [ch]Bsus4/G#[/ch]      [ch]G7add13[/ch]  [ch]F#m7[/ch] [ch]F#m/B[/ch]
+  Soy un solitario transmitiendo un mensaje[/tab]
+[tab][ch]E[/ch]             [ch]Asus2/F#[/ch]    [ch]Bsus4/G#[/ch] [ch]G7add13[/ch]
+  escribiendo frases para poder creer[/tab]
+[tab]   [ch]A/F#[/ch] [ch]A/B[/ch]  [ch]D/A[/ch]  [ch]A[/ch]   [ch]E/A[/ch]
+Esperando nacer[/tab]
+
+[Outro]
+[tab] [ch]D/A[/ch]         [ch]D/A[/ch]  [ch]A[/ch]   [ch]E/A[/ch]
+Esperando nacer[/tab]
+[tab] [ch]D/A[/ch]         [ch]D/A[/ch]  [ch]A[/ch]   [ch]E/A[/ch]
+Esperando nacer[/tab]
+[tab] [ch]D/A[/ch]         [ch]D/A[/ch]  [ch]A[/ch]   [ch]E/A[/ch]  [ch]D/A[/ch]
+Esperando nacer[/tab]

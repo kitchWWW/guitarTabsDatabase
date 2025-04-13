@@ -1,0 +1,152 @@
+URL: https://tabs.ultimate-guitar.com/tab/vigilantes-of-love/glory-and-the-dream-chords-4839965
+Artist: Vigilantes Of Love
+Song: Glory And The Dream
+Genre: 
+Key: Bb
+
+
+BPM:      125
+Released: 19 Nov 2007
+Album:    Welcome to Struggleville
+
+
+Note:     * after chord means strike chord once and let it ring.
+
+
+[Chords]
+[Em7       020030]
+[Cadd9     x32030]
+[G         320033]
+[D/F#      2x0232]
+
+
+Capo: 3 fret
+
+        Different capo fret positions are easily possible by using the transpose button below.
+          The chords will automatically adapt to the new capo position.
+          Plus 1 means capo fret position one down; minus one means capo one fret up.
+          Using the Transpose button can affect the placement of the chords in the line. Small
+            movements of the chords on the line are possible (depends on length chord names).
+          Example To play this without capo put the transpose button at +3.
+                  Half step down tuning put the transpose button at +4.
+
+
+
+[Intro]
+[ch]Em7[/ch]  [ch]Cadd9[/ch]  [ch]G[/ch]
+[ch]Cadd9[/ch]   [ch]G[/ch] [ch]D[/ch]
+[ch]Em7[/ch]  [ch]Cadd9[/ch]  [ch]G[/ch]
+[ch]Cadd9[/ch]   [ch]G[/ch] [ch]D[/ch]
+[ch]Em7[/ch]  [ch]Cadd9[/ch]  [ch]G[/ch]
+[ch]Cadd9[/ch]   [ch]G[/ch] [ch]D[/ch]
+
+
+[Verse 1]
+[tab][ch]Em7[/ch]                   [ch]Cadd9[/ch]
+I've only heard a few stories,[/tab]
+[tab][ch]Em7[/ch]                    [ch]Cadd9[/ch]
+Really only seen a few works,[/tab]
+[tab][ch]G[/ch]                 [ch]D[/ch]
+Tractor paints on plywood,[/tab]
+[tab][ch]Cadd9[/ch]
+Covered with verse,[/tab]
+[tab][ch]Em7[/ch]        [ch]Cadd9[/ch]
+You see so much,[/tab]
+[tab]  [ch]Em7[/ch]             [ch]Cadd9[/ch]
+I see not much at all,[/tab]
+[tab]     [ch]G[/ch]                   [ch]D[/ch]
+But, we're treading down serpents,[/tab]
+[tab]     [ch]Cadd9[/ch]
+And, we're breaking the fall.[/tab]
+
+
+[Chorus]
+[tab][ch]D[/ch]                      [ch]Cadd9[/ch]    [ch]G[/ch]
+If a picture's worth a thousand words,[/tab]
+[tab][ch]D[/ch]                 [ch]Cadd9[/ch]     [ch]G[/ch]
+What I've seen is what I've heard,[/tab]
+[tab]          [ch]Em[/ch]             [ch]D/F#[/ch]            [ch]C[/ch]
+While the image writhes, flickers on the screen,[/tab]
+[tab]                   [ch]C[/ch]*               [ch]D[/ch]*            [ch]Em7[/ch]  [ch]Cadd9[/ch] [ch]G[/ch]
+The distance grows wide between the glory and the dream.[/tab]
+
+
+[Interlude]
+[ch]Cadd9[/ch]  [ch]G[/ch]  [ch]D[/ch]
+
+
+[Verse 2]
+[tab][ch]Em[/ch]                          [ch]C[/ch]
+You may be out there on the river,[/tab]
+[tab][ch]Em[/ch]                    [ch]C[/ch]
+With your bridges all burned,[/tab]
+[tab][ch]G[/ch]                    [ch]D[/ch]
+Cannot swim a stroke,[/tab]
+[tab]           [ch]C[/ch]
+'Cause you never learn, you never learn,[/tab]
+[tab][ch]Em[/ch]                        [ch]C[/ch]
+Sure, some wear it like a badge,[/tab]
+[tab][ch]Em[/ch]                      [ch]C[/ch]
+Or a noose around their neck,[/tab]
+[tab]    [ch]G[/ch]               [ch]D[/ch]
+But call me home early, Lord,[/tab]
+[tab]  [ch]C[/ch]
+I swear there's nothing to protect.[/tab]
+
+
+[Chorus]
+[tab][ch]D[/ch]                      [ch]C[/ch]        [ch]G[/ch]
+If a picture's worth a thousand words,[/tab]
+[tab][ch]D[/ch]                 [ch]C[/ch]         [ch]G[/ch]
+What I've seen is what I've heard,[/tab]
+[tab]          [ch]Em[/ch]             [ch]D/F#[/ch]            [ch]C[/ch]
+While the image writhes, flickers on the screen,[/tab]
+[tab]                   [ch]C[/ch]*               [ch]D[/ch]*            [ch]Em7[/ch]  [ch]Cadd9[/ch] [ch]G[/ch]
+The distance grows wide between the glory and the dream.[/tab]
+
+
+[Interlude]
+[ch]Cadd9[/ch]  [ch]G[/ch]  [ch]D[/ch]
+[ch]Em7[/ch]  [ch]Cadd9[/ch] [ch]G[/ch]
+[ch]Cadd9[/ch]  [ch]G[/ch]  [ch]D[/ch]
+
+
+[Verse 3]
+[tab][ch]Em[/ch]                    [ch]C[/ch]
+I've only heard a few stories,[/tab]
+[tab][ch]Em[/ch]                     [ch]C[/ch]
+Really only seen a few works,[/tab]
+[tab][ch]G[/ch]                 [ch]D/F#[/ch]
+Tractor paints on plywood,[/tab]
+[tab][ch]C[/ch]
+Covered with Bible verse,[/tab]
+[tab][ch]Em[/ch]         [ch]C[/ch]
+You see so much,[/tab]
+[tab]  [ch]Em[/ch]              [ch]C[/ch]
+I see not much at all,[/tab]
+[tab]     [ch]G[/ch]                   [ch]D[/ch]
+But, we're treading down serpents,[/tab]
+[tab]     [ch]C[/ch]
+And, we're breaking the fall.[/tab]
+
+
+[Chorus]
+[tab][ch]D[/ch]                      [ch]C[/ch]        [ch]G[/ch]
+If a picture's worth a thousand words,[/tab]
+[tab][ch]D[/ch]                 [ch]C[/ch]         [ch]G[/ch]
+What I've seen is what I've heard,[/tab]
+[tab]          [ch]Em[/ch]             [ch]D/F#[/ch]            [ch]C[/ch]
+While the image writhes, flickers on the screen,[/tab]
+[tab]                   [ch]C[/ch]*               [ch]D[/ch]*            [ch]Em7[/ch]  [ch]Cadd9[/ch] [ch]G[/ch]
+The distance grows wide between the glory and the dream.[/tab]
+
+
+[Interlude]
+[ch]Cadd9[/ch]  [ch]G[/ch]  [ch]D[/ch]
+
+
+[Outro]
+[tab]        [ch]Em7[/ch]  [ch]Cadd9[/ch] [ch]G[/ch]
+And the dream, yeah[/tab]
+[ch]Cadd9[/ch]  [ch]G[/ch]  [ch]D[/ch]
+[ch]Em7[/ch]  [ch]A7[/ch]  [ch]Em[/ch]

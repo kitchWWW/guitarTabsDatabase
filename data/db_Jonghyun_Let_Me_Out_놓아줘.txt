@@ -1,0 +1,95 @@
+URL: https://tabs.ultimate-guitar.com/tab/2337285
+Artist: Jonghyun
+Song: Let Me Out 놓아줘
+Genre: 
+Key: 
+
+
+[Intro]
+[ch]G#m[/ch] [ch]Gm[/ch] [ch]F#m[/ch] [ch]Fm[/ch] (4x)
+
+[Verse]
+[tab][ch]G#m[/ch]                 [ch]Gm[/ch]
+shiseoni tteoreojin geon[/tab]
+[tab]               [ch]F#m[/ch]                [ch]Fm[/ch]
+neol ireoseoga aniya geunyang nan neol[/tab]
+[tab][ch]G#m[/ch]               [ch]Gm[/ch]
+jukdorok bogopado aneul su[/tab]
+[tab]             [ch]F#m[/ch]         [ch]Fm[/ch]
+eopttan geol ara dangyeonhi[/tab]
+
+[Pre-Chorus]
+[tab]         [ch]C#5[/ch]         [ch]Eb5[/ch]
+uri soni noajin geuttaebuteo[/tab]
+[tab]    [ch]G#m[/ch]           [ch]F#m[/ch]
+nae du nuni meoreosseo[/tab]
+[tab][ch]C#5[/ch]    [ch]Eb5[/ch]
+ije nugurado joa[/tab]
+
+[Chorus]
+[tab][ch]G#m[/ch]            [ch]G#m[/ch]    [ch]Gm[/ch]      [ch]F#m[/ch]     [ch]C#5[/ch]  [ch]B5[/ch]  [ch]E[/ch]
+sesange jichin nal nuga jom jebal anajweo~[/tab]
+[tab]                 [ch]E[/ch]    [ch]Eb5[/ch]  [ch]C#5[/ch]        [ch]C#5[/ch] [ch]Eb5[/ch]
+nunmure jeojeun nal nuga jom dakkajweo~[/tab]
+[tab][ch]G#m[/ch]            [ch]G#m[/ch]    [ch]Gm[/ch]             [ch]F#m[/ch]     [ch]C#5[/ch]  [ch]B5[/ch]  [ch]E[/ch]
+himdeureohaneun nal jebal meonjeo nunchichaejweo~[/tab]
+[tab]               [ch]E[/ch]
+monnan nal arajweo[/tab]
+[tab] [ch]Eb5[/ch]  [ch]C#5[/ch]      [ch]C#5[/ch] [ch]Eb5[/ch]
+jebal nal dowajweo~[/tab]
+
+[Interlude]
+[ch]G#m[/ch] [ch]Gm[/ch] [ch]F#m[/ch] [ch]Fm[/ch] (4x)
+
+[Pre-Chorus]
+[tab]           [ch]C#5[/ch]           [ch]Eb5[/ch]
+neoye nuni chagapge nal gamssado[/tab]
+[tab]    [ch]G#m[/ch]              [ch]F#m[/ch]
+nan imi momeul beoryeosseo[/tab]
+[tab][ch]C#5[/ch]     [ch]Eb5[/ch]
+ijen amuraedo joa[/tab]
+
+[Chorus]
+[tab][ch]G#m[/ch]            [ch]G#m[/ch]    [ch]Gm[/ch]      [ch]F#m[/ch]     [ch]C#5[/ch]  [ch]B5[/ch]  [ch]E[/ch]
+sesange jichin nal nuga jom jebal anajweo~[/tab]
+[tab]                 [ch]E[/ch]    [ch]Eb5[/ch]  [ch]C#5[/ch]        [ch]C#5[/ch] [ch]Eb5[/ch]
+nunmure jeojeun nal nuga jom dakkajweo~[/tab]
+[tab][ch]G#m[/ch]            [ch]G#m[/ch]    [ch]Gm[/ch]             [ch]F#m[/ch]     [ch]C#5[/ch]  [ch]B5[/ch]  [ch]E[/ch]
+himdeureohaneun nal jebal meonjeo nunchichaejweo~[/tab]
+[tab]               [ch]E[/ch]
+monnan nal arajweo[/tab]
+[tab] [ch]Eb5[/ch]  [ch]C#5[/ch]      [ch]C#5[/ch] [ch]Eb5[/ch]
+jebal nal dowajweo~[/tab]
+
+[Bridge]
+[tab][ch]C#5[/ch]            [ch]Eb5[/ch]        [ch]G#m[/ch]
+nal yongseohal su eomneun nan[/tab]
+[tab][ch]G#m[/ch]                    [ch]F#m[/ch]        [ch]C#5[/ch]
+geurae neol yongseohal su eomneun nan[/tab]
+[tab]           [ch]Eb5[/ch]                [ch]G#m[/ch]   [ch]Gm[/ch]
+gyesok nal ulligo tto neoreul geurigo[/tab]
+[tab]          [ch]F#m[/ch]   [ch]Fm[/ch]   [ch]C#5[/ch]
+yennareul weonhago isseo[/tab]
+[tab]           [ch]Eb5[/ch]
+jomman deo gamyeon dwae[/tab]
+[tab]                [ch]G#m[/ch]              [ch]F#m[/ch]
+han baljjangman deo didimyeon modeun ge kkeunna[/tab]
+[tab][ch]C#5[/ch]                      [ch]Eb[/ch]     [ch]Eb[/ch]    [ch]Eb[/ch]   [ch]G#m[/ch] [ch]Gm[/ch] [ch]F#m[/ch] [ch]Fm[/ch] [ch]F#m[/ch]
+miryeonhage japgo itjima nal geuman noa- jweo~[/tab]
+
+[Chorus]
+[tab][ch]C#5[/ch]     [ch]Eb5[/ch]
+(ijen amuraedo joa)[/tab]
+[tab][ch]G#m[/ch]            [ch]G#m[/ch]    [ch]Gm[/ch]      [ch]F#m[/ch]     [ch]C#5[/ch]  [ch]B5[/ch]  [ch]E[/ch]
+sesange jichin nal nuga jom jebal anajweo~[/tab]
+[tab]                 [ch]E[/ch]    [ch]Eb5[/ch]  [ch]C#5[/ch]        [ch]C#5[/ch] [ch]Eb5[/ch]
+nunmure jeojeun nal nuga jom dakkajweo~[/tab]
+[tab][ch]G#m[/ch]            [ch]G#m[/ch]    [ch]Gm[/ch]             [ch]F#m[/ch]     [ch]C#5[/ch]  [ch]B5[/ch]  [ch]E[/ch]
+himdeureohaneun nal jebal meonjeo nunchichaejweo~[/tab]
+[tab]               [ch]E[/ch]
+monnan nal arajweo[/tab]
+[tab] [ch]Eb5[/ch]  [ch]C#5[/ch]      [ch]C#5[/ch] [ch]Eb5[/ch]
+jebal nal dowajweo~[/tab]
+
+[Outro]
+[ch]G#m[/ch] [ch]Gm[/ch] [ch]F#m[/ch] [ch]Fm[/ch] (4x)

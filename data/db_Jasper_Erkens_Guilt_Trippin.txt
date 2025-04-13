@@ -1,0 +1,133 @@
+URL: https://tabs.ultimate-guitar.com/tab/jasper-erkens/guilt-trippin-chords-3501941
+Artist: Jasper Erkens
+Song: Guilt Trippin
+Genre: 
+Key: Am
+
+
+Note: Chord pattern under [Info] is repeated throughout the song.
+      For easy reading of lyrics I’ve stuck to the main chords.
+
+
+BPM:      137
+Released: 20 Nov 2020
+
+
+[Chords]
+[D9sus4/A  x00010]
+[G7sus4/D  xx0011]
+
+
+[Intro]
+[ch]Em[/ch]
+[ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch]
+[ch]D9sus4/A[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch]
+[ch]D9sus4/A[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch]
+[ch]D9sus4/A[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch]
+[ch]G7sus4/D[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch]
+[ch]G7sus4/D[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch]
+[ch]G7sus4/D[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch]
+[ch]G7sus4/D[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch]
+[ch]D9sus4/A[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch]
+[ch]D9sus4/A[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch]
+[ch]D9sus4/A[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch]
+[ch]D9sus4/A[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch] [ch]Am[/ch]
+[ch]G7sus4/D[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch]
+[ch]G7sus4/D[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch]
+[ch]G7sus4/D[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch]
+[ch]G7sus4/D[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch]
+
+
+[Verse 1]
+[tab][ch]Am[/ch]
+Far too much, way too soon,[/tab]
+[tab]      [ch]Dm7[/ch]
+We’re kids in a park,[/tab]
+[tab][ch]Am[/ch]
+Use whatever you need to,[/tab]
+[tab][ch]Dm7[/ch]
+Take what you want.[/tab]
+
+
+[Chorus]
+[tab]           [ch]Am7[/ch]
+‘Cause our world’s not kidding, it won’t keep giving,[/tab]
+[tab][ch]Am7[/ch]
+if we don’t start living mindful,[/tab]
+[tab]             [ch]Dm7[/ch]
+Planting the wine we’re sipping,[/tab]
+[tab][ch]Dm7[/ch]
+the spice we’re shipping,[/tab]
+[tab][ch]Dm7[/ch]
+It won’t keep giving if we don’t start living,[/tab]
+[tab]   [ch]Am7[/ch]
+in line with nature, our world’s in danger,[/tab]
+[tab][ch]Am7[/ch]
+avoid this vision of the future ,[/tab]
+[tab]           [ch]Dm7[/ch]
+Living our lives guilt trippin’,[/tab]
+[tab][ch]Dm7[/ch]
+Our world’s not kidding,[/tab]
+[tab][ch]Dm7[/ch]                                              [ch]Am7[/ch]
+It won’t keep giving if we don’t start living in line with it.[/tab]
+
+
+[Bridge]
+[tab][ch]Am7[/ch]
+‘Cause when the flowers bloom,[/tab]
+[tab]    [ch]Dm7[/ch]
+the kids are in awe,[/tab]
+[tab][ch]Am7[/ch]
+To appreciate the rain’s perfume,[/tab]
+[tab]    [ch]Dm7[/ch]
+and to fall in love.[/tab]
+[tab]     [ch]Am7[/ch]
+It’s not enough….[/tab]
+[tab][ch]Am7[/ch]
+It’s not enough…[/tab]
+[tab]     [ch]Dm7[/ch]
+It’s not enough…[/tab]
+[tab][ch]Dm7[/ch]
+It’s not enough…[/tab]
+
+
+[Chorus]
+[tab]           [ch]Am7[/ch]
+‘Cause our world’s not kidding, it won’t keep giving,[/tab]
+[tab][ch]Am7[/ch]
+if we don’t start living mindful,[/tab]
+[tab]             [ch]D[/ch]
+Planting the wine we’re sipping,[/tab]
+[tab]    [ch]G[/ch]
+the spice we’re shipping,[/tab]
+[tab]   [ch]D7[/ch]
+It won’t keep giving if we don’t start living,[/tab]
+[tab]   [ch]Am7[/ch]                   [ch]G[/ch]
+in line with nature, our world’s in danger,[/tab]
+[tab] [ch]D[/ch]
+avoid this vision of the future ,[/tab]
+[tab]           [ch]Am[/ch]
+Living our lives guilt trippin’,[/tab]
+[tab]    [ch]Am7/G[/ch]
+Our world’s not kidding,[/tab]
+[tab]   [ch]D[/ch]                                              [ch]Am7[/ch]
+It won’t keep giving if we don’t start living in line with it.[/tab]
+
+
+[Instrumental]
+[ch]Am[/ch]  [ch]Am7/G[/ch]  [ch]D/F#[/ch]
+[ch]Am[/ch]  [ch]Am7/G[/ch]  [ch]D/F#[/ch]
+[ch]Am[/ch]  [ch]Am7/G[/ch]  [ch]D/F#[/ch]
+[ch]Am[/ch]  [ch]Am7/G[/ch]  [ch]D/F#[/ch]
+
+
+[Outro]
+[tab]     [ch]Am7[/ch]
+It’s not enough….[/tab]
+[tab][ch]Am7[/ch]
+It’s not enough…[/tab]
+[tab]     [ch]D/F#[/ch]
+It’s not enough…[/tab]
+[tab][ch]D/F#[/ch]
+It’s not enough…[/tab]
+[ch]Am7[/ch]

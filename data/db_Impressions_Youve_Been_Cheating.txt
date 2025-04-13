@@ -1,0 +1,102 @@
+URL: https://tabs.ultimate-guitar.com/tab/impressions/youve-been-cheating-ukulele-1263434
+Artist: Impressions
+Song: Youve Been Cheating
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#
+
+Date: Thu, 14 Nov 1996 14:49:09 -0500
+From: Andrew Rogers &lt;rogers@hi.com>
+Subject: ./i/impressions/youve_been_cheatin.crd
+
+Chi-town does Motown in this curious battle between Chicago horns and
+Detroit strings.  I guess the arranger (probably Johnny Pate) couldn't
+decide between Chicago backbeats (one-and-TWO-and-three-AND-four-AND)
+vs. Motown backbeats (one-TWO-three-FOUR), so he left them out... play
+along with the record and let me know which you prefer.  -- AWR
+
+
+                         "You've Been Cheatin'"
+                           (Curtis Mayfield)
+
+Intro [4X]:
+
+	bass doubled by guitar (2 octaves higher):
+	[piano and tambourine enter 2nd time;
+	 strings and horns enter 3rd time]
+
+[tab]	([ch]Db[/ch])             ([ch]Ebm[/ch])
+	 v   v   v   v     v   v   v   v[/tab]
+[tab]	-----------------|-----------------|
+	-----------------|-----------------|
+	-4-----4---4-----|-6-----6---6-----|
+	---4-6-------4-6-|---4-6-------4-6-|[/tab]
+
+Verse 1:
+
+[tab]	                           [ch]Db[/ch]               [ch]Ebm[/ch]
+	[1: I've been  2: So I'm] trying hard to forget[/tab]
+[tab]	      [ch]Db[/ch]                    [ch]Ebm[/ch]
+	That you've been cheating[/tab]
+[tab]	 [ch]Db[/ch]             [ch]Ebm[/ch]
+	Wishin' you I'd never met[/tab]
+[tab]	        [ch]Db[/ch]                  [ch]Ebm[/ch]
+	'Cause you've been cheating[/tab]
+
+Chorus:
+
+[tab]	               [ch]Bbm[/ch]
+	Can't you know lies can be seen in your eyes[/tab]
+[tab]	          [ch]Gb[/ch]           [ch]Fm[/ch]      [ch]Ebm[/ch]
+	And from wrong you'll never be free[/tab]
+[tab]	              [ch]Db[/ch]                  [ch]Ebm[/ch]
+	While you sit cryin', you've been lyin'[/tab]
+	                                 (Db)
+	You've been cheatin', cheatin' on me
+
+[repeat intro riff 2X, w/strings]
+
+Verse 2:
+
+	Yeah, you made me suspect and I know (who-who)
+	You don't want me (you don't want me)
+	Cookies crumble, and that's how it goes (who-who)
+	You don't want me (you don't want me)
+
+[repeat chorus]
+
+[repeat intro riff 2X, w/strings]
+
+Bridge:
+
+[tab]	 [ch]Db[/ch]           [ch]Ebm7[/ch]
+	Another lover      you discover[/tab]
+[tab]	[ch]Fm7[/ch]          [ch]Gbmaj7[/ch]      [ch]Ebm7[/ch]
+	   Our love's gone and I don't know why[/tab]
+[tab]	[ch]Db[/ch]                        [ch]Ebm7[/ch]
+	It's just as well, though      at last I do know[/tab]
+[tab]	        [ch]Eb7[/ch]             [ch]Ab7[/ch]
+	All you said was just a lie[/tab]
+
+[repeat intro riff 2X, w/strings (horns enter 2nd time)]
+
+[repeat verse 1]
+
+[repeat chorus]
+
+Coda (riff and chords as per intro):
+
+[tab]	 [ch]Db[/ch]                          [ch]Ebm[/ch]
+	Ooh, ooh, baby (you've been cheating)[/tab]
+	You must not love me (you've been cheating)
+	You must not want me (you've been cheating)
+	You just don't care [fade]
+
+
+-- another ace 60's tab from Andrew Rogers

@@ -1,0 +1,101 @@
+URL: https://tabs.ultimate-guitar.com/tab/noni/i-dont-know-you-chords-4988641
+Artist: Noni
+Song: I Dont Know You
+Genre: 
+Key: Em
+
+
+The first section of verse 1 consists of melody (vocals) and a bass line only.
+I wrote down chords - but you can just improvise a bass line around the
+root notes of these chords (e-minor scale).
+
+Em7-5 in this song is actually a "minor-seventh-nine flat fifth" chord "Em9-5"
+Notes: [ch]E[/ch] - [ch]G[/ch] - [ch]Bb[/ch] - [ch]D[/ch] - [ch]F#[/ch]
+
+but Em9-5 is not recognized by the algorithm.
+
+
+[Intro]
+[ch]Gmaj9[/ch]   [ch]F#m7[/ch]  [ch]Cmaj7[/ch]
+
+
+[Verse 1]
+[tab][ch]Em9[/ch]
+Baby I know we’ve went through[/tab]
+[tab]   [ch]F#m7[/ch]                               [ch]Bsus7[/ch]
+So many different fates and shades of blue[/tab]
+[tab][ch]Em7[/ch]
+I can still feel you, but what about you?[/tab]
+[tab][ch]F#m7[/ch]                                [ch]Bsus7[/ch]  [ch]B7[/ch]
+How about me? Can you still feel me too?[/tab]
+[tab]          [ch]Em9[/ch]                     [ch]Em7-5[/ch]
+We’ve been away from each other for a while[/tab]
+[tab][ch]F#m7[/ch]                        [ch]B7[/ch]
+How can I forget the time we said goodbye?[/tab]
+[tab]          [ch]Em9[/ch]                   [ch]Em7-5[/ch]
+Now you became someone I don’t recognize[/tab]
+[tab]  [ch]F#m7[/ch]                               [ch]B7[/ch]
+I wish it’s all just lies, it’s almost like[/tab]
+
+
+[Chorus]
+[tab][ch]F#m7[/ch] [ch]Gmaj7[/ch]  [ch]G6/A[/ch]  [ch]Em9[/ch]
+I    don’t  know  you[/tab]
+[tab]                                           [ch]Em7-5[/ch]
+(Every single word you say, they sound the same but mean nothing at all)[/tab]
+[tab]             [ch]F#m7[/ch]
+Could it be true?[/tab]
+[tab]                                    [ch]B7[/ch]
+(I don’t wanna run away, but every time you get so terrifyin’)[/tab]
+[tab][ch]Em9[/ch]
+I have tried to bear[/tab]
+[tab][ch]Em7-5[/ch]
+When you need me there[/tab]
+[tab]          [ch]F#m7[/ch]      [ch]B7[/ch]
+It’s all too much[/tab]
+
+
+[Verse 2]
+[tab][ch]Em7[/ch]
+I don’t ask for you to change[/tab]
+[tab]                 [ch]F#m7[/ch]
+I just need some time to adapt[/tab]
+[tab][ch]Em9[/ch]
+You don’t mean to scare nobody[/tab]
+[tab]  [ch]F#m7[/ch]
+I know, ‘cause I[/tab]
+[tab][ch]B7[/ch]
+Still have a bit of trust in you[/tab]
+[tab][ch]Em9[/ch]                [ch]Em7-5[/ch]                          [ch]F#m7[/ch]
+How can I make you realize that you’ve lost those sparks?[/tab]
+[tab]             [ch]B7[/ch]
+(The ones) I used to see right through your eyes[/tab]
+[tab][ch]Em9[/ch]                             [ch]Em7-5[/ch]
+(Who did you give yourself away to?)[/tab]
+[tab]                      [ch]F#m7[/ch]
+It’s so hard for me lately[/tab]
+[tab][ch]F#m7[/ch]
+To see you change because[/tab]
+[tab]         [ch]B7[/ch]
+It ain’t for the better, oh I[/tab]
+
+
+[Chorus]
+[tab][ch]F#m7[/ch] [ch]Gmaj7[/ch]  [ch]G6/A[/ch]  [ch]Em9[/ch]                 [ch]Em9[/ch]
+I    don’t  know  you (Really I don’t want to run away)[/tab]
+[tab]                                            [ch]Em7-5[/ch]
+(Every single word you say, they sound the same but mean nothing at all)[/tab]
+[tab]            [ch]F#m7[/ch]
+Could it be true?[/tab]
+[tab]                                   [ch]B7[/ch]
+(I don’t wanna run away, but every time you get so terrifyin’)[/tab]
+[tab][ch]Em9[/ch]
+I have tried to bear[/tab]
+[tab][ch]Em7-5[/ch]
+When you need me there[/tab]
+[tab]          [ch]F#m7[/ch]      [ch]B7[/ch]
+It’s all too much,  uuh[/tab]
+
+
+[Outro]
+[ch]Em9[/ch]   [ch]Em7-5[/ch]   [ch]F#m7[/ch]   [ch]B7[/ch]

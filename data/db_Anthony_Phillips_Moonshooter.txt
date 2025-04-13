@@ -1,0 +1,160 @@
+URL: https://tabs.ultimate-guitar.com/tab/anthony-phillips/moonshooter-chords-4194166
+Artist: Anthony Phillips
+Song: Moonshooter
+Genre: 
+Key: D
+
+
+[tab]Aadd11  x-0-0-2-2-x
+Dmaj7*  x-x-0-6-7-5
+D6      x-x-0-7-7-7
+A7sus   x-0-10-9-8-10
+D*      x-x-0-11-10-10
+Dmaj7** x-x-0-11-10-9
+D6/A    x-0-0-4-3-2[/tab]
+
+[Intro]
+[tab]     [ch]Cadd9[/ch]      [ch]C[/ch]  [ch]Cmaj7[/ch] [ch]C6[/ch]     [ch]Cmaj7[/ch]  [ch]C[/ch]
+|      /        /        /       /     |[/tab]
+[tab]     [ch]Cadd9[/ch]      [ch]C[/ch]  [ch]Cmaj7[/ch] [ch]C6[/ch]     [ch]Cmaj7[/ch]  [ch]C[/ch]
+|      /        /        /       /     |[/tab]
+[tab]       [ch]D[/ch]
+|      /        /        /       /     |[/tab]
+[tab]       [ch]D[/ch]
+|      /        /        /       /     |[/tab]
+[tab]     [ch]Cadd9[/ch]      [ch]C[/ch]  [ch]Cmaj7[/ch] [ch]C6[/ch]     [ch]Cmaj7[/ch]  [ch]C[/ch]
+|      /        /        /       /     |[/tab]
+[tab]     [ch]Cadd9[/ch]      [ch]C[/ch]  [ch]Cmaj7[/ch] [ch]C6[/ch]     [ch]Cmaj7[/ch]  [ch]C[/ch]
+|      /        /        /       /     |[/tab]
+[tab]       [ch]G[/ch]
+|      /        /        /       /     |[/tab]
+
+[Verse 1]
+[tab][ch]Dmaj7[/ch]*             [ch]D6[/ch]    [ch]Dmaj7[/ch]*
+Every little thing she's wanted[/tab]
+[tab][ch]Aadd11[/ch]                   [ch]Em[/ch]  [ch]D[/ch]      ([ch]D[/ch] [ch]Em[/ch] [ch]F#m[/ch] [ch]G[/ch] [ch]A[/ch] [ch]F#m[/ch])
+Every little thing she's had to get[/tab]
+[tab][ch]Dmaj7[/ch]*             [ch]D6[/ch]      [ch]Dmaj7[/ch]*
+Every single thing she's squandered[/tab]
+[tab][ch]Aadd11[/ch]                   [ch]Em[/ch]  [ch]D[/ch]      ([ch]D[/ch] [ch]Em[/ch] [ch]F#m[/ch] [ch]G[/ch] [ch]A[/ch])
+Every single thing she's had to let.[/tab]
+
+[Chorus]
+[tab][ch]A7sus[/ch]       [ch]D[/ch]*  [ch]A7sus[/ch]          [ch]D[/ch]*
+Moonshooter, as free as ebbing tide[/tab]
+[tab][ch]A7sus[/ch]       [ch]D[/ch]*  [ch]A7sus[/ch]        [ch]D[/ch]*
+Moonshooter, no gaping cracks to hide[/tab]
+[tab][ch]Bmadd9[/ch]  [ch]Bm[/ch] [ch]Bmadd9[/ch]   [ch]F#4[/ch] [ch]F#m[/ch] [ch]F#4[/ch]
+Some    at   the    wiiindows[/tab]
+[tab][ch]G[/ch]    [ch]Gadd9[/ch]  [ch]G[/ch]   [ch]Gmaj7[/ch]
+Some at     the lights[/tab]
+[tab][ch]D6/A[/ch]                   [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch] [ch]Dmaj13[/ch] [ch]Dmaj7[/ch]
+Carry on shooting your own moons... aaaah...[/tab]
+[tab][ch]Esus[/ch]  [ch]F[/ch]          [ch]Em7[/ch]  [ch]D[/ch]
+Maybe we'll come back soon[/tab]
+[tab][ch]D5[/ch]   [ch]E5[/ch] [ch]F5[/ch]   [ch]G7sus[/ch] [ch]Asus2[/ch] [ch]Dmaj7[/ch]**
+Yes, we will come  back  soon.[/tab]
+
+[Verse 2]
+[tab][ch]Dmaj7[/ch]*           [ch]D6[/ch]     [ch]Dmaj7[/ch]*
+Florida is where you'll find her[/tab]
+[tab][ch]Aadd11[/ch]               [ch]Em[/ch]  [ch]D[/ch]     ([ch]D[/ch] [ch]Em[/ch] [ch]F#m[/ch] [ch]G[/ch] [ch]A[/ch] [ch]F#m[/ch])
+Lazing in the sticky summer sun[/tab]
+[tab][ch]Dmaj7[/ch]*        [ch]D6[/ch]  [ch]Dmaj7[/ch]*
+Living in a dying city[/tab]
+[tab][ch]Aadd11[/ch]                     [ch]Em[/ch]      [ch]D[/ch]      ([ch]D[/ch] [ch]Em[/ch] [ch]F#m[/ch] [ch]G[/ch] [ch]A[/ch])
+Waiting for the travelling troupes to come[/tab]
+
+[Chorus]
+[tab][ch]A7sus[/ch]       [ch]D[/ch]*  [ch]A7sus[/ch]          [ch]D[/ch]*
+Moonshooter, as free as ebbing tide[/tab]
+[tab][ch]A7sus[/ch]       [ch]D[/ch]*  [ch]A7sus[/ch]        [ch]D[/ch]*
+Moonshooter, no gaping cracks to hide[/tab]
+[tab][ch]Bmadd9[/ch]  [ch]Bm[/ch] [ch]Bmadd9[/ch]   [ch]F#4[/ch] [ch]F#m[/ch] [ch]F#4[/ch]
+Some    at   the    wiiindows[/tab]
+[tab][ch]G[/ch]    [ch]Gadd9[/ch]  [ch]G[/ch]   [ch]Gmaj7[/ch]
+Some at     the lights[/tab]
+[tab][ch]D6/A[/ch]                   [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]  [ch]Em/D[/ch]
+Carry on shooting your own moons... aaaah...[/tab]
+[tab][ch]Esus[/ch]  [ch]F[/ch]          [ch]Em7[/ch]  [ch]D[/ch]
+Maybe we'll come back soon[/tab]
+[tab][ch]D5[/ch]   [ch]E5[/ch] [ch]F5[/ch]   [ch]G7sus[/ch] [ch]Asus2[/ch] [ch]Dmaj7[/ch]**
+Yes, we will come  back  soon.[/tab]
+
+[Instrumental verse]
+[tab]      [ch]Dmaj7[/ch]*        [ch]D6[/ch]  [ch]Dmaj7[/ch]*
+|      /        /        /       /     |[/tab]
+[tab]     [ch]Aadd11[/ch]            [ch]Asus2[/ch]           [ch]D[/ch]
+|      /        /        /       /     |[/tab]
+[tab]                [ch]D[/ch]   [ch]Em[/ch]  [ch]F#m[/ch]  [ch]G[/ch]   [ch]A[/ch]    [ch]F#m[/ch]
+|      /        /        /       /     |[/tab]
+[tab]      [ch]Dmaj7[/ch]*        [ch]D6[/ch] [ch]Dmaj7[/ch]** [ch]D6[/ch] [ch]Dmaj7[/ch]*
+|      /        /        /       /     |[/tab]
+[tab]     [ch]Aadd11[/ch]            [ch]Asus2[/ch]
+|      /        /        /       /     |[/tab]
+
+[Fast instrumental bridge]
+[tab]     [ch]B7sus2[/ch]                    [ch]F#m/E[/ch]
+|      /        /        /       /     |[/tab]
+[tab]                [ch]A6[/ch]     [ch]B7sus2[/ch]  [ch]F#m/C#[/ch]
+|      /        /        /       /     |[/tab]
+
+[Chorus]
+[tab][ch]A7sus[/ch]       [ch]D[/ch]*  [ch]A7sus[/ch]          [ch]D[/ch]*
+Moonshooter, as free as ebbing tide[/tab]
+[tab][ch]A7sus[/ch]       [ch]D[/ch]*  [ch]A7sus[/ch]        [ch]D[/ch]*
+Moonshooter, no gaping cracks to hide[/tab]
+[tab][ch]Bmadd9[/ch]  [ch]Bm[/ch] [ch]Bmadd9[/ch]   [ch]F#4[/ch] [ch]F#m[/ch] [ch]F#4[/ch]
+Some    at   the    wiiindows[/tab]
+[tab][ch]G[/ch]    [ch]Gadd9[/ch]  [ch]G[/ch]   [ch]Gmaj7[/ch]
+Some at     the lights[/tab]
+[tab][ch]D6/A[/ch]                   [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]    [ch]D[/ch]  [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons... aaaah...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]
+Carry on shooting your own moons...[/tab]
+[tab][ch]G/D[/ch]                    [ch]D[/ch]       [ch]Em/D[/ch]  [ch]Dmaj7[/ch]   [ch]G/D[/ch]
+Carry on shooting your own moons... aaaah...[/tab]
+[tab][ch]Esus[/ch]  [ch]F[/ch]          [ch]Em7[/ch]  [ch]D[/ch]
+Maybe we'll come back soon[/tab]
+[tab][ch]D/A[/ch]  [ch]F[/ch]            [ch]Em7[/ch]  [ch]D[/ch]
+Yes, we will come back soon.[/tab]
+[tab][ch]D[/ch]    [ch]G[/ch] [ch]F[/ch]         [ch]G[/ch]    [ch]Cadd9[/ch]
+Yes, I will come back soon.[/tab]
+
+[Outro]
+[tab]     [ch]Cadd9[/ch]      [ch]C[/ch]  [ch]Cmaj7[/ch] [ch]C6[/ch]     [ch]Cmaj7[/ch]  [ch]C[/ch]
+|      /        /        /       /     |[/tab]
+[tab]     [ch]Cadd9[/ch]      [ch]C[/ch]  [ch]Cmaj7[/ch] [ch]C6[/ch]     [ch]Cmaj7[/ch]  [ch]C[/ch]
+|      /        /        /       /     |[/tab]
+[tab]       [ch]D[/ch]
+|      /        /        /       /     |[/tab]
+[tab]       [ch]D[/ch]
+|      /        /        /       /     |[/tab]
+[tab]     [ch]Cadd9[/ch]      [ch]C[/ch]  [ch]Cmaj7[/ch] [ch]C6[/ch]     [ch]Cmaj7[/ch]  [ch]C[/ch]
+|      /        /        /       /     |[/tab]
+[tab]     [ch]Cadd9[/ch]      [ch]C[/ch]  [ch]Cmaj7[/ch] [ch]C6[/ch]     [ch]Cmaj7[/ch]  [ch]C[/ch]
+|      /        /        /       /     |[/tab]
+[tab]       [ch]G[/ch]
+|      /        /        /       /     |[/tab]
+[tab]      [ch]Dmaj7[/ch]
+|      /        /        /       /     |[/tab]

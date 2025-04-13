@@ -1,0 +1,58 @@
+URL: https://tabs.ultimate-guitar.com/tab/p-diddy/its-all-about-the-benjamins-bass-4824
+Artist: P. Diddy
+Song: Its All About The Benjamins
+Genre: 
+Key: 
+
+
+Bass Tab - It's All about the Benjamins
+Tabbed by - Daniel Bonner
+Daniel_Bonner@Hotmail.com
+
+Hey, i think this is pretty close to right. Bigest complaint I've
+gotten so far is that the individual riffs are all different lenghts.
+I think it's pretty straight forward though, send any comments to 
+Daniel_Bonner@Hotmail.com
+
+Notation: \ Slide out to 0
+
+[tab]Riff #1                        Riff #2
+G||--------------------------||--------------------------||
+D||--------------------------||--5-4-3-------------------||
+A||--------------------------||--------4----3-1----------||
+E||--3---3-3-----1-3-----3-6-||--------------------------||[/tab]
+
+[tab]Riff #3
+G||------------------------------------------------------||
+D||-----------------5-4-3--------------------------------||
+A||------1--3--4-5---------4--3-1------------------------||
+E||--3-3-------------------------------------------------||[/tab]
+
+[tab]Riff #4                        Riff #5 
+G||--------------------------||--------------------------||
+D||--------------------------||--------------------------||
+A||--------------------------||--------------------------||
+E||--3\-----77\--6\--55\-----||--3\---22\---1\---00------||[/tab]
+
+[tab]Riff #6
+G||------------------------------------------------------||
+D||------------------------------------------------------||
+A||------------------------------------------------------||
+E||--33333333---22222222---111111111---00000000----------||[/tab]
+
+Order:
+Riff #1 X 2
+Riff #2 X 4
+Riff #1 X 8
+Riff #4 X 3
+[Rest] 4 bars
+Riff #3 X 1
+Riff #1 X 7
+Riff #3 X 1
+Riff #2 X 5
+Riff #1 X 1
+[Rest] 4 bars
+Riff #5 X 3½
+[Pause for ughh ughh ughh! 1 Bar I think]
+Riff #6 X 4
+Riff #2 X 7

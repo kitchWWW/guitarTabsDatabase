@@ -1,0 +1,125 @@
+URL: https://tabs.ultimate-guitar.com/tab/flyte/losing-you-chords-3301568
+Artist: Flyte
+Song: Losing You
+Genre: 
+Key: 
+
+
+Hammer on/pull offs throughout - listen to the song for timings:
+Intro, interludes and verses. Can switch up with hammer ons:
+C: 0p2 on D string
+G: 0p2 on A string.
+
+Sometimes on the G chord Will plays the following riff:
+
+[tab]e|--x--------|
+B|--0--------|
+G|--0--------|
+D|--0--------|
+A|--0h2p0----|
+E|--3----3p0-|[/tab]
+
+End of verses 'I'll get used to losing you':
+C: 0h2 on D string
+Em: 0h2 on A string
+Am: 0h2 on D string
+D: 2h3 on high E string
+
+Will also sometimes adds a bit of movement e.g on the word '23' the G moves downards to 200003
+He also sometimes plays a Cmaj7add6 instead of Cadd9 (verse 2 and 3):
+
+[tab]e|--0--------|
+B|--3--------|
+G|--2--------|
+D|--2--------|
+A|--3--------|
+E|--2--------|[/tab]
+
+
+[Intro]
+[ch]C[/ch] [ch]G[/ch] [ch]C[/ch] [ch]G[/ch] x2
+
+
+[Verse 1]
+[tab][ch]C[/ch]        [ch]G[/ch]
+I met a girl last night[/tab]
+[tab][ch]C[/ch]        [ch]G[/ch]
+she was only 23[/tab]
+[tab][ch]C[/ch]             [ch]G[/ch]
+I brought her home to mine [/tab]
+[tab][ch]C[/ch]             [ch]G[/ch]
+she  gave her self  away to me[/tab]
+[tab][ch]C[/ch]                     [ch]G[/ch]
+But the light in  the hallway[/tab]
+[tab][ch]C[/ch]                     [ch]Cadd9[/ch]
+and the silence in my room[/tab]
+[tab]        [ch]G[/ch]      [ch]D[/ch]     [ch]C[/ch]    [ch]Em[/ch]  [ch]Am[/ch]  [ch]Em[/ch]   [ch]D[/ch]     [ch]C[/ch]
+Said I don’t  think  I’ll  get used to  losing you[/tab]
+
+
+[Interlude]
+[ch]C[/ch] [ch]G[/ch] [ch]C[/ch] [ch]G[/ch]
+
+
+[Verse 2]
+[tab][ch]C[/ch]                     [ch]G[/ch]
+And you  were wearing that red dress[/tab]
+[tab][ch]C[/ch]                 [ch]G[/ch]
+when you took him upstairs[/tab]
+[tab][ch]C[/ch]         [ch]G[/ch]             [ch]C[/ch]
+The one I bought you in New York[/tab]
+[tab]           [ch]G[/ch]
+before you made this mess[/tab]
+[tab][ch]C[/ch]               [ch]G[/ch]
+You’ve run with another[/tab]
+[tab]       [ch]Cadd9[/ch]                  [ch]D[/ch]
+you’ve cut me through and through[/tab]
+[tab]             [ch]G[/ch]     [ch]D[/ch]     [ch]C[/ch]    [ch]Em[/ch]  [ch]Am[/ch]  [ch]Em[/ch]   [ch]D[/ch]     [ch]C[/ch]
+And still I don’t think I’ll get used to losing you[/tab]
+
+
+
+[Interlude]
+[ch]C[/ch] [ch]G[/ch] [ch]C[/ch] [ch]G[/ch]
+
+
+[Bridge]
+[tab][ch]D[/ch]           [ch]C[/ch]     [ch]G[/ch]
+A riverside hotel tonight[/tab]
+[tab][ch]D[/ch]                         [ch]C[/ch]     [ch]G[/ch]
+With walls that catch the city lights[/tab]
+[tab][ch]B7/F#[/ch]                       [ch]Em[/ch]        [ch]D[/ch]  [ch]G[/ch]     [ch]A[/ch]
+Just tell me you want me I don’t care if it’s true[/tab]
+[tab]        [ch]G[/ch]     [ch]D[/ch]    [ch]C[/ch]    [ch]Em[/ch]  [ch]Am[/ch]  [ch]Em[/ch]  [ch]D[/ch]      [ch]C[/ch]
+Cos I don’t think I’ll get used to losing you[/tab]
+
+
+[Interlude]
+[ch]C[/ch] [ch]G[/ch] [ch]C[/ch] [ch]G[/ch]
+
+[Verse 3]
+[tab][ch]C[/ch]                 [ch]G[/ch]
+Tell me where did you learn[/tab]
+[tab][ch]C[/ch]      [ch]G[/ch]
+to lie so well[/tab]
+[tab][ch]C[/ch]            [ch]G[/ch]
+To love like a secret[/tab]
+[tab][ch]C[/ch]          [ch]G[/ch]
+that you’d never tell[/tab]
+[tab][ch]C[/ch]                     [ch]G[/ch]
+You’ve stripped me of everything[/tab]
+[tab]      [ch]Cadd9[/ch]         [ch]G[/ch]
+and I hate you I really do[/tab]
+[tab]         [ch]G[/ch]     [ch]D[/ch]     [ch]C[/ch]    [ch]Em[/ch]  [ch]Am[/ch]  [ch]Em[/ch]   [ch]D[/ch]     [ch]C[/ch]
+Still I don’t think I’ll get used to losing you[/tab]
+
+
+[Outro]
+[ch]C[/ch] [ch]G[/ch] [ch]C[/ch] [ch]G[/ch]
+
+************************************
+
+| h   Hammer-on
+| p   Pull-off
+
+************************************

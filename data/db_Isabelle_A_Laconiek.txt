@@ -1,0 +1,71 @@
+URL: https://tabs.ultimate-guitar.com/tab/isabelle-a/laconiek-chords-4372772
+Artist: Isabelle A
+Song: Laconiek
+Genre: 
+Key: A
+
+
+BPM:      140
+Released: 24 May 2008
+Album:    De Macht Der Gewoonte
+
+
+Note:     * after chord means strike chord once and let it ring.
+
+
+[Chords]
+[Cmaj7add6   x32200]
+[Cmaj7       x32000]
+[Emadd9      022002]
+
+
+Capo: 2 fret
+
+
+[Intro]
+[ch]Gmaj7[/ch]  Cmaj7add6  [ch]Cmaj7[/ch]
+[ch]Gmaj7[/ch]  Cmaj7add6  [ch]Cmaj7[/ch]
+
+
+[Verse 1]
+[tab][ch]Gmaj7[/ch]                    [ch]Cmaj7[/ch]
+Jouw donkere ogen in het licht,[/tab]
+[tab][ch]Gmaj7[/ch]                   [ch]Cmaj7[/ch]
+Gebroken straal, bliksemschicht,[/tab]
+[tab][ch]Gmaj7[/ch]                     [ch]Cmaj7[/ch]
+Ik vond jou eerst niet zo mooi,[/tab]
+[tab][ch]Gmaj7[/ch]                         [ch]Cmaj7[/ch]
+Toch lig ik hier, jouw naakte prooi.[/tab]
+
+
+[Chorus]
+[tab]  [ch]Emadd9[/ch]           Cmaj7add6  [ch]Cmaj7[/ch]
+Negeer mij maak me ziek,[/tab]
+[tab]    [ch]Emadd9[/ch]      Cmaj7add6    [ch]D[/ch]         [ch]Gmaj7[/ch] Cmaj7add6    [ch]D[/ch]
+Jij bent zo laconiek      vandaag mijn lief.[/tab]
+
+
+[Verse 2]
+[tab][ch]Gmaj7[/ch]                        [ch]Cmaj7[/ch]
+Een heel verhaal, een half gezicht,[/tab]
+[tab][ch]Gmaj7[/ch]                           [ch]Cmaj7[/ch]
+Nee, je zegt me niets, teveel gewicht,[/tab]
+[tab]        [ch]Gmaj7[/ch]                  [ch]Cmaj7[/ch]
+En toch lig ik hier naast jou, zonder veel berouw,[/tab]
+[tab]        [ch]Gmaj7[/ch]                        [ch]Cmaj7[/ch]
+Als een kleine bange druppel van die koele helse dauw.[/tab]
+
+
+[Chorus]
+[tab]  [ch]Emadd9[/ch]           Cmaj7add6  [ch]Cmaj7[/ch]
+Negeer mij maak me ziek,[/tab]
+[tab]    [ch]Emadd9[/ch]      Cmaj7add6    [ch]D[/ch]         [ch]Gmaj7[/ch]
+Jij bent zo laconiek      vandaag mijn lief.[/tab]
+[tab]    Cmaj7add6  [ch]D[/ch]   [ch]Gmaj7[/ch]
+Jij bent zo    laconiek,[/tab]
+[tab]    Cmaj7add6  [ch]D[/ch]         [ch]Gmaj7[/ch]
+Zo laco--------niek mijn lief,[/tab]
+[tab]   Cmaj7add6  [ch]D[/ch]       [ch]Gmaj7[/ch]
+Vandaag ben   jij laconiek,[/tab]
+[tab]    Cmaj7add6  [ch]D[/ch]   [ch]Gmaj7[/ch]*
+Jij bent   zo  laconiek.[/tab]

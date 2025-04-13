@@ -1,0 +1,95 @@
+URL: https://tabs.ultimate-guitar.com/tab/ken-hirai/nonfiction-chords-5167963
+Artist: Ken Hirai
+Song: Nonfiction
+Genre: 
+Key: F
+
+
+[Intro]
+[ch]A#add9[/ch] [ch]A#add9[/ch] [ch]F[/ch] [ch]F[/ch] x2
+
+[Verse]
+[tab]  [ch]F[/ch]               [ch]Am7[/ch]                [ch]Dm[/ch]    [ch]Am7[/ch]  [ch]Am7[/ch] [ch]G#m7[/ch]
+Egaita yume wa kanawanai koto no hou ga ooi[/tab]
+[tab][ch]Gm7[/ch]                 [ch]Am7[/ch]                [ch]A#[/ch] [ch]A#maj7[/ch] [ch]A#[/ch] [ch]C[/ch]
+Sugureta hito wo urayande wa jibun ga iya ninaru[/tab]
+[tab]  [ch]F[/ch]                [ch]Am7[/ch]                [ch]Dm[/ch]    [ch]Am7[/ch]  [ch]Am7[/ch] [ch]G#m7[/ch]
+Asai nemuri ni oshitsubusare sou na yoru mo aru[/tab]
+[tab][ch]Gm7[/ch]                 [ch]Am7[/ch]               [ch]A#[/ch] [ch]A#maj7[/ch] A#C
+Yasashii rinjin ga kage de kiba wo muite itari[/tab]
+
+[Pre-Chorus]
+[tab]      [ch]Dm7[/ch]   [ch]Am7[/ch] [ch]Am[/ch] [ch]G#m[/ch] [ch]Gm7[/ch]        [ch]C[/ch]
+Dasei de miteta  TEREBI   kesu mitai ni[/tab]
+[tab][ch]C#dim[/ch] [ch]Dm7[/ch]   [ch]Bm7b5[/ch]   [ch]G#m[/ch]    [ch]C7[/ch]
+Ikiru koto wo tokidoki yametaku naru[/tab]
+
+[Chorus]
+[tab][ch]F[/ch]                [ch]A7[/ch]       [ch]Dm[/ch]               [ch]C#dim[/ch]
+Jinsei wa kutsuu desu ka? Seikou ga subete desu ka?[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]   [ch]C7[/ch]
+Boku wa anata ni anata ni tada aitai dake[/tab]
+[tab][ch]F[/ch]                [ch]A7[/ch]     [ch]Dm[/ch]               [ch]C#dim[/ch]
+Misuborashikute ii kara yoku mamire demo ii kara[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]         [ch]C7[/ch]
+Boku wa anata no anata no hontou wo shiritai kara[/tab]
+[tab][ch]Am7[/ch]            [ch]A#add9[/ch] [ch]C[/ch]                [ch]C#dim[/ch]
+Hibikikieru waraigoe  hitori aruku kumori michi[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]  [ch]C7[/ch]
+Boku wa anata ni anata ni tada aitai dake[/tab]
+
+[Interlude]
+[ch]A#add9[/ch] [ch]A#add9[/ch]  [ch]F[/ch] [ch]F[/ch]  X2
+
+[Verse]
+[tab]   [ch]F[/ch]               [ch]Am7[/ch]                [ch]Dm[/ch]     [ch]Am7[/ch]  [ch]Am7[/ch] [ch]G#m7[/ch]
+Sujigaki doori ni ikanu mainichi wa dare no sei?[/tab]
+[tab][ch]Gm7[/ch]                [ch]Am7[/ch]                [ch]A#[/ch] [ch]A#maj7[/ch] [ch]A#[/ch] [ch]C[/ch]
+Atsui tatakai wo tada BENCHI de nagamete bakari[/tab]
+
+[Pre-Chorus]
+[tab]      [ch]Dm7[/ch]   [ch]Am7[/ch] [ch]Am[/ch] [ch]G#m[/ch] [ch]Gm7[/ch]           [ch]C[/ch]
+Kiesou na honoo  ryoute de tsutsumu you ni[/tab]
+[tab][ch]C#dim[/ch] [ch]Dm7[/ch]   [ch]Bm7b5[/ch] [ch]G#m[/ch]    [ch]C7[/ch]
+Ikiru koto wo akirame kirezu ni iru[/tab]
+
+[Chorus]
+[tab][ch]F[/ch]                [ch]A7[/ch]       [ch]Dm[/ch]               [ch]C#dim[/ch]
+Jinsei wa higeki desu ka? Seikou wa kodoku desu ka?[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]   [ch]C7[/ch]
+Boku wa anata ni anata ni tada aitai dake[/tab]
+[tab][ch]F[/ch]                [ch]A7[/ch]      [ch]Dm[/ch]               [ch]C#dim[/ch]
+Tadashiku nakute ii kara kudaranakute mo ii kara[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]          [ch]C7[/ch]
+Boku wa anata no anata no hontou wo shiritai kara[/tab]
+[tab][ch]Am7[/ch]             [ch]A#add9[/ch]    [ch]C[/ch]                  [ch]C#dim[/ch]
+Kaban no oku de naru kagi nakama yobu karasu no koe[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]  [ch]C7[/ch]
+Boku wa anata ni anata ni tada aitai dake[/tab]
+
+[Solo Сhords]
+[ch]F[/ch] [ch]A7[/ch] [ch]Dm[/ch] [ch]Cm[/ch] [ch]F7[/ch] [ch]A#add9[/ch] [ch]F[/ch] [ch]G[/ch] [ch]C7[/ch]  X2
+
+[Chorus]
+[tab][ch]F[/ch]                 [ch]A7[/ch]       [ch]Dm[/ch]                 [ch]C#dim[/ch]
+Nan no tame ikite masu ka? Dare no tame ikire masu ka?[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]   [ch]C7[/ch]
+Boku wa anata ni anata ni tada aitai dake[/tab]
+[tab][ch]F[/ch]               [ch]A7[/ch]       [ch]Dm[/ch]                 [ch]C#dim[/ch]
+Jinsei wo urami masu ka? Kanashimi wa kirai desu ka?[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]           [ch]C7[/ch]
+Boku wa anata no anata no hontou wo shiritai kara[/tab]
+[tab][ch]Am7[/ch]                [ch]A#add9[/ch] [ch]C[/ch]               [ch]C#dim[/ch]
+Himitsu namida hitori ame mezametara osou fuan[/tab]
+[tab]         [ch]A#add9[/ch]   [ch]F[/ch]         [ch]Gm7[/ch]   [ch]C7[/ch]
+Boku wa anata ni anata ni tada aitai dake[/tab]
+[tab][ch]Dm[/ch]            [ch]DmM7[/ch]           [ch]Dm7[/ch]            [ch]Bm7b5[/ch]
+Shinjitai uso kikanai kusuri kaerenai sayonara[/tab]
+[tab][ch]Gm7[/ch]    [ch]Am7[/ch]    [ch]A#add9[/ch] [ch]C7[/ch]
+Sakebe sakebe sakebe[/tab]
+[tab]  [ch]C#sus4[/ch] [ch]D#sus4[/ch]     [ch]F[/ch]
+Aitai            dake[/tab]
+
+[Outro]
+[ch]F[/ch] [ch]A7[/ch] [ch]Dm[/ch] [ch]Cm[/ch] [ch]F7[/ch] [ch]A#add9[/ch] [ch]F[/ch] [ch]G[/ch] [ch]C7[/ch]  X2
+[ch]A#add9[/ch] [ch]A#add9[/ch] [ch]F[/ch] [ch]F[/ch]

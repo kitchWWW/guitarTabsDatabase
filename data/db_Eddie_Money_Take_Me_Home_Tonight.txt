@@ -1,0 +1,75 @@
+URL: https://tabs.ultimate-guitar.com/tab/eddie-money/take-me-home-tonight-bass-864575
+Artist: Eddie Money
+Song: Take Me Home Tonight
+Genre: 
+Key: 
+
+
+SONG:			TAKE ME HOME TONIGHT
+ARTIST:		EDDIE MONEY
+ALBUM:		CAN’T HOLD BACK
+TABBED BY:		DIERBERGSBAGGER
+
+Basic outline of the song.  You can play along 
+pretty well, but some of the jumps are just improv.
+
+[tab]INTRO
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-66-66-66-66-----------|[/tab]
+
+[tab]VERSE
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-6~-2~-2~-4~-----------|[/tab]
+
+[tab]PRE-CHORUS
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-2-22-4-44-------------|[/tab]
+
+[tab]CHORUS
+G|-----------------------|
+D|-----------------------|
+A|-4~--------------------|
+E|----4~-6~-2~-----------|[/tab]
+
+[tab]PRE-VERSE
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-2-22-2-22-------------|[/tab]
+
+[tab]SOLO PT 1
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-6-66-6-66-------------|[/tab]
+
+[tab]SOLO PT 2
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-4-2-1-0-2-------------|[/tab]
+
+INTRO			X2
+VERSE			X10
+PRE-CHORUS		X3
+CHORUS		X3
+PRE-VERSE		X1
+VERSE			X1
+PRE-CHORUS		X3
+CHORUS		X3
+PRE-VERSE		X1
+VERSE			X1
+SOLO PT 1		X2
+SOLO PT 2		X1
+SOLO PT 1		X1
+CHORUS		X1
+PRE-VERSE		X1
+CHORUS		X3
+PRE-VERSE		X1
+CHORUS TIL FADE OUT

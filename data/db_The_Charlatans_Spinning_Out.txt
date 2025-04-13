@@ -1,0 +1,127 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-charlatans/spinning-out-chords-4295915
+Artist: The Charlatans
+Song: Spinning Out
+Genre: 
+Key: Bb
+
+
+[Tip]
+* Capo on I
+** You can spice it up a but by argegiating over C#m/F# chords as its quite distinctive in the song.
+From the C#m chord (x46654) position pick the following. Let the last note ring about a before going into
+next chord and you can avoid the F# chord.
+
+[tab]e|--------------|
+B|------5-4-5-7-|
+G|----6---------|
+D|--------------|
+A|--4-----------|
+E|--------------|[/tab]
+
+
+
+[Intro]
+[ch]A[/ch] [ch]E[/ch] (x3)
+
+[Verse 1]
+[tab][ch]C#m[/ch]    [ch]F#[/ch]
+  Childhood[/tab]
+[tab][ch]A[/ch]                [ch]E[/ch]
+Times were loving[/tab]
+[tab][ch]C#m[/ch]    [ch]F#[/ch]  [ch]A[/ch]             [ch]B[/ch]
+  With you towering over us[/tab]
+[tab][ch]A[/ch]         [ch]E[/ch]    [ch]A[/ch]
+  Spinning out[/tab]
+[tab][ch]E[/ch]                [ch]C#m[/ch]
+Just like our dads[/tab]
+[tab]          [ch]F#[/ch]
+There are doubts[/tab]
+[tab]         [ch]A[/ch]                      [ch]B[/ch]
+But I am hoping that they won't last[/tab]
+
+[Instrumental]
+[ch]A[/ch] [ch]E[/ch]
+
+[Bridge]
+[tab][ch]A[/ch]
+All those smiling faces[/tab]
+[tab][ch]A[/ch]
+Familiar, every one[/tab]
+[tab]                   [ch]E[/ch]
+Tell me where they go[/tab]
+[tab][ch]A[/ch]
+Wind blows your hair[/tab]
+[tab]               [ch]E[/ch]
+Rain wets your face[/tab]
+[tab][ch]A[/ch]                        [ch]E[/ch]
+Keep coming back to this place[/tab]
+
+[Verse 2]
+[tab][ch]C#m[/ch]    [ch]F#[/ch]   [ch]A[/ch]   [ch]E[/ch]
+  Tastebuds change[/tab]
+[tab][ch]C#m[/ch]   [ch]F#[/ch]
+ It's true[/tab]
+[tab][ch]A[/ch]                           [ch]B[/ch]
+Some things get better with age[/tab]
+[tab][ch]A[/ch]             [ch]E[/ch]     [ch]A[/ch]
+ Dancing on a stage[/tab]
+[tab][ch]E[/ch]                    [ch]C#m[/ch]
+Baby needs new shoes[/tab]
+[tab]          [ch]F#[/ch]
+Count the ways[/tab]
+[tab]  [ch]A[/ch]                          [ch]B[/ch]
+I tried to get back there to you[/tab]
+
+[Bridge]
+[tab][ch]A[/ch]
+All those smiling faces[/tab]
+[tab][ch]A[/ch]
+Familiar everyone[/tab]
+[tab]                   [ch]E[/ch]    [ch]A[/ch] [ch]E[/ch]
+Tell me where they go[/tab]
+
+[Outro]
+[tab][ch]A[/ch]
+Trying to get back there again[/tab]
+[tab][ch]A[/ch]
+Trying to get back there again[/tab]
+[tab]     [ch]E[/ch]
+With you[/tab]
+[tab][ch]A[/ch]
+Trying to get back there again[/tab]
+[tab][ch]A[/ch]
+Trying to get back there again[/tab]
+[tab]     [ch]E[/ch]
+With you[/tab]
+[tab][ch]A[/ch]
+La-la-la-la-la-la-la[/tab]
+[tab][ch]A[/ch]                   [ch]E[/ch]
+Sha-na-na-na-na-na-na[/tab]
+[tab][ch]A[/ch]
+La-la-la-la-la-la-la[/tab]
+[tab][ch]A[/ch]                    [ch]E[/ch]
+Sha-na-na-na-na-na-na[/tab]
+[tab][ch]A[/ch]
+Trying to get back there again[/tab]
+[tab][ch]A[/ch]
+Trying to get back there again[/tab]
+[tab]     [ch]E[/ch]
+With you[/tab]
+[tab][ch]A[/ch]
+Trying to get bak there again[/tab]
+[tab][ch]A[/ch]
+Trying to get back there again[/tab]
+[tab]     [ch]E[/ch]
+With you[/tab]
+[tab][ch]A[/ch]
+La-la-la-la-la-la-la[/tab]
+[tab][ch]A[/ch]                  [ch]E[/ch]
+La-la-la-la-la-la-la[/tab]
+[tab][ch]A[/ch]
+La-la-la-la-la-la-la[/tab]
+[tab][ch]A[/ch]                   [ch]E[/ch]
+Sha-na-na-na-na-na-na[/tab]
+[tab][ch]A[/ch]
+La-la-la-la-la-la-la[/tab]
+[tab][ch]A[/ch]                   [ch]E[/ch]
+Sha-na-na-na-na-na-na[/tab]

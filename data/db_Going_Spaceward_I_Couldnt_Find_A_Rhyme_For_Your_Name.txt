@@ -1,0 +1,137 @@
+URL: https://tabs.ultimate-guitar.com/tab/going-spaceward/i-couldnt-find-a-rhyme-for-your-name-chords-4280173
+Artist: Going Spaceward
+Song: I Couldnt Find A Rhyme For Your Name
+Genre: 
+Key: 
+
+
+From this video - https://www.youtube.com/watch?v=SVeRbtK-qSI
+
+Cmaj7: x3200x
+[ch]F[/ch]* / [ch]Fm[/ch]* / [ch]C[/ch]* / [ch]G[/ch]* = pluck/strum once
+
+I'm sure there are more more sevenths and weird chords that he throws in,
+but I picked out what I could hear - I'm open to corrections.
+
+[tab][Verses]
+   [ch]C[/ch]       [ch]B7[/ch]        [ch]C[/ch]                 [ch]F[/ch]                 [ch]Fm[/ch]
+e|-----------------|-----------------|-----------------|----------------|
+B|-----5-------4---|-------5---------|-------1---------|------1---------|
+G|-----5-------2---|-----5-----------|-------2---------|------1---------|
+D|---5-------4-----|---5-------------|-----3-----------|----3-----------|
+A|-3-------2-------|-3---------------|---3-------------|--3-------------|
+E|-----------------|-----------------|-1---------------|1---------------|[/tab]
+
+[tab][Chorus]
+   [ch]Am[/ch]      [ch]G[/ch]         [ch]F[/ch]       [ch]C[/ch]               [ch]F[/ch]       [ch]G[/ch]         [ch]C[/ch]
+e|-----------------|------------------|    |-----------------|-----------------|
+B|---1-x-----0-x---|---1-x------1-x---|    |---1-x-----0-x---|-1---------------|
+G|---2-x-----0-x---|---2-x------0-x---|    |---2-x-----0-x---|-0---------------|
+D|---2-x-----0-x---|---3-x---0h2--x---|(x3)|---3-x-----0-x---|-2---------------|
+A|-0---x-------x---|-----x---3----x---|    |-----x-------x---|-3-------0---2---|
+E|---------3-------|-1----------------|    |-1-------3-------|-----3-----------|[/tab]
+
+[Verse 1]
+[tab]  [ch]C[/ch]               [ch]B7[/ch]             [ch]C[/ch]
+I couldn't find a rhyme for your name[/tab]
+[tab]   [ch]F[/ch]
+So I can't write a song[/tab]
+[tab]          [ch]Fm[/ch]
+About the way you came along[/tab]
+[tab]    [ch]C[/ch]               [ch]B7[/ch]             [ch]C[/ch]
+And made me pick up every shred of blame[/tab]
+[tab]    [ch]F[/ch]
+I'm tired of the drama[/tab]
+[tab]    [ch]Fm[/ch]*
+I'd stay, but I don't wanna[/tab]
+
+[Chorus 1]
+[tab][ch]Am[/ch]                [ch]G[/ch]
+If your name were Mia[/tab]
+[tab]     [ch]F[/ch]               [ch]C[/ch]
+Then I'd be singing "see ya"[/tab]
+[tab]    [ch]Am[/ch]                [ch]G[/ch]
+And if your name were Jenna[/tab]
+[tab]       [ch]F[/ch]             [ch]Cmaj7[/ch]
+I'd be out of this dilemma[/tab]
+[tab]    [ch]Am[/ch]            [ch]G[/ch]
+And if you were Michelle,[/tab]
+[tab]        [ch]F[/ch]               [ch]C[/ch]
+I could tell you "go to hell"[/tab]
+[tab]      [ch]F[/ch]               [ch]G[/ch]              [ch]C[/ch]     [ch]G[/ch] [ch]A[/ch] [ch]B[/ch]
+But I couldn't find a rhyme for your name[/tab]
+
+[Verse 2]
+[tab]  [ch]C[/ch]           [ch]B7[/ch]                  [ch]C[/ch]
+A rose by any name would smell as sweet[/tab]
+[tab]    [ch]F[/ch]
+But everything is sour[/tab]
+[tab]         [ch]Fm[/ch]
+When I'm with you for an hour[/tab]
+[tab]  [ch]C[/ch]                  [ch]B7[/ch]            [ch]C[/ch]
+I tried to put these feelings to a beat[/tab]
+[tab]    [ch]F[/ch]
+I'd love for you to hear it[/tab]
+[tab]    [ch]Fm[/ch]*
+But I don't have the lyrics[/tab]
+
+[Chorus 2]
+[tab][ch]Am[/ch]                [ch]G[/ch]
+If your name were Rachel[/tab]
+[tab]     [ch]F[/ch]                 [ch]Cmaj7[/ch]
+Then I'd say something hateful[/tab]
+[tab]    [ch]Am[/ch]                [ch]G[/ch]
+And if your name were Maisie[/tab]
+[tab]        [ch]F[/ch]                [ch]Cmaj7[/ch]
+I could say you drive me crazy[/tab]
+[tab][ch]Am[/ch]                [ch]G[/ch]
+If your name were Eve[/tab]
+[tab]        [ch]F[/ch]            [ch]C[/ch]
+I would tell you you should leave[/tab]
+[tab]      [ch]F[/ch]               [ch]G[/ch]
+But I couldn't find a rhyme[/tab]
+[tab]        [ch]F[/ch]              [ch]G[/ch]
+I can't write a single line[/tab]
+[tab]  [ch]F[/ch]            [ch]G[/ch]              [ch]C[/ch]
+Until I find a rhyme for your name[/tab]
+
+[Verse 3]
+[tab][ch]C[/ch]                [ch]B7[/ch]                 [ch]C[/ch]
+One day, I'll be finished with this song[/tab]
+[tab]  [ch]F[/ch]
+I hope that when you listen[/tab]
+[tab]       [ch]Fm[/ch]
+You're with somebody different[/tab]
+[tab]     [ch]C[/ch]                  [ch]B7[/ch]              [ch]C[/ch]
+Then once you've been together nice and long[/tab]
+[tab]   [ch]F[/ch]*
+He gets his act together[/tab]
+[tab]    [ch]Fm[/ch]*
+And finds somebody better[/tab]
+
+[Chorus 3]
+[tab][ch]Am[/ch]                [ch]G[/ch]
+If your name were Katie[/tab]
+[tab]     [ch]F[/ch]                   [ch]Cmaj7[/ch]
+Then I'd write something shady[/tab]
+[tab]    [ch]Am[/ch]                [ch]G[/ch]
+And if your name were Autumn[/tab]
+[tab]       [ch]F[/ch]                  [ch]Cmaj7[/ch]
+Then I wouldn't have this problem[/tab]
+[tab][ch]Am[/ch]                [ch]G[/ch]
+If your name were Jane[/tab]
+[tab]        [ch]F[/ch]*                 [ch]C[/ch]*
+I could say that you're insane[/tab]
+[tab]      [ch]F[/ch]*              [ch]G[/ch]*             [ch]C[/ch]* [ch]G[/ch]* [ch]C[/ch]*
+But I couldn't find a rhyme for your name[/tab]
+
+
+
+
+
+************************************
+
+| x   Dead note
+| h   Hammer-on
+
+************************************

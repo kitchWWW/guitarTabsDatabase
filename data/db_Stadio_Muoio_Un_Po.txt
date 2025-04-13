@@ -1,0 +1,168 @@
+URL: https://tabs.ultimate-guitar.com/tab/stadio/muoio-un-po-chords-3623321
+Artist: Stadio
+Song: Muoio Un Po
+Genre: 
+Key: 
+
+
+MUOIO UN PO'. (Stadio)
+
+CAPO on 3rd fret
+
+
+[Riff parts with "C", "Am7" and "Fmaj7"]
+
+[ch]A7sus2[/ch]    x02000
+[ch]Cmaj7sus2[/ch] x30000
+[ch]Fmaj7sus2[/ch] xx3010
+
+[tab]   [ch]Cmaj7sus2[/ch] -> [ch]C[/ch] -> [ch]Cmaj7sus2[/ch]
+e|-0------0---0---0-|-0------0---0---0-|
+B|-0--h1--1---1---0-|-0--h1--1---1---0-|
+G|-0------0---0---0-|-0------0---0---0-|
+D|-0--h2--2---2---0-|-0--h2--2---2---0-|
+A|-3------3---3---3-|-3------3---3---3-|
+E|------------------|------------------|[/tab]
+
+[tab]   [ch]A7sus2[/ch] -> [ch]Am7[/ch] -> [ch]A7sus2[/ch]
+e|-0------0---0---0-|-0------0---0---0-|
+B|-0--h1--1---1---0-|-0--h1--1---1---0-|
+G|-0------0---0---0-|-0------0---0---0-|
+D|-2------2---2---2-|-2------2---2---2-|
+A|-0------0---0---0-|-0------0---0---0-|
+E|------------------|------------------|[/tab]
+
+[tab]   [ch]Fmaj7sus2[/ch] -> [ch]Fmaj7[/ch] -> [ch]Fmaj7sus2[/ch]
+e|-0------0---0---0-|-0------0---0---0-|
+B|-1------1---1---1-|-1------1---1---1-|
+G|-0--h2--2---2---0-|-0--h2--2---2---0-|
+D|-3------3---3---3-|-3------3---3---3-|
+A|------------------|------------------|
+E|------------------|------------------|[/tab]
+
+
+CAPO on 3rd fret
+
+[ch]Fmaj7[/ch]  xx3210
+[ch]F/G[/ch]    303211
+[ch]Gsus4[/ch]  330013
+[ch]G/B[/ch]    x20033
+[ch]G6/B[/ch]   x20000
+
+
+[Intro]
+| [ch]C[/ch] | [ch]C[/ch] |
+
+
+[Verse]
+[tab][ch]C[/ch]
+Dove sei sparita[/tab]
+[tab][ch]C[/ch]                         [ch]Am7[/ch]
+Anche se mi sforzo e dico no[/tab]
+[tab]                 [ch]C[/ch]
+Sai mi manchi un po'[/tab]
+[tab][ch]C[/ch]
+Forse è già finita[/tab]
+[tab][ch]C[/ch]                              [ch]Am7[/ch]
+Questa nostra storia un dubbio ho[/tab]
+[tab]              [ch]C[/ch]
+E ci muoio un po'[/tab]
+
+
+[Pre-Chorus]
+[tab]    [ch]Fmaj7[/ch]
+E così resto qui[/tab]
+[tab]      [ch]Gsus4[/ch]
+A guardare il cielo[/tab]
+[tab]          [ch]C[/ch]
+Diventare blu[/tab]
+[tab]       [ch]G6/B[/ch] [ch]Am7[/ch]
+Mentre cado giù[/tab]
+[tab]     [ch]Fmaj7[/ch]
+Io così resto qui[/tab]
+[tab]         [ch]Gsus4[/ch]
+Ma dappertutto in quel che faccio[/tab]
+[tab]       [ch]Am7[/ch]   [ch]Fmaj7[/ch]
+Ci sei tu[/tab]
+
+
+[Chorus]
+[tab]                       [ch]C[/ch]
+Ma chissà dove sei tu adesso[/tab]
+[tab][ch]C[/ch]              [ch]G6/B[/ch]     [ch]Am7[/ch]
+ Vorrei dirmi "fa lo stesso"[/tab]
+[tab]                [ch]Fmaj7[/ch]   [ch]Gsus4[/ch]
+Ci provo ma non posso[/tab]
+[tab]                 [ch]Am7[/ch] [ch]Fmaj7[/ch] [ch]Gsus4[/ch] [ch]G[/ch]
+Così io muoio un po'[/tab]
+
+
+[Verse]
+[tab][ch]C[/ch]
+Tu non chiami e allora[/tab]
+[tab][ch]C[/ch]                       [ch]G6/B[/ch]  [ch]Am7[/ch]
+Io non ho più orgoglio e lo farò[/tab]
+[tab]           [ch]C[/ch]
+E poi ti dirò[/tab]
+[tab][ch]C[/ch]
+Solo una parola[/tab]
+[tab][ch]C[/ch]
+Basta che tu dica[/tab]
+[tab] [ch]G6/B[/ch]  [ch]Am7[/ch]
+"si o no"[/tab]
+[tab]                 [ch]C[/ch]
+Di più non chiederò[/tab]
+
+
+[Pre-Chorus]
+[tab]    [ch]Fmaj7[/ch]
+E così resto qui[/tab]
+[tab]      [ch]Gsus4[/ch]
+A guardare il cielo[/tab]
+[tab]          [ch]C[/ch]
+Diventare blu[/tab]
+[tab]       [ch]G6/B[/ch] [ch]Am7[/ch]
+Mentre cado giù[/tab]
+[tab]     [ch]Fmaj7[/ch]
+Io così resto quì[/tab]
+[tab]     [ch]Gsus4[/ch]
+Però dentro ad ogni cosa[/tab]
+[tab]       [ch]Am7[/ch]   [ch]Fmaj7[/ch]
+Ci sei tu[/tab]
+
+
+[Chorus]
+[tab]                       [ch]C[/ch]
+Ma chissà dove sei tu adesso[/tab]
+[tab][ch]C[/ch]              [ch]G6/B[/ch]     [ch]Am7[/ch]
+ Vorrei dirti "fa lo stesso"[/tab]
+[tab]                   [ch]Fmaj7[/ch]   [ch]Gsus4[/ch]
+Ma piove a più non posso[/tab]
+[tab]                 [ch]Am7[/ch]  [ch]Fmaj7[/ch] [ch]Gsus4[/ch]
+Sai qui io muoio un po'[/tab]
+
+
+[Bridge]
+[tab]                  [ch]C[/ch]       [ch]Am7[/ch] [ch]F[/ch]
+E non c'è rimedio tu lo sai[/tab]
+[tab]                     [ch]Am7[/ch] [ch]F[/ch] [ch]C[/ch]
+Con un altro forse sei[/tab]
+[tab]             [ch]G/B[/ch]  [ch]Am7[/ch]  [ch]F[/ch] [ch]Gsus4[/ch]
+Dimmi almeno come stai[/tab]
+[tab]          [ch]Am7[/ch] [ch]F[/ch] [ch]Gsus4[/ch]   [ch]F/G[/ch]   [ch]F/G[/ch]
+Ora o mai più[/tab]
+
+
+[Outro]
+[tab]                       [ch]C[/ch]
+Ma chissà dove sei tu adesso[/tab]
+[tab][ch]C[/ch]                 [ch]G6/B[/ch]     [ch]Am7[/ch]
+ Che non c'è amore non c'è sesso[/tab]
+[tab]                    [ch]Fmaj7[/ch]   [ch]Gsus4[/ch]
+Che piove a più non posso[/tab]
+[tab]                    [ch]Am7[/ch]   [ch]Fmaj7[/ch]
+Sai qui io muoio un po'[/tab]
+[tab]                     [ch]Fmaj7[/ch]   [ch]Gsus4[/ch]
+Ma se tu tornassi adesso[/tab]
+[tab]                    [ch]Am7[/ch] [ch]Fmaj7[/ch] [ch]C[/ch]
+Sai qui io muoio un po'[/tab]

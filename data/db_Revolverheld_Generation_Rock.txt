@@ -1,0 +1,134 @@
+URL: https://tabs.ultimate-guitar.com/tab/revolverheld/generation-rock-tabs-1121923
+Artist: Revolverheld
+Song: Generation Rock
+Genre: 
+Key: 
+
+
+Name ------ Generation Rock
+Music By -- Revolverheld
+Version --- Guitar Hero III
+Tabbed By - Randall Spyksma
+Tuning ---- E Standard (EADGBE)
+
+        I'd just like to start by saying that this is my first tab, so any 
+critism, advice and/or corrections would be appreciated. The strumming 
+patterns and rhythm may not be 100% but I think that it's pretty close.
+If you enjoy it don't forget to vote and comment. 
+
+
+INTRO - (Guitar I - Clean)
+~~~~~
+
+[tab]E------|          E---6--|
+B--7-7-|          B--7-7-|
+G---8--|   x7     G------|
+D-6----|          D-6----|
+A------|          A------|
+E------|          E------|[/tab]
+
+
+[tab]E------|          E---6--|
+B--7-7-|          B--7-7-|
+G---8--|   x7     G------|   Guitar I continues playing until Pre-chorus
+D-6----|          D-6----|
+A------|          A------|
+E------|          E------|[/tab]
+
+
+VERSE - (Guitar II - Distorted - Listen to song for cue and rhythm)
+~~~~~
+
+[tab]E---------------------------------|
+B---------------------------------|
+G---------------------------------|
+D------------------------99999999-|
+A-999-99-666666666666666-77777777-|
+E-777-66-4444444444444440---------|[/tab]
+
+[tab]E-----------------------------------------------|
+B-----------------------------------------------|
+G---------------------------------131313-111111-|
+D------------------------99999999-131313-111111-|
+A-999-99-666666666666666-77777777-111111-9-9-9--|
+E-777-6664444444444444440-----------------------|[/tab]
+
+
+PRECHORUS - (Guitar II - Distorted)
+~~~~~~~~~
+
+[tab]E-----(bend G string)-|
+B---------------------|
+G--6-----6666777788---|
+D-6-66666-------------|
+A---------------------|
+E---------------------|[/tab]
+
+
+CHORUS - (Guitar II - Distorted)
+~~~~~~
+
+[tab]E-------------9b11-|
+B------------------|
+G------------------|   x2
+D------------------|
+A-6666----2222-----|
+E-444474740000-----|[/tab]
+
+
+[tab]E-------------------------|
+B-------------------------|
+G-----------------6--6--4-|   
+D---------4444----6--6--4-|
+A-66664444222222224444442-|
+E-44442222----0000--------|
+                   .. ..[/tab]
+
+
+Play INTRO x1 - (Guitar I - Clean)
+
+
+Play VERSE x1 - (Guitar II - Distorted)
+
+
+Play PRECHORUS x1 - (Guitar II - Distorted)
+
+
+Play CHORUS x1 - (Guitar II - Disotorted)
+
+
+SOLO - (Guitar I - Clean)
+~~~~
+
+[tab]E---------------------------------|
+B----4--4----4--4---4--4----6--6--|
+G-----4--6-----------4--4----6--4-|   x4
+D-666--6--555-55-444--4--333--3---|
+A---------------------------------|
+E---------------------------------|[/tab]
+
+
+BRIDGE - (Guitar I - Clean)
+~~~~~~
+
+[tab]E----------------------------------|
+B----------------------------------|
+G---------333333334444444466666666-|
+D-66666666555555554444444466666666-|   x3
+A----------------------------------|
+E----------------------------------|
+  ................................[/tab]
+
+
+[tab]E------------------|
+B------------------|
+G---------33333333-|
+D-6666666655555555-| 
+A------------------|
+E------------------|
+  ................[/tab]
+
+Play PRECHORUS x1 - (Guitar II - Distorted)
+
+
+Play CHORUS x2 - (Guitar II - Disotorted)

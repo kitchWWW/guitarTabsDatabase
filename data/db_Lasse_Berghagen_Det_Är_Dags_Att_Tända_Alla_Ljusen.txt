@@ -1,0 +1,47 @@
+URL: https://tabs.ultimate-guitar.com/tab/5050438
+Artist: Lasse Berghagen
+Song: Det Är Dags Att Tända Alla Ljusen
+Genre: 
+Key: A
+
+
+[Intro]
+[ch]A[/ch] [ch]F#m[/ch] [ch]Bm7[/ch] [ch]E7[/ch]
+
+[Verse 1]
+[tab][ch]A[/ch]      [ch]F#[/ch]       [ch]Bm7[/ch]        [ch]E7[/ch]
+Det är dags att tända alla ljusen[/tab]
+[tab][ch]A[/ch]      [ch]F#m[/ch]  [ch]Bm7[/ch]     [ch]E7[/ch]
+Det är jule tid[/tab]
+[tab][ch]A[/ch]         [ch]F#m[/ch]    [ch]Bm7[/ch]            [ch]C#7[/ch]    [ch]F#[/ch] [ch]F#m[/ch] [ch]F#9[/ch] [ch]F#7-9[/ch] [ch]Bm7[/ch] [ch]E11[/ch] [ch]E9[/ch]
+Och Snart Ringer Klockorna Till Ro Och Frid[/tab]
+
+[Verse 2]
+[tab][ch]A[/ch]      [ch]F#m[/ch]      [ch]Bm7[/ch]        [ch]E7[/ch]
+Def Är Dags Att Tända Alla Ljusen[/tab]
+[tab][ch]A[/ch]      [ch]F#m[/ch]  [ch]Bm7[/ch]    [ch]E7[/ch]
+Det Är Jul Igen[/tab]
+[tab][ch]A[/ch]      [ch]F#m[/ch]     [ch]Bm7[/ch]           [ch]C#7[/ch]      [ch]F#m[/ch] [ch]F#mMaj7[/ch] [ch]Em7[/ch] [ch]A[/ch]
+Glädje Och Förväntan Som För Länge Sen[/tab]
+
+Mellanspel:
+[tab][ch]D[/ch]        [ch]Dm[/ch]               [ch]A/C#[/ch]      [ch]Cdim[/ch]
+Ett Änglaspel Samma Gamla Kära Sång[/tab]
+[tab]        [ch]Bm7[/ch]          [ch]E7[/ch] [ch]A[/ch]
+Klingar Gång På Gång I Kör[/tab]
+[tab][ch]Ebm7-5[/ch]       [ch]G#7[/ch]      [ch]C#m7[/ch]     [ch]F#7[/ch]     [ch]Bsus[/ch]    [ch]Badd9[/ch]       [ch]E7sus[/ch]  [ch]E7[/ch]
+Granljusdoft Och Stearin Finns I Melodin Vi Alla Hör[/tab]
+
+[Verse 3]
+[tab][ch]A[/ch]      [ch]F#m[/ch]      [ch]Bm7[/ch]        [ch]E7[/ch]
+Det Är Dags Att Tända Alla Ljusen[/tab]
+[tab][ch]A[/ch]      [ch]F#m[/ch]  [ch]Bm7[/ch]   [ch]E7[/ch]
+Det Är Jul Igen[/tab]
+[tab][ch]A[/ch]      [ch]F#m[/ch]     [ch]G#7[/ch]             [ch]C#7[/ch]      [ch]F#m[/ch] [ch]F#maj7[/ch] [ch]Em9[/ch] [ch]A13[/ch] ([ch]A7[/ch])
+I Vårt Fönster Ses En Hälsning Till Vår Vän[/tab]
+
+[Outro]
+[tab][ch]D[/ch]
+Så Tänd Ett Ljus[/tab]
+[tab][ch]Bm7[/ch]            [ch]E7sus[/ch] [ch]E7[/ch]
+Låt Julen Vara Länge Än[/tab]

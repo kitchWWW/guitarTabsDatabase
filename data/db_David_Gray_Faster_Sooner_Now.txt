@@ -1,0 +1,49 @@
+URL: https://tabs.ultimate-guitar.com/tab/david-gray/faster-sooner-now-chords-69807
+Artist: David Gray
+Song: Faster Sooner Now
+Genre: 
+Key: 
+
+
+David Gray
+
+Faster, Sooner, Now
+
+(Capo 4 placed over 5 strings, leaving the high E string open)
+
+The chord shapes are as follows:
+(x = Don't play this string)
+
+[tab][ch]D[/ch]   [ch]Dsus[/ch]   [ch]Cadd9[/ch]    [ch]G[/ch]    [ch]Am[/ch]    [ch]C[/ch]     [ch]E[/ch]     [ch]F[/ch]
+2     0      0      0     0    0     0     0[/tab]
+3     3      3      3     1    1     0     1
+2     2      0      4     2    0     1     2
+0     0      2      0     2    2     2     3
+0     0      3      2     0    3     2     3
+x     x      x      3     x    x     0     1
+
+[tab][ch]D[/ch]   [ch]Dsus[/ch]  [ch]Cadd9[/ch]
+Hey now[/tab]
+[tab][ch]G[/ch]                 [ch]D[/ch]   [ch]Dsus[/ch]  [ch]Cadd9[/ch]  [ch]G[/ch]
+you got me by the tongue[/tab]
+[tab][ch]D[/ch]    Dsus9  [ch]Cadd9[/ch]
+I feel like[/tab]
+[tab][ch]G[/ch]                 [ch]D[/ch]   [ch]Dsus[/ch]  [ch]Cadd9[/ch]  [ch]G[/ch]
+there's nowhere I belong[/tab]
+[tab]           [ch]Am[/ch]         [ch]C[/ch]       [ch]D[/ch]
+And they're working it pretty hard[/tab]
+[tab]           [ch]Am[/ch]         [ch]C[/ch]       [ch]D[/ch]
+And they're selling it by the yard[/tab]
+[tab]        [ch]Am[/ch]         [ch]C[/ch]       [ch]D[/ch]
+But it's more than I can afford[/tab]
+[tab]      [ch]E[/ch]            [ch]F[/ch]
+That's all that I know[/tab]
+
+
+The rest of the song follows the same pattern
+with the "Colder the higher you climb" line
+being sung over the Am C D chord sequence.
+The ending for the sone is D Dsus Cadd9 G
+
+
+Submitted by Ross Thomson

@@ -1,0 +1,74 @@
+URL: https://tabs.ultimate-guitar.com/tab/percy-faith/theme-from-a-summer-place-chords-5108530
+Artist: Percy Faith
+Song: Theme From A Summer Place
+Genre: 
+Key: F
+
+
+[intro]
+[tab]|[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+
+[main theme]
+[tab]|[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]Fmaj7[/ch]       [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]Fmaj7[/ch]       [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]Fmaj7[/ch]       [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]Fmaj7[/ch]       [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+
+[bridge]
+[tab]|[ch]Dm[/ch]          [ch]Dm/C[/ch]        [ch]Bbmaj7[/ch]      [ch]Gm7[/ch]        |[ch]Am7[/ch]         [ch]Fmaj7[/ch]       [ch]Dm7[/ch]         [ch]Bbm[/ch]       |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]Fmaj7[/ch]       [ch]Dm7[/ch]         [ch]G9[/ch]                     |[ch]C11[/ch]                     [ch]C7[/ch]                    |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+
+[main theme]
+[tab]|[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]Fmaj7[/ch]       [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]Fmaj7[/ch]       [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]         |[ch]F[/ch]           [ch]Dm7[/ch]         [ch]Gm7add11[/ch]    [ch]C7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]F[/ch]                                              |[ch]F[/ch]                                            |                      |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+
+[main theme]
+[tab]|[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]         |[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]Dmaj7[/ch]       [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]         |[ch]Dmaj7[/ch]       [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]         |[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]Dmaj7[/ch]       [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]         |[ch]Dmaj7[/ch]       [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+
+[coda]
+[tab]|[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]         |[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]         |[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]        |
+ *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *[/tab]
+
+[tab]|[ch]D[/ch]           [ch]Bm7[/ch]         [ch]Em7add11[/ch]    [ch]A7[/ch]  ..fade
+ *   *   *   *   *   *   *   *   *   *[/tab]

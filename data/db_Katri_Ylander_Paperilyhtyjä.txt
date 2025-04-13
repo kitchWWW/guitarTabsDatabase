@@ -1,0 +1,70 @@
+URL: https://tabs.ultimate-guitar.com/tab/1312974
+Artist: Katri Ylander
+Song: Paperilyhtyjä
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------
+PAPERILYHTYJÄ – Katri Ylander
+-------------------------------------------------------------------------
+Tabbed by: Kengus
+[tab]                                                          [ch]A[/ch]+add5 = x03220
+Standard tuning                                          Dsus2b5 = xx0130[/tab]
+Capo on third fret!                                         A/G# = 4422xx
+                                                            [ch]F#m7[/ch] = 244220
+INTRO                                                        [ch]C#m[/ch] = x46650
+[ch]A[/ch]  [ch]A[/ch]+add5  [ch]A[/ch]  [ch]A[/ch]+add5  [ch]A[/ch]  [ch]A[/ch]+add5                          Bmadd11 = x24430
+
+VERSE1
+[tab][ch]A[/ch]         [ch]A[/ch]+add5  [ch]A[/ch]  [ch]A[/ch]+add5  [ch]A[/ch]        Aadd5      [ch]A[/ch]  Aadd5
+  Meidän pihalla,              paperilyhdyn alla[/tab]
+[tab][ch]Bm[/ch]                                 [ch]A[/ch]    Aadd5   [ch]A[/ch]  Aadd5
+    Ettei hämärä meitä peitä ihan vielä[/tab]
+[tab][ch]A[/ch]       Aadd5    [ch]A[/ch]  Aadd5  [ch]A[/ch]        Aadd5  [ch]A[/ch]  Aadd5
+  Talven kuukaudet,          melkein ikuiset[/tab]
+[tab][ch]Bm[/ch]                                         [ch]A[/ch]  Aadd5  [ch]A[/ch]  Aadd5
+    En mä pelännyt yksin olla, mut en tykännytkään[/tab]
+
+CHORUS
+[tab][ch]D[/ch]       Dsus2b5       [ch]D[/ch]           [ch]A[/ch]
+Hän saakin sen, minkä tahdoin, kaiken[/tab]
+[tab][ch]D[/ch]         Dsus2b5    [ch]D[/ch]           [ch]A[/ch]    ([ch]A/G#[/ch])
+Kai teillä on kaikki oikein paremmin[/tab]
+[tab][ch]F#m7[/ch]   [ch]C#m[/ch]
+ En ole hän[/tab]
+   Bmadd11
+En, vaikka yritän
+
+INTERLUDE
+[ch]A[/ch]  [ch]A[/ch]+add5  x4
+
+VERSE2
+[tab][ch]A[/ch]        [ch]A[/ch]+add5  [ch]A[/ch]  [ch]A[/ch]+add5  [ch]A[/ch]       [ch]A[/ch]+add5  [ch]A[/ch]  [ch]A[/ch]+add5
+  Viime kesänä,               paperilyhtyjä[/tab]
+[tab][ch]Bm[/ch]                                    [ch]A[/ch]  [ch]A[/ch]+add5  [ch]A[/ch]  [ch]A[/ch]+add5
+    Kun me vähäsen viinipäissään ripusteltiin[/tab]
+[tab][ch]A[/ch]       [ch]A[/ch]+add5 [ch]A[/ch]  [ch]A[/ch]+add5  [ch]A[/ch]       [ch]A[/ch]+add5  [ch]A[/ch]  [ch]A[/ch]+add5
+  Pienet perhoset,          illan väriset[/tab]
+[tab][ch]Bm[/ch]                                      [ch]A[/ch]   [ch]A[/ch]+add5  [ch]A[/ch]  [ch]A[/ch]+add5
+    Ne valoon räpiköi typeryyttään ihan kiinni[/tab]
+
+CHORUS
+[tab][ch]D[/ch]       Dsus2b5       [ch]D[/ch]           [ch]A[/ch]
+Hän saakin sen, minkä tahdoin, kaiken[/tab]
+[tab][ch]D[/ch]         Dsus2b5    [ch]D[/ch]           [ch]A[/ch]    ([ch]A/G#[/ch])
+Kai teillä on kaikki oikein paremmin[/tab]
+[tab][ch]F#m7[/ch]   [ch]C#m[/ch]
+ En ole hän[/tab]
+   Bmadd11
+En, vaikka yritän
+
+INTERLUDE
+[ch]A[/ch]  [ch]A[/ch]+add5  x4
+
+OUTRO                                                          G = 320033
+[ch]G[/ch]  [ch]Asus2[/ch]  [ch]Dsus2[/ch]/[ch]F#[/ch]  x7                                     [ch]Asus2[/ch] = x02200
+                                                        [ch]Dsus2[/ch]/[ch]F#[/ch] = 200230
+[ch]G[/ch]  [ch]A[/ch]
+
+=========================================================================

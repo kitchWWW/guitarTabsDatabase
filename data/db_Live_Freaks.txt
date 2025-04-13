@@ -1,0 +1,233 @@
+URL: https://tabs.ultimate-guitar.com/tab/live/freaks-tabs-73716
+Artist: Live
+Song: Freaks
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+#
+
+
+From ada108@psu.edu Wed Apr  9 12:44:35 1997
+Date: Sun, 30 Mar 1997 14:39:10 -0500
+From: Andy Adelewitz &lt;ada108@psu.edu>
+To: guitar@olga.net
+Subject: TAB: Freaks by Live
+
+"Freaks" by +Live+
+from the album Scret Samadhi
+tab by Andy Adelewitz (ada108@psu.edu)
+
+I tabbed this in standard tuning instead of down a half step, as they play
+it. It's just as easy either way. If you tune down a half step, just move
+all the tab up a fret to play along with the album.
+
+Verse riff:
+
+[tab]    G#5     E5    D#m            G#5     E5    D#m            E5
+E-|---------------------------------------------------------------|
+B-|-----9-------------7--------------9----------------------------|
+G-|---8---8-----9-------6----------8---8-----9----------------9---|
+D-|-6---------9------------------6---------9--------x3-then---9---|
+A-|---------7-----6----------------------7-----6--------------7---|
+E-|---------------------------------------------------------------|[/tab]
+
+
+Will you  call them Freaks?
+
+[tab]    D#5
+E-|-----|
+B-|-----|
+G-|--8--|
+D-|--8--|
+A-|--6--|
+E-|-----|[/tab]
+
+Just repeat this chord over and over the first time, then go back into verse.
+The second time and all after it, follow it with:
+
+   Or will you call them gods?
+
+[tab]    G#5     Bb5   D#5
+E-|---------------------------------------------------------------------------|
+B-|---------------------------------------------------------------------------|
+G-|---------------8-----------------------------------------------------------|
+D-|-6---6-6-8-8---8-----------------------------------------------------------|
+A-|-6---6-6-8-8---6-----------------------------------------------------------|
+E-|-4---4-4-6-6---------------------------------------------------------------|[/tab]
+
+
+The last riff has three chords:
+
+[tab]    G5  G#5  C#5
+E-|---------------|
+B-|---------------|
+G-|-----------6---|
+D-|--5---6----6---|
+A-|--5---6----4---|
+E-|--3---4--------|[/tab]
+
+Play like so:
+
+G5             G#5  C#5
+   You never looked so high
+
+G5           G#5    C#5
+   To ever find her so low
+
+G5                     G#5   C#5
+   You did not have to go    that far
+
+G5                      G#5
+   To show her you were holy
+
+
+The little guitar lick behind what comea after that part:
+
+[tab]         1/2 step bend and release
+D-|------/\---------|
+A-|---10----8--10---|
+E-|-----------------|
+From 160253@student.fbk.eur.nl Sun Apr 27 11:06:58 1997
+Date: Mon, 21 Apr 1997 18:14:40 -0700
+From: "H.J.W. ter Avest" &lt;160253@student.fbk.eur.nl>
+To: guitar@olga.net
+Subject: TAB: freaks by live[/tab]
+
+    [The following text is in the "iso-8859-1" character set]
+    [Your display is set for the "US-ASCII" character set]
+    [Some characters may be displayed incorrectly]
+
+Tab of ^?freaks^? by live
+from the album Secret Shamadi
+transcribed by JWTA (JAN76@HOTMAIL.COM)
+
+main RIFF A: If the mother  B:would you call them freaks...
+
+[tab]E---------------------------|-------------------------------|
+A------10--------------8----|-------------------------------|
+D----9----9-----9----7---7--|(7)------------------1---------|
+G--7----------7-------------|---------------------2---------|
+B-----------8------7--------|---------------------2---------|
+E---------------------------|-------------------------------|[/tab]
+
+[tab]and then C:
+     would you call them freeeaaaks...
+------------------------------------|
+------------------------------------|
+--5------------5--------------------|
+--5------------7---------5----------|
+--3------------7---------5----------|
+-------------------------3----------|[/tab]
+
+That^?s it. It^?s eazy man, I heard it twice and I pulled it.
+for lyrics check out the live webpage. C-ya.
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From: spider@olemiss.edu
+
+
+"Freaks" by Live
+On the new album, Secret Samadhi
+
+Transcribed by spider@olemiss.edu
+
+Tune a 1/2 step down, as per usual for about 99% of Live's songs.
+
+
+Intro:
+(Using a slight tremolo effect)
+(This is kind of an arpeggio with Am F and Em7)
+
+[tab]     Am	 F	    Em7		    Am	F	   Em7
+eb:------5---------|-----------3-----|------5---------|-----------3-----|
+Bb:--------5-------|-------------3---|--------5-------|-------------3---|
+Gb:----------------|-----------------|----------------|-----------------|
+Db:--------------3-|-----------------|--------------3-|-----------------|
+Ab:----7-------3---|-----------------|----7-------3---|-----------------|
+Eb:--5-------1-----|--0--------------|--5-------1-----|--0--------------|[/tab]
+
+[tab]     Am	 F	    Em7		    Am	F	   Em7
+eb:------5---------|-----------3-----|------5---------|-----------3-----|
+Bb:--------5-------|-------------3---|--------5-------|-------------3---|
+Gb:----------------|-----------------|----------------|-----------------|
+Db:--------------3-|-----------------|--------------3-|-----------------|
+Ab:----7-------3---|-----------------|----7-------3---|-----------------|
+Eb:--5-------1-----|--0--------------|--5-------1-----|--0--------------|[/tab]
+
+Verse:
+(This is pretty much the same, except for one chord at the end of the verse.)
+
+
+[tab]If a mother goes to sleep...
+     Am	 F	    Em7		    Am	F	   Em7
+eb:------5---------|-----------3-----|------5---------|-----------3-----|
+Bb:--------5-------|-------------3---|--------5-------|-------------3---|
+Gb:----------------|-----------------|----------------|-----------------|
+Db:--------------3-|-----------------|--------------3-|-----------------|
+Ab:----7-------3---|-----------------|----7-------3---|-----------------|
+Eb:--5-------1-----|--0--------------|--5-------1-----|--0--------------|[/tab]
+
+[tab]     Am	 F	    Em7		    Am sus 4
+eb:------5---------|-----------3-----|---5------------|-----------------|
+Bb:--------5-------|-------------3---|---5------------|-----------------|
+Gb:----------------|-----------------|---5------------|-----------------|
+Db:--------------3-|-----------------|---0------------|-----------------|
+Ab:----7-------3---|-----------------|---0------------|-----------------|
+Eb:--5-------1-----|--0--------------|----------------|-----------------|[/tab]
+
+
+1st Chorus:
+(Using heavy distortion)
+
+			  E
+Will you call her a freak...
+			  E
+Will you call them freaks...
+
+
+2nd Chorus (and the rest):
+(Using heavy distortion)
+
+Here's the riff that's played with the E chord on "gods" and the asterisk:
+
+[tab]eb:------------------|
+Bb:------------------|
+Gb:------------------|
+Db:---6--7--6-----6--|
+Ab:------------9-----|
+Eb:------------------|[/tab]
+
+
+			  E
+Will you call her a freak...
+			  E
+Will you call them freaks...
+   A	 	  B	    E*(riff)
+or will you call them gods...
+   A	 	  B	    E*(riff)
+...will you call them freaks...
+   A	 	  B	     G#
+you know your sperm is weak...
+
+
+Refrain:
+
+G# 	    A		D
+You never looked, so high
+G#	    A		D
+To ever find her, so low
+G#	    A			D
+You did not have to go, that far...
+
+Am  F  Em7
+Am  F  Em7
+
+That's pretty much all the pieces to this "freaky" song;
+just listen to the CD and put it together; it shouldn't be too hard.

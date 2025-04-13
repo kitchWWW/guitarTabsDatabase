@@ -1,0 +1,94 @@
+URL: https://tabs.ultimate-guitar.com/tab/al-stewart/end-of-the-day-chords-4633256
+Artist: Al Stewart
+Song: End Of The Day
+Genre: 
+Key: E
+
+
+---------------------------------------------------------------------------
+                   End of the Day – Al Stewart
+---------------------------------------------------------------------------
+
+Written by: Al Stewart and Peter White
+From: “Time Passages” (1978)
+
+Tabbed by: maguri
+Tuning: Standard
+
+Capo: 2nd fret
+Play: D
+Key: E
+
+For chords in original key, transpose +2.
+
+---------------------------------------------------------------------------
+
+[tab]CHORDS
+          E-A-D-G-B-e
+D/F#      2-x-0-2-x-x
+G/A       x-0-0-0-0-x[/tab]
+
+---------------------------------------------------------------------------
+
+[Intro]
+| [ch]D[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch] [ch]C7[/ch] | [ch]D[/ch] [ch]D/F#[/ch] | [ch]Bbmaj7[/ch] |
+| [ch]D[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch]    [ch]Am7[/ch] | [ch]Bbmaj7[/ch] [ch]G/A[/ch] | [ch]D[/ch] |
+
+[Solo]
+| [ch]D[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch] [ch]C7[/ch] | [ch]D[/ch] [ch]D/F#[/ch] | [ch]Bbmaj7[/ch] |
+| [ch]D[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch]    [ch]Am7[/ch] | [ch]Bbmaj7[/ch] [ch]G/A[/ch] | [ch]D[/ch] |
+
+| [ch]D[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch] [ch]C7[/ch] | [ch]D[/ch] [ch]D/F#[/ch] | [ch]Bbmaj7[/ch] |
+| [ch]D[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch]    [ch]Am7[/ch] | [ch]Bbmaj7[/ch] [ch]G/A[/ch] | [ch]D[/ch] |
+
+| [ch]Gm[/ch] | [ch]Am7[/ch] | [ch]Bbmaj7[/ch] | [ch]Dmaj7[/ch] |
+| [ch]Em[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch] [ch]Am7[/ch] | [ch]Bbmaj7[/ch]  [ch]Bbmaj7/F[/ch] | [ch]Bbmaj7[/ch]   [ch]Am7[/ch] |
+
+| [ch]D[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch] [ch]C7[/ch] | [ch]D[/ch] [ch]D/F#[/ch] | [ch]Bbmaj7[/ch] |
+| [ch]D[/ch] [ch]D/F#[/ch] | [ch]Gm[/ch]    [ch]Am7[/ch] | [ch]Bbmaj7[/ch] [ch]G/A[/ch] | [ch]D[/ch] |
+
+[Interlude]
+| [ch]Bb[/ch] [ch]A[/ch] | [ch]Gm[/ch] [ch]F[/ch] | [ch]Em7[/ch] |
+
+[Verse 1]
+[tab][ch]D[/ch]           [ch]D/F#[/ch]             [ch]Gm[/ch]       [ch]C7[/ch]
+ And in the evening when the day goes down[/tab]
+[tab][ch]D[/ch]               [ch]D/F#[/ch]         [ch]Bbmaj7[/ch]
+ She leaves the bright house lights[/tab]
+[tab][ch]D[/ch]           [ch]D/F#[/ch]             [ch]Gm[/ch]                 [ch]Am7[/ch]
+ Stands and watches with her coat pulled around[/tab]
+[tab]   [ch]Bbmaj7[/ch]            [ch]G/A[/ch]     [ch]D[/ch]
+As torches light the western skies[/tab]
+
+[Verse 2]
+[tab][ch]D[/ch]              [ch]D/F#[/ch]                 [ch]Gm[/ch]       [ch]C7[/ch]
+ Sometimes she thinks she knows him just too well[/tab]
+[tab][ch]D[/ch]               [ch]D/F#[/ch]    [ch]Bbmaj7[/ch]
+Other times not much at all[/tab]
+[tab][ch]D[/ch]                [ch]D/F#[/ch]            [ch]Gm[/ch]             [ch]Am7[/ch]
+ They live their lives in some familiar spell[/tab]
+[tab]    [ch]Bbmaj7[/ch]           [ch]G/A[/ch]       [ch]D[/ch]
+And catch each other when they fall[/tab]
+
+[Middle 8]
+[tab][ch]Bbmaj7[/ch]                   [ch]Am7[/ch]
+ Nothing lasts, well she knows[/tab]
+[tab]            [ch]Dm[/ch]            [ch]Gm[/ch]              [ch]Dmaj7[/ch]
+Try to hang on, when it's gone, you'll be burned[/tab]
+[tab][ch]Bbmaj7[/ch]                         [ch]Am7[/ch]
+ Fashions and friends come and go[/tab]
+[tab]         [ch]Dm[/ch]           [ch]Gm[/ch]            | [ch]A7sus4[/ch]    [ch]A7[/ch] |
+Everyone travels that road in their turn[/tab]
+
+[Verse 3]
+[tab][ch]D[/ch]                 [ch]D/F#[/ch]          [ch]Gm[/ch]            [ch]C7[/ch]
+ She wants to run out where the day meets the night[/tab]
+[tab][ch]D[/ch]                [ch]D/F#[/ch]    [ch]Bbmaj7[/ch]
+Far beyond these midwest farms[/tab]
+[tab][ch]D[/ch]              [ch]D/F#[/ch]              [ch]Gm[/ch]             [ch]Am7[/ch]
+ But she'll be with him till the day she finds[/tab]
+[tab]  [ch]Bbmaj7[/ch]         [ch]G/A[/ch]    [ch]D[/ch]
+A stranger lying in her arms[/tab]
+
+[Coda]
+| [ch]Bb[/ch] [ch]A[/ch] | [ch]Gm[/ch] [ch]F[/ch] | [ch]Em7[/ch] | [ch]D[/ch]

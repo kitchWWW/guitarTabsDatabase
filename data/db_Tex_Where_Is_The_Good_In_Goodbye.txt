@@ -1,0 +1,175 @@
+URL: https://tabs.ultimate-guitar.com/tab/tex/where-is-the-good-in-goodbye-chords-1512876
+Artist: Tex
+Song: Where Is The Good In Goodbye
+Genre: 
+Key: 
+
+
+Tex - Where is the good in goodbye?
+-----------------------------------
+
+[tab][ch]Am[/ch]        x02210    [ch]C#m7-5[/ch]    x42400    [ch]D/F#[/ch]      2x0235  [ch]G[/ch]         320003
+Am6/E     0342xx    C*        x32013    E7sus4    0202xx  G*        355433[/tab]
+[tab]AmMaj7    x02110    [ch]C9[/ch]        x32003    [ch]Em[/ch]        022000  [ch]G/F#[/ch]      220003
+B7sus4/F# xx4200    Caddb5    x32012    Em*       022003  G11       320013[/tab]
+[ch]Bm11[/ch]      x24430    [ch]Cm[/ch]        x35530    [ch]Em/G[/ch]      xx5400  [ch]D9/F#[/ch]     2x0230
+Bm7add11  x2x230    [ch]Cmaj9/B[/ch]   x20010    [ch]Em9/F#[/ch]    2x2000  [ch]E7[/ch]        xx2434
+[ch]C[/ch]         x32010    [ch]D[/ch]         xx0232    EmAdd9    022002
+
+[tab]                      Bm7add11                                      
+   [ch]Em[/ch]      [ch]Bm11[/ch]   [ch]C[/ch]      |      [ch]Em[/ch]     [ch]Bm11[/ch]   G*     [ch]D/F#[/ch]                
+| |---0--|---0--|---0--|---0--|---0--|---0--|---3--|---5--|
+| |--0-0-|--3-3-|--1-1-|--3-3-|--0-0-|--3-3-|--3-3-|--3-3-|
+|*|-0---0|-4---4|-0---0|-2---2|-0---0|-4---4|-4---4|-2---2|
+|*|------|------|------|------|------|------|------|------|
+| |------|2-----|3-----|2-----|------|2-----|------|------|
+| |0-----|------|------|------|0-----|------|3-----|2-----|[/tab]
+
+[tab]        Caddb5 Em*    EmAdd9
+ [ch]C[/ch]      |  C*     [ch]Em[/ch] |   Em* [ch]C#m7-5[/ch]        [ch]C[/ch]      [ch]Cm[/ch]      
+|---0--|2--3--|3--0--|2--3--|---0--|---0--|---0--|---3--|
+|--1-1-|-1--1-|-0--0-|-0--0-|--0-0-|--0-0-|--1-1-|--4-4-|
+|-0---0|--0--0|--0--0|--0--0|-4---4|-4---4|-0---0|-5---5|
+|------|------|------|------|------|------|------|------|
+|3-----|3--3--|------|------|4-----|4-----|3-----|3-----|
+|------|------|0-----|0--0--|------|------|------|------|[/tab]
+
+
+[tab]---------------------     ---------------
+|1.                       |2.  
+          [ch]Em/G[/ch]
+ [ch]G[/ch]       |  [ch]B7sus4/F#[/ch]     [ch]G[/ch]
+|---3--| |--0---|
+|--0-0-| |-----0|
+|-0---0|*|-4--2-|          Übergang zum geschlagenen Refrain
+|------|*|5--4--|
+|------| |------|
+|3-----| |------|[/tab]
+
+
+[tab]          [ch]Em[/ch]               [ch]Bm11[/ch]
+Wenn dein bester Freund am Ufer steht[/tab]
+    C                    Bm7add11
+Das Schiff geht nicht zurück
+[tab]         [ch]Em[/ch]             [ch]Bm11[/ch]
+Wenn der Wind die Haare so verweht[/tab]
+   G*                D/F#
+Verweht den letzten  Blick
+                 C         Caddb5 C*
+Für wen soll das toll sein
+             Em* Em  EmAdd9 Em*
+Wer gibt dir frei 
+[tab]                [ch]C#m7-5[/ch]  
+Wer macht alles Gute[/tab]
+[tab]                             [ch]C[/ch]
+Und wer macht alles Gute entzwei[/tab]
+[tab][ch]Cm[/ch]                       [ch]G[/ch]   [ch]Em/G[/ch] [ch]B7sus4/F#[/ch]
+Where is the good in goodbye[/tab]
+
+[tab]          [ch]Em[/ch]               [ch]Bm11[/ch]
+Wenn dein bester Freund am Ufer steht[/tab]
+     C                 Bm7Add1
+Wird blasser klein und fern
+[tab]   [ch]Em[/ch]             [ch]Bm11[/ch]
+In deinen Nächten vorwärts geht[/tab]
+    G*             D/F#
+Das Wasser bis zur Stirn
+            C         Caddb5 C*
+Was ist das Ziel hier
+                Em* Em  EmAdd9 Em*
+Was ist schon dabei
+[tab]          [ch]C#m7-5[/ch]
+Finde den Fehler[/tab]
+[tab]          [ch]C[/ch]
+In jedem Detail[/tab]
+[tab][ch]Cm[/ch]                        [ch]G[/ch]   [ch]G11[/ch] [ch]D[/ch] [ch]D9/F#[/ch]        
+Where is the good in goodbye[/tab]
+
+[tab][ch]G[/ch]               [ch]D[/ch]
+Sag mir Sag mir schnell[/tab]
+[tab]         [ch]C[/ch]  
+Wo ist zuhause[/tab]
+[tab]               [ch]G[/ch]
+Von wo wird es hell[/tab]
+[tab]        [ch]Bm7/F#[/ch]  
+Und von wo[/tab]
+        Em   (Em9/F#)   G
+Wird es Tag hier
+[tab]               [ch]Bm7[/ch] 
+Wo kommt der Befehl[/tab]
+[tab][ch]E7[/ch] 
+Maschinen auf  [/tab]
+[tab][ch]C#m7-5[/ch] 
+Pause[/tab]
+[tab]                 [ch]C[/ch]
+Klar zum sinken ahoi[/tab]
+[tab][ch]Cm[/ch]                       [ch]G[/ch]
+Where is the good in goodbye[/tab]
+ 
+[ch]B7[/ch] 
+ 
+                   C     Caddb5 C*
+Kann mir irgendwer sagen
+                     Em*  Em  EmAdd9 Em*
+Was der Plan gewesen sei
+[tab]                [ch]C#m7-5[/ch]
+Macht irgendwas Sinn  Irgendwie irgendwo[/tab]
+[tab]                 [ch]C[/ch]
+Zwischen Rio und Schanghai[/tab]
+[tab][ch]Cm[/ch]                       [ch]G[/ch]    [ch]G11[/ch] [ch]D[/ch] [ch]D9/F#[/ch]
+Where is the good in goodbye[/tab]
+
+[tab]G*              [ch]D[/ch]    [ch]D9/F#[/ch]
+Sag mir Sag mir schnell[/tab]
+[tab]         [ch]C[/ch]  
+Wo ist zuhause[/tab]
+[tab]               [ch]G[/ch]
+Von wo wird es hell[/tab]
+[tab]        [ch]Bm7/F#[/ch]  
+Und von wo[/tab]
+        Em   (Em9/F#)   G
+Wird es Tag hier
+[tab]               [ch]Bm7[/ch] 
+Wo kommt der Befehl[/tab]
+[tab][ch]E7[/ch] 
+Maschinen auf  [/tab]
+[tab][ch]C#m7-5[/ch] 
+Pause[/tab]
+[tab]                 [ch]C[/ch]
+Klar zum sinken ahoi[/tab]
+[tab][ch]Cm[/ch]                       [ch]G[/ch]
+Where is the good in goodbye[/tab]
+
+[tab][ch]G[/ch]    [ch]G/F#[/ch]   [ch]Em7[/ch]   [ch]C9[/ch]                       [ch]G[/ch]            
+Ohhhhoohhooohooo  Where is the good in goodbye[/tab]
+[tab][ch]G[/ch]    [ch]G/F#[/ch]   [ch]Em7[/ch]   [ch]C9[/ch]                       [ch]G[/ch]     
+Ohhhhoohhooohooo  Where is the good in goodbye[/tab]
+[tab]      [ch]G/F#[/ch]   [ch]Em7[/ch]     [ch]C9[/ch]      [ch]Am[/ch]   AmMaj7 [ch]Am7[/ch] [ch]Am6/E[/ch] [ch]E7sus4[/ch] 
+Where is the fucking good in there[/tab]
+
+[tab]        [ch]Em[/ch]            [ch]Bm11[/ch]
+Wenn es einfach immer weiter geht[/tab]
+      C                 Bm7Add11
+Durch Nebel, Schall und Rauch
+[tab]          [ch]Em[/ch]                 [ch]Bm11[/ch]
+Wenn dein bester Freund kein Freund mehr ist[/tab]
+        G*              D/F# 
+Nur ein Loch im Kopf
+[tab]       [ch]D/F#[/ch] 
+Und im Bauch[/tab]
+            C     Caddb5 C*
+Was ist das Ende
+            Em*  Em  EmAdd9 Em*
+Was geht vorbei
+[tab]              [ch]C#m7-5[/ch]
+Ist was dann danach bleibt[/tab]
+[tab]             [ch]C[/ch]   [ch]Cmaj9/B[/ch]  [ch]Am[/ch]    
+Was immer es sei[/tab]
+[tab]                [ch]G[/ch]   [ch]G/F#[/ch]   [ch]Em7[/ch]   [ch]C9[/ch] 
+The good in goodbye[/tab]
+[tab]               [ch]G[/ch]   [ch]G/F#[/ch]   [ch]Em7[/ch]   [ch]C9[/ch]   [ch]G[/ch]
+The good in goodbye[/tab]
+
+-----------------------------------------------------------------------------------
+Tabbed in August 2014.    Hope you enjoy it.  Joern
+Send any corrections or comments to:    MCWZQQGXYUHK@spammotel.com

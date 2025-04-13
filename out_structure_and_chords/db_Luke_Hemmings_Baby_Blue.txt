@@ -43,10 +43,6 @@
         "Fmaj7",
         "Am",
         "C",
-        "Em",
-        "Fmaj7",
-        "Am",
-        "C",
         "Em"
     ],
     "chorus-3": [
@@ -54,6 +50,12 @@
         "Am",
         "C",
         "Em",
+        "Fmaj7",
+        "Am",
+        "C",
+        "Em"
+    ],
+    "instrumental": [
         "Fmaj7",
         "Am",
         "C",

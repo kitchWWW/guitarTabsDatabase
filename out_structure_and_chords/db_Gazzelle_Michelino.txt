@@ -89,7 +89,9 @@
         "C",
         "Am",
         "G",
-        "D",
+        "D"
+    ],
+    "instrumental": [
         "G",
         "D/F#",
         "Em",

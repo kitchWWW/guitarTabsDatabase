@@ -23,7 +23,9 @@
         "Bb",
         "G#",
         "G",
-        "F#",
+        "F#"
+    ],
+    "instrumental": [
         "Bm",
         "G",
         "D",

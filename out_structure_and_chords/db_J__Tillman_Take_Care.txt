@@ -20,9 +20,6 @@
         "Asus",
         "Em",
         "C",
-        "G",
-        "Em",
-        "C",
         "G"
     ],
     "verse-2": [
@@ -37,9 +34,6 @@
         "G",
         "Asus",
         "Em",
-        "Em",
-        "C",
-        "G",
         "Em",
         "C",
         "G"
@@ -75,7 +69,19 @@
         "Em",
         "Em",
         "C",
-        "G",
+        "G"
+    ],
+    "instrumental-1": [
+        "Em",
+        "C",
+        "G"
+    ],
+    "instrumental-2": [
+        "Em",
+        "C",
+        "G"
+    ],
+    "instrumental-3": [
         "Em",
         "C",
         "G"

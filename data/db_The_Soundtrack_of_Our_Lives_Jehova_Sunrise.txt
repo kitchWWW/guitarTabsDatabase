@@ -1,0 +1,123 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-soundtrack-of-our-lives/jehova-sunrise-ukulele-1268326
+Artist: The Soundtrack of Our Lives
+Song: Jehova Sunrise
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+Date: Wed, 27 May 1998 22:52:40 +0100
+From: Oscar Holm &lt;oscar.holm@home.se>
+Subject: s/soundtrack_of_our_lives/jehova_sunrise.crd
+
+Jehovah Sunrise - The Soundtrack of Our Lives
+=================================================
+
+>From their second album "Extended Revelation"
+
+
+transcribed by Hans-Fredrik Enger   e5hans@etek.chalmers.se
+               Hekan Sterner        e5hs@etek.chalmers.se
+
+Chords used:
+
+[ch]C[/ch]     332010
+[ch]C/B[/ch]   x20010
+[ch]Am[/ch]    x02210
+[ch]G[/ch]     320033
+[ch]F[/ch]     133211
+
+Intro:
+------
+
+  [ch]C[/ch]  [ch]Am[/ch]  x3   [ch]G[/ch]   (increase tempo)
+
+[tab][ch]C[/ch]             [ch]G[/ch]     [ch]Am[/ch]          [ch]Am[/ch] [ch]C/B[/ch]
+Waiting for Jehovah Sunrise[/tab]
+
+[tab][ch]C[/ch]           [ch]G[/ch]           [ch]Am[/ch]                [ch]Am[/ch] [ch]C/B[/ch]
+Don't you forget to put on factor #12[/tab]
+
+[tab][ch]C[/ch]             [ch]G[/ch]     [ch]Am[/ch]          [ch]Am[/ch] [ch]C/B[/ch]
+Waiting for Jehovah Sunrise[/tab]
+
+[tab][ch]C[/ch]            [ch]G[/ch]              [ch]Am[/ch]                   [ch]Am[/ch] [ch]C/B[/ch]
+If you'll be long gone I'll pick somebody else[/tab]
+
+
+[tab]Play with bottleneck:
+  [ch]C[/ch]        [ch]G[/ch]       [ch]Am[/ch]    [ch]Am[/ch] [ch]C/B[/ch]   [ch]C[/ch]        [ch]G[/ch]       [ch]Am[/ch]    [ch]Am[/ch] [ch]C[/ch]/[ch]B[/ch]
+e-------------------------------+-----------------------+
+b-------------------------------+-----------------------+
+G-9s12-12-9s12s16--14s16~-------+-9s12-12-9s12-9s7-9s2~-+     x2
+D-------------------------------+-----------------------+
+A-------------------------------+-----------------------+
+E-------------------------------+-----------------------+[/tab]
+
+
+[tab][ch]C[/ch]             [ch]G[/ch]     [ch]Am[/ch]          [ch]Am[/ch] [ch]C/B[/ch]
+Waiting for Jehovah Sunrise[/tab]
+
+[tab][ch]C[/ch]       [ch]G[/ch]      [ch]Am[/ch]                     [ch]Am[/ch] [ch]C/B[/ch]
+I wanna travel in the speed of light[/tab]
+
+[tab][ch]C[/ch]            [ch]G[/ch]     [ch]Am[/ch]           [ch]Am[/ch] [ch]C/B[/ch]
+Achin' for Jehovah Sunrise[/tab]
+
+[tab][ch]C[/ch]          [ch]G[/ch]      [ch]Am[/ch]                  [ch]Am[/ch] [ch]C/B[/ch]
+It's gonna happen in the air tonight[/tab]
+
+
+Bridge:
+-------
+[tab][ch]F[/ch]           [ch]Am[/ch]
+You are the chosen one[/tab]
+
+[tab][ch]F[/ch]         [ch]Am[/ch]
+When everything's gone wrong[/tab]
+
+[tab][ch]F[/ch]         [ch]C[/ch]                     [ch]G[/ch]
+When everything's been said and done[/tab]
+
+[tab][ch]F[/ch]           [ch]Am[/ch]
+You are the chosen one[/tab]
+
+[tab][ch]F[/ch]          [ch]Am[/ch]
+Of all the setting sons[/tab]
+
+[tab][ch]F[/ch]          [ch]C[/ch]            [ch]G[/ch]
+Of all our destiny's to come[/tab]
+
+  [ch]C[/ch] [ch]Am[/ch] x3  [ch]G[/ch]       x2
+
+
+[tab][ch]F[/ch]           [ch]Am[/ch]
+You are the chosen one[/tab]
+
+[tab][ch]F[/ch]         [ch]Am[/ch]
+When everything's gone wrong[/tab]
+
+[tab][ch]F[/ch]         [ch]C[/ch]                     [ch]G[/ch]
+When everything's been said and done[/tab]
+
+[tab][ch]F[/ch]           [ch]Am[/ch]
+You are the chosen one[/tab]
+
+[tab][ch]F[/ch]          [ch]Am[/ch]
+Of all the setting sons[/tab]
+
+[tab][ch]F[/ch]          [ch]C[/ch]            [ch]G[/ch]
+Of all our destiny's to come[/tab]
+
+[tab][ch]C[/ch]             [ch]G[/ch]     [ch]Am[/ch]          [ch]Am[/ch] [ch]C/B[/ch]
+Waiting for Jehovah Sunrise                     x3[/tab]
+
+[tab][ch]C[/ch]           [ch]G[/ch]           [ch]Am[/ch]                [ch]Am[/ch] [ch]C/B[/ch]
+Don't you forget to put on factor #12[/tab]
+
+[tab][ch]C[/ch]           [ch]G[/ch]           [ch]Am[/ch]                [ch]Am[/ch] [ch]C/B[/ch]
+...........................factor #12[/tab]

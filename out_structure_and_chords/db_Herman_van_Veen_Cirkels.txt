@@ -1,0 +1,68 @@
+{
+    "intro": [
+        "Gm6",
+        "A7",
+        "Dm/A"
+    ],
+    "verse-1": [
+        "Dm/A",
+        "A7",
+        "A7",
+        "Dm/A",
+        "D7",
+        "Gm7",
+        "C7",
+        "Fmaj7",
+        "Bbmaj7",
+        "Gm6",
+        "A7",
+        "Abdim",
+        "A7",
+        "Dm/A"
+    ],
+    "verse-2": [
+        "Dm/A",
+        "A7",
+        "A7",
+        "Dm/A",
+        "D7",
+        "Gm7",
+        "C7",
+        "Fmaj7",
+        "Bbmaj7",
+        "Gm6",
+        "A7",
+        "Abdim",
+        "A7",
+        "Dm/A"
+    ],
+    "verse-3": [
+        "Dm/A",
+        "A7",
+        "A7",
+        "Dm/A",
+        "D7",
+        "Gm7",
+        "C7",
+        "Fmaj7",
+        "Bbmaj7",
+        "Gm6",
+        "A7",
+        "Abdim",
+        "A7",
+        "Dm/A"
+    ],
+    "verse-4": [
+        "Dm/A",
+        "A7",
+        "Abdim",
+        "A7",
+        "Dm/A",
+        "A7",
+        "A7",
+        "Dm/A",
+        "Abdim",
+        "A7",
+        "Dm/A"
+    ]
+}

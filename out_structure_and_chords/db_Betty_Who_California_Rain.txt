@@ -1,0 +1,83 @@
+{
+    "intro": [
+        "A"
+    ],
+    "verse-1": [
+        "Dsus2",
+        "Dsus2",
+        "A",
+        "Dsus2",
+        "A",
+        "F#m7"
+    ],
+    "verse-2": [
+        "Dsus2",
+        "A",
+        "Dsus2",
+        "A",
+        "F#m7",
+        "A/C#"
+    ],
+    "chorus-1": [
+        "Dsus2",
+        "A",
+        "F#m7",
+        "Dsus2",
+        "A",
+        "F#m7",
+        "Esus4",
+        "F#m7",
+        "A/C#",
+        "Dsus2",
+        "A"
+    ],
+    "chorus-2": [
+        "Dsus2",
+        "A",
+        "F#m7",
+        "Dsus2",
+        "A",
+        "F#m7",
+        "Esus4",
+        "A/C#",
+        "Dsus2",
+        "A"
+    ],
+    "chorus-3": [
+        "Dsus2",
+        "A",
+        "F#m7",
+        "Dsus2",
+        "A",
+        "F#m7",
+        "Esus4",
+        "Dsus2",
+        "F#m",
+        "E",
+        "Dsus2"
+    ],
+    "instrumental": [
+        "Dsus2",
+        "E",
+        "F#m7",
+        "E/G#",
+        "Dsus2",
+        "Dsus2",
+        "E",
+        "F#m7",
+        "A",
+        "Dsus2",
+        "Dsus2",
+        "E",
+        "F#m7",
+        "E/G#",
+        "A",
+        "Esus4",
+        "Dsus2",
+        "F#m",
+        "E",
+        "Dsus2",
+        "E",
+        "Dsus2"
+    ]
+}

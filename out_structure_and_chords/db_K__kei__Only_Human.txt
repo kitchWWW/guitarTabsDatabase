@@ -85,7 +85,9 @@
         "Am/G",
         "Dm7",
         "G",
-        "C",
+        "C"
+    ],
+    "instrumental-1": [
         "FMaj7",
         "G",
         "Em",
@@ -107,5 +109,6 @@
         "Dm7",
         "G",
         "C"
-    ]
+    ],
+    "instrumental-2": []
 }

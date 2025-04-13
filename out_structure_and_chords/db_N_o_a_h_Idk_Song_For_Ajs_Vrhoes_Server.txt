@@ -54,13 +54,16 @@
         "F",
         "Bb",
         "F",
-        "C",
+        "C"
+    ],
+    "bridge-2": [],
+    "instrumental-1": [
         "F",
         "Bb",
         "F",
         "C"
     ],
-    "bridge-2": [
+    "instrumental-2": [
         "F",
         "Bb",
         "F",

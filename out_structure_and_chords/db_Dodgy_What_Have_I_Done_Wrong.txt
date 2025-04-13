@@ -1,0 +1,28 @@
+{
+    "verse-1": [
+        "G",
+        "D",
+        "C"
+    ],
+    "verse-2": [
+        "G",
+        "D",
+        "C"
+    ],
+    "instrumental": [
+        "Am",
+        "D",
+        "Am",
+        "D",
+        "Am",
+        "D",
+        "Em",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D"
+    ]
+}

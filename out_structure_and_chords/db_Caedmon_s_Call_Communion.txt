@@ -1,4 +1,10 @@
 {
+    "instrumental": [
+        "D",
+        "Bm",
+        "A",
+        "G"
+    ],
     "verse": [
         "D",
         "Bm",

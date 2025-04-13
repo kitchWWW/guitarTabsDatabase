@@ -1,0 +1,58 @@
+{
+    "intro": [
+        "Em7",
+        "Amadd9",
+        "A7sus2",
+        "B7"
+    ],
+    "chorus-1": [
+        "Em",
+        "Bm",
+        "Am",
+        "Em7",
+        "Am",
+        "Em7",
+        "B7",
+        "Em",
+        "Bm",
+        "Am",
+        "Em7",
+        "Am",
+        "Em7",
+        "B7"
+    ],
+    "chorus-2": [
+        "Em",
+        "Bm",
+        "Am",
+        "Em7",
+        "Am",
+        "Em7",
+        "B7",
+        "Em",
+        "Bm",
+        "Am",
+        "Em7",
+        "Am",
+        "Em7",
+        "B7"
+    ],
+    "chorus-3": [
+        "Em",
+        "Bm",
+        "Am",
+        "Em7",
+        "Am",
+        "Em7",
+        "B7",
+        "Em",
+        "Bm",
+        "Am",
+        "Em7",
+        "Am",
+        "Em7",
+        "B7"
+    ],
+    "bridge-1": [],
+    "bridge-2": []
+}

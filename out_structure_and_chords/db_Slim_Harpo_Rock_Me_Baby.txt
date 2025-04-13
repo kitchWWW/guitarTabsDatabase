@@ -32,7 +32,18 @@
         "F",
         "Cm",
         "Bb",
+        "F"
+    ],
+    "verse-3": [
         "F",
+        "Bb",
+        "F",
+        "Ab",
+        "F",
+        "Bb",
+        "F"
+    ],
+    "instrumental": [
         "Cm",
         "F",
         "Bb",
@@ -43,15 +54,6 @@
         "Bb",
         "F",
         "Cm"
-    ],
-    "verse-3": [
-        "F",
-        "Bb",
-        "F",
-        "Ab",
-        "F",
-        "Bb",
-        "F"
     ],
     "bridge": [
         "Cm",

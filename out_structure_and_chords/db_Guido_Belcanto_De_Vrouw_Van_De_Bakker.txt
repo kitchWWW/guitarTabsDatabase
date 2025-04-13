@@ -1,0 +1,85 @@
+{
+    "intro-1": [],
+    "intro-2": [
+        "Dm",
+        "Dm",
+        "Dm",
+        "Dm"
+    ],
+    "verse-1": [
+        "Dm",
+        "Dm",
+        "Gm",
+        "Dm",
+        "A",
+        "Dm"
+    ],
+    "verse-2": [
+        "Dm",
+        "Dm",
+        "Gm",
+        "Dm",
+        "A",
+        "Dm"
+    ],
+    "verse-3": [
+        "Dm",
+        "Dm",
+        "Gm",
+        "Dm",
+        "A",
+        "Dm"
+    ],
+    "verse-4": [
+        "Dm",
+        "Dm",
+        "Gm",
+        "Dm",
+        "A",
+        "Dm"
+    ],
+    "verse-5": [
+        "Dm",
+        "Dm",
+        "Gm",
+        "Dm",
+        "A",
+        "Dm",
+        "C",
+        "Dm",
+        "C",
+        "Dm"
+    ],
+    "chorus-1": [
+        "C",
+        "Dm",
+        "C",
+        "Dm",
+        "C",
+        "Dm",
+        "C",
+        "Dm",
+        "A",
+        "Dm"
+    ],
+    "chorus-2": [
+        "C",
+        "Dm",
+        "C",
+        "Dm",
+        "C",
+        "Dm",
+        "C",
+        "Dm",
+        "A",
+        "Dm"
+    ],
+    "outro": [
+        "C",
+        "Dm",
+        "C",
+        "Dm",
+        "A",
+        "Dm"
+    ]
+}

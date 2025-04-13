@@ -1,0 +1,44 @@
+{
+    "intro": [
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7"
+    ],
+    "chorus-1": [
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7"
+    ],
+    "chorus-2": [
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7"
+    ],
+    "chorus-3": [
+        "CM7",
+        "BbM7",
+        "CM7",
+        "BbM7"
+    ],
+    "outro": [
+        "CM7",
+        "BbM7"
+    ]
+}

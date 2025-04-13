@@ -58,11 +58,6 @@
         "Dm",
         "Dm",
         "G",
-        "Dm",
-        "Dm",
-        "C",
-        "Dm",
-        "G",
         "Dm"
     ],
     "chorus-2": [
@@ -73,6 +68,13 @@
         "Dm",
         "C",
         "Dm",
+        "Dm",
+        "G",
+        "Dm"
+    ],
+    "instrumental": [
+        "Dm",
+        "C",
         "Dm",
         "G",
         "Dm"

@@ -1,0 +1,113 @@
+URL: https://tabs.ultimate-guitar.com/tab/3043371
+Artist: SE SO NEON (새소년)
+Song: 난춘 亂春 Chaotic Spring
+Genre: 
+Key: 
+
+
+[tab][Chords]
+Gbmaj7 x-9-11-10-11-9-|
+Ab/Db x-x-10-8-9-8----|
+Fm7 x-8-10-8-9-8------|
+D#m7 x-6-8-6-7-6------|
+Dbmaj7 x-4-6-5-6-4----|[/tab]
+
+(All get shifted up a half step after the solo)
+
+[tab]Gmaj7 x-10-12-11-12-10-|
+F#m7 x-9-11-9-10-9-----|
+Em7 x-7-9-7-8-7--------|
+Dmaj7 x-5-7-6-7-5------|[/tab]
+
+
+[Intro]
+
+[tab]E|----------------------|----------------------|--------------------------------|
+B|------9--11/13--9--9--|------9--11/13--9--9--|--------------------------------|
+G|--10------------------|--10------------------|--10--8----------8--------------|
+D|----------------------|----------------------|---------11--10-----10----------| x2
+A|----------------------|----------------------|------------------------11--11--|
+E|----------------------|----------------------|--------------------------------|[/tab]
+
+
+[Verse 1]
+[tab][ch]Gbmaj7[/ch]                             [ch]Ab/Db[/ch]
+Geudae naui jag-eun simjang-e gwi giul-il ttaee[/tab]
+[tab][ch]Gbmaj7[/ch]                               [ch]Ab/Db[/ch]
+Ib-eul kkog majchueo nae sum-eul gajyeogado dwaeyo[/tab]
+
+[Bridge]
+
+[tab]          [ch]Gbmaj7[/ch]
+Jeomuneun achim-e sogsag-ineun sum[/tab]
+[tab]             [ch]Ab/Db[/ch]
+Yeonglonghan dalbich-e goelobhineun kkum[/tab]
+[tab]                    [ch]Gbmaj7[/ch]
+Ne nun-eul dalm-eun salang, geu an-e jineun gyejeol[/tab]
+[tab]             [ch]Ab/Db[/ch]
+Padoboda deo geochilge naelichineun[/tab]
+
+
+[Chorus]
+[tab]            [ch]Gbmaj7[/ch]
+O geudaeyeo buseojijima[/tab]
+[tab]             [ch]Fm7[/ch]       [ch]D#m7[/ch]   [ch]Dbmaj7[/ch]
+Balamsaeneun changteul-e neon chuwojijima[/tab]
+[tab]      [ch]Gbmaj7[/ch]
+Iliwa naleul kkog anja[/tab]
+[tab]               [ch]Fm7[/ch]  [ch]D#m7[/ch] [ch]Dbmaj7[/ch]
+Oneul-eul sal-anaego uli naeillo gaja[/tab]
+
+[Verse 2]
+[tab][ch]Gbmaj7[/ch]                            [ch]Ab/Db[/ch]
+Naega neoui jag-eun simjang-e gwi giul-il ttaee[/tab]
+[tab][ch]Gbmaj7[/ch]                       [ch]Ab/Db[/ch]
+Ib-eul kkog majchueo eojee dochaghaessseubnida[/tab]
+
+
+[Solo]
+
+[tab]E|-------------9--------|--11/13--11--9--8---------|-------------9--------|--11/13--11--9--8-----------|
+B|------9--11-----9h11--|-------------------9------|------9--11-----9h11--|----------------------9-----|
+G|--10------------------|----------------------10--|--10------------------|----------------------------|
+D|----------------------|--------------------------|----------------------|----------------------------|
+A|----------------------|--------------------------|----------------------|----------------------------|
+E|----------------------|--------------------------|----------------------|----------------------------|[/tab]
+
+[tab]E|--------------10---------|--12/14--12--10--9----------|--------------10---------|--12/14--12--10--9--|
+B|------10--12------10h12--|--------------------10------|------10--12------10h12--|--------------------|
+G|--11---------------------|------------------------11--|--11---------------------|--------------------|
+D|-------------------------|----------------------------|-------------------------|--------------------|
+A|-------------------------|----------------------------|-------------------------|--------------------|
+E|-------------------------|----------------------------|-------------------------|--------------------|[/tab]
+
+
+[Chorus 2]
+[tab]  [ch]Gmaj7[/ch]
+O geudaeyeo buseojijima[/tab]
+[tab]             [ch]F#m7[/ch]      [ch]Em7[/ch]    [ch]Dmaj7[/ch]
+Balamsaeneun changteul-e neon chuwojijima[/tab]
+[tab]      [ch]Gmaj7[/ch]
+Iliwa naleul kkog anja[/tab]
+[tab]                         [ch]Dmaj7[/ch]
+Oneul-eul sal-anaego uli naeillo gaja[/tab]
+[tab]          [ch]Gmaj7[/ch]
+Geudaeyeo buseojijima[/tab]
+[tab]             [ch]F#m7[/ch]     [ch]Em7[/ch]     [ch]Dmaj7[/ch]
+Balamsaeneun changteul-e neon chuwojijima[/tab]
+[tab]      [ch]Gmaj7[/ch]
+Iliwa naleul kkog anja[/tab]
+[tab]                         [ch]Dmaj7[/ch]
+Oneul-eul sal-anaego uli naeillo gaja[/tab]
+
+
+
+
+
+************************************
+
+| x  Dead note
+| /  Slide up
+| h  Hammer-on
+
+************************************

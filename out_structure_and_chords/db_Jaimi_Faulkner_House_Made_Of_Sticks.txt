@@ -87,7 +87,9 @@
         "Bm",
         "Bm",
         "Bm",
-        "Bm",
+        "Bm"
+    ],
+    "instrumental": [
         "A",
         "D",
         "A",

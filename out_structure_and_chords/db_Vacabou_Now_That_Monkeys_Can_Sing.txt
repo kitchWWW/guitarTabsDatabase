@@ -184,7 +184,9 @@
         "C",
         "Am",
         "Em",
-        "Am",
+        "Am"
+    ],
+    "instrumental": [
         "Em",
         "E",
         "C",

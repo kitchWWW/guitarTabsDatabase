@@ -66,12 +66,14 @@
         "Ab",
         "Eb",
         "Bb",
-        "Ab",
+        "Ab"
+    ],
+    "solo": [
         "Eb",
         "Bb",
         "Ab"
     ],
-    "solo": [
+    "instrumental": [
         "Eb",
         "Bb",
         "Ab"

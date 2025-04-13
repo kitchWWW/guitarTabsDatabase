@@ -37,10 +37,7 @@
         "F#",
         "C#m",
         "G",
-        "A",
-        "Bm",
-        "G",
-        "E"
+        "A"
     ],
     "chorus-2": [
         "Bm",
@@ -56,14 +53,21 @@
         "A",
         "G"
     ],
+    "instrumental-1": [
+        "Bm",
+        "G",
+        "E"
+    ],
+    "instrumental-2": [
+        "Bm",
+        "G",
+        "E"
+    ],
     "bridge": [
         "A",
         "E",
         "G",
         "A",
-        "E",
-        "Bm",
-        "G",
         "E"
     ],
     "outro": [

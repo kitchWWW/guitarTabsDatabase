@@ -43,11 +43,6 @@
         "C#m7",
         "Dm7",
         "DM7",
-        "Dm7",
-        "AM7",
-        "Bm7",
-        "C#m7",
-        "DM7",
         "Dm7"
     ],
     "chorus-2": [
@@ -74,11 +69,7 @@
         "C#m7",
         "Dm7",
         "DM7",
-        "Dm7",
-        "AM7",
-        "F#m7",
-        "Bm7",
-        "E"
+        "Dm7"
     ],
     "chorus-3": [
         "DM7",
@@ -105,6 +96,19 @@
         "Dm7",
         "DM7",
         "Dm7"
+    ],
+    "instrumental-1": [
+        "AM7",
+        "Bm7",
+        "C#m7",
+        "DM7",
+        "Dm7"
+    ],
+    "instrumental-2": [
+        "AM7",
+        "F#m7",
+        "Bm7",
+        "E"
     ],
     "outro": [
         "AM7",

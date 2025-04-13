@@ -70,7 +70,22 @@
         "Am",
         "Asus2",
         "Am",
-        "Asus4",
+        "Asus4"
+    ],
+    "chorus-3": [
+        "G",
+        "C",
+        "G",
+        "Am",
+        "G",
+        "C",
+        "G",
+        "Am",
+        "Asus2",
+        "Am",
+        "Asus4"
+    ],
+    "instrumental": [
         "C",
         "G",
         "Am",
@@ -88,19 +103,6 @@
         "C",
         "G",
         "Am"
-    ],
-    "chorus-3": [
-        "G",
-        "C",
-        "G",
-        "Am",
-        "G",
-        "C",
-        "G",
-        "Am",
-        "Asus2",
-        "Am",
-        "Asus4"
     ],
     "outro": [
         "Em",

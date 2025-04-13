@@ -101,11 +101,13 @@
         "Am",
         "Em",
         "Am",
-        "Em",
-        "F",
+        "Em"
+    ],
+    "bridge": [
+        "B",
+        "B",
         "Dm",
-        "Am",
-        "Em",
+        "Dm",
         "Am",
         "Em",
         "Am",
@@ -115,11 +117,11 @@
         "Am",
         "Em"
     ],
-    "bridge": [
-        "B",
-        "B",
+    "instrumental": [
+        "F",
         "Dm",
-        "Dm",
+        "Am",
+        "Em",
         "Am",
         "Em",
         "Am",

@@ -42,10 +42,7 @@
         "C",
         "F",
         "C",
-        "F",
-        "C",
-        "Am",
-        "A#Maj7"
+        "F"
     ],
     "chorus-2": [
         "C",
@@ -63,7 +60,14 @@
         "C",
         "F",
         "C",
-        "F",
+        "F"
+    ],
+    "instrumental-1": [
+        "C",
+        "Am",
+        "A#Maj7"
+    ],
+    "instrumental-2": [
         "C",
         "Am",
         "A#Maj7"

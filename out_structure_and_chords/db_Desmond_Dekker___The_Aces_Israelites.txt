@@ -42,19 +42,7 @@
         "C7#9",
         "Dm9",
         "Bb",
-        "Db",
-        "C",
-        "Db",
-        "Bbm",
-        "C",
-        "Db",
-        "Bbm",
-        "C",
-        "Db",
-        "Bbm",
-        "C",
-        "Db",
-        "F"
+        "Db"
     ],
     "verse-5": [
         "Bb",
@@ -87,6 +75,20 @@
         "Dm9",
         "Bb",
         "Bb7"
+    ],
+    "instrumental": [
+        "C",
+        "Db",
+        "Bbm",
+        "C",
+        "Db",
+        "Bbm",
+        "C",
+        "Db",
+        "Bbm",
+        "C",
+        "Db",
+        "F"
     ],
     "outro": [
         "C7#9",

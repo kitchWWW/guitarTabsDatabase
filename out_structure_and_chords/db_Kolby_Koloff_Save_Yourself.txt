@@ -20,10 +20,6 @@
         "F",
         "Gm7",
         "Bb",
-        "Bb",
-        "F",
-        "Gm7",
-        "Bb",
         "Bb"
     ],
     "chorus-2": [
@@ -56,6 +52,12 @@
         "Bb",
         "F",
         "Gm7",
+        "Bb"
+    ],
+    "instrumental": [
+        "F",
+        "Gm7",
+        "Bb",
         "Bb"
     ],
     "bridge": [

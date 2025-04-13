@@ -35,17 +35,7 @@
         "Am",
         "D",
         "Dm",
-        "E",
-        "Dm",
-        "Fmaj7",
-        "Am",
-        "G#dim",
-        "Dm",
-        "Fmaj7",
-        "Am",
-        "E",
-        "Dm",
-        "G#dim"
+        "E"
     ],
     "verse-3": [
         "Dm",
@@ -88,6 +78,18 @@
         "D",
         "Dm",
         "Ddim/Ab"
+    ],
+    "instrumental": [
+        "Dm",
+        "Fmaj7",
+        "Am",
+        "G#dim",
+        "Dm",
+        "Fmaj7",
+        "Am",
+        "E",
+        "Dm",
+        "G#dim"
     ],
     "outro": [
         "Dm",

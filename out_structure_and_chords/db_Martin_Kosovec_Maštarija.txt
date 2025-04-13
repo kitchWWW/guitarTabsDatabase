@@ -65,15 +65,7 @@
         "A",
         "Bbmaj7",
         "C",
-        "F",
-        "Dm",
-        "Gm",
-        "C",
-        "F",
-        "Dm7",
-        "Gm",
-        "A",
-        "Dm"
+        "F"
     ],
     "chorus-2": [
         "Dm",
@@ -104,7 +96,19 @@
         "Bbmaj7",
         "C",
         "C7",
+        "F"
+    ],
+    "instrumental-1": [
+        "Dm",
+        "Gm",
+        "C",
         "F",
+        "Dm7",
+        "Gm",
+        "A",
+        "Dm"
+    ],
+    "instrumental-2": [
         "Dm",
         "Gm",
         "C",

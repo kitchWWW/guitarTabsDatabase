@@ -91,11 +91,6 @@
         "E5",
         "Emaj7",
         "Aadd9",
-        "Badd11",
-        "C#m",
-        "Bsus4",
-        "Badd11",
-        "Aadd9",
         "Badd11"
     ],
     "chorus-2": [
@@ -112,6 +107,13 @@
         "Aadd9",
         "Badd11",
         "C#m"
+    ],
+    "instrumental": [
+        "C#m",
+        "Bsus4",
+        "Badd11",
+        "Aadd9",
+        "Badd11"
     ],
     "outro": [
         "Badd11",

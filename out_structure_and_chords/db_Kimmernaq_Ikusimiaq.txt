@@ -63,18 +63,20 @@
         "B7",
         "Am7",
         "B7",
-        "Em/B",
-        "Em/B",
-        "C",
-        "Em/B",
-        "B7",
-        "Cdim",
-        "B7"
+        "Em/B"
     ],
     "bridge-2": [
         "Am7",
         "B7",
         "Am7",
+        "B7"
+    ],
+    "instrumental": [
+        "Em/B",
+        "C",
+        "Em/B",
+        "B7",
+        "Cdim",
         "B7"
     ],
     "chorus": [

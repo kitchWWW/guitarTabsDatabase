@@ -24,12 +24,7 @@
         "E",
         "F",
         "Gadd11",
-        "Am",
-        "Am",
-        "F",
-        "Dm",
-        "Am",
-        "E"
+        "Am"
     ],
     "verse-2": [
         "A",
@@ -49,7 +44,16 @@
         "E",
         "F",
         "Gadd11",
+        "Am"
+    ],
+    "instrumental-1": [
         "Am",
+        "F",
+        "Dm",
+        "Am",
+        "E"
+    ],
+    "instrumental-2": [
         "Am",
         "F",
         "Dm",

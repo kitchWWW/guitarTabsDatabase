@@ -73,14 +73,6 @@
         "A/C#",
         "C",
         "D/C",
-        "Csus2",
-        "Em",
-        "G",
-        "C",
-        "Csus2",
-        "Emadd9",
-        "Gmaj7",
-        "C",
         "Csus2"
     ],
     "chorus-3": [
@@ -100,5 +92,15 @@
         "D/C",
         "Csus2",
         "Em"
+    ],
+    "instrumental": [
+        "Em",
+        "G",
+        "C",
+        "Csus2",
+        "Emadd9",
+        "Gmaj7",
+        "C",
+        "Csus2"
     ]
 }

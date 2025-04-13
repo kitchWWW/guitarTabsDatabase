@@ -52,11 +52,7 @@
         "D",
         "Em7",
         "Cadd9",
-        "G",
-        "G",
-        "Asus",
-        "Em",
-        "C"
+        "G"
     ],
     "chorus-2": [
         "Em7",
@@ -73,15 +69,7 @@
         "D",
         "Em7",
         "Cadd9",
-        "G",
-        "D",
-        "Em7",
-        "D",
-        "Cadd9",
-        "D",
-        "Em7",
-        "D",
-        "Cadd9"
+        "G"
     ],
     "chorus-3": [
         "Em7",
@@ -103,7 +91,25 @@
         "D",
         "Em7",
         "Cadd9",
+        "G"
+    ],
+    "instrumental-1": [
         "G",
+        "Asus",
+        "Em",
+        "C"
+    ],
+    "instrumental-2": [
+        "D",
+        "Em7",
+        "D",
+        "Cadd9",
+        "D",
+        "Em7",
+        "D",
+        "Cadd9"
+    ],
+    "instrumental-3": [
         "G",
         "Asus",
         "Em7",

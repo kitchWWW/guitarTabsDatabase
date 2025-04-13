@@ -1,4 +1,12 @@
 {
+    "instrumental": [
+        "D",
+        "A",
+        "Bm",
+        "G",
+        "Em",
+        "F#m"
+    ],
     "intro": [
         "D",
         "A",

@@ -43,18 +43,20 @@
         "G",
         "Am",
         "G",
-        "Am",
-        "Am",
-        "E7",
-        "Am",
-        "E7",
-        "Am",
+        "Am"
+    ],
+    "chorus-4": [
         "G",
         "Am",
         "G",
         "Am"
     ],
-    "chorus-4": [
+    "instrumental": [
+        "Am",
+        "E7",
+        "Am",
+        "E7",
+        "Am",
         "G",
         "Am",
         "G",

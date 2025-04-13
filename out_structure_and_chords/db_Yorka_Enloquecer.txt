@@ -1,5 +1,5 @@
 {
-    "coro-1": [
+    "chorus-1": [
         "Cmaj7",
         "Baug",
         "Cmaj7",
@@ -21,7 +21,7 @@
         "Baug",
         "Cmaj7"
     ],
-    "coro-2": [
+    "chorus-2": [
         "Cmaj7",
         "Baug",
         "Cmaj7",
@@ -59,7 +59,7 @@
         "Baug",
         "Cmaj7"
     ],
-    "coro-3": [
+    "chorus-3": [
         "Cmaj7",
         "Baug",
         "Cmaj7",

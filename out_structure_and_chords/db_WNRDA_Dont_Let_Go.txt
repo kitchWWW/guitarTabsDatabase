@@ -44,9 +44,7 @@
         "Eb7",
         "Fm",
         "Abmaj7",
-        "Abm6",
-        "Ebmaj9",
-        "Bbsus4"
+        "Abm6"
     ],
     "chorus-2": [
         "Abmaj7",
@@ -64,5 +62,9 @@
         "Fm",
         "Abmaj7",
         "Abm6"
+    ],
+    "instrumental": [
+        "Ebmaj9",
+        "Bbsus4"
     ]
 }

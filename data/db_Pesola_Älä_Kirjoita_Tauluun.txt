@@ -1,0 +1,100 @@
+URL: https://tabs.ultimate-guitar.com/tab/3002909
+Artist: Pesola
+Song: Älä Kirjoita Tauluun
+Genre: 
+Key: G
+
+
+[Intro]
+
+[ch]G[/ch] [ch]D[/ch]
+[ch]G[/ch] [ch]D[/ch]
+
+[Verse 1]
+
+[tab][ch]G[/ch]            [ch]D[/ch]          [ch]C[/ch]            [ch]D[/ch]          [ch]G[/ch]  [ch]D[/ch]  [ch]C[/ch]
+  Olin aivan pieni, kun jouduin ulos tähän maailmaan.[/tab]
+[tab][ch]G[/ch]       [ch]D[/ch]            [ch]C[/ch]            [ch]D[/ch]        [ch]G[/ch]  [ch]D[/ch]
+  Tyhjä taulu täynnä kaikenlaista ihan sekavaa.[/tab]
+[tab][ch]C[/ch]        [ch]G[/ch]      [ch]C[/ch]            [ch]G[/ch]    [ch]C[/ch]            [ch]G[/ch]
+Oi luoja kuinka - pystyn lukemaan näkymättömän tekstin,[/tab]
+[tab][ch]D[/ch]          [ch]C[/ch]         [ch]G[/ch]         [ch]D[/ch]
+jonka joku kirjoitti minuun.[/tab]
+
+[tab][ch]G[/ch]           [ch]D[/ch]           [ch]C[/ch]            [ch]D[/ch]            [ch]G[/ch]     [ch]D[/ch]  [ch]C[/ch]
+ Oi varjele kättä, joka liitua ohjaa pitkin uutta pintaa.[/tab]
+[tab][ch]G[/ch]           [ch]D[/ch]              [ch]C[/ch]        [ch]D[/ch]             [ch]G[/ch]    [ch]D[/ch]
+ Se on niin liukas, siihen on liian helppo kirjoittaa.[/tab]
+[tab][ch]C[/ch]              [ch]G[/ch]    [ch]C[/ch]             [ch]G[/ch]        [ch]C[/ch]         [ch]G[/ch]
+Ei sanat lähde pois, pyyhin niitä turhaan. Näkymätön teksti,[/tab]
+[tab]      [ch]D[/ch]            [ch]C[/ch]               [ch]G[/ch]
+eihän kukaan pysty sellaista poistamaan.[/tab]
+
+[Chorus]
+[tab][ch]C[/ch]         [ch]G[/ch]           [ch]D[/ch]     [ch]Em[/ch]         [ch]C[/ch]
+ On aivan selvää mikä on epäselvää, se on[/tab]
+[tab]            [ch]G[/ch]           [ch]D[/ch]
+kaikki mitä ympärilläin on.[/tab]
+[tab][ch]C[/ch]          [ch]G[/ch]          [ch]D[/ch]     [ch]Em[/ch]         [ch]C[/ch]
+ On aivan selvää mikä on epäselvää, se on[/tab]
+[tab]            [ch]G[/ch]         [ch]D[/ch]
+kaikki mitä sisälläni on.[/tab]
+
+[Interlude]
+[ch]G[/ch]  [ch]D[/ch]
+
+[Verse 2]
+[tab][ch]G[/ch]         [ch]D[/ch]          [ch]C[/ch]            [ch]D[/ch]           [ch]G[/ch]   [ch]D[/ch]   [ch]C[/ch]
+  Onko se totta, jos kerron miten asiat pitäs olla?[/tab]
+[tab][ch]G[/ch]           [ch]D[/ch]            [ch]C[/ch]          [ch]D[/ch]         [ch]G[/ch]   [ch]D[/ch]
+  Ei se ole totta, se on vain minun mielipiteeni.[/tab]
+[tab][ch]C[/ch]            [ch]G[/ch]     [ch]Am[/ch]         [ch]G[/ch]
+  Oi varjele muita mielipiteiltäni.[/tab]
+[tab][ch]Am[/ch]                 [ch]G[/ch]      [ch]D[/ch]                [ch]C[/ch]         [ch]G[/ch]
+  En tahdo tauluja sotkee lauseilla, jotka imeytyvät pintaan.[/tab]
+
+[Chorus]
+[tab][ch]C[/ch]         [ch]G[/ch]           [ch]D[/ch]     [ch]Em[/ch]         [ch]C[/ch]
+ On aivan selvää mikä on epäselvää, se on[/tab]
+[tab]            [ch]G[/ch]           [ch]D[/ch]
+kaikki mitä ympärilläin on.[/tab]
+[tab][ch]C[/ch]          [ch]G[/ch]          [ch]D[/ch]     [ch]Em[/ch]         [ch]C[/ch]
+ On aivan selvää mikä on epäselvää, se on[/tab]
+[tab]            [ch]G[/ch]         [ch]D[/ch]    [ch]G[/ch]
+kaikki mitä sisälläni on.[/tab]
+
+[Bridge]
+[ch]C[/ch]   [ch]G[/ch]   [ch]F[/ch]  [ch]Am[/ch]
+[ch]C[/ch]   [ch]G[/ch]   [ch]F[/ch]  [ch]Am[/ch]
+
+[Verse]
+[tab][ch]G[/ch]               [ch]D[/ch]
+  Hyvä mies ota kiinni mistä saat,[/tab]
+[tab]    [ch]Am[/ch]            [ch]C[/ch]                   [ch]Am[/ch]
+älä koskaan luovu toivosta saada parempaa.[/tab]
+[tab][ch]G[/ch]                      [ch]D[/ch]
+Et koskaan tiedä kenen kanssa sä sen jaat,[/tab]
+[tab]      [ch]Am[/ch]               [ch]C[/ch]          [ch]Am[/ch]
+katso sitä tarkkaan se ehkä kannattaa.[/tab]
+
+[Interlude]
+[ch]C[/ch]   [ch]G[/ch]   [ch]F[/ch]  [ch]Am[/ch]
+
+[Chorus]
+[tab]                            [ch]Em[/ch]         [ch]C[/ch]
+ On aivan selvää mikä on epäselvää, se on[/tab]
+[tab]            [ch]G[/ch]           [ch]D[/ch]
+kaikki mitä ympärilläin on.[/tab]
+[tab][ch]C[/ch]          [ch]G[/ch]          [ch]D[/ch]     [ch]Em[/ch]         [ch]C[/ch]
+ On aivan selvää mikä on epäselvää, se on[/tab]
+[tab]            [ch]G[/ch]         [ch]D[/ch]    [ch]G[/ch]
+kaikki mitä sisälläni on.[/tab]
+
+[tab][ch]C[/ch]         [ch]G[/ch]           [ch]D[/ch]     [ch]Em[/ch]         [ch]C[/ch]
+ On aivan selvää mikä on epäselvää, se on[/tab]
+[tab]            [ch]G[/ch]           [ch]D[/ch]
+kaikki mitä ympärilläin on.[/tab]
+[tab][ch]C[/ch]          [ch]G[/ch]          [ch]D[/ch]     [ch]Em[/ch]         [ch]C[/ch]
+ On aivan selvää mikä on epäselvää, se on[/tab]
+[tab]            [ch]G[/ch]         [ch]D[/ch]    [ch]G[/ch]
+kaikki mitä sisälläni on.[/tab]

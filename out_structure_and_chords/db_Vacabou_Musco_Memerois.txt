@@ -91,7 +91,9 @@
         "E",
         "Am",
         "Am",
-        "Am",
+        "Am"
+    ],
+    "instrumental": [
         "Am",
         "G",
         "Gm",

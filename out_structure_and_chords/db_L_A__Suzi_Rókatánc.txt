@@ -104,7 +104,20 @@
         "Bb",
         "F",
         "Gm",
+        "Dm"
+    ],
+    "chorus-2": [
+        "Gm",
         "Dm",
+        "Gm",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Gm",
+        "Dm"
+    ],
+    "instrumental-1": [
         "Dm",
         "F",
         "A",
@@ -130,16 +143,7 @@
         "A",
         "Dm"
     ],
-    "chorus-2": [
-        "Gm",
-        "Dm",
-        "Gm",
-        "F",
-        "C",
-        "Bb",
-        "F",
-        "Gm",
-        "Dm",
+    "instrumental-2": [
         "Dm",
         "Bb",
         "A",

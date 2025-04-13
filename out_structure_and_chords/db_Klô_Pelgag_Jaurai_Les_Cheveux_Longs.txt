@@ -65,20 +65,7 @@
         "F",
         "Abmaj7",
         "Fsus4",
-        "F",
-        "Abmaj7",
-        "Cm",
-        "Csus2",
-        "Bbsus4",
-        "Fsus4",
-        "F",
-        "Abmaj7",
-        "Cm",
-        "Csus2",
-        "Bbsus4",
-        "Fsus4",
-        "F",
-        "Abmaj7"
+        "F"
     ],
     "outro-1": [],
     "outro-2": [
@@ -120,7 +107,25 @@
         "Bb",
         "F",
         "Abmaj7",
-        "C7sus2",
+        "C7sus2"
+    ],
+    "instrumental-1": [],
+    "instrumental-2": [
+        "Abmaj7",
+        "Cm",
+        "Csus2",
+        "Bbsus4",
+        "Fsus4",
+        "F",
+        "Abmaj7",
+        "Cm",
+        "Csus2",
+        "Bbsus4",
+        "Fsus4",
+        "F",
+        "Abmaj7"
+    ],
+    "instrumental-3": [
         "Gm",
         "Abmaj7sus2",
         "Eb",

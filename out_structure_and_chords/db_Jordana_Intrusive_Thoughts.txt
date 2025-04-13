@@ -1,0 +1,38 @@
+{
+    "verse-1": [
+        "Cadd9",
+        "Cadd9",
+        "Cadd9",
+        "Cadd9",
+        "Cadd9",
+        "Cadd9",
+        "Cadd9",
+        "Cadd9"
+    ],
+    "verse-2": [
+        "Cadd9",
+        "F",
+        "Cadd9",
+        "Cadd9",
+        "F",
+        "Cadd9",
+        "Cadd9",
+        "F",
+        "Cadd9",
+        "Cadd9",
+        "F",
+        "Cadd9"
+    ],
+    "chorus-1": [
+        "D",
+        "Cadd9",
+        "D",
+        "Cadd9"
+    ],
+    "chorus-2": [
+        "D",
+        "Cadd9",
+        "D",
+        "Cadd9"
+    ]
+}

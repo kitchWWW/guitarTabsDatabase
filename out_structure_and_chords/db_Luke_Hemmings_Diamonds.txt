@@ -49,7 +49,9 @@
         "G",
         "Am",
         "F",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "C",
         "Am",
         "F",

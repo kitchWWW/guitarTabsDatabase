@@ -55,14 +55,6 @@
         "Fmaj7",
         "G",
         "C",
-        "C",
-        "C",
-        "Em",
-        "Fmaj7",
-        "C",
-        "Fmaj7",
-        "G",
-        "C",
         "C"
     ],
     "chorus-2": [
@@ -85,7 +77,19 @@
         "Fmaj7",
         "G",
         "C",
+        "C"
+    ],
+    "instrumental-1": [
         "C",
+        "Em",
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "G",
+        "C",
+        "C"
+    ],
+    "instrumental-2": [
         "G",
         "G",
         "Fmaj7",

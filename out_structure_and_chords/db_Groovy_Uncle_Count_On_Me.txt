@@ -6,6 +6,7 @@
     "chorus-1": [],
     "chorus-2": [],
     "chorus-3": [],
+    "instrumental": [],
     "bridge-1": [],
     "bridge-2": []
 }

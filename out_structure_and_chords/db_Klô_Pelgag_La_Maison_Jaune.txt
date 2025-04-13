@@ -21,11 +21,7 @@
         "Fm",
         "Cm",
         "Abadd9",
-        "Bbadd9",
-        "Fm",
-        "Cm",
-        "Ab",
-        "Bb"
+        "Bbadd9"
     ],
     "verse-2": [
         "Fm",
@@ -43,7 +39,15 @@
         "Fm",
         "Cm",
         "Abadd9",
-        "Bbadd9",
+        "Bbadd9"
+    ],
+    "instrumental-1": [
+        "Fm",
+        "Cm",
+        "Ab",
+        "Bb"
+    ],
+    "instrumental-2": [
         "Fm",
         "Cm",
         "Ab",

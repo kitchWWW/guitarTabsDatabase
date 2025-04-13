@@ -63,7 +63,23 @@
         "Em",
         "D/F#",
         "Cmaj7",
+        "G"
+    ],
+    "chorus-2": [
+        "Cmaj7",
+        "D/F#",
+        "Em",
+        "D/F#",
+        "Cmaj7",
         "G",
+        "Cmaj7",
+        "D/F#",
+        "Em",
+        "D/F#",
+        "Cmaj7",
+        "G"
+    ],
+    "instrumental": [
         "Cmaj7",
         "D/F#",
         "Em",
@@ -79,20 +95,6 @@
         "Bm7",
         "D/F#",
         "G",
-        "G"
-    ],
-    "chorus-2": [
-        "Cmaj7",
-        "D/F#",
-        "Em",
-        "D/F#",
-        "Cmaj7",
-        "G",
-        "Cmaj7",
-        "D/F#",
-        "Em",
-        "D/F#",
-        "Cmaj7",
         "G"
     ]
 }

@@ -49,11 +49,6 @@
         "Gb",
         "Dbm",
         "Ab",
-        "Eb",
-        "Bb",
-        "Gb",
-        "Dbm",
-        "Ab",
         "Eb"
     ],
     "chorus-3": [
@@ -69,6 +64,15 @@
         "Gb",
         "Dbm",
         "Ab",
+        "Eb"
+    ],
+    "instrumental-1": [
+        "Bb",
+        "Gb",
+        "Dbm",
+        "Ab"
+    ],
+    "instrumental-2": [
         "Eb"
     ],
     "outro": [

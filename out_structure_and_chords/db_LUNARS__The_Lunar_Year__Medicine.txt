@@ -131,7 +131,9 @@
         "Em",
         "D",
         "C",
-        "D",
+        "D"
+    ],
+    "instrumental": [
         "Em",
         "D",
         "C",

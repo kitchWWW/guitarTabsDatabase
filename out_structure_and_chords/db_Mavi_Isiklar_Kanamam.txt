@@ -50,15 +50,6 @@
         "D",
         "C",
         "G",
-        "Em",
-        "Em",
-        "Am",
-        "B",
-        "Em",
-        "Em",
-        "Am",
-        "B7",
-        "Em",
         "Em"
     ],
     "chorus-4": [
@@ -92,6 +83,17 @@
         "Em",
         "Em",
         "B",
+        "Em"
+    ],
+    "instrumental": [
+        "Em",
+        "Am",
+        "B",
+        "Em",
+        "Em",
+        "Am",
+        "B7",
+        "Em",
         "Em"
     ]
 }

@@ -83,11 +83,6 @@
         "Cm",
         "Fm",
         "Ab",
-        "Eb",
-        "Ab",
-        "Bb",
-        "Fm",
-        "Cm",
         "Eb"
     ],
     "chorus-3": [
@@ -124,6 +119,13 @@
         "Cm",
         "Fm",
         "Ab",
+        "Eb"
+    ],
+    "instrumental": [
+        "Ab",
+        "Bb",
+        "Fm",
+        "Cm",
         "Eb"
     ],
     "bridge": [

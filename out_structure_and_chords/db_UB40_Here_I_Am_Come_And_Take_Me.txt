@@ -70,20 +70,6 @@
         "Eb",
         "Ab",
         "Eb",
-        "Fm",
-        "Ab",
-        "Db",
-        "Bbm",
-        "Bb",
-        "Fm",
-        "Eb",
-        "Fm",
-        "Ab",
-        "Db",
-        "Bbm",
-        "Bb",
-        "Fm",
-        "Eb",
         "Fm"
     ],
     "chorus-3": [
@@ -126,5 +112,21 @@
         "Ab",
         "Eb",
         "Ab"
+    ],
+    "instrumental": [
+        "Ab",
+        "Db",
+        "Bbm",
+        "Bb",
+        "Fm",
+        "Eb",
+        "Fm",
+        "Ab",
+        "Db",
+        "Bbm",
+        "Bb",
+        "Fm",
+        "Eb",
+        "Fm"
     ]
 }

@@ -35,7 +35,9 @@
         "G",
         "E",
         "Am",
-        "Cm",
+        "Cm"
+    ],
+    "instrumental-1": [
         "G",
         "E",
         "Am",
@@ -45,6 +47,7 @@
         "Am",
         "Cm"
     ],
+    "instrumental-2": [],
     "outro": [
         "G5",
         "A5",

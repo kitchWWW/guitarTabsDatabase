@@ -73,5 +73,6 @@
         "F#m",
         "B",
         "E"
-    ]
+    ],
+    "instrumental": []
 }

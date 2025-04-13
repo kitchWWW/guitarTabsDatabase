@@ -1,0 +1,65 @@
+URL: https://tabs.ultimate-guitar.com/tab/1703321
+Artist: Les Rallizes Dénudés
+Song: Night Of The Assassins
+Genre: 
+Key: A
+
+
+Les Rallizes Denudes - Heavier than a Death in the Family
+
+Tabbed by: Oziel Esparza
+email: oclictis1@gmail.com
+Artist: Les Rallizes Denudes
+Song: Night of the Assassins
+Album: Heavier than a Death in the Family
+
+Tuning: Standard
+CAPO: None
+
+[tab][Verse]
+   A                             F#m
+G|---------------------------------------------------------------------------|
+D|--------------|---------------|--------------|-----------------------------|
+A|-5-5----5-5---|5-5----5---5-4-|2-2-----2-2---|2-2-----2---2/4-----REPEAT---|
+E|------5------5------5---5------------2------2-------2---2------------------|[/tab]
+
+[tab]A variation
+   A                             F#m
+G|---------------------------------------------------------------------------|
+D|--------------|---------------|--------------|-----------------------------|
+A|-5-5----5-5---|5-5----5-7-5-4-|2-2-----2-2---|2-2-----2---2/4-----REPEAT---|
+E|------5------5------5----------------2------2-------2---2------------------|[/tab]
+
+
+Here's an easier version, out of key so put a capo on 2 to put it back in A
+
+[tab]G|---------------------------------------------------------------------------|
+D|--------------|--------------|-------------|-------------------------------|
+A|-3-3----3-3---|3-3----3---3-2|0-0----0-0---|0-0----0---0-2--------REPEAT---|
+E|------3------3------3---3----------0------0------0---0---------------------|[/tab]
+
+This version's variation
+
+[tab]G|---------------------------------------------------------------------------|
+D|--------------|---------0----|-------------|-------------------------------|
+A|-3-3----3-3---|3-3----3---3-2|0-0----0-0---|0-0----0---0-2--------REPEAT---|
+E|------3------3------3--------------0------0------0---0---------------------|[/tab]
+
+[Bridge] "nani ga omae no ue o mitasu"
+
+[tab]   A             B             C#m           E
+G|---------------------------------------------------------------------------|
+D|--------------|-------------|-------------|--------------------------------|
+A|--------------|-------------|-------------|--------------------------------|
+E|-5--5--5--4-5--7--7--7--5-7--9--9--9--9--9/12-0-0-0-0-2-4-2-5--------------|[/tab]
+
+************************
+
+/ Slide
+
+************************
+
+That's the main bass riff throuhgout the whole song, there may be some other variations,
+but the song is long and full of intense feedback and noise so it's hard to decipher.
+I wont be able to tab the chords played or the fretting and shredding Mizutani Takashi does.
+May tabbing this be a catalyst for others to try their hand at it

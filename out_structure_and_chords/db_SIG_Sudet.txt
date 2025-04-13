@@ -66,7 +66,9 @@
         "F#",
         "F",
         "G",
-        "Am",
+        "Am"
+    ],
+    "instrumental": [
         "Dm",
         "G",
         "Dm",

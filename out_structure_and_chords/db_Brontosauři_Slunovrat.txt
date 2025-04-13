@@ -1,0 +1,65 @@
+{
+    "verse-1": [
+        "Am",
+        "Am/C",
+        "B7",
+        "E7",
+        "Am",
+        "Am/C",
+        "Am",
+        "Em"
+    ],
+    "verse-2": [
+        "Am",
+        "Am/C",
+        "B7",
+        "E7",
+        "Am",
+        "Am/C",
+        "Am",
+        "Em"
+    ],
+    "verse-3": [
+        "Am",
+        "Am/C",
+        "B7",
+        "E7",
+        "Am",
+        "Am/C",
+        "Am",
+        "Em"
+    ],
+    "chorus-1": [
+        "Am",
+        "C",
+        "G",
+        "Dsus2",
+        "Dm",
+        "Dsus2",
+        "Am",
+        "Em/B",
+        "Am"
+    ],
+    "chorus-2": [
+        "Am",
+        "C",
+        "G",
+        "Dsus2",
+        "Dm",
+        "Dsus2",
+        "Am",
+        "Em/B",
+        "Am"
+    ],
+    "chorus-3": [
+        "Am",
+        "C",
+        "G",
+        "Dsus2",
+        "Dm",
+        "Dsus2",
+        "Am",
+        "Em/B",
+        "Am"
+    ]
+}

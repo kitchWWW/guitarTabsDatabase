@@ -1,4 +1,13 @@
 {
+    "instrumental": [
+        "Fdim",
+        "F#",
+        "Gdim",
+        "E",
+        "Fdim",
+        "F#",
+        "Gdim"
+    ],
     "bridge": [
         "G#",
         "E",

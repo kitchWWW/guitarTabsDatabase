@@ -35,9 +35,6 @@
         "Am",
         "D",
         "B",
-        "Em",
-        "Em",
-        "D",
         "Em"
     ],
     "verse-2": [
@@ -65,6 +62,11 @@
         "Em",
         "Em",
         "D",
+        "Em",
+        "D",
+        "Em"
+    ],
+    "instrumental": [
         "Em",
         "D",
         "Em"

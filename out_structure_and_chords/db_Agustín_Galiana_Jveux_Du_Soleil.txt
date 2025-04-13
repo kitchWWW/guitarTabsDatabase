@@ -67,14 +67,6 @@
         "Bbm",
         "F",
         "Ebm",
-        "F",
-        "Bbm",
-        "F",
-        "Ebm",
-        "F",
-        "Bbm",
-        "F",
-        "Ebm",
         "F"
     ],
     "chorus-3": [
@@ -94,6 +86,16 @@
         "Ebm",
         "F",
         "Bbm"
+    ],
+    "instrumental": [
+        "Bbm",
+        "F",
+        "Ebm",
+        "F",
+        "Bbm",
+        "F",
+        "Ebm",
+        "F"
     ],
     "outro": [
         "F",

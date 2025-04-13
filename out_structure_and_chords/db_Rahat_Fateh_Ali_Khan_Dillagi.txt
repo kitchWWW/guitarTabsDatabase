@@ -41,11 +41,7 @@
         "Cm",
         "F",
         "Gm",
-        "Cm",
-        "Cm",
-        "Bb",
-        "Ab",
-        "Bb"
+        "Cm"
     ],
     "verse-2": [
         "Ab",
@@ -74,6 +70,12 @@
         "F",
         "Fm",
         "G"
+    ],
+    "instrumental": [
+        "Cm",
+        "Bb",
+        "Ab",
+        "Bb"
     ],
     "chorus-1": [
         "Cm",

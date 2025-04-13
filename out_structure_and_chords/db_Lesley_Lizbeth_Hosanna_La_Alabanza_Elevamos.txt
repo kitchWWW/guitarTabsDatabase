@@ -21,7 +21,7 @@
         "G",
         "Gsus4"
     ],
-    "pre-coro-1": [
+    "pre-chorus-1": [
         "D",
         "C",
         "G",
@@ -31,7 +31,7 @@
         "G",
         "D"
     ],
-    "pre-coro-2": [
+    "pre-chorus-2": [
         "D",
         "C",
         "G",
@@ -41,7 +41,7 @@
         "G",
         "D"
     ],
-    "coro-1": [
+    "chorus-1": [
         "G",
         "Em",
         "C",
@@ -73,7 +73,7 @@
         "G",
         "Gsus4"
     ],
-    "coro-2": [
+    "chorus-2": [
         "G",
         "Em",
         "C",

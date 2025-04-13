@@ -56,21 +56,24 @@
         "G",
         "A"
     ],
-    "chorus-1": [
+    "chorus-1": [],
+    "chorus-2": [],
+    "chorus-3": [],
+    "instrumental-1": [
         "Em",
         "Em",
         "Em",
         "Em",
         "Am"
     ],
-    "chorus-2": [
+    "instrumental-2": [
         "Em",
         "Em",
         "Em",
         "Em",
         "Am"
     ],
-    "chorus-3": [
+    "instrumental-3": [
         "Em",
         "Em",
         "Em",

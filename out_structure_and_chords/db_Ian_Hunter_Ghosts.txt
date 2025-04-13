@@ -68,10 +68,6 @@
         "Dm",
         "Am",
         "Dm",
-        "Am",
-        "Am",
-        "Em",
-        "Dm",
         "Am"
     ],
     "chorus-3": [
@@ -102,6 +98,12 @@
         "Am",
         "Dm",
         "Am",
+        "Dm",
+        "Am"
+    ],
+    "instrumental": [
+        "Am",
+        "Em",
         "Dm",
         "Am"
     ],

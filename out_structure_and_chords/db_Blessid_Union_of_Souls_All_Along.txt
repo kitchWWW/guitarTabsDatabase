@@ -84,7 +84,9 @@
         "Cm7",
         "C#",
         "F#",
-        "D#",
+        "D#"
+    ],
+    "instrumental": [
         "G#add9",
         "A#sus2",
         "G#add9",

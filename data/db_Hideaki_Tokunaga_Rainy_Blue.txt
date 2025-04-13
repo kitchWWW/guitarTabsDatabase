@@ -1,0 +1,113 @@
+URL: https://tabs.ultimate-guitar.com/tab/hideaki-tokunaga/rainy-blue-chords-2620647
+Artist: Hideaki Tokunaga
+Song: Rainy Blue
+Genre: 
+Key: 
+
+
+Bm7-5: x2323x
+Bm7:   x24232
+
+
+
+[Verse 1]
+[tab][ch]C[/ch]             [ch]Bm7-5[/ch]   [ch]Am[/ch]      [ch]Gm7[/ch]   [ch]C7[/ch]
+Hito kage mo mienai gozen rei ji[/tab]
+[tab][ch]F[/ch]         [ch]G7[/ch]         [ch]C[/ch]
+Denwa box no soto wa ame[/tab]
+[tab]    [ch]F[/ch]         [ch]G7[/ch]  [ch]C[/ch]          [ch]A7[/ch]
+Kakenareta daiaru mawashikakete[/tab]
+[tab] [ch]Dm7[/ch]      [ch]G7[/ch]   [ch]C[/ch]
+Futo yubi wo tomeru[/tab]
+
+
+
+[Verse 2]
+[tab]       [ch]Bm7-5[/ch]     [ch]Am[/ch]      [ch]Gm7[/ch]  [ch]C7[/ch]
+Tsumetai ame ni utarenagara[/tab]
+[tab][ch]F[/ch]           [ch]G7[/ch]          [ch]C[/ch]
+Kanashii monogatari omoidashita[/tab]
+[tab]   [ch]F[/ch]        [ch]G7[/ch]       [ch]C[/ch]     [ch]Am[/ch]
+Anata no kaeri michi kousaten[/tab]
+[tab] [ch]Dm7[/ch]      [ch]G7[/ch]     [ch]C[/ch]
+Futo ashi wo tomeru[/tab]
+
+
+
+[Chorus]
+[ch]Dm[/ch] [ch]Em[/ch]
+
+[tab][ch]F[/ch]            [ch]G[/ch]     [ch]E7[/ch]        [ch]Am[/ch]
+Rainy blue mou owatta hazu nanoni[/tab]
+[tab][ch]Dm7[/ch]             [ch]G7[/ch]    [ch]C[/ch]
+Rainy blue naze oikakeru no[/tab]
+
+[ch]Dm[/ch] [ch]Em[/ch]
+
+[tab][ch]F[/ch]        [ch]G[/ch]           [ch]E7[/ch]     [ch]Am[/ch]
+Anata no maboroshi kesu you ni[/tab]
+[tab][ch]F[/ch]                    [ch]Fm[/ch]   [ch]C[/ch]
+Watashi mo kyou wa sotto ame[/tab]
+
+
+
+[Verse 3]
+[tab]         [ch]Bm7-5[/ch]        [ch]Am[/ch]        [ch]Gm7[/ch]
+Ikisugiru kuruma no heddo raito ga[/tab]
+[tab][ch]C7[/ch]   [ch]F[/ch]        [ch]G7[/ch]        [ch]C[/ch]
+Hitori botchi no kage o tsukuru[/tab]
+[tab]    [ch]F[/ch]          [ch]G7[/ch]        [ch]C[/ch]        [ch]A7[/ch]
+Anata no shiroi kuruma sagashikakete[/tab]
+[tab]  [ch]Dm7[/ch]  [ch]G7[/ch]       [ch]C[/ch]
+Futo hitomi o fuseru[/tab]
+
+
+
+[Chorus]
+[ch]Dm[/ch] [ch]Em[/ch]
+
+[tab][ch]F[/ch]            [ch]G[/ch]     [ch]E7[/ch]        [ch]Am[/ch]
+Rainy blue mou owatta hazu nanoni[/tab]
+[tab][ch]Dm7[/ch]             [ch]G7[/ch]     [ch]C[/ch]
+Rainy blue itsumade oikakeru no[/tab]
+
+[ch]Dm[/ch] [ch]Em[/ch]
+
+[tab][ch]F[/ch]        [ch]G[/ch]           [ch]E7[/ch]     [ch]Am[/ch]
+Anata no maboroshi kesu you ni[/tab]
+[tab][ch]F[/ch]                    [ch]Fm[/ch]   [ch]C[/ch]
+Watashi mo kyou wa sotto ame[/tab]
+
+
+
+[Chorus]
+[ch]Bm7-5[/ch] [ch]Bm7[/ch] [ch]Dm7[/ch] [ch]G7[/ch]
+
+[tab][ch]F[/ch]            [ch]G[/ch]     [ch]E7[/ch]        [ch]Am[/ch]
+Rainy blue mou owatta hazu nanoni[/tab]
+[tab][ch]Dm7[/ch]             [ch]G7[/ch]     [ch]C[/ch]
+Rainy blue naze oikakeru no[/tab]
+
+[ch]Dm[/ch] [ch]Em[/ch]
+
+[tab][ch]F[/ch]        [ch]G[/ch]           [ch]E7[/ch]     [ch]Am[/ch]
+Anata no maboroshi kesu you ni[/tab]
+[tab][ch]F[/ch]                    [ch]Fm[/ch]   [ch]C[/ch]
+Watashi mo kyou wa sotto ame[/tab]
+
+
+
+[Coda]
+[tab]   [ch]F[/ch]            [ch]G[/ch]             [ch]Am[/ch]   [ch]G#[/ch]   [ch]G[/ch]   [ch]F#m7-5[/ch]
+Ano koro no yasashisa ni tsutsumareteta omoide ga[/tab]
+[tab][ch]Dm7[/ch]    [ch]G7[/ch]             [ch]C[/ch]
+Nagareteku kono machi ni[/tab]
+
+[ch]Dm[/ch] [ch]Em[/ch]
+
+[tab]      [ch]F[/ch]                  [ch]G[/ch]
+It's a rainy blue, It's a rainy blue[/tab]
+[tab]   [ch]Am[/ch]  [ch]G#[/ch]       [ch]G[/ch]    [ch]F#m7-5[/ch]
+yureru kokoro nurasu namida[/tab]
+[tab][ch]F[/ch]
+It's a rainy blue loneliness[/tab]

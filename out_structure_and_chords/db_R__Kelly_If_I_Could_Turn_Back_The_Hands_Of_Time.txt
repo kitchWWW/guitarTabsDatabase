@@ -1,0 +1,104 @@
+{
+    "intro": [
+        "Em",
+        "C",
+        "Dsus4",
+        "D"
+    ],
+    "verse-1": [
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D",
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D"
+    ],
+    "verse-2": [
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D",
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D"
+    ],
+    "verse-3": [
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D",
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D"
+    ],
+    "chorus-1": [
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D",
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D"
+    ],
+    "chorus-2": [
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D",
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D"
+    ],
+    "chorus-3": [
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D",
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D"
+    ],
+    "bridge": [
+        "C",
+        "D",
+        "Em",
+        "C",
+        "D",
+        "Em",
+        "D",
+        "C",
+        "Am",
+        "Dsus4",
+        "D"
+    ],
+    "outro": [
+        "G",
+        "Em",
+        "C",
+        "Dsus4",
+        "D",
+        "C",
+        "Am",
+        "D",
+        "G"
+    ]
+}

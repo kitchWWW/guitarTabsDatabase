@@ -1,0 +1,186 @@
+URL: https://tabs.ultimate-guitar.com/tab/julian-plenti/on-the-esplanade-tabs-900869
+Artist: Julian Plenti
+Song: On The Esplanade
+Genre: 
+Key: 
+
+
+i'm pretty confident of the accuracy of this tab - i've put a lot of time
+into it, watched a video of paul playing it, and even slowed the tempo for
+part of it (specifically figure 4) to make sure it's correct. however, if
+you have any corrections, please comment. also, if you know the names of the
+chord forms used for these figures, please comment those as well - i don't
+really know how to identify chords yet, but i know their forms are how most
+people identify picking patterns like these, so it would help a lot for more
+experienced players.
+
+two youtube videos are useful in learning this song, hopefully they're still
+up, if not try to find video similar to their description:
+
+http://www.youtube.com/watch?v=-8xiDvH7gEE
+this video has the album version of the song. any time stamps found in this
+tab are meant to match up with the timeline in this video.
+
+http://www.youtube.com/watch?v=ImwQjVo7r_g
+this is a video of paul playing the song. both of paul's hands are visible
+throughout the majority of the video so it's an excellent reference in case
+you get stuck.
+
+[tab]figure 1
+e|--------------|
+b|----6---------|
+g|--------0---0-|
+d|------7---7---|
+a|--5-----------|
+E|--------------|[/tab]
+
+[tab]figure 2
+e|--------------|
+b|----6---------|
+g|--------0---0-|
+d|------7---7---|
+a|--8-----------|
+E|--------------|[/tab]
+
+[tab]figure 3
+e|--------------|
+b|----6---------|
+g|--------0---0-|
+d|------7---7---|
+a|--0-----------|
+E|--------------|[/tab]
+
+[tab]figure 4
+e|-----------------|
+b|-----8-----------|
+g|-----------------|
+d|-------7----7----|
+a|--10-----10---10-|
+E|-----------------|[/tab]
+
+[tab]figure 5
+e|----------------|
+b|----6-------6---|
+g|--------0-------|
+d|------7---------|
+a|--5-------0---8-|
+E|----------------|[/tab]
+
+[tab]figure 6
+e|----2---------|
+b|--------2---2-|
+g|--------------|
+d|--0---0---0---|
+a|--------------|
+E|--------------|[/tab]
+
+[tab]figure 7
+e|----0---------|
+b|--------2---2-|
+g|--------------|
+d|--------------|
+a|--4---4---4---|
+E|--------------|[/tab]
+
+[tab]figure 8
+e|--------|
+b|------0-|
+g|----2---|
+d|--0-----|
+a|--------|
+E|--------|[/tab]
+
+[tab]figure 9
+e|--------|
+b|--------|
+g|----1-2-|
+d|--------|
+a|--4-----|
+E|--------|[/tab]
+
+[tab]figure 10
+e|---------------|
+b|------0-0-0----|
+g|----2-------2~-|
+d|--0------------|
+a|---------------|
+E|---------------|[/tab]
+
+here is the order in which the figures are played throughout the song:
+
+GUITAR 1
+11112233 x 8 [00:00 - 1:09]
+4411533 x 2 [1:09 - 1:22]
+1111 x 2 [1:22 - 1:30]
+11112233 x 6 [1:30 - 2:21]
+4411533 x 2 [2:21 - 2:33]
+1111 x 2 [2:33 - 2:42]
+66667777 x 10 [2:42 3:32]
+6 x 1 [3:32 - 3:41]
+
+GUITAR 2
+88889999 x 10 [2:42 - 3:32]
+10 x 1 [3:32 - 3:41]
+
+the first three quarters of the song (up to 2:42) use only figures 1-5. the
+intro uses only figures 1-3 so start by practicing these figures.
+
+as you can see, the only difference between these three figures is the note
+played on the a string. i use my index finger for figure 1, my pinky for
+figure 2, and of course nothing for the open a on figure 3. repeat this
+process eight times.
+
+after the first couple verses, switch to figure 4 by sliding on the d string
+from the 7th fret to the 9th. switch back to the chord form from figure 2
+right before this part, as figure 4 uses the same form. the picking pattern
+for figure 4 is slightly different than the pattern from figures 1-3. after
+playing figure 4 twice, slide back down on the d string to the 7th fret and
+play figure 1 once. then play figure 5, which is like a combination of
+figures 3 and 2, in that order. after playing figure 5 you should be in
+position for figure 2; play this figure twice, then repeat the process once
+more.
+
+at 1:22, simply play figure 1 eight times, then return to the same figures
+1-3 pattern from the first part of the song, but this time only play it six
+times. after that, play the same instrumental segment from 1:09 - 1:22 twice
+like last time, then play figure 1 eight more times. this is the last time
+you'll play any of figures 1-5 in the song, so now we move onto the outro.
+
+the rest of the song is an intro in which you alternate between figures 6
+and 7. once again, this is yet another different couple of picking patterns,
+so study the tabs and practice to get them right. just alternate between
+playing figure 6 four times then figure 7 four times, and repeat the process
+ten times, which is when the song ends.
+
+at 2:42, a second guitar comes in. just like guitar 1, it's the same tab
+over and over for the rest of the song until the very end. play figure 8
+four times then figure 9 four times a total of ten times, then end with
+figure 8.
+
+lyrics:
+On the Esplanade, down by the sea
+Baby, watch my back
+I think somebody’s been following me
+You feel overcome, with trying to play it dead
+You feel safe that way, is it better than just playing instead?
+It was a big step for me to roll up my golden life
+Should have saved, saved my energy
+
+I’m awake today
+It’s so nice to see the windows wash my dreams away
+And I prop myself up on my pillow
+We’ve been through shaky times
+But I’m glad you found your way
+There was too much panic then
+From here on it will be straight all the way
+It was a big step for me to roll up my golden life
+Should have saved, saved my energy
+
+Changing with time, I can’t wait for the sign
+Is this right?
+Day chose your side, but the day brings the pride of the light
+Oh the peace comes at night; I will never break from this shadow of exile
+To be blinded
+Changing with time, I can’t wait for the sign
+Is this right?
+Is this right?

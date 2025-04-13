@@ -28,17 +28,9 @@
         "C",
         "C/B",
         "Am7",
-        "F",
-        "C",
-        "C/B",
-        "Am7",
         "F"
     ],
     "verse-2": [
-        "C",
-        "C/B",
-        "Am7",
-        "F",
         "C",
         "C/B",
         "Am7",
@@ -69,7 +61,21 @@
         "C",
         "C/B",
         "Am7",
-        "F",
+        "F"
+    ],
+    "instrumental-1": [
+        "C",
+        "C/B",
+        "Am7",
+        "F"
+    ],
+    "instrumental-2": [
+        "C",
+        "C/B",
+        "Am7",
+        "F"
+    ],
+    "instrumental-3": [
         "C",
         "C/B",
         "Am7",

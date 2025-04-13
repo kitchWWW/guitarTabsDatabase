@@ -45,11 +45,13 @@
         "Abm7",
         "Dbsus4",
         "Db",
-        "Gb",
+        "Gb"
+    ],
+    "chorus-2": [
         "Bb",
         "Db",
         "Ebm",
-        "Ebm/Db",
+        "Db",
         "Bb",
         "Bb",
         "Db",
@@ -63,11 +65,11 @@
         "Db",
         "Gb"
     ],
-    "chorus-2": [
+    "instrumental": [
         "Bb",
         "Db",
         "Ebm",
-        "Db",
+        "Ebm/Db",
         "Bb",
         "Bb",
         "Db",

@@ -1,0 +1,82 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-rare-occasions/notion-chords-3378434
+Artist: The Rare Occasions
+Song: Notion
+Genre: 
+Key: 
+
+
+[ch]A[/ch]       577655
+[ch]Faug[/ch]    x8766x
+
+Ascending line on last line of 2nd verse implied by lead guitar part,
+but you can just stay on Bm.
+
+[Intro]
+[ch]A[/ch]  [ch]Faug[/ch]  [ch]Dmaj7[/ch]  [ch]Dm6[/ch]
+
+[Verse 1]
+[tab]            [ch]Bm[/ch]                     [ch]F#m[/ch]
+Sure it’s a calming notion, perpetual in motion[/tab]
+[tab]            [ch]Bm[/ch]                      [ch]F#m[/ch]
+But I don’t need the comfort of any lies[/tab]
+[tab]           [ch]Bm[/ch]                           [ch]F#m[/ch]          [ch]A[/ch] [ch]Faug[/ch]
+For I have seen the ending and there is no ascending rise[/tab]
+
+[Verse 2]
+[tab]              [ch]Bm[/ch]                         [ch]F#m[/ch]
+Oh, back when I was younger, was told by other youngsters[/tab]
+[tab]            [ch]Bm[/ch]                          [ch]F#m[/ch]
+That my end will be torture beneath the earth[/tab]
+[tab]               [ch]Bm[/ch]                              [ch]F#m[/ch]
+‘Cause I don’t see what they see when death is staring at me[/tab]
+[tab]        [ch]Bm6[/ch]       [ch]Bm7[/ch]       [ch]Bm[/ch]          [ch]Bmadd9[/ch]     [ch]Faug[/ch]
+I see a window, a limit, to live it, or not at all[/tab]
+
+[tab][Interlude]
+  ([ch]A[/ch])
+e|------------16-14--------|
+B|---14----14-------18--b--| (bend slowly up to
+G|------14-----------------|  F# over Dmaj7 chord)
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|[/tab]
+
+[ch]Dmaj7[/ch]   [ch]Fmaj7[/ch]   [ch]Amaj7[/ch]   [ch]F#m7[/ch]   [ch]Bm7[/ch]   [ch]C#m7[/ch]   [ch]Dmaj7[/ch]   [ch]Fmaj7[/ch]
+
+[Verse 3]
+[tab]             [ch]Bm[/ch]                      [ch]F#m[/ch]
+If you could pull the lever to carry on forever[/tab]
+[tab]                [ch]Bm[/ch]             [ch]F#m[/ch]
+Would your life even matter anymore?[/tab]
+[tab]            [ch]Bm[/ch]                     [ch]F#m[/ch]
+Sure it’s a calming notion, perpetual in motion[/tab]
+[tab]         [ch]A[/ch]                   [ch]Faug[/ch]
+But it’s not what you signed up for[/tab]
+
+[Bridge]
+[ch]A[/ch] [ch]Faug[/ch] [ch]Dmaj7[/ch] [ch]Faug[/ch] (x2)
+
+[tab][ch]A[/ch]                [ch]Faug[/ch]            [ch]Dmaj7[/ch] [ch]Faug[/ch]
+  I’m sure there won’t always be sun - shine[/tab]
+[tab][ch]A[/ch]                  [ch]Faug[/ch]      [ch]Dmaj7[/ch]   [ch]Faug[/ch]
+  But there’s this momentary beam of light[/tab]
+[tab]    [ch]A[/ch]                        [ch]Faug[/ch]
+You don’t have to wait those salty decades[/tab]
+[tab]   [ch]Dmaj7[/ch]                             [ch]Faug[/ch]
+To get through the gate, it’s all in front of your face[/tab]
+[tab][ch]A[/ch]                [ch]Faug[/ch]            [ch]Dmaj7[/ch] [ch]Faug[/ch]
+  I’m sure there won’t always be sun - shine[/tab]
+[tab][ch]A[/ch]                [ch]Faug[/ch]            [ch]Dmaj7[/ch] [ch]Dm[/ch]
+  I’m sure there won’t always be sun - shine[/tab]
+[tab][ch]A[/ch]                  [ch]Faug[/ch]      [ch]Dmaj7[/ch]   [ch]Dm[/ch]
+  But there’s this momentary beam of light[/tab]
+
+[Chorus 3]
+[tab]              [ch]A[/ch]                        [ch]Bm[/ch]
+I could could cross the ocean in a fit of devotion[/tab]
+[tab]          [ch]A[/ch]                           [ch]Bm[/ch]
+For every shining second this fragile body beckons[/tab]
+[tab]                 [ch]A[/ch]                        [ch]Bm[/ch]
+You think you’re owed it better believing ancient letters[/tab]
+[tab]            [ch]A[/ch]                         [ch]Bm[/ch]
+Sure it’s a calming notion but it’s a lie[/tab]

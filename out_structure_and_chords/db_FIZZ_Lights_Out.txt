@@ -4,7 +4,9 @@
     "verse-2": [],
     "chorus-1": [],
     "chorus-2": [
-        "D#",
+        "D#"
+    ],
+    "instrumental": [
         "D",
         "G#",
         "G",

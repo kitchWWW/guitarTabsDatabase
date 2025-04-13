@@ -1,0 +1,63 @@
+URL: https://tabs.ultimate-guitar.com/tab/bridge-music/maa-ke-samaan-chords-3474323
+Artist: Bridge Music
+Song: Maa Ke Samaan
+Genre: 
+Key: 
+
+
+BPM - 68
+Time Signature - 4/4
+Key - G
+
+[Intro]
+[ch]Em[/ch] [ch]C[/ch]
+
+[Verse 1]
+[tab][ch]G/B[/ch]      [ch]Cadd9[/ch]           [ch]G[/ch]
+Garbh Ke Samay Se Paala Hai[/tab]
+[tab][ch]Em7[/ch]           [ch]Cadd9[/ch]     [ch]G[/ch]
+Banaya Mujhko Apne Roop Mein[/tab]
+[tab][ch]Em[/ch]         [ch]Cadd9[/ch]     [ch]G[/ch]
+Daali Tune Apni Rooh Hai[/tab]
+[tab][ch]Em[/ch]        [ch]Cadd9[/ch]     [ch]G[/ch]
+Bhar Diya Apne Noor Se[/tab]
+
+[Chorus]
+[tab][ch]Em[/ch]               [ch]Cadd9[/ch]
+Maa Ke Samaan Tu Hai[/tab]
+[tab][ch]G/B[/ch]            [ch]D[/ch]
+Maa Ki Tarah Tu Khyaal Raktha Hai[/tab]
+[tab][ch]Em[/ch]               [ch]Cadd9[/ch]
+Maa Ke Saaman Tu Hai[/tab]
+[tab][ch]G/B[/ch]              [ch]D[/ch]
+Maa Se Bhi Zyaada Pyaar Kartha Hai[/tab]
+
+[Verse 2]
+[tab][ch]G/B[/ch]          [ch]C[/ch]        [ch]G[/ch]
+Sukhoon Hai, Teri Godi Mein[/tab]
+[tab][ch]Em[/ch]             [ch]C[/ch]          [ch]G[/ch]
+Bahoon Mein Tere, Hifaazat Hai[/tab]
+[tab][ch]Em[/ch]                 [ch]C[/ch]
+Poche Saare Aansu Mere[/tab]
+[tab][ch]Em[/ch]             [ch]C[/ch]       [ch]G[/ch]
+Darr Saare Ghum Ho Gaye[/tab]
+
+[Chorus]
+[tab][ch]Em[/ch]               [ch]Cadd9[/ch]
+Maa Ke Saaman Tu Hai[/tab]
+[tab][ch]G/B[/ch]            [ch]D[/ch]
+Maa Ki Tarah Tu Khyaal Raktha Hai[/tab]
+[tab][ch]Em[/ch]               [ch]Cadd9[/ch]
+Maa Ke Saaman Tu Hai[/tab]
+[tab][ch]G/B[/ch]              [ch]D[/ch]
+Maa Se Bhi Zyaada Pyaar Kartha Hai[/tab]
+
+[Bridge]
+[tab]     [ch]Em[/ch]                [ch]Cadd9[/ch]
+Tune Pyaar Kiya Hai Mujse[/tab]
+[tab][ch]G/B[/ch]                [ch]D[/ch]
+Jaan Se Bhi Zyaada, Jaan Se Bhi[/tab]
+[tab]   [ch]Em[/ch]          [ch]Cadd9[/ch]
+Parva Ki Hai Meri[/tab]
+[tab][ch]G/B[/ch]           [ch]D[/ch]
+Choti Se Choti Baatoon Ki[/tab]

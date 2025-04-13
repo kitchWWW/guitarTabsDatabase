@@ -33,7 +33,9 @@
         "Cm",
         "Bb",
         "Ab",
-        "Bb",
+        "Bb"
+    ],
+    "instrumental": [
         "Cm",
         "Bb",
         "Ab",

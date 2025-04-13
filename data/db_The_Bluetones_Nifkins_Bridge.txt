@@ -1,0 +1,159 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-bluetones/nifkins-bridge-tabs-62273
+Artist: The Bluetones
+Song: Nifkins Bridge
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+Date: Tue, 17 Mar 1998 17:26:36 -0500
+From: "MAQUET, Frederic F." &lt;f.maquet@ic.ac.uk> (by way of cal woods)
+Subject: Tab: Nifkin's Bridge by The Bluetones
+
+		Nifkin's Bridge by The Bluetones
+				-----------------
+				Tabbed by Frederic Maquet
+
+
+B-side from the single "Marblehead Johnson".  This is a rather nice
+acoustic number which goes more+more electric as the song goes.
+
+For more Exclusive Tabs go to:
+http://www.geocities.com/SunsetStrip/3224/guitar.html
+
+Intro:
+------
+
+   Em
+e:----------0--------0--------0---------------|----|----------0--------0
+[tab]--|
+B:----0--------0--------0--------0---0---0--0-|----|----0--------0------[/tab]
+[tab]--|
+G:-------0--------0--------0-------0----------|----|-------0--------0---[/tab]
+[tab]--|
+D:-------------------2--------2---------------|-x3-|-------------------2[/tab]
+[tab]--|
+A:--------------------------------------3--2--|----|--------------------[/tab]
+[tab]--|
+E:-0------------------------------------------|----|-0------------------
+--|[/tab]
+
+
+Verse 1:
+--------
+
+[tab]    Em
+e:-----------7----------3----------5----------2----------2----------2-|
+B:-----0----------0----------0----------0----------0----------0-------|
+G:--------0----------0----------0----------0----------0----------0----|
+D:--------------------------------------------------------------------|
+A:--------------------------------------------------------------------|
+E:--0-----------------------------------------------------------------|
+     In this town the   people     can be     ignorant   and
+cruel[/tab]
+
+[tab]e:----------------|
+B:----0---0--0--0-|
+G:------0---------|
+D:----------------|
+A:----------3--2--|
+E:----------------|[/tab]
+
+In this town where people can be ignorant and cruel
+And no-one ever seems to listen
+Honest words don't know the damage they can do
+Truth has no rhyme, it has no reason
+
+
+Chorus:
+-------
+
+         C                            Em7                     end
+Twiddle
+e:-------------------0----------|--|----------0----------|--|-----------
+|
+B:-------------1--------1-----1-|--|----3--------3-----3-|--|--0h1p0----
+|
+G:----------0-----0--------0----|--|-------0--------0----|--|---------0-
+|
+D:------------------------------|x2|---------------------|x2|-----------
+|
+A:-3--2--3----------------------|--|--2------------------|--|-----------
+|
+E:------------------------------|--|---------------------|--|-----------
+|
+Coz it's mooooooooooo-         ving   awaaaaay from you
+
+'Cos it's moving away from you
+'Cos it's moving away
+
+Verse 2:  (same progression as verse1)
+--------
+
+It's strange the way the years have left no mark on you
+But stolen all the fight within you
+Where is the child that was to teach us how to fly
+Now her dream cannot begin to
+
+Chorus 2:(same as chorus 1)
+---------
+Is she moving away from you?
+Is she moving away?
+
+
+[tab]Bridge:                            Played at end of bridge
+-------                            Emadd9----------------------|      (electric)
+e:--0-----3-----5----7--7--5--3--|----------------|------------|
+B:--0-----0-----0----0--0--0--0--|----------------|------------|
+G:--0-----0-----0----0--0--0--0--|-----------0----|------------|
+D:--2-----2-----x----x--x--x--x--|-----4--------4-|-x3---------|
+A:--2-----2-----x----x--x--x--x--|--2-----2-------|------------|
+E:--0-----------0----0--0--0--0--|----------------|------------|[/tab]
+
+
+Verse 3: (same as verse 1)
+--------
+
+A thousand nameless roads have taken me away
+Miles of fallen rain behind me
+And though you know I'm just a phone number away
+I wonder if you'll ever find me
+
+Chorus 3: (same progression as chorus 1)
+---------
+
+'Cos I'm moving away from you
+I am moving away
+'Cos I'm moving away from you
+I am moving away
+
+End Riff: (distorted electric:)
+---------
+Em   C     F    F  C Em
+/ // // /  / // // / /
+
+[tab]Over acoustic chords:
+     Em             C            F?          C     Em
+e:-----------------------------------------------------|---|
+B:-------------------------------------------1--1--0---|---|
+G:---------0--------------0------------0---------------|---|
+D:------2-----2--------2-----2------3-----3------------|x10|
+A:---2--------------3------------3---------------------|---|
+E:-----------------------------------------------------|---|[/tab]
+
+fade out
+
+Lyrics from http://homepages.enterprise.net/bsm/TheBluetones/
+Chords:
+Em	022000
+Em7	022030 or 020000
+Emadd9	024000
+C	032010
+F	133211
+F?	133011  (use your thumb one the low e-string)
+
+E-mail corrections/comments etc.. to f.maquet@ic.ac.uk

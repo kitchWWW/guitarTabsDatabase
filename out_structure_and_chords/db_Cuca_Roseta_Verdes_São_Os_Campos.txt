@@ -39,7 +39,9 @@
         "Dmaj7",
         "Em7",
         "A",
-        "D",
+        "D"
+    ],
+    "instrumental": [
         "D",
         "G",
         "A",

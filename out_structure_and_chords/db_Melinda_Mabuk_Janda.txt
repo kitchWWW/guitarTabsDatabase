@@ -82,7 +82,9 @@
         "F#",
         "C",
         "Bb",
-        "Dm",
+        "Dm"
+    ],
+    "instrumental": [
         "C",
         "Bb",
         "C",

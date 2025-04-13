@@ -1,0 +1,103 @@
+URL: https://tabs.ultimate-guitar.com/tab/michael-wong/yue-ding-chords-4955842
+Artist: Michael Wong
+Song: Yue Ding
+Genre: 
+Key: A
+
+
+[Intro]
+[ch]A[/ch] [ch]E/G#[/ch] [ch]D[/ch] [ch]E[/ch]
+
+
+[Verse]
+[tab]         [ch]Asus2[/ch]               [ch]E/G#[/ch]
+shuo hao de san nian bu jian mian[/tab]
+[tab]            [ch]F#m7[/ch]                  [ch]C#m7[/ch]
+yong wo men de ai ba shi jian liu zhu[/tab]
+[tab]             [ch]Dsus2[/ch]                      [ch]Asus2[/ch]             [ch]B[/ch]   [ch]E[/ch]
+ni xiao zhuo shuo zhe shi wo men de kao yan wo men de yue ding[/tab]
+
+[tab]        [ch]Asus2[/ch]                 [ch]E/G#[/ch]
+jiu zhe yang san nian you guo le[/tab]
+[tab]       [ch]F#m7[/ch]                   [ch]Em7[/ch] [ch]A7[/ch]
+wo hai shi hui dao zhe ge di fang[/tab]
+[tab]         [ch]Dsus2[/ch]              [ch]Asus2[/ch]
+bi shang yan deng ni de chu xian[/tab]
+[tab]        [ch]Bm7[/ch]             [ch]E[/ch]
+kong qi zhong wen ni de lian[/tab]
+
+
+[Chorus]
+[tab]           [ch]Asus2[/ch]            [ch]E/G#[/ch]
+wo hai ji de wo men de yue ding[/tab]
+[tab]       [ch]F#m7[/ch]               [ch]E[/ch]
+yi bei zi xing fu de yue ding[/tab]
+[tab]       [ch]Dsus2[/ch]          [ch]C#m7[/ch]
+wei ni xie de na shou ge[/tab]
+[tab]      [ch]Bm7[/ch]                 [ch]E[/ch]
+ta ye tou tou de diao lei le[/tab]
+
+[tab]          [ch]Asus2[/ch]            [ch]E/G#[/ch]
+wo hai ji de wo men de yue ding[/tab]
+[tab][ch]C#m7[/ch]  [ch]F#m7[/ch]                   [ch]Em7[/ch] [ch]A7[/ch]
+wo bi yi qian hai geng ai ni le[/tab]
+[tab]        [ch]D[/ch]               [ch]C#m7[/ch]
+lian na feng du xiao wo le[/tab]
+[tab][ch]F#m7[/ch]     [ch]Bm7[/ch]              [ch]E[/ch]                [ch]D[/ch]
+wo xiang ta hui gao su ni de wo geng ai ni le[/tab]
+
+
+[Interlude]
+[ch]D[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch] [ch]A[/ch]
+[ch]G[/ch] [ch]D/F#[/ch] [ch]Bm7[/ch] [ch]E[/ch]
+
+
+[Verse]
+[tab]        [ch]Asus2[/ch]                 [ch]E/G#[/ch]
+jiu zhe yang san nian you guo le[/tab]
+[tab]       [ch]F#m7[/ch]                   [ch]Em7[/ch] [ch]A7[/ch]
+wo hai shi hui dao zhe ge di fang[/tab]
+[tab]         [ch]Dsus2[/ch]              [ch]Asus2[/ch]
+bi shang yan deng ni de chu xian[/tab]
+[tab]         [ch]Bm7[/ch]             [ch]E[/ch]
+kong qi zhong wen ni de lian[/tab]
+
+
+[Chorus 1]
+[tab]          [ch]Asus2[/ch]            [ch]E/G#[/ch]
+wo hai ji de wo men de yue ding[/tab]
+[tab]       [ch]F#m7[/ch]               [ch]E[/ch]
+yi bei zi xing fu de yue ding[/tab]
+[tab]       [ch]Dsus2[/ch]          [ch]C#m7[/ch]
+wei ni xie de na shou ge[/tab]
+[tab]      [ch]Bm7[/ch]                 [ch]E[/ch]
+ta ye tou tou de diao lei le[/tab]
+
+[tab]          [ch]Asus2[/ch]            [ch]E/G#[/ch]
+wo hai ji de wo men de yue ding[/tab]
+[tab][ch]C#m7[/ch]  [ch]F#m7[/ch]                   [ch]Em7[/ch] [ch]A7[/ch]
+wo bi yi qian hai geng ai ni le[/tab]
+[tab]        [ch]D[/ch]               [ch]C#m7[/ch]
+lian na feng du xiao wo le[/tab]
+[tab][ch]F#m7[/ch]     [ch]Bm7[/ch]              [ch]E[/ch]
+wo xiang ta hui gao su ni de[/tab]
+
+
+[Chorus Overtune]
+[tab]          [ch]B[/ch]                [ch]Bb/F#[/ch]
+ni hui ji de wo men de yue ding[/tab]
+[tab]       [ch]G#m7[/ch]              [ch]F#[/ch]
+yi bei zi xing fu de yue ding[/tab]
+[tab]       [ch]Esus2[/ch]          [ch]D#m7[/ch]
+wei ni xie de na shou ge[/tab]
+[tab]      [ch]C#m7[/ch]                [ch]F#[/ch]
+ta ye tou tou de diao lei le[/tab]
+
+[tab]          [ch]B[/ch]                [ch]Bb/F#[/ch]
+ni hui ji de wo men de yue ding[/tab]
+[tab][ch]D#m7[/ch]  [ch]G#m7[/ch]                   [ch]F#m7[/ch] [ch]B7[/ch]
+wo bi yi qian hai geng ai ni le[/tab]
+[tab]         [ch]E[/ch]               [ch]D#m7[/ch]
+ting zhi feng wo ye xiao le[/tab]
+[tab][ch]G#m7[/ch]  [ch]C#m7[/ch]               [ch]F#[/ch]               [ch]E[/ch] [ch]D#m7[/ch] [ch]C#m7[/ch] [ch]F#[/ch] [ch]B[/ch]
+ta yi ding hui gao su ni de wo geng ai ni le[/tab]

@@ -34,12 +34,7 @@
         "G6add11",
         "Fmaj7",
         "G6add11",
-        "Am",
-        "C",
-        "Fmaj7",
-        "Am",
-        "G6add11",
-        "Fmaj7"
+        "Am"
     ],
     "chorus-2": [
         "C",
@@ -55,7 +50,16 @@
         "G6add11",
         "Fmaj7",
         "G6add11",
+        "C"
+    ],
+    "instrumental-1": [
         "C",
+        "Fmaj7",
+        "Am",
+        "G6add11",
+        "Fmaj7"
+    ],
+    "instrumental-2": [
         "Am",
         "Fmaj7",
         "Am",

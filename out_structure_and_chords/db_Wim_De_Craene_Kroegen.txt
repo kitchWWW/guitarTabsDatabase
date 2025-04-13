@@ -1,0 +1,107 @@
+{
+    "intro": [
+        "Am",
+        "Asus2",
+        "Asus4",
+        "Asus2",
+        "Am",
+        "Asus2",
+        "Asus4"
+    ],
+    "verse-1": [
+        "Asus2",
+        "Am",
+        "Asus2",
+        "Asus4",
+        "Am",
+        "F",
+        "E7",
+        "Am",
+        "Asus2",
+        "Asus4"
+    ],
+    "verse-2": [
+        "Asus2",
+        "Am",
+        "Asus2",
+        "Asus4",
+        "Am",
+        "F",
+        "E7",
+        "Am",
+        "Asus2",
+        "Asus4"
+    ],
+    "verse-3": [
+        "Am",
+        "Asus2",
+        "Asus4",
+        "Am",
+        "F",
+        "E7",
+        "Am",
+        "Asus2",
+        "Asus4"
+    ],
+    "verse-4": [
+        "Am",
+        "Asus2",
+        "Asus4",
+        "Am",
+        "F",
+        "E7",
+        "Am",
+        "Asus2",
+        "Asus4"
+    ],
+    "verse-5": [
+        "Am",
+        "Asus2",
+        "Asus4",
+        "Am",
+        "F",
+        "E7",
+        "Am",
+        "Asus2",
+        "Asus4"
+    ],
+    "chorus-1": [
+        "F",
+        "G",
+        "C",
+        "E",
+        "F",
+        "G",
+        "C",
+        "G/B",
+        "E",
+        "Am",
+        "Asus2",
+        "Asus4"
+    ],
+    "chorus-2": [
+        "F",
+        "G",
+        "C",
+        "E",
+        "F",
+        "G",
+        "C",
+        "G/B",
+        "E",
+        "Am",
+        "Asus2",
+        "Asus4",
+        "Am",
+        "Asus2",
+        "Asus4"
+    ],
+    "outro": [
+        "Am",
+        "Asus2",
+        "Asus4",
+        "Am",
+        "F",
+        "E7"
+    ]
+}

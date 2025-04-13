@@ -1,5 +1,5 @@
 {
-    "pre-coro-1": [
+    "pre-chorus-1": [
         "A",
         "B",
         "C#m",
@@ -9,7 +9,7 @@
         "C#m",
         "G#m"
     ],
-    "pre-coro-2": [
+    "pre-chorus-2": [
         "A",
         "B",
         "C#m",
@@ -19,7 +19,7 @@
         "C#m",
         "G#m"
     ],
-    "pre-coro-3": [
+    "pre-chorus-3": [
         "A",
         "B",
         "C#m",
@@ -29,7 +29,7 @@
         "C#m",
         "G#m"
     ],
-    "coro-1": [
+    "chorus-1": [
         "C#m",
         "A",
         "E",
@@ -52,7 +52,7 @@
         "A",
         "E"
     ],
-    "coro-2": [
+    "chorus-2": [
         "C#m",
         "A",
         "E",
@@ -60,14 +60,22 @@
         "C#m",
         "A",
         "E",
-        "G#m",
+        "G#m"
+    ],
+    "chorus-3": [
         "C#m",
         "A",
         "E",
         "G#m",
-        "A",
-        "B",
         "C#m",
+        "A",
+        "E",
+        "G#m"
+    ],
+    "instrumental-1": [
+        "C#m",
+        "A",
+        "E",
         "G#m",
         "A",
         "B",
@@ -86,14 +94,10 @@
         "C#m",
         "G#m"
     ],
-    "coro-3": [
-        "C#m",
+    "instrumental-2": [
         "A",
-        "E",
-        "G#m",
+        "B",
         "C#m",
-        "A",
-        "E",
         "G#m"
     ]
 }

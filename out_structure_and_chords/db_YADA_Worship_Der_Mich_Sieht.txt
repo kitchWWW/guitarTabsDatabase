@@ -66,10 +66,6 @@
         "G",
         "D",
         "Bm",
-        "A",
-        "Bm",
-        "G",
-        "D",
         "A"
     ],
     "chorus-4": [
@@ -81,7 +77,27 @@
         "G",
         "D",
         "Bm",
-        "A",
+        "A"
+    ],
+    "instrumental-1": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+    ],
+    "instrumental-2": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+    ],
+    "instrumental-3": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+    ],
+    "instrumental-4": [
         "Bm",
         "G",
         "D",
@@ -105,17 +121,9 @@
         "Bm",
         "G",
         "D",
-        "A",
-        "Bm",
-        "G",
-        "D",
         "A"
     ],
     "bridge-3": [
-        "Bm",
-        "G",
-        "D",
-        "A",
         "Bm",
         "G",
         "D",

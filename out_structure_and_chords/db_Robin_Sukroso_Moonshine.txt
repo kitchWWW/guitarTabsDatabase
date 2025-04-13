@@ -18,7 +18,6 @@
         "C#m",
         "A",
         "B",
-        "C#m",
         "C#m"
     ],
     "verse-2": [
@@ -35,14 +34,27 @@
         "F#m",
         "C#m"
     ],
+    "instrumental-1": [
+        "C#m"
+    ],
+    "instrumental-2": [
+        "A",
+        "F#m",
+        "C#m"
+    ],
+    "instrumental-3": [
+        "A",
+        "F#m",
+        "C#m",
+        "A",
+        "F#m",
+        "C#m"
+    ],
     "chorus-1": [
         "A",
         "F#m",
         "C#m",
         "C#m#5",
-        "A",
-        "F#m",
-        "C#m",
         "A",
         "F#m",
         "C#m",
@@ -80,13 +92,7 @@
         "F#m",
         "A",
         "A",
-        "G#m",
-        "A",
-        "F#m",
-        "C#m",
-        "A",
-        "F#m",
-        "C#m"
+        "G#m"
     ],
     "outro": [
         "A",

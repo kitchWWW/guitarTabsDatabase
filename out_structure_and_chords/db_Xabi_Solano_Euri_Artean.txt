@@ -50,7 +50,9 @@
         "A#",
         "C",
         "Dm",
-        "G",
+        "G"
+    ],
+    "instrumental-1": [
         "F",
         "C",
         "Dm",
@@ -87,7 +89,9 @@
         "A#",
         "C",
         "Dm",
-        "G",
+        "G"
+    ],
+    "instrumental-2": [
         "Dm",
         "F",
         "C",
@@ -104,7 +108,9 @@
         "C",
         "Dm",
         "G",
-        "Dm",
+        "Dm"
+    ],
+    "instrumental-3": [
         "C",
         "A#",
         "C",

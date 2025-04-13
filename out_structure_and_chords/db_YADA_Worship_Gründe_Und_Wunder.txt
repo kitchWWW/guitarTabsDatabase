@@ -60,11 +60,7 @@
         "F",
         "Eb",
         "Bb",
-        "F",
-        "Eb",
-        "Bb",
-        "F",
-        "Gm"
+        "F"
     ],
     "chorus-3": [
         "F",
@@ -77,6 +73,12 @@
         "Eb",
         "Bb",
         "F"
+    ],
+    "instrumental": [
+        "Eb",
+        "Bb",
+        "F",
+        "Gm"
     ],
     "bridge-1": [
         "Eb",

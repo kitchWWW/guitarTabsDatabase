@@ -108,7 +108,9 @@
         "E7sus/B",
         "Asus",
         "C/G",
-        "Em",
+        "Em"
+    ],
+    "instrumental": [
         "Em",
         "D",
         "Em",

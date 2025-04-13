@@ -1,4 +1,16 @@
 {
+    "instrumental": [
+        "D",
+        "D7",
+        "G",
+        "Gm6",
+        "D/F#",
+        "Bm7",
+        "Em",
+        "A7",
+        "D",
+        "D7"
+    ],
     "chorus": [
         "G",
         "G#dim",

@@ -58,10 +58,6 @@
         "Ebm",
         "Gb",
         "Bb",
-        "Ebm",
-        "Ebm",
-        "Gb",
-        "Bb",
         "Ebm"
     ],
     "chorus-4": [
@@ -71,6 +67,12 @@
         "Ebm"
     ],
     "chorus-5": [
+        "Ebm",
+        "Gb",
+        "Bb",
+        "Ebm"
+    ],
+    "instrumental": [
         "Ebm",
         "Gb",
         "Bb",

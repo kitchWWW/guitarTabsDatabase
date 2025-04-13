@@ -19,11 +19,7 @@
         "Dmaj7",
         "Gmaj7",
         "Cmaj7",
-        "Fmaj7",
-        "F#m11",
-        "Gmaj9",
-        "F#m11",
-        "Gmaj9"
+        "Fmaj7"
     ],
     "intro": [
         "B",
@@ -35,7 +31,25 @@
         "A",
         "F#",
         "F#m11",
+        "Gmaj9"
+    ],
+    "instrumental-1": [
+        "F#m11",
         "Gmaj9",
+        "F#m11",
+        "Gmaj9"
+    ],
+    "instrumental-2": [
+        "F#m11",
+        "Gmaj9"
+    ],
+    "instrumental-3": [
+        "F#m11",
+        "Gmaj9",
+        "F#m11",
+        "Gmaj9"
+    ],
+    "instrumental-4": [
         "F#m11",
         "Gmaj9",
         "F#m11",
@@ -56,9 +70,7 @@
         "Bb",
         "Bm7",
         "A",
-        "G7",
-        "F#m11",
-        "Gmaj9"
+        "G7"
     ],
     "verse-2": [
         "F#m11",
@@ -92,11 +104,7 @@
         "Bb",
         "Bm7",
         "A",
-        "G7",
-        "F#m11",
-        "Gmaj9",
-        "F#m11",
-        "Gmaj9"
+        "G7"
     ],
     "outro": [
         "F#m11",

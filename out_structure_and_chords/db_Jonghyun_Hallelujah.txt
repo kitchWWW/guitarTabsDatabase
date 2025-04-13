@@ -77,10 +77,6 @@
         "Bb",
         "C",
         "Dm",
-        "Am",
-        "Bb",
-        "C",
-        "Dm",
         "Am"
     ],
     "chorus-3": [
@@ -100,6 +96,12 @@
         "C",
         "Dm",
         "Am",
+        "Bb",
+        "C",
+        "Dm",
+        "Am"
+    ],
+    "instrumental": [
         "Bb",
         "C",
         "Dm",

@@ -21,9 +21,7 @@
         "Am/G",
         "F",
         "E",
-        "Am",
-        "F",
-        "E"
+        "Am"
     ],
     "verse-2": [
         "F",
@@ -54,6 +52,10 @@
         "E",
         "Am",
         "Am/G"
+    ],
+    "instrumental": [
+        "F",
+        "E"
     ],
     "chorus": [
         "F",

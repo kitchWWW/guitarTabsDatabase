@@ -34,11 +34,7 @@
         "Dm",
         "Bb",
         "F",
-        "Dm",
-        "F",
-        "F",
-        "Dm",
-        "Bb"
+        "Dm"
     ],
     "chorus-2": [
         "F",
@@ -60,6 +56,12 @@
         "F",
         "Dm",
         "Bb",
+        "F",
+        "Dm",
+        "Bb"
+    ],
+    "instrumental": [
+        "F",
         "F",
         "Dm",
         "Bb"

@@ -100,5 +100,6 @@
         "F",
         "G",
         "Am"
-    ]
+    ],
+    "instrumental": []
 }

@@ -110,21 +110,7 @@
         "Bm",
         "Dmaj7",
         "Dmaj7",
-        "F#m",
-        "F#m",
-        "Gmaj7",
-        "Gmaj7",
-        "F#m",
-        "F#m",
-        "Gmaj7",
-        "Bm",
-        "F#m",
-        "F#m",
-        "Gmaj7",
-        "Bm",
-        "F#m",
-        "F#m",
-        "Gmaj7"
+        "F#m"
     ],
     "chorus-3": [
         "Bm",
@@ -143,6 +129,22 @@
         "Dmaj7",
         "Dmaj7",
         "Dmaj7"
+    ],
+    "instrumental": [
+        "F#m",
+        "Gmaj7",
+        "Gmaj7",
+        "F#m",
+        "F#m",
+        "Gmaj7",
+        "Bm",
+        "F#m",
+        "F#m",
+        "Gmaj7",
+        "Bm",
+        "F#m",
+        "F#m",
+        "Gmaj7"
     ],
     "outro": [
         "Dmaj7",

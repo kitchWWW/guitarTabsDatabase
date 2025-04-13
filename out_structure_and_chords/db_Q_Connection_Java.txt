@@ -1,4 +1,30 @@
 {
+    "instrumental-1": [
+        "Gb",
+        "Db7",
+        "Gb",
+        "B7",
+        "Gb",
+        "Db7",
+        "Db7",
+        "Gb",
+        "Db7",
+        "Gb",
+        "B7",
+        "Gb",
+        "Db7",
+        "Db7"
+    ],
+    "instrumental-2": [
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb",
+        "Gb"
+    ],
     "verse-1": [
         "Gb",
         "Gb",
@@ -53,14 +79,6 @@
         "Eb7",
         "Ab7",
         "Db7",
-        "Gb",
-        "Gb",
-        "Gb",
-        "Gb",
-        "Gb",
-        "Gb",
-        "Gb",
-        "Gb",
         "Gb"
     ],
     "chorus-3": [

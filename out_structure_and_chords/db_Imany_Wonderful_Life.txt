@@ -3,7 +3,9 @@
         "Am",
         "G/B",
         "C",
-        "Dm",
+        "Dm"
+    ],
+    "instrumental": [
         "Am",
         "Am",
         "C",

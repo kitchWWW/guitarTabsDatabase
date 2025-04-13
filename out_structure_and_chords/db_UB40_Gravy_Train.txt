@@ -197,7 +197,9 @@
         "G",
         "Am",
         "G",
-        "Am",
+        "Am"
+    ],
+    "instrumental": [
         "G",
         "Am",
         "G",

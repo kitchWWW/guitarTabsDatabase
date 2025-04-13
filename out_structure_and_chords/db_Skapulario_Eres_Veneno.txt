@@ -1,5 +1,5 @@
 {
     "intro": [],
-    "coro-1": [],
-    "coro-2": []
+    "chorus-1": [],
+    "chorus-2": []
 }

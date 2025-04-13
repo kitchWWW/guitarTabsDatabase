@@ -56,13 +56,7 @@
         "G",
         "D",
         "Dsus4",
-        "D",
-        "D",
-        "D",
-        "Bm",
-        "Bm",
-        "Bb",
-        "Bb"
+        "D"
     ],
     "chorus-3": [
         "D",
@@ -85,6 +79,14 @@
         "G",
         "A",
         "D"
+    ],
+    "instrumental": [
+        "D",
+        "D",
+        "Bm",
+        "Bm",
+        "Bb",
+        "Bb"
     ],
     "bridge": [
         "A"

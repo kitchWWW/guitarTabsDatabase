@@ -58,22 +58,7 @@
         "A",
         "A",
         "Bb",
-        "Bb6",
-        "Eb",
-        "F",
-        "D",
-        "Gm",
-        "Eb",
-        "F",
-        "Eb",
-        "D",
-        "Gm",
-        "Bb",
-        "Cm",
-        "Bb",
-        "Cm",
-        "F",
-        "Faug"
+        "Bb6"
     ],
     "chorus-2": [
         "Bb",
@@ -114,5 +99,22 @@
         "A",
         "Bb",
         "Bb6"
+    ],
+    "instrumental": [
+        "Eb",
+        "F",
+        "D",
+        "Gm",
+        "Eb",
+        "F",
+        "Eb",
+        "D",
+        "Gm",
+        "Bb",
+        "Cm",
+        "Bb",
+        "Cm",
+        "F",
+        "Faug"
     ]
 }

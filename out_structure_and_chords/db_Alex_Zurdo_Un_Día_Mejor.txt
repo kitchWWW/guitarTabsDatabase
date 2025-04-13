@@ -23,7 +23,7 @@
         "Eb",
         "F"
     ],
-    "pre-coro": [
+    "pre-chorus": [
         "Eb",
         "Gm",
         "Eb",
@@ -34,7 +34,7 @@
         "Eb",
         "F"
     ],
-    "coro": [
+    "chorus": [
         "Gm",
         "Eb",
         "Bb",

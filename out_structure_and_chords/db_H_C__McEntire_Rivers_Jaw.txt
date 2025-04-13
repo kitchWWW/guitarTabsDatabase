@@ -51,15 +51,7 @@
         "G",
         "Em",
         "A",
-        "Bm",
-        "Em",
-        "Em",
-        "Bm",
-        "Bm",
-        "Em",
-        "Em",
-        "A",
-        "A"
+        "Bm"
     ],
     "chorus-2": [
         "Em",
@@ -72,6 +64,16 @@
         "Em",
         "A",
         "Bm"
+    ],
+    "instrumental": [
+        "Em",
+        "Em",
+        "Bm",
+        "Bm",
+        "Em",
+        "Em",
+        "A",
+        "A"
     ],
     "outro": [
         "Bm",

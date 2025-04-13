@@ -46,6 +46,7 @@
         "D",
         "G/D"
     ],
+    "instrumental": [],
     "outro": [
         "Em",
         "A",

@@ -9,7 +9,10 @@
         "F",
         "F",
         "F",
-        "F",
+        "F"
+    ],
+    "instrumental-1": [],
+    "instrumental-2": [
         "A",
         "G",
         "F",
@@ -21,7 +24,10 @@
         "F",
         "F",
         "F",
-        "F",
+        "F"
+    ],
+    "instrumental-3": [],
+    "instrumental-4": [
         "F",
         "G",
         "F",

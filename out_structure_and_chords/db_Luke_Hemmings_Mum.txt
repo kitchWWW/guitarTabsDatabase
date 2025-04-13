@@ -69,7 +69,19 @@
         "C",
         "D",
         "Em",
-        "A",
+        "A"
+    ],
+    "pre-chorus": [
+        "Em",
+        "G",
+        "F",
+        "G",
+        "Em",
+        "G",
+        "F",
+        "G"
+    ],
+    "instrumental": [
         "C",
         "D",
         "Em",
@@ -102,16 +114,6 @@
         "D",
         "Em",
         "D"
-    ],
-    "pre-chorus": [
-        "Em",
-        "G",
-        "F",
-        "G",
-        "Em",
-        "G",
-        "F",
-        "G"
     ],
     "outro": [
         "C",

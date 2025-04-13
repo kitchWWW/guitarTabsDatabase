@@ -46,11 +46,6 @@
         "G",
         "A",
         "G",
-        "A",
-        "D",
-        "D",
-        "D",
-        "Bm",
         "A"
     ],
     "chorus": [
@@ -67,7 +62,16 @@
         "Bm",
         "A",
         "Bm",
-        "A",
+        "A"
+    ],
+    "instrumental-1": [
+        "D",
+        "Bm",
+        "A"
+    ],
+    "instrumental-2": [
+        "D",
+        "D",
         "D",
         "Bm",
         "A"

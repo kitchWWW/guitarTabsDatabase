@@ -42,7 +42,9 @@
         "D7/F#",
         "F",
         "Fm",
-        "Am",
+        "Am"
+    ],
+    "instrumental": [
         "Am",
         "G",
         "C",

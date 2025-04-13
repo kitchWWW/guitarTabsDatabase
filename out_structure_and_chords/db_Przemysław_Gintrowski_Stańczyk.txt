@@ -1,0 +1,83 @@
+{
+    "intro": [
+        "Gm"
+    ],
+    "verse-1": [
+        "Gm",
+        "Fm",
+        "G#m",
+        "Gm",
+        "Gm",
+        "Fm",
+        "G#m",
+        "Gm"
+    ],
+    "verse-2": [
+        "Gm",
+        "Fm",
+        "G#m",
+        "Gm",
+        "Gm",
+        "Fm",
+        "G#m",
+        "Gm"
+    ],
+    "verse-3": [
+        "Gm",
+        "Fm",
+        "G#m",
+        "Gm",
+        "Gm",
+        "Fm",
+        "G#m",
+        "Gm"
+    ],
+    "verse-4": [
+        "Gm",
+        "Fm",
+        "G#m",
+        "Gm",
+        "Gm",
+        "Fm",
+        "G#m",
+        "Gm",
+        "G#m",
+        "Gm"
+    ],
+    "chorus-1": [
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "F#m",
+        "E",
+        "Asus2",
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "D",
+        "E",
+        "Asus2"
+    ],
+    "chorus-2": [
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "F#m",
+        "E",
+        "Asus2",
+        "Asus2",
+        "E",
+        "Asus2",
+        "E",
+        "D",
+        "E",
+        "Asus2",
+        "G",
+        "F#m",
+        "E",
+        "A"
+    ]
+}

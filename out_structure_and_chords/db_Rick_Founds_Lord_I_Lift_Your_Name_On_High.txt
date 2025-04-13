@@ -61,11 +61,7 @@
         "G",
         "Am7",
         "D",
-        "G",
-        "G",
-        "Cadd9",
-        "D",
-        "Cadd9"
+        "G"
     ],
     "chorus-2": [
         "G",
@@ -84,6 +80,12 @@
         "Am7",
         "D",
         "G"
+    ],
+    "instrumental": [
+        "G",
+        "Cadd9",
+        "D",
+        "Cadd9"
     ],
     "outro": [
         "G",

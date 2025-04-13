@@ -95,7 +95,9 @@
         "Bb",
         "Gm",
         "Bb",
-        "GmMaj7",
+        "GmMaj7"
+    ],
+    "instrumental": [
         "Fma7",
         "Dm",
         "Fadd9",

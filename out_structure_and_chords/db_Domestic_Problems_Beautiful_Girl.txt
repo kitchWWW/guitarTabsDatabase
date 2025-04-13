@@ -152,7 +152,9 @@
         "C",
         "D",
         "Bm",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "G",
         "D",
         "Am",

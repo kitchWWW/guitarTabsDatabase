@@ -1,5 +1,5 @@
 {
-    "coro-1": [
+    "chorus-1": [
         "Dm",
         "Gm",
         "Dm",
@@ -33,7 +33,7 @@
         "Dm",
         "Gm"
     ],
-    "coro-2": [
+    "chorus-2": [
         "Dm",
         "Gm",
         "Dm",

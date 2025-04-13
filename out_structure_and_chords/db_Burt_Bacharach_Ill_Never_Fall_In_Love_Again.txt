@@ -57,11 +57,7 @@
         "Em7",
         "A7",
         "Dsus",
-        "D",
-        "Em7",
-        "DM7",
-        "Em7",
-        "DM7"
+        "D"
     ],
     "verse-4": [
         "DM7",
@@ -99,6 +95,12 @@
         "Bm7",
         "E7",
         "A7"
+    ],
+    "instrumental": [
+        "Em7",
+        "DM7",
+        "Em7",
+        "DM7"
     ],
     "outro": [
         "DM7",

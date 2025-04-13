@@ -1,0 +1,33 @@
+{
+    "verse-1": [
+        "Emaj7",
+        "B13",
+        "Aadd9",
+        "Emaj7",
+        "B13",
+        "Aadd9",
+        "F#m",
+        "Emaj7",
+        "B13",
+        "Aadd9",
+        "Emaj7",
+        "B13",
+        "Aadd9",
+        "C#m",
+        "G#m",
+        "C#m",
+        "G#m",
+        "Amaj7",
+        "Amaj7",
+        "G#m",
+        "A",
+        "G#m",
+        "A",
+        "B",
+        "Emaj7"
+    ],
+    "verse-2": [],
+    "verse-3": [
+        "Emaj7"
+    ]
+}

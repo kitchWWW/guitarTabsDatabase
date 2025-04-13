@@ -21,14 +21,7 @@
         "Gsus/B",
         "F2",
         "Am7",
-        "G",
-        "C/E",
-        "C2/E",
-        "F2",
-        "Gsus",
-        "G5",
-        "G",
-        "Gsus"
+        "G"
     ],
     "verse-2": [
         "C/E",
@@ -44,6 +37,18 @@
         "Am7",
         "G"
     ],
+    "instrumental-1": [
+        "C/E",
+        "C2/E",
+        "F2",
+        "Gsus",
+        "G5",
+        "G",
+        "Gsus"
+    ],
+    "instrumental-2": [],
+    "instrumental-3": [],
+    "instrumental-4": [],
     "pre-chorus-1": [
         "Am7",
         "G",

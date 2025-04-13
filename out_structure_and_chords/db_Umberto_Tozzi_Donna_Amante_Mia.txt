@@ -100,7 +100,9 @@
         "G",
         "Dm",
         "G7",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "D",
         "G",
         "Bm",

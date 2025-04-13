@@ -1,5 +1,6 @@
 {
-    "intro": [
+    "intro": [],
+    "instrumental": [
         "A",
         "A",
         "D",

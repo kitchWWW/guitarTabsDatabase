@@ -1,0 +1,77 @@
+{
+    "intro": [
+        "A",
+        "G#",
+        "A",
+        "Bbdim",
+        "Bbm",
+        "E"
+    ],
+    "verse-1": [
+        "A",
+        "G#",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E",
+        "Bm",
+        "E",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E"
+    ],
+    "verse-2": [
+        "A",
+        "G#",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E",
+        "Bm",
+        "E",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E"
+    ],
+    "verse-3": [
+        "A",
+        "G#",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E",
+        "Bm",
+        "E",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E"
+    ],
+    "verse-4": [
+        "A",
+        "G#",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E",
+        "Bm",
+        "E",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E"
+    ],
+    "verse-5": [
+        "A",
+        "G#",
+        "A",
+        "Bbdim",
+        "Bm",
+        "E",
+        "Bm",
+        "E",
+        "A"
+    ]
+}

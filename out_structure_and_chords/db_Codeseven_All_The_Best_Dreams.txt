@@ -37,10 +37,6 @@
         "Cmadd9",
         "Eb",
         "Bb5",
-        "Cm",
-        "Eb",
-        "Cm",
-        "Eb",
         "Cm"
     ],
     "verse-2": [
@@ -55,6 +51,30 @@
         "Cm",
         "Eb",
         "Cm"
+    ],
+    "instrumental-1": [
+        "Eb",
+        "Cm",
+        "Eb",
+        "Cm"
+    ],
+    "instrumental-2": [
+        "Bb5",
+        "C5",
+        "Cmadd9",
+        "Eb5",
+        "Bb5",
+        "C5",
+        "Cmadd9",
+        "Eb5",
+        "Bb5",
+        "C5",
+        "Cmadd9",
+        "Eb5",
+        "Bb5",
+        "C5",
+        "G5",
+        "G"
     ],
     "pre-chorus": [
         "Cm",
@@ -87,23 +107,7 @@
         "Cm",
         "G#",
         "Cm",
-        "Eb5",
-        "Bb5",
-        "C5",
-        "Cmadd9",
-        "Eb5",
-        "Bb5",
-        "C5",
-        "Cmadd9",
-        "Eb5",
-        "Bb5",
-        "C5",
-        "Cmadd9",
-        "Eb5",
-        "Bb5",
-        "C5",
-        "G5",
-        "G"
+        "Eb5"
     ],
     "chorus-2": [
         "G#",

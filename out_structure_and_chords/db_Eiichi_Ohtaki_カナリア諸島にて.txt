@@ -85,15 +85,6 @@
         "Cm",
         "Eb",
         "Ebm",
-        "Bb",
-        "Bb",
-        "Cm",
-        "Eb",
-        "Ebm",
-        "Bb",
-        "Db",
-        "Cm",
-        "F",
         "Bb"
     ],
     "chorus-4": [
@@ -123,5 +114,16 @@
         "Gb",
         "Cm",
         "F"
+    ],
+    "instrumental": [
+        "Bb",
+        "Cm",
+        "Eb",
+        "Ebm",
+        "Bb",
+        "Db",
+        "Cm",
+        "F",
+        "Bb"
     ]
 }

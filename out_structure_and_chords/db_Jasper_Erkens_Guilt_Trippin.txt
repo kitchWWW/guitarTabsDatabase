@@ -112,7 +112,19 @@
         "Am",
         "Am7/G",
         "D",
+        "Am7"
+    ],
+    "bridge": [
         "Am7",
+        "Dm7",
+        "Am7",
+        "Dm7",
+        "Am7",
+        "Am7",
+        "Dm7",
+        "Dm7"
+    ],
+    "instrumental": [
         "Am",
         "Am7/G",
         "D/F#",
@@ -125,16 +137,6 @@
         "Am",
         "Am7/G",
         "D/F#"
-    ],
-    "bridge": [
-        "Am7",
-        "Dm7",
-        "Am7",
-        "Dm7",
-        "Am7",
-        "Am7",
-        "Dm7",
-        "Dm7"
     ],
     "outro": [
         "Am7",

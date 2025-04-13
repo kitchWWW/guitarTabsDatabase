@@ -82,10 +82,7 @@
         "A",
         "Bm",
         "G",
-        "A",
-        "Bm",
-        "A",
-        "G"
+        "A"
     ],
     "chorus-2": [
         "Bm",
@@ -99,10 +96,7 @@
         "A",
         "Bm",
         "G",
-        "A",
-        "Bm",
-        "A",
-        "G"
+        "A"
     ],
     "chorus-3": [
         "Bm",
@@ -119,6 +113,16 @@
         "A"
     ],
     "chorus-4": [
+        "Bm",
+        "A",
+        "G"
+    ],
+    "instrumental-1": [
+        "Bm",
+        "A",
+        "G"
+    ],
+    "instrumental-2": [
         "Bm",
         "A",
         "G"

@@ -28,10 +28,7 @@
         "Am",
         "F",
         "G",
-        "Am",
-        "C",
-        "F",
-        "C"
+        "Am"
     ],
     "verse-2": [
         "C",
@@ -57,10 +54,7 @@
         "Am",
         "F",
         "G",
-        "Am",
-        "C",
-        "F",
-        "C"
+        "Am"
     ],
     "verse-3": [
         "C",
@@ -86,7 +80,19 @@
         "C",
         "F",
         "G",
+        "C"
+    ],
+    "instrumental-1": [
         "C",
+        "F",
+        "C"
+    ],
+    "instrumental-2": [
+        "C",
+        "F",
+        "C"
+    ],
+    "instrumental-3": [
         "C",
         "F",
         "C"

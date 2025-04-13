@@ -6,7 +6,19 @@
         "Em",
         "G",
         "A",
+        "Bm"
+    ],
+    "instrumental-1": [
         "Bm",
+        "G",
+        "Em"
+    ],
+    "instrumental-2": [
+        "Bm",
+        "G",
+        "Em"
+    ],
+    "instrumental-3": [
         "Bm",
         "G",
         "Em"
@@ -61,10 +73,7 @@
         "Em",
         "G",
         "A",
-        "Bm",
-        "Bm",
-        "G",
-        "Em"
+        "Bm"
     ],
     "chorus-2": [
         "Bm",
@@ -85,10 +94,7 @@
         "A",
         "E",
         "G",
-        "A",
-        "Bm",
-        "G",
-        "Em"
+        "A"
     ],
     "chorus-3": [
         "Bm",

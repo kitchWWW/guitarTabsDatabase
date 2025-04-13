@@ -17,14 +17,7 @@
         "Csus2",
         "Dadd4",
         "Csus2",
-        "Dadd4",
-        "G",
-        "G",
-        "Csus2",
-        "G",
-        "G",
-        "Csus2",
-        "G"
+        "Dadd4"
     ],
     "verse-2": [
         "Em",
@@ -49,6 +42,15 @@
         "Dadd4",
         "Csus2",
         "Dadd4",
+        "G",
+        "G",
+        "Csus2",
+        "G"
+    ],
+    "instrumental": [
+        "G",
+        "G",
+        "Csus2",
         "G",
         "G",
         "Csus2",

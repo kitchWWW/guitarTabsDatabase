@@ -53,9 +53,7 @@
         "Bb",
         "D",
         "Am",
-        "G",
-        "D",
-        "Bm"
+        "G"
     ],
     "verse-3": [
         "Em",
@@ -106,9 +104,7 @@
         "Eb",
         "G",
         "D",
-        "Gm",
-        "Cm",
-        "Bb"
+        "Gm"
     ],
     "chorus-1": [
         "B",
@@ -167,6 +163,14 @@
         "D",
         "C",
         "Gm"
+    ],
+    "instrumental-1": [
+        "D",
+        "Bm"
+    ],
+    "instrumental-2": [
+        "Cm",
+        "Bb"
     ],
     "outro": [
         "D",

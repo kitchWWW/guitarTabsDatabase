@@ -75,7 +75,9 @@
         "D",
         "Am",
         "C",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "G",
         "Em",
         "Am",

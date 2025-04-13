@@ -94,7 +94,9 @@
         "G",
         "G",
         "G",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "Em",
         "D",
         "G",

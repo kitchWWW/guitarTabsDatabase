@@ -69,7 +69,9 @@
         "Am7",
         "Em9",
         "Cadd9",
-        "D",
+        "D"
+    ],
+    "instrumental": [
         "EM",
         "D",
         "Cadd9",

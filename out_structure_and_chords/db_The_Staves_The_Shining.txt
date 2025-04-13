@@ -69,7 +69,9 @@
     "outro": [
         "Bm",
         "Dmaj7",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "G",
         "Bm",
         "G",

@@ -1,1 +1,28 @@
-{}
+{
+    "instrumental-1": [
+        "Eb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cm",
+        "Bb"
+    ],
+    "instrumental-2": [
+        "Eb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Ab",
+        "G",
+        "Eb",
+        "G"
+    ]
+}

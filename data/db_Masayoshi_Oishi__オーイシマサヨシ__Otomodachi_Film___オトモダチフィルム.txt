@@ -1,0 +1,143 @@
+URL: https://tabs.ultimate-guitar.com/tab/5281587
+Artist: Masayoshi Oishi (オーイシマサヨシ)
+Song: Otomodachi Film - オトモダチフィルム
+Genre: 
+Key: D
+
+
+[Guide]
+* = Strum Once
+
+[Chords]
+Dmaj7      = XX0222 or X57675
+Ddim7      = XX0101 or X5646X
+[ch]Aaug[/ch]       = X02221
+[ch]Gm9[/ch]        = 353335
+[ch]Asus4[/ch]      = X02230
+[ch]Emadd9[/ch]     = 022002
+[ch]A#maj7[/ch]     = X13231
+[ch]G#m7-5[/ch]     = 4X443X
+[tab][ch]Gmaj7[/ch]      = 3X4432
+Asusaddb9  = X0233X[/tab]
+[tab][ch]C#m7-5[/ch]     = X3434X
+F#addb9    = XX4323[/tab]
+[ch]Gsus2[/ch]      = 300233
+[tab][ch]A6[/ch]         = X02222
+A7         = X02223 or X02020[/tab]
+[ch]D5[/ch]         = X577XX
+[ch]E5[/ch]         = 022XXX
+[ch]F#5[/ch]        = 244XXX
+[ch]G5[/ch]         = 355XXX
+[ch]A5[/ch]         = 577XXX
+
+[Intro]
+[ch]D[/ch] [ch]Ddim7[/ch] [ch]G[/ch] [ch]Aaug[/ch] [ch]A[/ch]
+[ch]Gm[/ch] [ch]Aaug[/ch] [ch]D[/ch]
+[ch]Dmaj7[/ch] [ch]Ddim7[/ch] [ch]Gm9[/ch] [ch]C[/ch]
+[ch]Dmaj7[/ch] [ch]Ddim7[/ch] [ch]Gm9[/ch] [ch]C[/ch]
+
+[Verse 1]
+[tab][ch]D[/ch]            [ch]Ddim7[/ch]
+Chotto matte kocchi muite[/tab]
+[tab][ch]Em[/ch]         [ch]Aaug[/ch]   [ch]Asus4[/ch] [ch]A[/ch]
+Faindaa wa itsumo kimatte[/tab]
+[tab][ch]F#m[/ch]    [ch]Bm[/ch]     [ch]Em[/ch] [ch]Emadd9[/ch]      [ch]A[/ch]
+Kimi janai to pin       to konai[/tab]
+[tab][ch]F#m[/ch]    [ch]Bm[/ch]       [ch]Em7[/ch]       [ch]A[/ch]
+Boku wa douka shichatta no kai[/tab]
+
+[Verse 2]
+[tab][ch]D[/ch]             [ch]Ddim7[/ch]
+Otomodachi wo toorikoshite[/tab]
+[tab][ch]Em[/ch]            [ch]Aaug[/ch]      [ch]Asus4[/ch] [ch]A[/ch]
+Surechigai no koibito miman   mo[/tab]
+[tab][ch]F#m[/ch]     [ch]Bm[/ch]     [ch]Em[/ch] [ch]Emadd9[/ch]   [ch]A[/ch]
+Sore wa souzou shita     sekai ki[/tab]
+[tab][ch]F#m[/ch]     [ch]Bm[/ch]     [ch]A#maj7[/ch]             [ch]A[/ch] [ch]G#m7-5[/ch]
+ga tsukeba marude niji no you sa[/tab]
+
+[Pre-Chorus]
+[tab][ch]Gmaj7[/ch] Asusaddb9   [ch]F#m[/ch] [ch]Bm[/ch]
+Kiset   su yo     tomare[/tab]
+[tab]  [ch]Em[/ch]        [ch]A7[/ch]      [ch]Dmaj7[/ch] [ch]Em7[/ch] [ch]F#m7[/ch]
+kimi to kiritotta ji ka -  n   ga[/tab]
+[tab][ch]Gmaj7[/ch] Asusaddb9 [ch]F#m[/ch]  [ch]Bm[/ch]
+Sha    shin no  naka de[/tab]
+[tab][ch]Em[/ch]     [ch]F#m[/ch]     [ch]G[/ch]       [ch]G#m7-5[/ch]   [ch]A[/ch]
+are mo kore mo sore mo dore mo kagayaiten da yo[/tab]
+
+[Chorus]
+[tab]      [ch]D[/ch]                         [ch]C#m7-5[/ch]           [ch]F#[/ch]
+Nee kimi ni kimi ni hitotsu tsu - tae  to kitain da[/tab]
+[tab]F#addb9   [ch]Bm[/ch]             [ch]A#[/ch]   [ch]Gsus2[/ch]    [ch]A6[/ch]    [ch]A7[/ch] [ch]A6[/ch] [ch]A[/ch]
+Mou tomaranai kakushikirenai omoi ga koko ni an da yo[/tab]
+[tab][ch]D[/ch]                 [ch]C#m7-5[/ch]         [ch]F#[/ch]
+Baby omoide to iu firumu no naka e[/tab]
+[tab]F#addb9     [ch]Bm[/ch]            [ch]A#[/ch]   [ch]Gsus2[/ch]    [ch]A6[/ch]    [ch]A[/ch]  [ch]A7[/ch] [ch]A6[/ch]
+Kimi ga tokete shimau mae ni todoketai kotoba ga an da yo[/tab]
+
+[Break]
+[ch]Dmaj7[/ch] [ch]Ddim7[/ch] [ch]Gm9[/ch] [ch]C[/ch]
+[ch]Dmaj7[/ch] [ch]Ddim7[/ch] [ch]Gm9[/ch] [ch]C[/ch]
+
+[Verse 3]
+[tab][ch]D[/ch]                 [ch]Ddim7[/ch]
+Terekakushi ga do okoshite[/tab]
+[tab][ch]Em[/ch]          [ch]Aaug[/ch]      [ch]Asus4[/ch] [ch]A[/ch]
+boyakekitta koi no fookasu  mo[/tab]
+[tab][ch]F#m[/ch]   [ch]Bm[/ch]      [ch]Em[/ch] [ch]Emadd9[/ch]    [ch]A[/ch]
+Gomakashiteru baai      janai[/tab]
+[tab][ch]F#m[/ch]     [ch]Bm[/ch]   [ch]A#maj7[/ch]             [ch]A[/ch] [ch]G#m7-5[/ch]
+ozanari na Hibi wa wana no you sa[/tab]
+
+[Pre-Chorus]
+[tab][ch]Gmaj7[/ch] Asusaddb9  [ch]F#m[/ch]  [ch]Bm[/ch]
+Bimyo - u na    kyori de[/tab]
+[tab]   [ch]Em[/ch]      [ch]A7[/ch]    [ch]Dmaj7[/ch] [ch]Em7[/ch]  [ch]F#m7[/ch]
+tsumuida bamen ga suu  ne - ngo[/tab]
+[tab][ch]Gmaj7[/ch] Asusaddb9 [ch]F#m[/ch]  [ch]Bm[/ch]
+Boku -  ra no   naka de[/tab]
+[tab][ch]Em[/ch]    [ch]F#m[/ch]    [ch]G[/ch]     [ch]G#m7-5[/ch] [ch]A[/ch]
+donna iro wo donna imi wo katadotten darou[/tab]
+
+[Chorus]
+[tab]    [ch]D[/ch]                       [ch]C#m7-5[/ch]        [ch]F#[/ch]
+Iza kimi ni kimi ni nante hanashitara iin da[/tab]
+[tab]F#addb9 [ch]Bm[/ch]              [ch]A#[/ch]  [ch]Gsus2[/ch]     [ch]A6[/ch]    [ch]A7[/ch] [ch]A6[/ch] [ch]A[/ch]
+Kikkake sae mama ni naranai omoi ga koko ni an da yo[/tab]
+[tab][ch]D[/ch]                    [ch]C#m7-5[/ch]       [ch]F#[/ch]
+Baby tomodachi to iu renzu wo sutete[/tab]
+[tab]F#addb9    [ch]Bm[/ch]             [ch]A#[/ch]  [ch]Gsus2[/ch]          [ch]A6[/ch] [ch]A[/ch]   [ch]A7[/ch]  [ch]A6[/ch]
+Kimi to egaku kyou no subete  kono me ni yakitsuke-tain da yo[/tab]
+
+[Break]
+[ch]Dmaj7[/ch] [ch]Ddim7[/ch] [ch]G[/ch] [ch]A7[/ch]
+[ch]Dmaj7[/ch] [ch]Ddim7[/ch] [ch]G[/ch] [ch]A7[/ch]
+
+[ch]D5[/ch] [ch]D5[/ch] [ch]E5[/ch] [ch]F#5[/ch] [ch]G5[/ch] [ch]A5[/ch]
+[ch]D5[/ch] [ch]D5[/ch] [ch]E5[/ch] [ch]F#5[/ch] [ch]G5[/ch] [ch]A5[/ch]
+[ch]D5[/ch] [ch]D5[/ch] [ch]E5[/ch] [ch]F#5[/ch] [ch]G5[/ch] [ch]Asus4[/ch] [ch]A[/ch]
+
+[Interlude]
+[tab][ch]G[/ch]              [ch]Gm[/ch]
+Hajimemashite, tokubetsu na Lady[/tab]
+[tab][ch]F#m[/ch]       [ch]Bm[/ch]
+Imasara sugite nani kore?[/tab]
+[tab][ch]Em[/ch]          [ch]F#m[/ch]                  [ch]G[/ch]             [ch]F#m[/ch]   [ch]F[/ch] [ch]A[/ch]
+Ari no mama no kokoro tte　nante kosobayuin deshou?[/tab]
+
+[Chorus]
+[tab]      [ch]D[/ch]                         [ch]C#m7-5[/ch]           [ch]F#[/ch]
+Nee kimi ni kimi ni hitotsu tsu - tae  to kitain da[/tab]
+[tab]F#addb9   [ch]Bm[/ch]             [ch]A#[/ch]   [ch]Gsus2[/ch]    [ch]A6[/ch]    [ch]A7[/ch] [ch]A6[/ch]
+Mou tomaranai kakushikirenai omoi ga koko ni an da yo[/tab]
+[tab][ch]D[/ch]                 [ch]C#m7-5[/ch]         [ch]F#[/ch]
+Baby omoide to iu firumu no naka e[/tab]
+[tab]F#addb9     [ch]Bm[/ch]            [ch]A#[/ch]   [ch]Gsus2[/ch]    [ch]A6[/ch]    [ch]A[/ch]  [ch]A7[/ch] [ch]A6[/ch]    [ch]G[/ch] [ch]F#m[/ch]
+Kimi ga tokete shimau mae ni todoketai kotoba ga an da yo[/tab]
+[tab][ch]Em[/ch]  [ch]F#m[/ch]     [ch]G[/ch]      [ch]A[/ch]
+Ima kimi ni koi shiteru yo[/tab]
+
+[Outro]
+[ch]D[/ch] [ch]Ddim7[/ch] [ch]G[/ch] [ch]Aaug[/ch] [ch]A[/ch]
+[ch]Gm[/ch] [ch]Aaug[/ch] [ch]D[/ch]

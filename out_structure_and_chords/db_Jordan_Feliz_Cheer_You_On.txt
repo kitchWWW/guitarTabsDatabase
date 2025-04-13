@@ -79,9 +79,6 @@
         "Bm",
         "D",
         "A",
-        "Bm",
-        "D",
-        "A",
         "Bm"
     ],
     "chorus-3": [
@@ -98,6 +95,11 @@
         "Bm",
         "A",
         "D"
+    ],
+    "instrumental": [
+        "D",
+        "A",
+        "Bm"
     ],
     "bridge": [
         "D",

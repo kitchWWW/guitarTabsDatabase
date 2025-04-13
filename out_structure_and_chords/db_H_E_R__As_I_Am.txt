@@ -66,11 +66,7 @@
         "C7",
         "Gm7",
         "Fm9",
-        "Bb7",
-        "Am9",
-        "C7",
-        "Dm7",
-        "Fm9"
+        "Bb7"
     ],
     "chorus-2": [
         "Am9",
@@ -99,6 +95,12 @@
         "Gm7",
         "Fm9",
         "Bb7"
+    ],
+    "instrumental": [
+        "Am9",
+        "C7",
+        "Dm7",
+        "Fm9"
     ],
     "bridge": [
         "Fm9",

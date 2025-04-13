@@ -101,7 +101,9 @@
         "G",
         "Em",
         "Bm",
-        "A",
+        "A"
+    ],
+    "instrumental": [
         "G",
         "Em",
         "Bm",

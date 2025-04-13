@@ -57,14 +57,6 @@
         "Bbm",
         "Ebm",
         "Gb",
-        "F",
-        "Bbm",
-        "Ebm",
-        "Bbm",
-        "Ebm",
-        "Bbm",
-        "Ebm",
-        "Bbm",
         "F"
     ],
     "chorus-2": [
@@ -101,6 +93,16 @@
         "Bbm",
         "Ebm",
         "Gb",
+        "F"
+    ],
+    "instrumental": [
+        "Bbm",
+        "Ebm",
+        "Bbm",
+        "Ebm",
+        "Bbm",
+        "Ebm",
+        "Bbm",
         "F"
     ],
     "bridge": [

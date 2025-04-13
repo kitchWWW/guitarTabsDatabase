@@ -1,0 +1,40 @@
+URL: https://tabs.ultimate-guitar.com/tab/noisestorm/crab-rave-ukulele-2645934
+Artist: Noisestorm
+Song: Crab Rave
+Genre: 
+Key: 
+
+
+ Noisestorm
+
+"Crab Rave"
+
+Standard tuning.
+
+[Verse]
+
+ N.C.
+Play only the top 3 strings:
+
+Gm 2x Dm 2x Am 2x Bb 3x Am    (4x)
+
+[tab]A|-----------------------|
+E|-3-3-1-1-0-0-1-1-1-0---|
+C|-2-2-2-2-0-0-2-2-2-0---|
+G|-0-0-2-2-2-2-3-3-3-2---|[/tab]
+
+
+[Build up]
+
+[tab]G|-0-0-0-0-0-0-0-0-[/tab]
+
+[Chorus]
+
+   [ch]Gm[/ch]       [ch]Dm[/ch]        [ch]Dm[/ch]           [ch]C[/ch]
+
+[tab]A|---1----------0---------0-----------------|
+E|----3-3---------1-1-------1-1------0-0-1--|    8x
+C|-2-------2-2--------2-2--------0-0--------|
+G|------------------------------------------|[/tab]
+
+That's basically the whole song

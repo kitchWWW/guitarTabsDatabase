@@ -102,7 +102,9 @@
     "bridge": [
         "B5",
         "B5",
-        "B5",
+        "B5"
+    ],
+    "instrumental": [
         "B",
         "Bm",
         "B",

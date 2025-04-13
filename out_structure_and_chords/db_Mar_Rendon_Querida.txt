@@ -1,19 +1,19 @@
 {
-    "pre-coro-1": [
+    "pre-chorus-1": [
         "Dm",
         "Am",
         "E",
         "A",
         "A7"
     ],
-    "pre-coro-2": [
+    "pre-chorus-2": [
         "Dm",
         "Am",
         "E",
         "A",
         "A7"
     ],
-    "coro-1": [
+    "chorus-1": [
         "Dm",
         "Am",
         "E",
@@ -31,7 +31,7 @@
         "E",
         "Am"
     ],
-    "coro-2": [
+    "chorus-2": [
         "Dm",
         "Am",
         "E",

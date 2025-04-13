@@ -53,7 +53,9 @@
         "C",
         "D",
         "Am7",
-        "Dsus2",
+        "Dsus2"
+    ],
+    "instrumental": [
         "G",
         "D",
         "C",

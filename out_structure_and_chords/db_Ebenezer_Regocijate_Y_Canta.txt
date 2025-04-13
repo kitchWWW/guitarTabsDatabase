@@ -42,7 +42,7 @@
         "Bb",
         "Dm7"
     ],
-    "coro": [
+    "chorus": [
         "Bb",
         "F",
         "Bb",

@@ -75,13 +75,7 @@
         "D",
         "G",
         "G/B",
-        "Em7/C",
-        "G",
-        "G/B",
-        "Em7/C",
-        "Am",
-        "C",
-        "D"
+        "Em7/C"
     ],
     "chorus-2": [
         "G",
@@ -107,7 +101,17 @@
         "C",
         "D",
         "Em",
-        "A",
+        "A"
+    ],
+    "instrumental-1": [
+        "G",
+        "G/B",
+        "Em7/C",
+        "Am",
+        "C",
+        "D"
+    ],
+    "instrumental-2": [
         "Em",
         "A"
     ],

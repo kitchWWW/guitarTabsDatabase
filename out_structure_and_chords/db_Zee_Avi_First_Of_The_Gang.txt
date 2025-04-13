@@ -74,15 +74,7 @@
         "Em7",
         "Ebm7",
         "Dm",
-        "G",
-        "Bbmaj7",
-        "Bbmaj7",
-        "Dm",
-        "Dm",
-        "Eb",
-        "Eb",
-        "F",
-        "F"
+        "G"
     ],
     "chorus-1": [
         "C",
@@ -142,6 +134,16 @@
         "Am",
         "Em7",
         "G"
+    ],
+    "instrumental": [
+        "Bbmaj7",
+        "Bbmaj7",
+        "Dm",
+        "Dm",
+        "Eb",
+        "Eb",
+        "F",
+        "F"
     ],
     "outro": [
         "F",

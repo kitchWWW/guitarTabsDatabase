@@ -41,10 +41,6 @@
         "G",
         "A",
         "G",
-        "A",
-        "Dsus4",
-        "D",
-        "Asus4",
         "A"
     ],
     "chorus-2": [
@@ -53,10 +49,6 @@
         "G",
         "A",
         "G",
-        "A",
-        "Dsus4",
-        "D",
-        "Asus4",
         "A"
     ],
     "chorus-3": [
@@ -65,7 +57,27 @@
         "G",
         "A",
         "G",
-        "A",
+        "A"
+    ],
+    "instrumental-1": [
+        "Dsus4",
+        "D",
+        "Asus4",
+        "A"
+    ],
+    "instrumental-2": [
+        "Dsus4",
+        "D",
+        "Asus4",
+        "A"
+    ],
+    "instrumental-3": [
+        "Dsus4",
+        "D",
+        "Asus7",
+        "A"
+    ],
+    "instrumental-4": [
         "Dsus4",
         "D",
         "Asus4",
@@ -84,10 +96,6 @@
         "A",
         "G",
         "A",
-        "A",
-        "Dsus4",
-        "D",
-        "Asus7",
         "A"
     ],
     "outro": [

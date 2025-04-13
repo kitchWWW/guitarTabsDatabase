@@ -22,7 +22,9 @@
         "Dm",
         "G",
         "C",
-        "Am",
+        "Am"
+    ],
+    "instrumental-1": [
         "Dm",
         "G",
         "E",
@@ -51,7 +53,9 @@
         "Dm",
         "G",
         "C",
-        "Am",
+        "Am"
+    ],
+    "instrumental-2": [
         "Dm7",
         "G",
         "C",

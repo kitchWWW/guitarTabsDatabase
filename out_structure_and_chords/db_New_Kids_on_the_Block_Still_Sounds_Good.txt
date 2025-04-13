@@ -1,8 +1,14 @@
 {
-    "intro": [
+    "intro": [],
+    "instrumental-1": [
         "D",
         "D",
         "A",
+        "D",
+        "D",
+        "A"
+    ],
+    "instrumental-2": [
         "D",
         "D",
         "A"
@@ -73,10 +79,7 @@
         "G",
         "Bm",
         "A",
-        "G",
-        "D",
-        "D",
-        "A"
+        "G"
     ],
     "chorus-2": [
         "G",

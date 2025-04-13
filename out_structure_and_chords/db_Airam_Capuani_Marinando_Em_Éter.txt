@@ -30,14 +30,7 @@
         "B7",
         "Am7",
         "Dm7",
-        "E7",
-        "Edim",
-        "Gm",
-        "Dm",
-        "Ddim",
-        "Cm",
-        "Dm",
-        "D"
+        "E7"
     ],
     "chorus-2": [
         "Dm",
@@ -51,5 +44,14 @@
         "Bm",
         "A7",
         "Dm"
+    ],
+    "instrumental": [
+        "Edim",
+        "Gm",
+        "Dm",
+        "Ddim",
+        "Cm",
+        "Dm",
+        "D"
     ]
 }

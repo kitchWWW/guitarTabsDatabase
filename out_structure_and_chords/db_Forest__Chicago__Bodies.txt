@@ -1,0 +1,101 @@
+{
+    "intro": [
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm"
+    ],
+    "verse-1": [
+        "Gmaj7",
+        "F#m",
+        "Gmaj7",
+        "Em",
+        "Gmaj7",
+        "F#m",
+        "Gmaj7",
+        "A"
+    ],
+    "verse-2": [
+        "Gmaj7",
+        "F#",
+        "Gma7",
+        "Em",
+        "Gma7",
+        "F#",
+        "Gmaj7",
+        "A"
+    ],
+    "chorus-1": [
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "A"
+    ],
+    "chorus-2": [
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "A"
+    ],
+    "chorus-3": [
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "A"
+    ],
+    "instrumental": [
+        "Gmaj7",
+        "G",
+        "F#m",
+        "Gmaj7",
+        "Em",
+        "Gmaj7",
+        "G",
+        "F#m",
+        "Gmaj7",
+        "G",
+        "A",
+        "A"
+    ],
+    "bridge": [
+        "Bm",
+        "D",
+        "Em",
+        "F#",
+        "Bm",
+        "D",
+        "Em",
+        "F#",
+        "Bm",
+        "D",
+        "Em",
+        "F#",
+        "Gmaj7",
+        "A",
+        "Bm"
+    ],
+    "outro": [
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "Gmaj7",
+        "Bm",
+        "Gmaj7(#9)"
+    ]
+}

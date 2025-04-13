@@ -1,0 +1,138 @@
+URL: https://tabs.ultimate-guitar.com/tab/justin-nozuka/after-tonight-chords-1217219
+Artist: Justin Nozuka
+Song: After Tonight
+Genre: 
+Key: 
+
+
+Capo: 3rd Fret (optional of course, but album version is 3)
+Chords: 
+Am [x 0 2 2 1 0] 
+Em [0 2 2 0 0 0] 
+Dm [x 0 0 2 3 1] 
+F1 [0 3 3 2 1 0] Actually an Open F
+F2 [0 4 4 3 2 0] Actually an F#
+F3 [0 5 5 4 3 0] Actually a G
+F  [1 3 3 2 1 1] Standard F bar chord
+
+I copied most of this from Version 1 by stugreenham – Ver1 is really a great tab 
+and helped me trememdously. I am updating this to include the change of name on 
+chords C1/C2/C3 to F1/F2/F3, but as I mention above they are really just open F/F#/
+G chords. I’m leaving them as F1/F2/F3 as it reinforces that the grip/position is 
+the same, just sliding up/down the neck. Also some of the chord placements were a 
+little off, so I made those adjustments and in the Bridge I believe it’s a quick 
+(denoted by the parenthesis) Em not Dm chord on the first two lines. Other 
+comments have said they just strum all strings open, except muting the Low E so 
+you might try that as well. I also mute the low E string but leave the high E 
+ringing open most of the time while sliding up on the F1/F2/F3, but not always - 
+depends on how clean you want it to sound.  I hope this is helpful to other people 
+and want to say thank you again to stugreenham for the first submission. It’s 
+really well done and how I learned to play this song. Cheers!
+
+[Intro]
+
+[tab]Pick first string into slide up to
+   F3
+|---0
+|-1/3
+|---4
+|---5
+|---5
+|---0[/tab]
+
+F3/F2/F1
+F1/F2/F3
+F3/F2/F1
+
+[Verse]
+[tab][ch]Am[/ch]               [ch]Em[/ch]
+There's something in your eyes[/tab]
+[tab][ch]Am[/ch]                      [ch]Em[/ch]
+Is everything all right[/tab]
+[tab][ch]Dm[/ch]                [ch]Em[/ch]
+You look up to the sky[/tab]
+                F1
+you long for something more
+          F1/F2/F3
+Darling
+   F3/F2/F1            F1/F2/F3
+give me your right hand
+   F3/F2/F1
+I think I understand
+[tab][ch]Dm[/ch]                 [ch]Em[/ch]                      F1
+Follow me and you will never have to wish again[/tab]
+
+
+[Chorus]
+[tab][ch]Dm[/ch]             [ch]Am[/ch]
+I Know that after tonight[/tab]
+[tab] [ch]Em[/ch]                             [ch]Am[/ch]                    
+you don't have to look up at the stars[/tab]
+no no no no
+[tab][ch]Dm[/ch]            [ch]Am[/ch]                        
+I know by the end of tonight[/tab]
+[tab] [ch]Em[/ch]                              [ch]Am[/ch]
+you don't have to look up at the stars[/tab]
+[tab][ch]Dm[/ch]           [ch]Am[/ch]                
+I know if the love is alright, [/tab]
+[tab][ch]Em[/ch]                          [ch]Am[/ch]
+you don't have to look up at the stars[/tab]
+no no no no
+[tab][ch]Dm[/ch]                      [ch]Am[/ch]                        
+I know by the end of tonight[/tab]
+[tab] [ch]Em[/ch]                         [ch]Am[/ch]
+you don't have to look up at the stars[/tab]
+F3   F3/F2/F1
+no no no no
+
+
+[Verse 2]
+[tab][ch]Am[/ch]               [ch]Em[/ch]
+Tell me how you feel[/tab]
+[tab][ch]Am[/ch]               [ch]Em[/ch]
+and if I'm getting near[/tab]
+[tab][ch]Dm[/ch]               [ch]Em[/ch]
+I'll tell you where to stay[/tab]
+         F1
+you tell me where to steer
+        F1/F2/F3
+Darling
+   F3/F2/F1           F1/F2/F3
+way above the clouds
+       F3/F2/F1
+and high above the stars
+[tab][ch]Dm[/ch]                     [ch]Em[/ch]
+through the unknown black holes[/tab]
+                 F1
+no one knows where we are
+
+But we'll return to earth and do it all over again
+
+(REPEAT CHORUS – pg 1)
+
+[Bridge]
+[tab][ch]F[/ch]      [ch]Em[/ch]   [ch]Am[/ch]  ([ch]Em[/ch]) [ch]Am[/ch]
+Come away with me[/tab]
+[tab][ch]F[/ch]      [ch]Em[/ch]   [ch]Am[/ch]  ([ch]Em[/ch]) [ch]Am[/ch]
+Come fly away with me[/tab]
+[tab][ch]Dm[/ch]
+Just for one night[/tab]
+[tab][ch]Em[/ch]
+no one will ever know[/tab]
+     F1              F1/F2/F3
+no no no   oh darling
+      F3/F2/F1
+I will leave you satisfied
+F1/F2/F3         F3/F2/F1
+        forever past time
+[tab][ch]Dm[/ch]             
+You don't have to hide[/tab]
+[tab]   [ch]Em[/ch]           F1
+you're free to fly[/tab]
+
+
+(CHORUS AGAIN)
+(CHORUS AGAIN but last line saying
+  “You’ll be looking down upon them from heaven”)
+
+Resolve from F1 to [ch]Am[/ch] out

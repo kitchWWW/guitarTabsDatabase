@@ -50,11 +50,7 @@
         "Em",
         "C",
         "D",
-        "Em",
-        "C",
-        "Em",
-        "C",
-        "A"
+        "Em"
     ],
     "chorus-2": [
         "Em",
@@ -68,7 +64,25 @@
         "C",
         "Em",
         "C",
+        "Em"
+    ],
+    "chorus-3": [
         "Em",
+        "C",
+        "D",
+        "Em",
+        "Em",
+        "C",
+        "D",
+        "Em"
+    ],
+    "instrumental-1": [
+        "C",
+        "Em",
+        "C",
+        "A"
+    ],
+    "instrumental-2": [
         "C",
         "Em",
         "C",
@@ -81,16 +95,6 @@
         "Em",
         "C",
         "A"
-    ],
-    "chorus-3": [
-        "Em",
-        "C",
-        "D",
-        "Em",
-        "Em",
-        "C",
-        "D",
-        "Em"
     ],
     "outro": [
         "C",

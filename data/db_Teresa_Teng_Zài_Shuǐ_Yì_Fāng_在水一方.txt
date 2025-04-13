@@ -1,0 +1,38 @@
+URL: https://tabs.ultimate-guitar.com/tab/1408224
+Artist: Teresa Teng
+Song: Zài Shuǐ Yì Fāng 在水一方
+Genre: 
+Key: 
+
+
+Hi. My name is Jeff Hao. I arrange songs for easy piano solo and chords 
+and put them on Hao Staff (a kind of piano tab that anyone can read and
+play). They are all free for people to download (check out haostaff.com).
+
+In my work, I need to figure out the chords first (accurately). I will 
+share all my work here as well for the guitar players. You will notice 
+the unique format I came up for myself in matching the chord change with
+the right word (or part of the word). Being a guitar player, I find this
+format much easier to read and sing along. It also shows the chord
+progression structure more clearly for easier memorizing. Enjoy!
+
+
+Zai Shui Yi Fang (Teresa Teng)
+
+[tab]       [ch]C[/ch]         [ch]Am[/ch]        [ch]Dm[/ch]      [ch]G[/ch]    
+v1: Lu Cao  Cang Cang, Bai Wu Mang Mang[/tab]
+v2: Lu Cao  Qi   Qi,   Bai Wu  Mi  Li
+[tab]        [ch]F[/ch]       [ch]Em[/ch]       [ch]G[/ch]       [ch]C[/ch]
+v1: You Wei Jia Ren, Zai Shui Yi Fang[/tab]
+v2: You Wei Jia Ren, Zai Shui Yi Fang
+
+
+Chorus:
+[tab][ch]Am[/ch]             [ch]Em[/ch]        [ch]A[/ch]                   [ch]Dm[/ch]   [ch]G7[/ch]
+Wo Yuan Ni Liu Er Shang, Zhao Xun Ta De Fang Xiang,  Wu[/tab]
+[tab][ch]C[/ch]        [ch]A7[/ch]       [ch]Dm[/ch]   [ch]G7[/ch]     [ch]F[/ch]               [ch]G[/ch]
+Nai Qian You Xian Tan,    Dao Lu You Yuan You Chang[/tab]
+[tab][ch]Am[/ch]               [ch]Em[/ch]        [ch]A[/ch]               [ch]Dm[/ch]   [ch]G7[/ch]
+Wo Yuan Shun Liu Er Xia, Yu Ta Qing Yan Xi Yu,      Wu[/tab]
+[tab][ch]C[/ch]        [ch]A7[/ch]       [ch]Dm[/ch]   [ch]G7[/ch]    [ch]F[/ch]        [ch]G[/ch]        [ch]C[/ch]
+Nai Qian You Xian Tan,    Ta Zai Shui De Zhong Yang[/tab]

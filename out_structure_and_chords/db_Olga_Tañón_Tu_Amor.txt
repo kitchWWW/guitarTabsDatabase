@@ -1,11 +1,11 @@
 {
-    "coro-1": [
+    "chorus-1": [
         "E",
         "A",
         "E",
         "A",
         "E"
     ],
-    "coro-2": [],
-    "coro-3": []
+    "chorus-2": [],
+    "chorus-3": []
 }

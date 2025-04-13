@@ -60,7 +60,9 @@
         "Am",
         "F",
         "E",
-        "Am",
+        "Am"
+    ],
+    "chorus-2": [
         "Am",
         "Dm",
         "G",
@@ -79,7 +81,7 @@
         "E",
         "Am"
     ],
-    "chorus-2": [
+    "instrumental": [
         "Am",
         "Dm",
         "G",

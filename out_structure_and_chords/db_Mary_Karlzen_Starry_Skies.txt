@@ -1,5 +1,11 @@
 {
     "intro-1": [],
     "intro-2": [],
-    "intro-3": []
+    "intro-3": [],
+    "instrumental-1": [],
+    "instrumental-2": [],
+    "instrumental-3": [],
+    "instrumental-4": [],
+    "instrumental-5": [],
+    "instrumental-6": []
 }

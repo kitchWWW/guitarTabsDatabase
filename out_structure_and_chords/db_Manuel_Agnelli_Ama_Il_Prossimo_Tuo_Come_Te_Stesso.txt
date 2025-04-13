@@ -46,13 +46,7 @@
         "D",
         "A",
         "G",
-        "F#m7",
-        "Bm",
-        "Em",
-        "GM7",
-        "Bm",
-        "Em",
-        "G"
+        "F#m7"
     ],
     "verse-2": [
         "Bm",
@@ -89,6 +83,14 @@
         "D",
         "G",
         "F#m7"
+    ],
+    "instrumental": [
+        "Bm",
+        "Em",
+        "GM7",
+        "Bm",
+        "Em",
+        "G"
     ],
     "outro": [
         "Bm",

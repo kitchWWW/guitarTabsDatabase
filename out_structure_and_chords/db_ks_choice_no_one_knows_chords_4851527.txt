@@ -155,7 +155,9 @@
         "G",
         "G",
         "Cm",
-        "Am",
+        "Am"
+    ],
+    "instrumental": [
         "Cm",
         "Cm7",
         "Cm",

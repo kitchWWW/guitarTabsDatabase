@@ -100,11 +100,7 @@
         "G",
         "Am",
         "Fmaj7",
-        "G",
-        "Am",
-        "Fmaj7",
-        "G",
-        "Am"
+        "G"
     ],
     "bridge": [
         "Am",
@@ -113,6 +109,12 @@
         "Am",
         "Fmaj7",
         "G"
+    ],
+    "instrumental": [
+        "Am",
+        "Fmaj7",
+        "G",
+        "Am"
     ],
     "outro": [
         "Fmaj7",

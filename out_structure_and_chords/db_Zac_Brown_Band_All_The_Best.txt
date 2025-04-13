@@ -33,7 +33,6 @@
         "G",
         "G",
         "Dsus4",
-        "G",
         "G"
     ],
     "chorus-2": [
@@ -50,7 +49,6 @@
         "G",
         "G",
         "Dsus4",
-        "G",
         "G"
     ],
     "chorus-3": [
@@ -87,6 +85,12 @@
         "G",
         "G",
         "Dsus4",
+        "G"
+    ],
+    "instrumental-1": [
+        "G"
+    ],
+    "instrumental-2": [
         "G"
     ],
     "verse": [

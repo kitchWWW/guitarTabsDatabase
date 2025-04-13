@@ -90,15 +90,6 @@
         "Em7",
         "A",
         "Dsus4",
-        "D",
-        "G",
-        "D",
-        "C",
-        "Am6",
-        "Em7",
-        "C",
-        "G",
-        "Dsus4",
         "D"
     ],
     "chorus-2": [
@@ -109,7 +100,20 @@
         "Em7",
         "A",
         "Dsus4",
+        "D"
+    ],
+    "instrumental-1": [
+        "G",
         "D",
+        "C",
+        "Am6",
+        "Em7",
+        "C",
+        "G",
+        "Dsus4",
+        "D"
+    ],
+    "instrumental-2": [
         "G",
         "D",
         "C",

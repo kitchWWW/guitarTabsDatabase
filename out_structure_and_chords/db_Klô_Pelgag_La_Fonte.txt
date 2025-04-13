@@ -31,7 +31,9 @@
         "Cm",
         "Bb",
         "Ab",
-        "G7",
+        "G7"
+    ],
+    "instrumental": [
         "Cmadd9/G",
         "Gm",
         "Fm7",

@@ -1,0 +1,41 @@
+URL: https://tabs.ultimate-guitar.com/tab/bass-drum-of-death/faces-of-the-wind-tabs-1695523
+Artist: Bass Drum Of Death
+Song: Faces Of The Wind
+Genre: 
+Key: 
+
+
+Probably one of my favorite Bass Drum Of Death songs, amazing to sing to and jam around with.
+
+Verse
+
+[tab]Guitar 1: (Left-Tremolo)
+e|-----------|--------|
+B|-----------|--------|
+G|------2~---|-3b0/---|
+D|-2~---2~---|--------|
+A|-2~---0~---|--------| This second part changes up sometimes, like a mini solo. Even does this once 3h5-5h0
+E|-0~--------|--------| Second part MOSTLY after every 2/4 measures. From what I could tell. Different live.[/tab]
+
+[tab]Guitar 2: (Distorted-Right)
+e|--------------|------|
+B|--------------|------|
+G|------------7-|-7777-| - Slide bend on the G string when hit, and the multiple hits are every 4/4 measure.
+D|--------------|------|   (Pretty much before the chorus)
+A|--------------|------|
+E|-12~---5~-----|------|[/tab]
+
+
+Chorus
+
+Guitar 1:
+C, D, E x2 
+C, D, A, B x1
+
+[tab]Guitar 2
+e|--------------------------------------------------|
+B|--------------------------------------------------|
+G|---------------12b---------------14b--------------|
+D|----------12-14-------------12-14-----------------|
+A|--------------------------------------------------|
+E|-8-10-12-----------8-10-12-----------8-10-5-----7-|[/tab]

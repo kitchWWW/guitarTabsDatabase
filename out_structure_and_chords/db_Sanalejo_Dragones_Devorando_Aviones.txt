@@ -1,19 +1,19 @@
 {
-    "pre-coro-1": [
+    "pre-chorus-1": [
         "G#m",
         "C#m7",
         "F#m",
         "G#m",
         "C#m7"
     ],
-    "pre-coro-2": [
+    "pre-chorus-2": [
         "G#m",
         "C#m7",
         "F#m",
         "G#m",
         "C#m7"
     ],
-    "coro-1": [
+    "chorus-1": [
         "A",
         "E",
         "C#m7",
@@ -47,7 +47,7 @@
         "B",
         "F#m"
     ],
-    "coro-2": [
+    "chorus-2": [
         "A",
         "E",
         "C#m7",
@@ -75,7 +75,7 @@
         "B",
         "B"
     ],
-    "coro-3": [
+    "chorus-3": [
         "A",
         "E",
         "C#m7",

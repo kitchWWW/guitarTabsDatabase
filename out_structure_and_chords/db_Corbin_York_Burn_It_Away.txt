@@ -41,14 +41,7 @@
         "C#m",
         "B",
         "A",
-        "Am",
-        "E5",
-        "Bsus",
-        "F#sus",
-        "A",
-        "Emaj7",
-        "C#madd9",
-        "A"
+        "Am"
     ],
     "chorus-1": [
         "E",
@@ -74,6 +67,15 @@
         "E",
         "E",
         "C#m",
+        "A"
+    ],
+    "instrumental": [
+        "E5",
+        "Bsus",
+        "F#sus",
+        "A",
+        "Emaj7",
+        "C#madd9",
         "A"
     ],
     "bridge": [

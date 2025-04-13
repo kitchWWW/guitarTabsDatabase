@@ -63,6 +63,7 @@
         "C#m",
         "F#"
     ],
+    "instrumental": [],
     "outro": [
         "B",
         "D#m",

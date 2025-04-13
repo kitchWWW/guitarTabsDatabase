@@ -41,16 +41,6 @@
         "Em",
         "F",
         "C",
-        "Dm",
-        "Gm",
-        "F",
-        "Gm",
-        "F",
-        "Gm",
-        "Dm",
-        "Am",
-        "Bb",
-        "C",
         "Dm"
     ],
     "chorus-1": [
@@ -76,6 +66,18 @@
         "Dm",
         "Bb",
         "Am",
+        "Dm"
+    ],
+    "instrumental": [
+        "Gm",
+        "F",
+        "Gm",
+        "F",
+        "Gm",
+        "Dm",
+        "Am",
+        "Bb",
+        "C",
         "Dm"
     ]
 }

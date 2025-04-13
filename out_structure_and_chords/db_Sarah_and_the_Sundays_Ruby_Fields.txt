@@ -52,7 +52,9 @@
         "F6",
         "Gm",
         "A#maj7",
-        "D#",
+        "D#"
+    ],
+    "chorus-3": [
         "Cm7",
         "F6",
         "Gm",
@@ -64,7 +66,7 @@
         "A#maj7",
         "D#"
     ],
-    "chorus-3": [
+    "instrumental": [
         "Cm7",
         "F6",
         "Gm",

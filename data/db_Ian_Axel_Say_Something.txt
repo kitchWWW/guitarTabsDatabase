@@ -1,0 +1,82 @@
+URL: https://tabs.ultimate-guitar.com/tab/ian-axel/say-something-ukulele-1491827
+Artist: Ian Axel
+Song: Say Something
+Genre: 
+Key: 
+
+
+A simple strumming pattern is 1 2 + 3 +, however the real pattern is much more complicated
+after giving the F a measure after the C chord, hammer on the middle finger on beat 1, leave it on for 2,  
+and take it off for 3.
+repeat the hammer on pattern when you play the F after the C.
+when playing the G chord, the last beat of the measure you should switch to Gsus (only for a beat).
+
+
+[tab] | [ch]Am[/ch] | [ch]F[/ch] | [ch]C[/ch] | [ch]G[/ch] | [ch]Gsus[/ch] | [ch]Cmaj7[/ch] |
+----------------------------------[/tab]
+A| 3  | 3 | 3 | 2 |  3   |   2   |
+----------------------------------
+E| 0  | 1 | 0 | 3 |  0   |   3   |
+----------------------------------
+C| 0  | 0 | 0 | 2 |  2   |   0   |
+----------------------------------
+G| 2  | 2 | 0 | 0 |  0   |   0   |
+----------------------------------
+
+
+Capo 1 (on the first fret)
+
+intro: [ch]Am[/ch]  [ch]F[/ch]  [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] G(Gsus) (x2)
+
+[tab][ch]Am[/ch]                [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Say something, I'm giving up on you.[/tab]
+[tab][ch]Am[/ch]               [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   I'll be the one, if you want me to.[/tab]
+[tab][ch]Am[/ch]           [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Anywhere, I would've followed you.[/tab]
+[tab][ch]Am[/ch]                 [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Say something, I'm giving up on you.[/tab]
+
+[tab]    [ch]C[/ch]                [ch]Cmaj7[/ch]            
+And I am feeling so small.[/tab]
+[tab]        [ch]F[/ch]
+It was over my head[/tab]
+[tab]                   [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+I know nothing at all.[/tab]
+
+[tab]    [ch]C[/ch]                  [ch]Cmaj7[/ch] 
+And I will stumble and fall.[/tab]
+[tab]            [ch]F[/ch]
+I'm still learning to love[/tab]
+[tab]                  [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] G(Gsus)
+Just starting to crawl.[/tab]
+
+[tab][ch]Am[/ch]                 [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Say something, I'm giving up on you.[/tab]
+[tab][ch]Am[/ch]                 [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   I'm sorry that I couldn't get to you.[/tab]
+[tab][ch]Am[/ch]           [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Anywhere, I would've followed you.[/tab]
+[tab][ch]Am[/ch]                    [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Say something, I'm giving up on you.[/tab]
+
+
+[tab]    [ch]C[/ch]                  [ch]Cmaj7[/ch]  
+And I will swallow my pride.[/tab]
+[tab]           [ch]F[/ch]
+You're the one that I love[/tab]
+[tab]                   [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] G(Gsus)
+And I'm saying goodbye.[/tab]
+
+[tab][ch]Am[/ch]                [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Say something, I'm giving up on you.[/tab]
+[tab][ch]Am[/ch]                [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   I'll be the one, if you want me to.[/tab]
+[tab][ch]Am[/ch]           [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Anywhere, I would've followed you.[/tab]
+[tab][ch]Am[/ch]                [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch]) 
+   Say something, I'm giving up on you.[/tab]
+[tab][ch]Am[/ch]                [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch]([ch]Gsus[/ch])
+   Say something, I'm giving up on you.[/tab]
+[tab][ch]Am[/ch]                    [ch]F[/ch]                     [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]F[/ch] [ch]C[/ch]
+   Say something[/tab]

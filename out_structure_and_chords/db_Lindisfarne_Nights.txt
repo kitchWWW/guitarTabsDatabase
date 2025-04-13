@@ -33,13 +33,6 @@
         "F",
         "Dm",
         "Bb",
-        "C",
-        "F",
-        "Bb",
-        "C",
-        "F",
-        "Dm",
-        "Bb",
         "C"
     ],
     "verse-4": [
@@ -50,10 +43,6 @@
         "F",
         "Dm",
         "Bb",
-        "C",
-        "Gm",
-        "C",
-        "Gm",
         "C"
     ],
     "chorus-1": [
@@ -72,6 +61,21 @@
         "Dm",
         "Bb",
         "Gm7",
+        "C"
+    ],
+    "instrumental-1": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Dm",
+        "Bb",
+        "C"
+    ],
+    "instrumental-2": [
+        "Gm",
+        "C",
+        "Gm",
         "C"
     ],
     "bridge": [

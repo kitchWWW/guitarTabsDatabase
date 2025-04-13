@@ -1,4 +1,36 @@
 {
+    "instrumental-1": [
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D",
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D",
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D",
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D"
+    ],
+    "instrumental-2": [
+        "Cmaj7",
+        "Gmaj7",
+        "Bm7",
+        "D",
+        "Cmaj7",
+        "Cmaj7",
+        "Gmaj7",
+        "Gmaj7",
+        "Bm7",
+        "Bm7",
+        "D",
+        "D"
+    ],
     "outro": [
         "Cmaj7",
         "Gmaj7",

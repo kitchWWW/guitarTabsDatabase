@@ -52,7 +52,9 @@
         "D7",
         "Gm",
         "D7",
-        "Gm",
+        "Gm"
+    ],
+    "instrumental": [
         "D7",
         "Gm",
         "A#m",

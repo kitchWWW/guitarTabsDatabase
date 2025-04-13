@@ -55,7 +55,9 @@
         "Cadd9",
         "Am",
         "G/B",
-        "Cadd9",
+        "Cadd9"
+    ],
+    "instrumental": [
         "Am",
         "G/B",
         "Cadd9"

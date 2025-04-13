@@ -39,12 +39,7 @@
         "Dmaj7",
         "G",
         "A",
-        "D",
-        "D",
-        "Dmaj7",
-        "D",
-        "A",
-        "G"
+        "D"
     ],
     "verse-2": [
         "D",
@@ -58,11 +53,7 @@
         "G",
         "D",
         "A",
-        "G",
-        "D",
-        "Dmaj7",
-        "G",
-        "A"
+        "G"
     ],
     "verse-3": [
         "D",
@@ -106,6 +97,19 @@
         "Bsus2",
         "D",
         "Dsus2"
+    ],
+    "instrumental-1": [
+        "D",
+        "Dmaj7",
+        "D",
+        "A",
+        "G"
+    ],
+    "instrumental-2": [
+        "D",
+        "Dmaj7",
+        "G",
+        "A"
     ],
     "outro": [
         "G",

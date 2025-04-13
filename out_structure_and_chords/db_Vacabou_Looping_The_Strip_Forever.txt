@@ -28,7 +28,9 @@
         "G",
         "A",
         "D",
-        "Db",
+        "Db"
+    ],
+    "instrumental": [
         "E",
         "E7",
         "G",

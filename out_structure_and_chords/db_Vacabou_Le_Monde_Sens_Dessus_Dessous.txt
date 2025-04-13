@@ -46,7 +46,9 @@
         "Bm",
         "D",
         "C#sus4",
-        "C#7",
+        "C#7"
+    ],
+    "instrumental": [
         "Esus4",
         "Em",
         "Am",

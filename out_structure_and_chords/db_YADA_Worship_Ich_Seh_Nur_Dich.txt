@@ -42,7 +42,9 @@
         "D#m",
         "C#",
         "G#m",
-        "B",
+        "B"
+    ],
+    "instrumental": [
         "D#m",
         "C#",
         "B",

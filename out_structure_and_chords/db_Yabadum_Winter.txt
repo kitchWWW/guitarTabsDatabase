@@ -87,6 +87,8 @@
         "Eb",
         "Ab"
     ],
+    "instrumental-1": [],
+    "instrumental-2": [],
     "outro": [
         "Fm",
         "Bbm/Db",

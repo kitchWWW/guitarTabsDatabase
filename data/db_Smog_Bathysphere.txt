@@ -1,0 +1,71 @@
+URL: https://tabs.ultimate-guitar.com/tab/smog/bathysphere-tabs-895543
+Artist: Smog
+Song: Bathysphere
+Genre: 
+Key: 
+
+
+Artist: Smog ( A.K.A. Bill Callahan)
+Song: Bathysphere
+Album: Wild Love (1995 Drag City)
+Tabbed By: Matt Skeefe
+
+-I'm going to need to make a lot of notes for this one since it's so hard to tab it out
+by note with its numerous semitones and random patterns. First of all, in the studio
+Bill's guitar was obviously off tune. To get on the exact pitch, Tune your D, G, and 
+E strings up one semitone and tune your A string down one semitone. Then, you should be
+to play everything on this tab...
+
+
+Guitar 1 plays alternating leads using two alternating power chords, but it's usually
+like this. Feel free to change the pattern:
+
+[tab]          C#5....
+E---------------------------------------------------------------------------|
+B---------------------------------------------------------------------------|
+G-----6-------6-------6-------6---------6-------6----6----------------------|
+D---4----------------------------4-------------------4----------------------|
+A---------------------------------------------------------------------------|
+E---------------------------------------------------------------------------|[/tab]
+
+[tab]     ...and Em5.
+E---------------------------------------------------------------------------|
+B---------------------------------------------------------------------------|
+G---9-7-------7--------7-9-7-9-------7-------7-------7-------7-7-----7-7-7--|
+D---0----------------------------------------------------0------------------|
+A---------------------------------------------------------------------------|
+E---------------------------------------------------------------------------|[/tab]
+
+-Note that the Em5 notes have a bit of a staccato effect most of the time. To get this,
+place your fingers on the right edge of the frets instead of palm muting.
+
+-During the verses, a second guitar plays a staccato at the 2nd fret on the E string
+you tuned it up) during the C#5 and during the Em5, the 3rd fret on the B string (which is
+normally)
+
+[tab]The solos after the choruses are almost the same, but this will do:
+E---------------------------------------------------------------------------|
+B---------------------------------------------------------------------------|
+G-----9---11--------11-----------11-----------11---------11--------11---13--|
+D---------------------------------------------------------------------------|
+A---------------------------------------------------------------------------|
+E---------------------------------------------------------------------------|[/tab]
+
+[tab]E---------------------------------------------------------------------------|
+B---------------------------------------------------------------------------|
+G-14---16--------14---------------------------------------------------------|
+D---------------------------------------------------------------------------|
+A---------------------------------------------------------------------------|
+E---------------------------------------------------------------------------|[/tab]
+
+(I think) One of the solos near the end continues to the 18th fret after the 16th
+and that the one after the first chorus only goes to the 14th.
+
+
+[tab]...Outro (Just 1 chord is used):
+E------------------------------------------------|
+B------------------------------------------------|
+G-----------------6------------------------------|
+D-----------------7------------------------------|
+A-----------------5------------------------------|
+E------------------------------------------------|[/tab]

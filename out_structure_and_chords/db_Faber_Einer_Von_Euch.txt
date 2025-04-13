@@ -14,16 +14,7 @@
         "Em",
         "D",
         "Am",
-        "Em",
-        "D",
-        "Dsus2",
-        "Em",
-        "D",
-        "Em",
-        "D",
-        "Am",
-        "C",
-        "G"
+        "Em"
     ],
     "verse-2": [
         "Em",
@@ -43,6 +34,25 @@
         "C",
         "G"
     ],
+    "instrumental-1": [
+        "D",
+        "Dsus2",
+        "Em",
+        "D",
+        "Em",
+        "D",
+        "Am",
+        "C",
+        "G"
+    ],
+    "instrumental-2": [
+        "D",
+        "Dsus2",
+        "Em",
+        "D",
+        "Dsus2",
+        "C"
+    ],
     "chorus-1": [
         "Bm7",
         "Am",
@@ -51,13 +61,7 @@
         "D",
         "C",
         "G",
-        "Em",
-        "D",
-        "Dsus2",
-        "Em",
-        "D",
-        "Dsus2",
-        "C"
+        "Em"
     ],
     "chorus-2": [
         "Bm7",

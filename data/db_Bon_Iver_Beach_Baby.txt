@@ -1,0 +1,42 @@
+URL: https://tabs.ultimate-guitar.com/tab/bon-iver/beach-baby-chords-1207376
+Artist: Bon Iver
+Song: Beach Baby
+Genre: 
+Key: 
+
+
+[Chords]
+[ch]C/G[/ch]   332010
+[ch]F[/ch]     133211
+[ch]Em[/ch]+5  022010
+[ch]Am[/ch]    x02210
+[ch]Am/G[/ch]  3x2210
+[ch]D9/F#[/ch] 2x0210
+
+[Intro]
+[ch]C/G[/ch]-  [ch]F[/ch]     [ch]Em[/ch]+5-
+[ch]C/G[/ch]-  [ch]Em[/ch]+5-
+[ch]Am[/ch]    [ch]F[/ch]     [ch]C/G[/ch]-  [ch]Em[/ch]+5-
+[ch]Am[/ch]    [ch]Am/G[/ch]  
+
+[Verse 1]
+[tab][ch]C/G[/ch]                        [ch]F[/ch]          [ch]Em[/ch]+5
+When you're out, tell your lucky one [/tab]
+[tab][ch]C/G[/ch]                   [ch]Em[/ch]+5
+To know that you'll leave.[/tab]
+[tab][ch]Am[/ch]             [ch]F[/ch]                [ch]C/G[/ch]      [ch]Em[/ch]+5
+But don't you lock when you're fleeing[/tab]
+[tab]                      [ch]Am[/ch]    [ch]Am/G[/ch]
+I'd like not to hear keys[/tab]
+
+[Verse 2]
+[tab][ch]C/G[/ch]                  [ch]F[/ch]           [ch]Em[/ch]+5
+Only hold till your coffee warms,[/tab]
+[tab][ch]C/G[/ch]                    [ch]Em[/ch]+5
+But don't hurry and speed.[/tab]
+[tab][ch]Am[/ch]     [ch]F[/ch]            [ch]C/G[/ch]    [ch]Em[/ch]+5
+Once a time put a tongue [/tab]
+[tab]                     [ch]Am[/ch]    [ch]Am/G[/ch]
+In your ear on the beach[/tab]
+[tab][ch]F[/ch]                         [ch]Am[/ch]     [ch]Am/G[/ch]    [ch]D9/F#[/ch]    [ch]F[/ch]     [ch]Em[/ch]+5
+And you clutched kicking heels[/tab]

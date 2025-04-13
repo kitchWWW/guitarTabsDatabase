@@ -101,7 +101,9 @@
         "Ab7",
         "Bb7",
         "Ab7",
-        "Eb7",
+        "Eb7"
+    ],
+    "instrumental": [
         "Eb7",
         "Ab7",
         "Eb7",

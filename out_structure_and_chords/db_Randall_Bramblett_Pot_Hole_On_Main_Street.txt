@@ -153,7 +153,15 @@
         "Abmaj7",
         "Db7",
         "Abmaj7",
+        "Db7"
+    ],
+    "chorus-3": [
+        "Abmaj7",
         "Db7",
+        "Abmaj7",
+        "Db7"
+    ],
+    "instrumental": [
         "Dm7",
         "Cm7",
         "Gm",
@@ -164,12 +172,6 @@
         "Cm7",
         "Dm7",
         "Cm7"
-    ],
-    "chorus-3": [
-        "Abmaj7",
-        "Db7",
-        "Abmaj7",
-        "Db7"
     ],
     "outro": [
         "Dm7",

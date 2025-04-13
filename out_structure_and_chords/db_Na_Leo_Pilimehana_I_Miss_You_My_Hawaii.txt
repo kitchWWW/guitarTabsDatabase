@@ -41,10 +41,7 @@
         "Bm7",
         "Em",
         "A",
-        "Dmaj7",
-        "Bm7",
-        "G",
-        "A"
+        "Dmaj7"
     ],
     "verse-2": [
         "Dmaj7",
@@ -83,7 +80,14 @@
         "Bm7",
         "Em7",
         "A",
-        "Dmaj7",
+        "Dmaj7"
+    ],
+    "instrumental-1": [
+        "Bm7",
+        "G",
+        "A"
+    ],
+    "instrumental-2": [
         "G",
         "Dmaj7",
         "G",

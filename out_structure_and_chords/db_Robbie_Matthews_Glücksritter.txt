@@ -78,17 +78,7 @@
         "Dm",
         "Bb",
         "C",
-        "Dm",
-        "Gm",
-        "Dm",
-        "Gm",
-        "F",
-        "C",
-        "Gm",
-        "Dm",
-        "Gm",
-        "Bb",
-        "C"
+        "Dm"
     ],
     "chorus-3": [
         "Dm",
@@ -107,6 +97,18 @@
         "Bb",
         "C",
         "Dm",
+        "Bb",
+        "C"
+    ],
+    "instrumental": [
+        "Gm",
+        "Dm",
+        "Gm",
+        "F",
+        "C",
+        "Gm",
+        "Dm",
+        "Gm",
         "Bb",
         "C"
     ],

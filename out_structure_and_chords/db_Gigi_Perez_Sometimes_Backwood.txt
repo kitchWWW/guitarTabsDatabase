@@ -1,0 +1,36 @@
+{
+    "intro": [
+        "Cmaj7",
+        "Em",
+        "G6",
+        "Cmaj7",
+        "Em"
+    ],
+    "verse-1": [
+        "Cmaj7",
+        "Em",
+        "G6",
+        "Cmaj7",
+        "Em",
+        "G6",
+        "Cmaj7"
+    ],
+    "verse-2": [
+        "Em",
+        "G6",
+        "Cmaj7",
+        "Em",
+        "G6",
+        "Cmaj7"
+    ],
+    "outro": [
+        "Em",
+        "G6",
+        "Cmaj7",
+        "Em",
+        "G6",
+        "Cmaj7",
+        "Em",
+        "G6"
+    ]
+}

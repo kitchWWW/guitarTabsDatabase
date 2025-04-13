@@ -109,16 +109,7 @@
         "F#",
         "Amaj7",
         "F7",
-        "Dmaj7/E",
-        "Amaj7/F#",
-        "Emaj7/F#",
-        "A",
-        "Amaj7/F#",
-        "Emaj7/F#",
-        "G",
-        "F#",
-        "E",
-        "F#"
+        "Dmaj7/E"
     ],
     "bridge-3": [
         "Bm7",
@@ -132,6 +123,17 @@
         "Bb7b13",
         "Bb7b13",
         "A7b13"
+    ],
+    "instrumental": [
+        "Amaj7/F#",
+        "Emaj7/F#",
+        "A",
+        "Amaj7/F#",
+        "Emaj7/F#",
+        "G",
+        "F#",
+        "E",
+        "F#"
     ],
     "outro": [
         "C7",

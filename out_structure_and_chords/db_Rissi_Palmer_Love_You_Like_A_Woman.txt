@@ -91,7 +91,9 @@
     "bridge": [
         "Db",
         "Ab",
-        "Ab",
+        "Ab"
+    ],
+    "instrumental": [
         "Cm",
         "Bbm",
         "Eb",

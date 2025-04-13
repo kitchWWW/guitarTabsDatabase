@@ -127,7 +127,9 @@
         "Bb",
         "Gm",
         "C",
-        "Bb",
+        "Bb"
+    ],
+    "instrumental": [
         "Gm",
         "Cm/G",
         "Bb",

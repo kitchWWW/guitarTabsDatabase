@@ -83,7 +83,9 @@
         "G",
         "Em",
         "F#",
-        "Bm",
+        "Bm"
+    ],
+    "instrumental": [
         "G",
         "Em",
         "F#",

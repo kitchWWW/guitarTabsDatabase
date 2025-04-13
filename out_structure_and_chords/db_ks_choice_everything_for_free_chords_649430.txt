@@ -11,10 +11,7 @@
         "A",
         "E",
         "F#",
-        "Bm",
-        "Bm",
-        "D",
-        "G"
+        "Bm"
     ],
     "verse-2": [
         "Bm",
@@ -43,6 +40,16 @@
         "A",
         "Esus4",
         "E"
+    ],
+    "instrumental-1": [
+        "Bm",
+        "D",
+        "G"
+    ],
+    "instrumental-2": [
+        "Bm",
+        "D",
+        "G"
     ],
     "chorus-1": [
         "D/F#",
@@ -107,10 +114,7 @@
         "A",
         "Bb",
         "C",
-        "Bm",
-        "Bm",
-        "D",
-        "G"
+        "Bm"
     ],
     "solo": [
         "Bm",

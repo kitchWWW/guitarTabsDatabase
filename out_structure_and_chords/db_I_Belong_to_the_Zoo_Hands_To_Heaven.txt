@@ -52,16 +52,7 @@
         "D",
         "Gmaj7",
         "Em7",
-        "Gmaj7",
-        "D",
-        "Gmaj7",
-        "Em7",
-        "Gmaj7",
-        "D",
-        "Gmaj7",
-        "Em7",
-        "Gmaj7",
-        "G"
+        "Gmaj7"
     ],
     "chorus-3": [
         "D",
@@ -79,6 +70,17 @@
         "D",
         "G",
         "Em7",
+        "G"
+    ],
+    "instrumental": [
+        "D",
+        "Gmaj7",
+        "Em7",
+        "Gmaj7",
+        "D",
+        "Gmaj7",
+        "Em7",
+        "Gmaj7",
         "G"
     ],
     "outro": [

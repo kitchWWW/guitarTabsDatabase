@@ -64,15 +64,7 @@
         "A",
         "D",
         "B7",
-        "Em",
-        "Em",
-        "C",
-        "Am",
-        "B",
-        "Em",
-        "C",
-        "Am",
-        "B"
+        "Em"
     ],
     "chorus-2": [
         "C",
@@ -83,7 +75,30 @@
         "A",
         "D",
         "B7",
+        "Em"
+    ],
+    "chorus-3": [
+        "C",
+        "C#dim",
+        "D",
+        "D#dim",
+        "C",
+        "A",
+        "D",
+        "B7",
+        "Em"
+    ],
+    "instrumental-1": [
         "Em",
+        "C",
+        "Am",
+        "B",
+        "Em",
+        "C",
+        "Am",
+        "B"
+    ],
+    "instrumental-2": [
         "Em",
         "C",
         "Am",
@@ -109,17 +124,6 @@
         "A",
         "D",
         "B7"
-    ],
-    "chorus-3": [
-        "C",
-        "C#dim",
-        "D",
-        "D#dim",
-        "C",
-        "A",
-        "D",
-        "B7",
-        "Em"
     ],
     "outro": [
         "Em",

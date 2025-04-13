@@ -57,7 +57,9 @@
         "G",
         "F#7",
         "Bm",
-        "Bm",
+        "Bm"
+    ],
+    "instrumental": [
         "D",
         "A",
         "Bm",

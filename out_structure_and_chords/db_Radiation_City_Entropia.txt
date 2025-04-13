@@ -16,5 +16,6 @@
         "Bm",
         "E"
     ],
+    "instrumental": [],
     "outro": []
 }

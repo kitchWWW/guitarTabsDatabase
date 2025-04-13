@@ -16,11 +16,6 @@
         "A",
         "Gmaj7",
         "Em",
-        "F#m",
-        "Bm",
-        "A",
-        "G",
-        "Em",
         "F#m"
     ],
     "verse-2": [
@@ -47,6 +42,27 @@
         "Em",
         "F#m"
     ],
+    "instrumental-1": [
+        "Bm",
+        "A",
+        "G",
+        "Em",
+        "F#m"
+    ],
+    "instrumental-2": [
+        "Bm",
+        "A",
+        "G",
+        "Em",
+        "F#m"
+    ],
+    "instrumental-3": [
+        "Bm",
+        "A",
+        "G",
+        "Em",
+        "F#m"
+    ],
     "chorus-1": [
         "Bm",
         "A",
@@ -56,11 +72,6 @@
         "Bm",
         "A",
         "Gmaj7",
-        "Em",
-        "F#m",
-        "Bm",
-        "A",
-        "G",
         "Em",
         "F#m"
     ],
@@ -73,11 +84,6 @@
         "Bm",
         "A",
         "Gmaj7",
-        "Em",
-        "F#m",
-        "Bm",
-        "A",
-        "G",
         "Em",
         "F#m"
     ]

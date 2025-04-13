@@ -69,10 +69,6 @@
         "D",
         "Cadd9",
         "G",
-        "D",
-        "D",
-        "Dsus2",
-        "Dsus4",
         "D"
     ],
     "chorus-3": [
@@ -81,7 +77,21 @@
         "D",
         "Cadd9",
         "G",
+        "D"
+    ],
+    "instrumental-1": [
         "D",
+        "Dsus2",
+        "Dsus4",
+        "D"
+    ],
+    "instrumental-2": [
+        "D",
+        "Dsus2",
+        "Dsus4",
+        "D"
+    ],
+    "instrumental-3": [
         "D",
         "Dsus2",
         "Dsus4",
@@ -98,11 +108,7 @@
         "Dsus4",
         "Dsus2",
         "Cadd9",
-        "Dsus2",
-        "D",
-        "Dsus2",
-        "Dsus4",
-        "D"
+        "Dsus2"
     ],
     "outro": [
         "D",

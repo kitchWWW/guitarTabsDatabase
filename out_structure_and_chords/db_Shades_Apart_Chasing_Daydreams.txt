@@ -34,19 +34,7 @@
         "Eb",
         "Gm",
         "F",
-        "Bb",
-        "Gm",
-        "Bb",
-        "F",
-        "Eb",
-        "Gm",
-        "Bb",
-        "F",
-        "Eb",
-        "F",
-        "Eb",
-        "F",
-        "Eb"
+        "Bb"
     ],
     "verse-3": [
         "Gm",
@@ -70,6 +58,20 @@
         "Bb",
         "F",
         "Ab",
+        "Eb"
+    ],
+    "instrumental": [
+        "Gm",
+        "Bb",
+        "F",
+        "Eb",
+        "Gm",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Eb",
+        "F",
         "Eb"
     ]
 }

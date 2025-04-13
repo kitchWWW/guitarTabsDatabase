@@ -10,7 +10,9 @@
         "Bb",
         "Gm",
         "Cm",
-        "F",
+        "F"
+    ],
+    "instrumental": [
         "Bb",
         "Gm7",
         "Eb",

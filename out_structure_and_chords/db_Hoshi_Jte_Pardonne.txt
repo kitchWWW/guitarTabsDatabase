@@ -1,0 +1,118 @@
+{
+    "intro": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "D"
+    ],
+    "verse-1": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "D",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "D"
+    ],
+    "verse-2": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "D",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "D"
+    ],
+    "verse-3": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "D"
+    ],
+    "chorus-1": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D7",
+        "D7",
+        "Gm"
+    ],
+    "chorus-2": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D7",
+        "D7",
+        "Gm"
+    ],
+    "chorus-3": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D7",
+        "D7",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D7",
+        "D7"
+    ],
+    "instrumental-1": [
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D7",
+        "D7"
+    ],
+    "instrumental-2": [
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D7",
+        "D7"
+    ],
+    "bridge": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D7",
+        "D7"
+    ],
+    "outro": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D7",
+        "D7"
+    ]
+}

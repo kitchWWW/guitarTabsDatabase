@@ -65,7 +65,9 @@
         "C",
         "Dm",
         "Gm",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "Dm",
         "Gm",
         "A7",

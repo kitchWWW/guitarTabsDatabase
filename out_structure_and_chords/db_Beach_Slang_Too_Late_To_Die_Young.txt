@@ -33,14 +33,6 @@
         "Em7",
         "Cadd9",
         "Em7",
-        "Cadd9",
-        "Em7",
-        "Cadd9",
-        "Em7",
-        "Cadd9",
-        "Em7",
-        "Cadd9",
-        "Em7",
         "Cadd9"
     ],
     "chorus-1": [
@@ -65,5 +57,15 @@
         "Dsus4",
         "Cadd9",
         "G"
+    ],
+    "instrumental": [
+        "Em7",
+        "Cadd9",
+        "Em7",
+        "Cadd9",
+        "Em7",
+        "Cadd9",
+        "Em7",
+        "Cadd9"
     ]
 }

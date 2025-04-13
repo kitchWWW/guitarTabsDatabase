@@ -95,7 +95,8 @@
         "C",
         "G/B"
     ],
-    "bridge": [
+    "bridge": [],
+    "instrumental": [
         "Dm7",
         "F",
         "C",

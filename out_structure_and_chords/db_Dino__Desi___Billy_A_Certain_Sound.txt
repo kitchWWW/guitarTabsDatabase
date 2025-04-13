@@ -53,22 +53,7 @@
         "Bm7",
         "Fdim",
         "Gdim",
-        "Dmaj7",
-        "Dmaj7",
-        "Am7",
-        "D7",
-        "Gmaj7",
-        "Gm",
-        "F#m7",
-        "Bm7",
-        "Em7",
-        "A",
-        "Dmaj7",
-        "Am7",
-        "Cmaj7",
-        "Dmaj7",
-        "Am7",
-        "Cmaj9"
+        "Dmaj7"
     ],
     "bridge-2": [
         "Gmaj7",
@@ -87,5 +72,22 @@
         "Fdim",
         "Gdim",
         "Dmaj7"
+    ],
+    "instrumental": [
+        "Dmaj7",
+        "Am7",
+        "D7",
+        "Gmaj7",
+        "Gm",
+        "F#m7",
+        "Bm7",
+        "Em7",
+        "A",
+        "Dmaj7",
+        "Am7",
+        "Cmaj7",
+        "Dmaj7",
+        "Am7",
+        "Cmaj9"
     ]
 }

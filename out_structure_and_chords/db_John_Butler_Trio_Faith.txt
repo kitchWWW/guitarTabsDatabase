@@ -177,7 +177,9 @@
         "Gadd9",
         "Gadd9",
         "Esus2",
-        "Esus2",
+        "Esus2"
+    ],
+    "instrumental": [
         "D",
         "D",
         "D",

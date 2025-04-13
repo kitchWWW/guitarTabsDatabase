@@ -53,15 +53,7 @@
         "Dm",
         "F",
         "Em",
-        "Am",
-        "Am",
-        "Dm",
-        "F",
-        "Em",
-        "Am",
-        "Dm",
-        "F",
-        "Em"
+        "Am"
     ],
     "chorus-2": [
         "Dm",
@@ -80,6 +72,16 @@
         "F",
         "Em",
         "Am"
+    ],
+    "instrumental": [
+        "Am",
+        "Dm",
+        "F",
+        "Em",
+        "Am",
+        "Dm",
+        "F",
+        "Em"
     ],
     "outro": [
         "Am",

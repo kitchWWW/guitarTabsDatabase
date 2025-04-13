@@ -21,10 +21,7 @@
         "Bbm",
         "Fm",
         "Bbm",
-        "Fm",
-        "Bbm",
-        "Fm",
-        "Bbm"
+        "Fm"
     ],
     "verse-2": [
         "Fm",
@@ -35,10 +32,7 @@
         "Bbm",
         "Fm",
         "Bbm",
-        "Fm",
-        "Bbm",
-        "Fm",
-        "Bbm"
+        "Fm"
     ],
     "verse-3": [
         "Fm",
@@ -60,10 +54,7 @@
         "Bbm",
         "Fm",
         "Bbm",
-        "Fm",
-        "Bbm",
-        "Fm",
-        "Bbm"
+        "Fm"
     ],
     "verse-5": [
         "Fm",
@@ -87,6 +78,30 @@
         "Bbm",
         "Fm"
     ],
+    "instrumental-1": [
+        "Bbm",
+        "Fm",
+        "Bbm"
+    ],
+    "instrumental-2": [
+        "Bbm",
+        "Fm",
+        "Bbm"
+    ],
+    "instrumental-3": [
+        "Bbm",
+        "Fm",
+        "Bbm",
+        "Fm",
+        "Bbm",
+        "Fm",
+        "Bbm"
+    ],
+    "instrumental-4": [
+        "Bbm",
+        "Fm",
+        "Bbm"
+    ],
     "chorus-1": [
         "Bbm",
         "Fm",
@@ -95,14 +110,7 @@
         "Bbm",
         "Fm",
         "Bbm",
-        "Fm",
-        "Bbm",
-        "Fm",
-        "Bbm",
-        "Fm",
-        "Bbm",
-        "Fm",
-        "Bbm"
+        "Fm"
     ],
     "chorus-2": [
         "Bbm",

@@ -1,0 +1,138 @@
+URL: https://tabs.ultimate-guitar.com/tab/anders-matthesen/ska-du-ha-den-i-fregatten-chords-1201324
+Artist: Anders Matthesen
+Song: Ska Du Ha Den I Fregatten
+Genre: 
+Key: 
+
+
+    _______________________________
+   / Anders Matthesen             /
+  / Ska' du ha' den i fregatten  /
+ / Jul på Vesterbro             /
+/______________________________/
+
+[tab] akkorder:
+     [ch]C[/ch]     [ch]F[/ch]     [ch]G[/ch]     [ch]D[/ch]     [ch]Dm[/ch]  [ch]F#dim[/ch]   [ch]A[/ch]
+e:---0-----1-----3-----2-----1-----------0---:
+B:---1-----1-----0-----3-----3-----1-----2---:
+G:---0-----2-----0-----2-----2-----2-----2---:
+D:---2-----3-----0-----0-----0-----4-----2---:
+A:---3-----3-----2-----------------x-----0---:
+E:---------1-----3-----------------2---------:[/tab]
+
+
+
+          (2/4)
+1.Vers    |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]C[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]Dm[/ch]      |[ch]C[/ch]       |
+          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+
+2.Vers    |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]C[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]Dm[/ch]      |[ch]C[/ch]       |
+[tab]          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+          |break   |        |[/tab]
+
+1.Omkvæd  |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+          |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+[tab]          |[ch]F[/ch] [ch]F#dim[/ch] |[ch]G[/ch]   [ch]A[/ch]   |[ch]D[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |break   |        |[/tab]
+
+3.Vers    |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]C[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]Dm[/ch]      |[ch]C[/ch]       |
+[tab]          |[ch]F[/ch] [ch]F#dim[/ch] |[ch]G[/ch]   [ch]A[/ch]   |[ch]D[/ch]       |[ch]G[/ch]       |
+          |break   |        |[/tab]
+
+2.Omkvæd  |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+          |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+[tab]          |[ch]F[/ch] [ch]F#dim[/ch] |[ch]G[/ch]   [ch]A[/ch]   |[ch]D[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |break   |        |[/tab]
+
+4.Vers    |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]C[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]Dm[/ch]      |[ch]C[/ch]       |
+[tab]          |[ch]F[/ch] [ch]F#dim[/ch] |[ch]G[/ch]   [ch]A[/ch]   |[ch]D[/ch]       |[ch]G[/ch]       |
+          |break   |        |[/tab]
+
+3.Omkvæd  |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]F[/ch]       |[ch]C[/ch]       |[ch]D[/ch]       |[ch]G[/ch]       |
+          |[ch]C[/ch]       |[ch]C[/ch]       |[ch]F[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]F[/ch] [ch]F#dim[/ch] |[ch]G[/ch]   [ch]A[/ch]   |[ch]D[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+          |[ch]F[/ch] [ch]F#dim[/ch] |[ch]G[/ch]   [ch]A[/ch]   |[ch]D[/ch]   [ch]G[/ch]   |[ch]C[/ch]       |
+
+
+
+ TEKST
+*********
+Når det første skib skal sejles ud på kærlighedens hav,
+så må du som styrmand vise, at du har det rette tav.
+Når du henter tøsebarnet, er du høflig og galant,
+og når hun snakker, må du godt se ud som om det' interessant.
+
+Det forventes du gi'r middag, og en biftur hører med,
+og så følger du madammen hjem til hendes lejlighed.
+Når du så har fået en drinks og spurgt "Vi' du gerne ha' jeg bli'r?",
+og hun starter på den gamle sang "Jeg er ik' som de andre piger",
+så' det lige her du si'r:
+
+  Skal du ha' den i fregatten?
+  Jeg kan køre hele natten
+  Helledusseda, sig nu bare ja. Kan det virkelig være så svært?
+  Skal du ha' den i fregatten?
+  Er du klar og kan du ta' den?
+  Så' det op til dig, om du lissom jeg, er med på lidt af hvert.
+  Si señors!
+
+Det kan være tøsen spræller, og måske hun råber op-
+Men der kender jeg et trick, der hurtigt får hende til at stop'
+Med lidt vilje og en skalle, samt et lille stykke snor,
+er du klar til at gi' den gas, når du har sagt de seks små ord.
+Skal vi ta' dem højt i kor?
+
+  Skal du ha' den i fregatten?
+  Jeg kan køre hele natten.
+  Det gør ikke spor nas, der er masser af plads.
+  Lad os se at komme igang
+  Skal du ha' den i fregatten?
+  Er du klar og kan du ta' den?
+  Så' det op til dig, om du lissom jeg er med på ramasjang.
+  Så kan du lære det!
+
+Når du bare gør som jeg har sagt, vil jeg æde min gamle hat
+på at det er ganske sikkert, at I får en festlig nat.
+Når du vågner op i morgen, og der lugter brunt og brændt.
+Og når truntepigen halter, ved du nok hvad der er hændt.
+Det er her hun hvisker spændt:
+
+  Jeg vil ha' den i fregatten.
+  Jeg kan køre hele natten
+  og den halve dag, lad os fyre den af, det er det eneste det du'r.
+  Jeg vil ha den i fregatten.
+  Jeg er klar, og jeg kan ta' den.
+  Så' det op til dig, om du lissom jeg er med på en ekstratur.
+  Ja, nu' det op til dig, om du lissom jeg er med på en ekstratur.
+  Holæ!
+
+
+
+[tab]+--------------------------------------------------------------------------+
+ 2nd /December /12
+ Just mail me at Maitinin@gmail.com with questions, comments and corrections!
+------------------------------------------------------------------------------[/tab]
+
+
+   The last 11 years, I have generated 10,418,000 views and 815 top-rated tabs for this site.
+   If you want to support an eager contributor like me, check out my own site:
+
+
+   _____ http://www.PlayLikeTheGreats.com _____
+
+
+   Here I will continue uploading my transcriptions - and hopefully make a bit more than nothing.
+
+   Best regards,
+   Maitinin

@@ -130,12 +130,7 @@
         "Ab",
         "Ab",
         "Eb",
-        "Eb",
-        "Eb",
-        "Ab",
-        "Ab",
-        "Cm",
-        "Ab"
+        "Eb"
     ],
     "chorus-3": [
         "Ab",
@@ -212,13 +207,7 @@
         "Cm",
         "Ab",
         "Ab",
-        "Eb",
-        "Eb",
-        "Ab",
-        "Ab",
-        "Cm",
-        "Cm",
-        "Ab"
+        "Eb"
     ],
     "chorus-6": [
         "Ab",
@@ -250,6 +239,21 @@
         "Eb",
         "Eb",
         "Eb"
+    ],
+    "instrumental-1": [
+        "Eb",
+        "Ab",
+        "Ab",
+        "Cm",
+        "Ab"
+    ],
+    "instrumental-2": [
+        "Eb",
+        "Ab",
+        "Ab",
+        "Cm",
+        "Cm",
+        "Ab"
     ],
     "bridge-1": [
         "Ab",

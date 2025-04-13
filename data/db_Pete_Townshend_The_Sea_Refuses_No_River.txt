@@ -1,0 +1,252 @@
+URL: https://tabs.ultimate-guitar.com/tab/pete-townshend/the-sea-refuses-no-river-tabs-972465
+Artist: Pete Townshend
+Song: The Sea Refuses No River
+Genre: 
+Key: 
+
+
+All the credit for this goes to the guys at Whotabs.
+
+The Sea Refuses No River | guitar tab
+By Pete Townshend
+>From all the best cowboys have chinese eyes, 1982
+Written by Pete Townshend (c)1982 Eel Pie Publishing Ltd./Towser Tunes, Inc.
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+
+Originally transcribed by Andy Dennis
+==============                                                        
+transcribed by                             Whotabs                    
+litgo@aol.com     rev3 1999-04-03          www.thewho.net/whotabs     
+==============                                                        
+
+C(no 3)    x35xxx
+C6(A)      x322xx or x3221x (A implied by bass)
+C/G.       3x2013
+C          x32013
+G          3x0033
+Amaj7      5x665x
+D(no 3)    x57xxx
+F/A       (1)03211 (use thumb)
+Gm         355333 (use thumb)
+Gmaj7      3x5432 (use thumb) or 3x443x or 3x0032 (thumb) or x10 9 777
+Emaj7      x7989x
+Emaj7sus2  x7987x
+Fmaj7     (1)x3210
+
+[intro]
+
+|C(no 3)  / |/  /  |C(no 3)  / |/  /  |
+
+ [harmonica in]
+|C(no 3)  / |/  /  |C6(A)/ |/  /  |C(no 3)  / |/  / |C6(A) / | Bb  F/A |
+
+[verse]
+
+|Gm                |              Gm    F/A
+   I remember being richer than a king
+   |Bb                     |        Bb  F/A
+The minutes of the day were golden
+|Gm                      |              Gm    F/A
+   I recall that when the joint passed 'round
+  |Bb                |
+My body felt a little colder
+
+[tab]|Bb            F/Bb    |Bb      F/Bb      |
+   But now I'm like a sewer channel
+|------------------13--|------------13----|
+|11------------10------|11------10----10--|
+|10------------10------|10------10--------|
+|12------------10------|12------10--------|
+|----------------------|------------------|
+|----------------------|------------------|[/tab]
+
+|Bb        F/Eb      |Bb       F/Eb |
+   Running lime and scag
+
+|Bb        F/Eb      |Bb         F/Eb |
+   Let me get at the master panel
+
+[tab]|F/Bb[5th fret]|Fmaj7 |     |
+   Let me at my stack
+|5-------------|5-----|-----|
+|6-------------|5-----|-----|
+|5-------------|5-----|-----|
+|7-------------|7-----|-----|
+|--------------|8-----|-----|
+|--------------|------|-----|[/tab]
+
+[chorus]
+   |G             |
+The sea refuses no river
+|Em                  |D       C        |G        C/G  |G      
+   And right now this river's banks are blown
+   |C/G           |       
+The sea refuses no river 
+       |C/G                 |Gmaj7              
+Whether stinking and rank or red from the tank 
+       |Am                      |C                       |D     |    |
+Whether pure as a spring there's no damn thing stops this poem
+
+[tab]|D             |      |
+(poem)            (the)
+|--------------|------|
+|-----7---5----|3-----|
+|--------------|------|
+|---/7--\5--\4-|------|
+|--------------|------|
+|--------------|------|[/tab]
+
+   |Am            |      |F    
+The sea refuses no river
+        |                 |C(no3)|   |C6(A)|   |C(no3)|C6(A)  |Bb F/A |
+And this river is homeward flowing
+
+I have seen a trace of strain in other's eyes not spoken
+I must admit that I enjoyed their pain, 
+But this time it's me that's broken
+I demand for you and his, this must be the time 
+When we decide what freedom is, turn water into wine
+
+[repeat chorus]
+For the sea refuses no river
+We're polluted now, but in our hearts still clean
+The sea refuses no river
+We tried not to age, but time had its rage
+We're washed over stones from babes into clones of the mean
+The sea refuses no river
+Won't deny this sulphorous stream
+
+[tab][solo]
+ Emaj7            Emaj7           Emaj7           Emaj7
+|----------------|---------------|----------16---|17-16-17---17|
+|---12----12-----|---12----12----|-12----12------|-------------|
+|------14----13--|------14-------|----14---------|-------------|
+|----------------|------------14-|---------------|-------------|
+|----------------|---------------|---------------|-------------|
+|----------------|---------------|---------------|-------------|[/tab]
+
+[tab] Ema7sus2 Ema7sus2     Emaj7sus2           Emaj7sus2    (E...)
+|16------|16^\^\^-16^\|^-16^-16^-16^------|------16-17-|19-----\
+|--------|------------|----------------15/|17-17-------|--------
+|--------|------------|-------------------|------------|--------
+|--------|------------|-------------------|------------|--------
+|--------|------------|-------------------|------------|--------
+|--------|------------|-------------------|------------|--------[/tab]
+
+|E    B      E |  B      E^  B   | E    B      E  | B      E^   B |
+
+[tab]|Emaj7        |          |A/E      |      |Emaj7sus2 |A/E   |
+|-------------|---14\----|--13--12-|-13---|------|---|&lt;(12)-|
+|---16--14-16-|16-16\----|--13--14-|-13---|(12)--|---|------|
+|---16--15-16-|16-16\----|---------|------|------|---|------|
+|-------------|----------|---------|------|------|---|------|
+|-------------|----------|---------|------|------|---|------|
+|-------------|----------|---------|------|------|---|------|
+                                                   *harm swell feedback[/tab]
+
+[tab]|         |Ema7s2 Emaj7s2|A/E  |      *   |E  B E | B  E B |
+|---------|-----|--------|-----|----------|-------|
+|---------|-----|--------|-----|----------|-------|
+|---------|-----|--------|-----|----------|-------|
+|-----4-4h|6----|----6-6-|7-/9-|11-----13-|14~\---|
+|---------|-----|--------|-----|----------|-------|
+|0h2~-----|-----|--------|-----|----------|-------|
+                                     [*pick slide][/tab]
+
+| E B E | B   C G |
+
+|Am                   |             G |C                      |     G
+ There was a fool in a dressing robe   riding out the twilight hour
+|Am                   |          G |C                   |        
+ Lonely and cold in an empty home   trying to assess his power
+
+[tab]|C         G/C        |C         G/C     |C        G/C       |C  G/C |
+   But now he's like a stream in flood,    swollen by the storm
+|---------------15----|--------------15--|-------------------|-------|
+|13--------12---------|13--------12----12|-------------------|-------|
+|12--------12---------|12--------12------|-------%-----------|---%---|
+|14--------12---------|14--------12------|-------------------|-------|
+|---------------------|------------------|-------------------|-------|
+|---------------------|------------------|-------------------|-------|[/tab]
+[tab]|                     |                  |
+|---------------------|------------------|-------------------|-------|
+|---------------------|------------------|-------------------|-------|
+|5--------------------|------------------|5------------------|-------|
+|---------------------|-----------5------|-------------------|-----5-|
+|---------------------|------------------|-------------------|-------|
+|---------------------|------------------|-------------------|-------|[/tab]
+
+[tab]|C           G/C       |C         G/C  |G/C            |Gmaj7  |  
+  He doesn't care if he sheds his blood    Let him be reborn      
+|----------------------|---------------|7--------------|7------|---
+|----------------------|---------------|8--------------|7------|---
+|----------%-----------|-------%-------|7--------------|7------|---
+|----------------------|---------------|9--------------|9------|---
+|----------------------|---------------|---------------|10-----|---
+|----------------------|---------------|---------------|-------|---[/tab]
+[tab]|                      |               |
+|----------------------|---------------|
+|----------------------|---------------|
+|5---------------------|---------------|
+|----------------------|---------------|
+|----------------------|---------------|
+|----------------------|---------------|[/tab]
+
+[tab]   |A             |       
+The sea refuses no river
+ |F#m               |E     D(add2)|A      D/A     |A     |
+Remember that when a beggar buys a round
+                                  |-------9----7--|5--5--|
+                                  |---------------|------|
+                                  |----/9---\7--\6|-6----|
+                                  |---------------|------|
+                                  |---------------|------|
+                                  |---------------|------|[/tab]
+   |D/A           |       
+The sea refuses no river 
+    |D/A                    |Amaj7                
+When rain fills the gutters, no time for stutters
+|Bm                   |D                       |E        |        
+ This is our chance to sing and to dance and to clown
+   |Bm                  |G/D                          |D(no3)   |  C F|
+The sea refuses no river,    and rivers were sprung to drown
+
+[tab](D(no3))|         C  F   |
+(drown)              (the)
+|-------|----------------|
+|-------|(7)-------------|
+|----(7)|----------------|
+|-------|----------------|
+|-------|----------------|
+|-------|----------------|
+         ~(shake neck)[/tab]
+
+   |G             |
+The sea refuses no river 
+  |Em            |D       C      |G          G C/G|G
+No pecking code respected for the damned
+   |C/G           |      
+The sea refuses no river
+       |C/G                |Gmaj7              
+Whether starving and ill or strung on some pill 
+           |Am                       |C                       |D    |   
+Just 'cause you own the land, there's no unique hand plugs the dam
+   |Am            |     |F                        |C(no3rd)|   |C6(A)| |
+The sea refuses no river, and the river is where I am
+
+|C(no 3rd)| |C6(A)  |  |C(no 3rd) |  |C6(A)  |
+
+   |Bb       F/A    |G
+The river is where I am
+
+=============
+litgo@aol.com
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#

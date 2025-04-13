@@ -54,7 +54,9 @@
         "Db",
         "Ab",
         "Bbm",
-        "Gb",
+        "Gb"
+    ],
+    "instrumental": [
         "Db",
         "Ab",
         "Bbm",

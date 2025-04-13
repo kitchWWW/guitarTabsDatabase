@@ -70,13 +70,7 @@
         "Eb",
         "Ab",
         "Gm",
-        "Ab",
-        "F",
-        "Eb",
-        "F",
-        "Gm",
-        "A",
-        "Eb"
+        "Ab"
     ],
     "chorus-4": [
         "Bb",
@@ -107,6 +101,14 @@
         "Ab",
         "Gm",
         "Ab"
+    ],
+    "instrumental": [
+        "F",
+        "Eb",
+        "F",
+        "Gm",
+        "A",
+        "Eb"
     ],
     "outro": [
         "Bb",

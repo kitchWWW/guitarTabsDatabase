@@ -19,7 +19,7 @@
         "Db",
         "Eb"
     ],
-    "coro": [
+    "chorus": [
         "Db",
         "Eb",
         "Ab7",

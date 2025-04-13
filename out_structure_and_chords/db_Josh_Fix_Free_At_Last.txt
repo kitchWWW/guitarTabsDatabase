@@ -114,7 +114,9 @@
         "Amaj7",
         "G#7",
         "Cdim7",
-        "C#7",
+        "C#7"
+    ],
+    "instrumental": [
         "F#m",
         "D7",
         "C#7",

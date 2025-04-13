@@ -1,9 +1,23 @@
 {
+    "instrumental-1": [
+        "C",
+        "G",
+        "C/E",
+        "G"
+    ],
+    "instrumental-2": [
+        "C/E",
+        "G",
+        "C/E",
+        "G"
+    ],
+    "instrumental-3": [
+        "C/E",
+        "G",
+        "C/E",
+        "G"
+    ],
     "verse-1": [
-        "C/E",
-        "G",
-        "C/E",
-        "G",
         "C/E",
         "G",
         "C/E",
@@ -45,10 +59,6 @@
         "C",
         "G",
         "C",
-        "G",
-        "C/E",
-        "G",
-        "C/E",
         "G"
     ],
     "chorus-2": [

@@ -55,20 +55,7 @@
         "Dsus4",
         "D",
         "Dsus2",
-        "D",
-        "Dsus4",
-        "Dsus2",
-        "G",
-        "Dsus4",
-        "D",
-        "Dsus2",
-        "D",
-        "Dsus2",
-        "D",
-        "Dsus2",
-        "G",
-        "A",
-        "A7"
+        "D"
     ],
     "verse-3": [
         "D",
@@ -104,6 +91,21 @@
         "D",
         "Dsus4",
         "D"
+    ],
+    "instrumental": [
+        "Dsus4",
+        "Dsus2",
+        "G",
+        "Dsus4",
+        "D",
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "G",
+        "A",
+        "A7"
     ],
     "bridge": [
         "Bm",

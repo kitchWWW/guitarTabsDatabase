@@ -55,7 +55,9 @@
         "F7",
         "Am7",
         "D",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "D",
         "G",
         "Am7",

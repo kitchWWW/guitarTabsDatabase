@@ -53,8 +53,9 @@
         "C",
         "Gm6",
         "F",
-        "Fm6",
-        "C",
+        "Fm6"
+    ],
+    "chorus-3": [
         "Gm6",
         "F",
         "Fm6",
@@ -63,7 +64,8 @@
         "F",
         "Fm6"
     ],
-    "chorus-3": [
+    "instrumental": [
+        "C",
         "Gm6",
         "F",
         "Fm6",

@@ -24,10 +24,7 @@
     "verse-3": [
         "Gm",
         "D",
-        "Gm",
-        "D",
-        "Gm",
-        "Bb"
+        "Gm"
     ],
     "chorus-1": [
         "F",
@@ -76,6 +73,11 @@
         "D",
         "D",
         "D"
+    ],
+    "instrumental": [
+        "D",
+        "Gm",
+        "Bb"
     ],
     "outro": [
         "D",

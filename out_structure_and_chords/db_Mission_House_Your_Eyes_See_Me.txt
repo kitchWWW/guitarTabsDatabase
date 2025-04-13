@@ -133,7 +133,9 @@
         "Eb",
         "Ab/Eb",
         "Eb",
-        "Ab/Eb",
+        "Ab/Eb"
+    ],
+    "instrumental": [
         "Bb",
         "Cm",
         "Abmaj7",

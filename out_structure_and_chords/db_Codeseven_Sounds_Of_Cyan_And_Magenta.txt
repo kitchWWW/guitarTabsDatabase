@@ -61,17 +61,7 @@
         "Cm",
         "Dm",
         "Bb",
-        "Cm",
-        "E",
-        "Dadd9",
-        "Dmaj7",
-        "E",
-        "Dadd9",
-        "Dmaj7",
-        "Ebmaj7",
-        "Cm9",
-        "Ebmaj7",
-        "Cm9"
+        "Cm"
     ],
     "chorus-2": [
         "Gm",
@@ -89,18 +79,19 @@
         "Dm",
         "Cm"
     ],
-    "bridge": [
-        "Cm",
-        "G",
-        "G",
-        "Cm",
-        "Cm",
-        "G",
-        "G",
-        "Cm",
-        "G",
-        "Cm",
-        "G",
+    "instrumental-1": [
+        "E",
+        "Dadd9",
+        "Dmaj7",
+        "E",
+        "Dadd9",
+        "Dmaj7",
+        "Ebmaj7",
+        "Cm9",
+        "Ebmaj7",
+        "Cm9"
+    ],
+    "instrumental-2": [
         "Eb",
         "F",
         "G",
@@ -113,6 +104,19 @@
         "Eb",
         "F",
         "Gmaj7"
+    ],
+    "bridge": [
+        "Cm",
+        "G",
+        "G",
+        "Cm",
+        "Cm",
+        "G",
+        "G",
+        "Cm",
+        "G",
+        "Cm",
+        "G"
     ],
     "outro": [
         "Eb",

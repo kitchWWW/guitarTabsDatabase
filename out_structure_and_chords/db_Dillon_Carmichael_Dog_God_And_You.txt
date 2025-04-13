@@ -48,12 +48,7 @@
         "C",
         "Em",
         "D",
-        "Cadd9",
-        "G",
-        "Em",
-        "G",
-        "Cadd9",
-        "D"
+        "Cadd9"
     ],
     "chorus-3": [
         "G",
@@ -67,6 +62,13 @@
         "Am7",
         "C",
         "G"
+    ],
+    "instrumental": [
+        "G",
+        "Em",
+        "G",
+        "Cadd9",
+        "D"
     ],
     "outro": [
         "G",

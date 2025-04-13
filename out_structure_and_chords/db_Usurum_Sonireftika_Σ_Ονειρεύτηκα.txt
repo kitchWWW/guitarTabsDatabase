@@ -22,7 +22,18 @@
         "G",
         "F",
         "Am",
+        "G"
+    ],
+    "chorus-2": [
+        "Dm",
+        "F",
+        "Am",
         "G",
+        "F",
+        "Am",
+        "G"
+    ],
+    "instrumental-1": [
         "F",
         "Am",
         "G",
@@ -36,14 +47,7 @@
         "Am",
         "E7"
     ],
-    "chorus-2": [
-        "Dm",
-        "F",
-        "Am",
-        "G",
-        "F",
-        "Am",
-        "G",
+    "instrumental-2": [
         "F",
         "Am",
         "G",

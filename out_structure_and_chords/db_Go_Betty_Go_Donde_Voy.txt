@@ -133,7 +133,9 @@
         "F#m",
         "G",
         "F#m",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "Bm",
         "G",
         "Bm",

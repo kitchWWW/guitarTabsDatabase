@@ -1,5 +1,5 @@
 {
     "intro": [],
-    "coro": [],
+    "chorus": [],
     "solo": []
 }

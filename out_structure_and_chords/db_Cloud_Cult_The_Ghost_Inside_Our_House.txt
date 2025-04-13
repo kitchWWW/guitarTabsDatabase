@@ -27,7 +27,9 @@
         "Em7",
         "G",
         "A7sus4",
-        "Em7",
+        "Em7"
+    ],
+    "instrumental-1": [
         "Cadd9",
         "Em7",
         "Cadd9",
@@ -59,7 +61,9 @@
         "Em7",
         "G",
         "A7sus4",
-        "Em7",
+        "Em7"
+    ],
+    "instrumental-2": [
         "Cadd9",
         "Em7",
         "Cadd9",

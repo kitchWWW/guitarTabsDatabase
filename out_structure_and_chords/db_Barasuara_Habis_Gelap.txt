@@ -89,7 +89,9 @@
         "D/F#",
         "G",
         "Am",
-        "F#m",
+        "F#m"
+    ],
+    "chorus-3": [
         "C",
         "B/D#",
         "Em",
@@ -99,7 +101,7 @@
         "Em",
         "Am"
     ],
-    "chorus-3": [
+    "instrumental": [
         "C",
         "B/D#",
         "Em",

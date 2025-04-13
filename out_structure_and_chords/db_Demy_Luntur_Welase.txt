@@ -24,7 +24,9 @@
         "A",
         "Dm",
         "F",
-        "Am",
+        "Am"
+    ],
+    "instrumental-1": [
         "Am",
         "G",
         "G",
@@ -36,6 +38,13 @@
         "Dm",
         "F",
         "E"
+    ],
+    "instrumental-2": [
+        "Am",
+        "Em",
+        "Dm",
+        "F",
+        "Am"
     ],
     "chorus-1": [
         "Am",
@@ -73,11 +82,6 @@
         "A",
         "Dm",
         "G",
-        "Am",
-        "Am",
-        "Em",
-        "Dm",
-        "F",
         "Am"
     ],
     "bridge-2": [

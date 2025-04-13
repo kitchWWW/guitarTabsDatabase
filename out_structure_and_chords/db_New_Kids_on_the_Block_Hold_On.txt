@@ -44,17 +44,9 @@
         "C",
         "Dm",
         "C",
-        "Dm",
-        "C",
-        "Dm",
-        "C",
         "Dm"
     ],
     "chorus-4": [
-        "C",
-        "Dm",
-        "C",
-        "Dm",
         "C",
         "Dm",
         "C",
@@ -129,5 +121,17 @@
         "D5",
         "Dm"
     ],
-    "verse-3": []
+    "verse-3": [],
+    "instrumental-1": [
+        "C",
+        "Dm",
+        "C",
+        "Dm"
+    ],
+    "instrumental-2": [
+        "C",
+        "Dm",
+        "C",
+        "Dm"
+    ]
 }

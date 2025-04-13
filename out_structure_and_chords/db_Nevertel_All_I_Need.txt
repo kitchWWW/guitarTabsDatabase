@@ -42,9 +42,7 @@
         "G",
         "A",
         "Bm",
-        "F#m",
-        "G",
-        "Em"
+        "F#m"
     ],
     "chorus-2": [
         "G",
@@ -88,6 +86,10 @@
         "A",
         "Bm",
         "F#m"
+    ],
+    "instrumental": [
+        "G",
+        "Em"
     ],
     "bridge": [
         "G",

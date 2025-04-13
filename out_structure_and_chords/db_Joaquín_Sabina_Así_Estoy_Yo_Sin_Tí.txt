@@ -190,7 +190,9 @@
         "Bm",
         "Am7",
         "C/G",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "G",
         "D/F#",
         "Em",

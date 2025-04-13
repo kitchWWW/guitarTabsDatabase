@@ -52,22 +52,7 @@
         "Em",
         "Bm",
         "C",
-        "Bm",
-        "Am",
-        "C",
-        "G",
-        "Am",
-        "Cmaj7",
-        "G",
-        "Am7",
-        "Cmaj7",
-        "G",
-        "Am",
-        "C",
-        "G",
-        "C",
-        "Am",
-        "C"
+        "Bm"
     ],
     "chorus-3": [
         "Em",
@@ -85,6 +70,23 @@
         "Bm",
         "C",
         "Bm"
+    ],
+    "instrumental": [
+        "Am",
+        "C",
+        "G",
+        "Am",
+        "Cmaj7",
+        "G",
+        "Am7",
+        "Cmaj7",
+        "G",
+        "Am",
+        "C",
+        "G",
+        "C",
+        "Am",
+        "C"
     ],
     "outro": [
         "G",

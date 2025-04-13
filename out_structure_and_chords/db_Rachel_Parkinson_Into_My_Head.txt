@@ -1,0 +1,90 @@
+{
+    "intro": [
+        "Asus2",
+        "Asus2",
+        "Cmaj7",
+        "Cmaj7",
+        "Asus2",
+        "Asus2",
+        "Cmaj7",
+        "Cmaj7"
+    ],
+    "verse-1": [
+        "Asus2",
+        "Cmaj7",
+        "Em",
+        "G",
+        "Asus2",
+        "Cmaj7",
+        "Em",
+        "G"
+    ],
+    "verse-2": [
+        "Asus2",
+        "Cmaj7",
+        "Em",
+        "G",
+        "Asus2",
+        "Cmaj7",
+        "Em",
+        "G"
+    ],
+    "chorus-1": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "Cadd9",
+        "Asus2",
+        "Asus2",
+        "Cmaj7",
+        "Cmaj7"
+    ],
+    "chorus-2": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "Cadd9"
+    ],
+    "chorus-3": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "Cadd9",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "Cadd9"
+    ],
+    "instrumental": [
+        "Em",
+        "Em",
+        "Asus2",
+        "Asus2",
+        "Em",
+        "Em",
+        "Asus2",
+        "Asus2"
+    ],
+    "bridge": [
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2",
+        "Em",
+        "Asus2"
+    ]
+}

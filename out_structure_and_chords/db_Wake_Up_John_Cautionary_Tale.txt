@@ -118,12 +118,6 @@
         "Cadd2",
         "G",
         "Dadd4/F#",
-        "Cadd2",
-        "G",
-        "Dadd4/F#",
-        "Cadd2",
-        "G",
-        "Dadd4/F#",
         "Cadd2"
     ],
     "chorus-3": [
@@ -140,6 +134,26 @@
         "Dadd4/F#",
         "Cadd2"
     ],
+    "instrumental-1": [
+        "G",
+        "Dadd4/F#",
+        "Cadd2",
+        "G",
+        "Dadd4/F#",
+        "Cadd2"
+    ],
+    "instrumental-2": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "C/B",
+        "Am",
+        "C/B",
+        "C",
+        "C/B",
+        "Am"
+    ],
     "bridge": [
         "G",
         "Dadd4/F#",
@@ -152,17 +166,7 @@
         "Cadd2",
         "G",
         "Dadd4/F#",
-        "Cadd2",
-        "G",
-        "C",
-        "G",
-        "C",
-        "C/B",
-        "Am",
-        "C/B",
-        "C",
-        "C/B",
-        "Am"
+        "Cadd2"
     ],
     "outro": [
         "G",

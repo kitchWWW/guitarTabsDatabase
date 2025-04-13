@@ -31,11 +31,7 @@
         "Eb",
         "Bb",
         "F",
-        "Eb",
-        "Eb",
-        "F",
-        "Bb",
-        "Dm"
+        "Eb"
     ],
     "pre-chorus-2": [
         "Bb",
@@ -44,6 +40,24 @@
         "Bb",
         "F",
         "Eb"
+    ],
+    "instrumental-1": [
+        "Eb",
+        "F",
+        "Bb",
+        "Dm"
+    ],
+    "instrumental-2": [
+        "Bb",
+        "Eb",
+        "F",
+        "Gm"
+    ],
+    "instrumental-3": [
+        "Eb",
+        "Cm",
+        "Bb",
+        "Gm"
     ],
     "chorus-1": [
         "Eb",
@@ -61,10 +75,6 @@
         "Eb",
         "Cm",
         "Bb",
-        "Gm",
-        "Bb",
-        "Eb",
-        "F",
         "Gm"
     ],
     "chorus-2": [
@@ -104,10 +114,6 @@
         "Gm"
     ],
     "bridge": [
-        "Eb",
-        "Cm",
-        "Bb",
-        "Gm",
         "Eb",
         "Cm",
         "Bb",

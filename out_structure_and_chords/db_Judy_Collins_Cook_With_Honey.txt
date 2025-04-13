@@ -71,18 +71,6 @@
         "Dmaj7",
         "A11",
         "Dmaj7",
-        "A11",
-        "Dmaj7",
-        "A11",
-        "Dmaj7",
-        "A11",
-        "Dmaj7",
-        "A11",
-        "Dmaj7",
-        "A11",
-        "Dmaj7",
-        "A11",
-        "Dmaj7",
         "A11"
     ],
     "chorus-3": [
@@ -112,6 +100,20 @@
         "A11"
     ],
     "chorus-5": [
+        "Dmaj7",
+        "A11",
+        "Dmaj7",
+        "A11",
+        "Dmaj7",
+        "A11",
+        "Dmaj7",
+        "A11",
+        "Dmaj7",
+        "A11",
+        "Dmaj7",
+        "A11"
+    ],
+    "instrumental": [
         "Dmaj7",
         "A11",
         "Dmaj7",

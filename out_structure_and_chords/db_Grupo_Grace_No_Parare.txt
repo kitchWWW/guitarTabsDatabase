@@ -1,0 +1,73 @@
+{
+    "intro": [
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Ab"
+    ],
+    "verse-1": [
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Ab",
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Ab"
+    ],
+    "verse-2": [
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Ab",
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Ab"
+    ],
+    "pre-chorus-1": [
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Fm",
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Ab"
+    ],
+    "pre-chorus-2": [
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Fm",
+        "Bb",
+        "Gb",
+        "Db/F",
+        "Ab"
+    ],
+    "chorus-1": [
+        "Gb",
+        "Db/F",
+        "Bb",
+        "Fm",
+        "Ab"
+    ],
+    "chorus-2": [
+        "Gb",
+        "Db/F",
+        "Bb",
+        "Fm",
+        "Ab",
+        "Gb",
+        "Db/F",
+        "Bb",
+        "Ab"
+    ],
+    "chorus-3": [
+        "Gb",
+        "Db/F",
+        "Bb",
+        "Fm",
+        "Ab"
+    ]
+}

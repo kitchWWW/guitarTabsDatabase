@@ -109,7 +109,9 @@
         "Am",
         "D/F#",
         "C/G",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "G",
         "G",
         "C/G",

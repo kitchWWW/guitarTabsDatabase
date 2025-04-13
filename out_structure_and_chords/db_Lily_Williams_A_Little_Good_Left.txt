@@ -36,10 +36,7 @@
         "F",
         "Dm7",
         "G7",
-        "C",
-        "Am",
-        "F",
-        "Fdim"
+        "C"
     ],
     "chorus-2": [
         "Am",
@@ -74,6 +71,11 @@
         "Dm7",
         "G7",
         "C"
+    ],
+    "instrumental": [
+        "Am",
+        "F",
+        "Fdim"
     ],
     "outro": [
         "Am",

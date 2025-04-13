@@ -77,11 +77,7 @@
         "Em",
         "Bm",
         "C",
-        "D",
-        "Em",
-        "Bm",
-        "D",
-        "Am"
+        "D"
     ],
     "chorus-3": [
         "Em",
@@ -101,6 +97,12 @@
         "Bm",
         "C",
         "D"
+    ],
+    "instrumental": [
+        "Em",
+        "Bm",
+        "D",
+        "Am"
     ],
     "bridge": [
         "Em",

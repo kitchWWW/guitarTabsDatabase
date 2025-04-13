@@ -1,0 +1,70 @@
+URL: https://tabs.ultimate-guitar.com/tab/2882771
+Artist: Andreas Grega
+Song: Älskling
+Genre: 
+Key: 
+
+
+[tab]    [ch]Am[/ch]                                              [ch]E[/ch]        [ch]E7[/ch]    [ch]E[/ch]                 [ch]E7[/ch]    [ch]E[/ch]
+e|--5-----x--5--5--5--x--5--x--5--x--5--5--5--------0-----x--0-----0--x--0--x--0--x--0-----0--0--0--|
+B|--5-----x--5--5--5--x--5--x--5--x--5--5--5--------0-----x--0-----0--x--0--x--0--x--0-----0--0--0--|
+G|--5-----x--5--5--5--x--5--x--5--x--5--5--5--------1-----x--1-----1--x--1--x--1--x--1-----1--1--1--|
+D|--7-----x--7--7--7--x--7--x--7--x--7--7--7--------2-----x--0h2---2--x--2--x--2--x--0h2---2--2--2--|
+A|--7-----x--7--7--7--x--7--x--7--x--7--7--7--------2-----x--2-----2--x--2--x--2--x--2-----2--2--2--|
+E|--5-----x--5--5--5--x--5--x--5--x--5--5--5--5\0---0-----x--0-----0--x--0--x--0--x--0-----0--0--0--|[/tab]
+[tab]    [ch]E[/ch]        [ch]E7[/ch]    [ch]E[/ch]                 [ch]E7[/ch]    [ch]E[/ch]        [ch]Am[/ch]
+e|--0-----x--0-----0--x--0--x--0--x--0-----0--0--0--5-----x--5--5--5--x--5--x--5--x--5--5--5--5--5--|
+B|--0-----x--0-----0--x--0--x--0--x--0-----0--0--0--5-----x--5--5--5--x--5--x--5--x--5--5--5--5--5--|
+G|--1-----x--1-----1--x--1--x--1--x--1-----1--1--1--5-----x--5--5--5--x--5--x--5--x--5--5--5--7--5--|
+D|--2-----x--0h2---2--x--2--x--2--x--0h2---2--2--2--7-----x--7--7--7--x--7--x--7--x--7--7--7--7--7--|
+A|--2-----x--2-----2--x--2--x--2--x--2-----2--2--2--7-----x--7--7--7--x--7--x--7--x--7--7--7--7--7--|
+E|--0-----x--0-----0--x--0--x--0--x--0-----0--0--0--5-----x--5--5--5--x--5--x--5--x--5--5--5--5--5--|[/tab]
+
+[Intro]
+[ch]Am[/ch]   [ch]E[/ch]   [ch]E[/ch]   [ch]Am[/ch]
+
+[Vers]
+[tab][ch]Am[/ch]               [ch]E[/ch]
+ Kom bara närmre, du ska få mitt hjärta.[/tab]
+[tab][ch]E[/ch]                  [ch]Am[/ch]
+ Du får mina färger, dom får dig att skratta.[/tab]
+[tab][ch]Am[/ch]                       [ch]E[/ch]
+ I ljuset av solnedgången nere vid hamnen.[/tab]
+[tab][ch]E[/ch]                           [ch]Am[/ch]
+ Till ljudet av fågel sånger, höll jag dig i handen.[/tab]
+
+[Mellanspel
+[ch]Am[/ch]   [ch]E[/ch]   [ch]E[/ch]   [ch]Am[/ch]
+
+[Vers]
+[tab][ch]Am[/ch]                 [ch]E[/ch]
+ Du påminner mig om en ängel i himlen.[/tab]
+[tab][ch]E[/ch]                    [ch]Am[/ch]
+ Du får mig att vända när jag dras med vinden.[/tab]
+[tab][ch]Am[/ch]                           [ch]E[/ch]
+ Jag ser alltid dig min älskling, i alla faror.[/tab]
+[tab][ch]E[/ch]                         [ch]Am[/ch]
+ Men tiden vill ha förändring och drar isär oss.[/tab]
+
+[Mellanspel
+[ch]Am[/ch]   [ch]E[/ch]   [ch]E[/ch]   [ch]Am[/ch]
+
+[Vers]
+[tab][ch]Am[/ch]                  [ch]E[/ch]
+ Jag vet inget värre än att din kärlek mista.[/tab]
+[tab][ch]E[/ch]                      [ch]Am[/ch]
+ Du skulle vart här men vi har delas i mitten.[/tab]
+[tab][ch]Am[/ch]                         [ch]E[/ch]
+ Och med salta tårar i rösten tog vi ett avsked.[/tab]
+[tab][ch]E[/ch]                           [ch]Am[/ch]
+ Vi gråter och tröstar ständigt, men får ingen kärlek.[/tab]
+
+[Bridge]
+[tab][ch]Am[/ch]                           [ch]F[/ch]
+ När vi är tillsammans älskling, är saker inte alls så kämpigt.[/tab]
+[tab][ch]C[/ch]                             [ch]E[/ch]
+ När vi är tillsammans älskade, är saker så mycket enklare.[/tab]
+[tab][ch]Am[/ch]                           [ch]F[/ch]
+ När vi är tillsammans älskling, är saker inte alls så jobbigt.[/tab]
+[tab][ch]C[/ch]                            [ch]E[/ch]
+ När vi är tillsammas älskade, är saker så mycket enklare.[/tab]

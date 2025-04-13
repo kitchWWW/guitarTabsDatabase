@@ -1,0 +1,110 @@
+URL: https://tabs.ultimate-guitar.com/tab/madison-cunningham/in-my-life-chords-5150299
+Artist: Madison Cunningham
+Song: In My Life
+Genre: 
+Key: Db
+
+
+Notes: 
+Fingerstyle arpeggios through verses and choruses
+Usually step through an F# passing bass note when moving to Em from a G chord in the verse & chorus
+
+Acoustic cover: https://youtu.be/7-VSDUqVmnI
+
+Capo 6
+
+
+[tab][Intro]
+  [ch]G[/ch]                [ch]D[/ch]                [ch]G[/ch]                [ch]D[/ch]
+e|-----3---------2-----2-0---------|-----3---------2-----2-0---------|
+B|-0-------0h1-3-------------3-1-0-|-0-------0h1-3-------------3-1-0-|
+G|---0---0-----------2-------------|---0---0-----------2-------------|
+D|-----0----=--0---0-------0-------|-----0----=--0---0-------0-------|
+A|---------------------------------|---------------------------------|
+D|-3-------3-----------------------|-3-------3-----------------------|[/tab]
+
+
+[Verse 1]
+[tab]          [ch]G[/ch]     [ch]G/B[/ch]     [ch]Emadd9[/ch] [ch]G7[/ch]
+There are places I'll remember[/tab]
+[tab]       [ch]C[/ch] [ch]Cm[/ch]         [ch]G[/ch]
+All my li-ife, though some have changed[/tab]
+[tab]     [ch]G[/ch]        [ch]G/B[/ch]    [ch]Emadd9[/ch]  [ch]G7[/ch]
+Some forever, not for better[/tab]
+[tab]         [ch]C[/ch] [ch]Cm[/ch]     [ch]G[/ch]
+Some have go-one and some remain[/tab]
+
+
+[Chorus]
+[tab]          [ch]Emadd9[/ch]           [ch]A7[/ch]
+All these places had their moments[/tab]
+[tab]     [ch]F7[/ch]                    [ch]G[/ch]
+With lovers and friends, I still can recall[/tab]
+[tab]         [ch]Em[/ch]                [ch]A7[/ch]
+Some are dead and some are living[/tab]
+[tab]   [ch]Cm[/ch]           [ch]G[/ch]
+In my life, I've loved them all[/tab]
+
+
+[tab][Interlude]
+  [ch]G[/ch]                [ch]D[/ch]                [ch]G[/ch]                [ch]D[/ch]
+e|-----3---------2-----2-0---------|-----3---------2-----2-0---------|
+B|-0-------0h1-3-------------3-1-0-|-0-------0h1-3-------------3-1-0-|
+G|---0---0-----------2-------------|---0---0-----------2-------------|
+D|-----0----=--0---0-------0-------|-----0----=--0---0-------0-------|
+A|---------------------------------|---------------------------------|
+D|-3-------3-----------------------|-3-------3-----------------------|[/tab]
+
+
+[Verse 2]
+[tab]       [ch]G[/ch]         [ch]G/B[/ch]         [ch]Emadd9[/ch] [ch]G7[/ch]
+But of all these friends and lovers[/tab]
+[tab]         [ch]C[/ch] [ch]Cm[/ch]    [ch]G[/ch]
+Thеre is no one compares with you[/tab]
+[tab]          [ch]G[/ch]        [ch]G/B[/ch]        [ch]Emadd9[/ch] [ch]G7[/ch]
+And thеse memories lose their meaning[/tab]
+[tab]       [ch]C[/ch]       [ch]Cm[/ch]     [ch]G[/ch]
+When I think of love as something new[/tab]
+
+
+[Chorus]
+[tab]         [ch]Emadd9[/ch]                 [ch]A7[/ch]
+Though I know I'll never lose affection[/tab]
+[tab]    [ch]F7[/ch]                     [ch]G[/ch]
+For people and things that went before[/tab]
+[tab]  [ch]Emadd9[/ch]                         [ch]A7[/ch]
+I know I'll often stop and think about them[/tab]
+[tab]   [ch]Cm[/ch]        [ch]G[/ch]
+In my life, I love you more[/tab]
+
+
+[Instrumental]
+[ch]G[/ch]   [ch]G/B[/ch]  |[ch]Em[/ch] [ch]G7[/ch]   |[ch]C[/ch]  [ch]Cm[/ch]  |[ch]G[/ch]      | (x2)
+
+
+[Chorus]
+[tab]  [ch]Emadd9[/ch]                 [ch]A7[/ch]
+I know I'll never lose affection[/tab]
+[tab]    [ch]F7[/ch]                      [ch]G[/ch]
+For people and things that went before[/tab]
+[tab]  [ch]Emadd9[/ch]                          [ch]A7[/ch]
+I know I'll often stop and think about them[/tab]
+[tab]   [ch]Cm[/ch]         [ch]G[/ch]
+In my life, I love you more[/tab]
+
+[Tag]
+[tab]  [ch]Emadd9[/ch]  [ch]A7[/ch]  |[ch]Cm[/ch]     [ch]G[/ch]      |
+In my  life, I love you more[/tab]
+[tab]  [ch]Emadd9[/ch] [ch]A7[/ch]   |[ch]Cm[/ch]       |[ch]F7[/ch]     |
+In my  life, I love      you ...[/tab]
+
+[tab][Outro]
+  [ch]G[/ch]                [ch]D[/ch]                [ch]G[/ch]                
+e|-----3---------2-----2-0---------|------------|
+B|-0-------0h1-3-------------3-1---|----0-------|
+G|---0---0-----------2-------------|---0--------|
+D|-----0----=--0---0-------0-------|--0---------|
+A|---------------------------------|------------|
+D|-3-------3-----------------------|-3----------|[/tab]
+
+... more

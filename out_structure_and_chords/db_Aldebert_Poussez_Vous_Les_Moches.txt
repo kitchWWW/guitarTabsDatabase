@@ -6,7 +6,16 @@
         "C",
         "Gm",
         "C",
+        "F"
+    ],
+    "instrumental-1": [
+        "Dm",
         "F",
+        "G",
+        "Dm",
+        "Dm"
+    ],
+    "instrumental-2": [
         "Dm",
         "F",
         "G",
@@ -84,12 +93,7 @@
         "Gm",
         "C",
         "F",
-        "A",
-        "Dm",
-        "F",
-        "G",
-        "Dm",
-        "Dm"
+        "A"
     ],
     "chorus-3": [
         "Gm",

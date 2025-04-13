@@ -8,19 +8,7 @@
         "Eb",
         "Ab",
         "G7",
-        "Cm",
-        "Cm",
-        "Cm/Bb",
-        "Cm/A",
-        "Cm/G",
-        "Eb5",
-        "D5",
-        "Cm",
-        "Cm/Bb",
-        "Cm/A",
-        "Cm/G",
-        "Eb5",
-        "D5"
+        "Cm"
     ],
     "verse-2": [
         "Cm",
@@ -54,6 +42,20 @@
         "Ab",
         "G7",
         "Cm"
+    ],
+    "instrumental": [
+        "Cm",
+        "Cm/Bb",
+        "Cm/A",
+        "Cm/G",
+        "Eb5",
+        "D5",
+        "Cm",
+        "Cm/Bb",
+        "Cm/A",
+        "Cm/G",
+        "Eb5",
+        "D5"
     ],
     "pre-chorus-1": [
         "Cm",

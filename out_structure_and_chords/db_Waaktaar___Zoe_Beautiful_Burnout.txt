@@ -67,12 +67,7 @@
         "Abm",
         "F#",
         "E",
-        "F#",
-        "B",
-        "Ebm",
-        "Abm",
-        "E",
-        "B"
+        "F#"
     ],
     "chorus-2": [
         "Ebm",
@@ -123,6 +118,13 @@
         "F#",
         "E",
         "F#"
+    ],
+    "instrumental": [
+        "B",
+        "Ebm",
+        "Abm",
+        "E",
+        "B"
     ],
     "outro": [
         "B",

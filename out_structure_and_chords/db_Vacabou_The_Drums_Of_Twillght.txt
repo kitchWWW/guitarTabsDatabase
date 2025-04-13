@@ -57,17 +57,7 @@
         "F",
         "C",
         "Csus2",
-        "C",
-        "Dm",
-        "Dsus2",
-        "G",
-        "Dm",
-        "Dsus2",
-        "G",
-        "C",
-        "F",
-        "Dm",
-        "Dm"
+        "C"
     ],
     "chorus-2": [
         "E7",
@@ -81,6 +71,18 @@
         "C",
         "Csus2",
         "C"
+    ],
+    "instrumental": [
+        "Dm",
+        "Dsus2",
+        "G",
+        "Dm",
+        "Dsus2",
+        "G",
+        "C",
+        "F",
+        "Dm",
+        "Dm"
     ],
     "outro": [
         "Dm",

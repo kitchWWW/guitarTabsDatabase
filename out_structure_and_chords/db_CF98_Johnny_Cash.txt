@@ -71,7 +71,9 @@
         "E",
         "B",
         "C#m",
-        "B",
+        "B"
+    ],
+    "instrumental": [
         "A",
         "C#m",
         "E",

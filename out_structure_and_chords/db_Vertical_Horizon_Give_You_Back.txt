@@ -1,0 +1,20 @@
+{
+    "intro": [
+        "Am",
+        "F/C"
+    ],
+    "chorus-1": [
+        "C",
+        "Am",
+        "F/C"
+    ],
+    "chorus-2": [
+        "C",
+        "Am",
+        "F/C"
+    ],
+    "verse": [
+        "Am",
+        "F/C"
+    ]
+}

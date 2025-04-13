@@ -7,11 +7,7 @@
         "G#m",
         "E",
         "F#",
-        "D#m",
-        "G#m",
-        "E",
-        "B",
-        "A#m"
+        "D#m"
     ],
     "chorus-2": [
         "G#m",
@@ -33,6 +29,13 @@
         "F#",
         "D#m"
     ],
+    "instrumental-1": [
+        "G#m",
+        "E",
+        "B",
+        "A#m"
+    ],
+    "instrumental-2": [],
     "verse": [
         "G#m",
         "E",

@@ -36,10 +36,7 @@
         "D7",
         "Em",
         "C",
-        "G",
-        "G",
-        "Bb6",
-        "Cmaj7"
+        "G"
     ],
     "chorus-2": [
         "D",
@@ -60,6 +57,11 @@
         "Em",
         "C",
         "G"
+    ],
+    "instrumental": [
+        "G",
+        "Bb6",
+        "Cmaj7"
     ],
     "bridge": [
         "Ebmaj7",

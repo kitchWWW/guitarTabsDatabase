@@ -43,10 +43,6 @@
         "D",
         "Em",
         "Bm",
-        "G",
-        "D",
-        "Em",
-        "Bm",
         "G"
     ],
     "chorus-3": [
@@ -58,6 +54,12 @@
         "Em",
         "Bm",
         "G",
+        "D",
+        "Em",
+        "Bm",
+        "G"
+    ],
+    "instrumental": [
         "D",
         "Em",
         "Bm",

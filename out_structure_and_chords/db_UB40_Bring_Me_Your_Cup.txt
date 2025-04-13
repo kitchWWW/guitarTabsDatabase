@@ -38,5 +38,7 @@
     ],
     "chorus-2": [],
     "chorus-3": [],
-    "chorus-4": []
+    "chorus-4": [],
+    "instrumental-1": [],
+    "instrumental-2": []
 }

@@ -80,5 +80,6 @@
         "Cmaj7",
         "Am7",
         "F"
-    ]
+    ],
+    "instrumental": []
 }

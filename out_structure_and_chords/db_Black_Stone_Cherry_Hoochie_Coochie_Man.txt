@@ -107,7 +107,9 @@
         "Bb",
         "C",
         "Bb",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "Eb",
         "C",
         "Eb",

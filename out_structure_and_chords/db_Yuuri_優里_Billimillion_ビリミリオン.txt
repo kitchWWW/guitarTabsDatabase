@@ -1,5 +1,7 @@
 {
     "intro": [],
+    "instrumental-1": [],
+    "instrumental-2": [],
     "verse-1": [],
     "verse-2": [],
     "chorus-1": [],

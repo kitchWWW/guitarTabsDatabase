@@ -1,0 +1,49 @@
+{
+    "intro": [
+        "Emaj7",
+        "Amaj7"
+    ],
+    "verse-1": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Cmaj7",
+        "Asus2",
+        "Cmaj7",
+        "Asus2"
+    ],
+    "verse-2": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Cmaj7",
+        "Asus2",
+        "Cmaj7",
+        "Asus2",
+        "Dsus2",
+        "Bsus2",
+        "F#m",
+        "Dsus2",
+        "Bsus2",
+        "F#m",
+        "Asus2"
+    ],
+    "chorus-1": [
+        "E",
+        "Asus2",
+        "E",
+        "Asus2"
+    ],
+    "chorus-2": [
+        "E",
+        "Asus2",
+        "E",
+        "Asus2"
+    ],
+    "outro": [
+        "Emaj7",
+        "Amaj7"
+    ]
+}

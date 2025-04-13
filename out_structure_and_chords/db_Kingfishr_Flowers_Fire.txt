@@ -32,7 +32,9 @@
         "C",
         "G",
         "Em7",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "G",
         "Em7",
         "C"

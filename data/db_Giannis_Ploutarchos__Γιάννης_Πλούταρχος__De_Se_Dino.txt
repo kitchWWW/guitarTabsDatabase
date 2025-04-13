@@ -1,0 +1,71 @@
+URL: https://tabs.ultimate-guitar.com/tab/2626083
+Artist: Giannis Ploutarchos (Γιάννης Πλούταρχος)
+Song: De Se Dino
+Genre: 
+Key: C#m
+
+
+[Intro]
+ 
+[ch]G#m[/ch]  [ch]C#m[/ch]  [ch]G#m[/ch]  [ch]C#m[/ch]  [ch]B[/ch]
+[ch]G#m[/ch]  [ch]C#m[/ch]  [ch]G#m[/ch]  [ch]C#m[/ch]  [ch]B[/ch]
+ 
+ 
+[Verse]
+[tab]       [ch]C#m[/ch]                    [ch]F#m[/ch]
+Στο λαιμό σου φεγγάρι, πριν ο ύπνος σε πάρει[/tab]
+[tab]          [ch]A[/ch]                [ch]G#m[/ch]                 [ch]B[/ch]
+στα κλειστά βλέφαρά σου θα μπω, πρίγκιπας σου εγώ[/tab]
+[tab]          [ch]C#m[/ch]                 [ch]F#m[/ch]
+Κι αν μας τύχει το έργο με τα έγχρωμα φεύγω,[/tab]
+[tab]          [ch]A[/ch]                  [ch]G#m[/ch]                [ch]C#m[/ch]
+μην τα αγγίζεις και μην τα κοιτάς, πουθενά δε θα πας[/tab]
+ 
+ 
+[Chorus]
+[tab]      [ch]F#m[/ch]          [ch]C#m[/ch]
+Δε σε δίνω, δε σ' αφήνω,[/tab]
+[tab]     [ch]G#m[/ch]                     [ch]A[/ch]    [ch]B[/ch]      [ch]C#m[/ch]
+τα μοναδικά σου μάτια θησαυροί μου και παλάτια[/tab]
+[tab]       [ch]F#m[/ch]        [ch]C#m[/ch]
+Δεν σε δίνω, ορκισμένα,[/tab]
+[tab]      [ch]G#m[/ch]                       [ch]A[/ch]  [ch]B[/ch]     [ch]C#m[/ch]
+σ' αγαπώ και δε σε δίνω, δε σε δίνω σε κανένα[/tab]
+ 
+ 
+[Instrumental]
+ 
+[ch]F#m[/ch]  [ch]C#m[/ch]
+[ch]G#m[/ch]  [ch]A[/ch]    [ch]B[/ch]    [ch]C#m[/ch]
+[ch]F#m[/ch]  [ch]C#m[/ch]
+[ch]G#m[/ch]  [ch]A[/ch]    [ch]B[/ch]    [ch]C#m[/ch]
+ 
+ 
+[Verse]
+[tab]       [ch]C#m[/ch]                   [ch]F#m[/ch]
+Σ’ ότι θέλω και ελπίζω πάντα σε καθρεφτίζω[/tab]
+[tab]       [ch]A[/ch]             [ch]G#m[/ch]                        [ch]B[/ch]
+Είσαι πάντα σκοπός ιερός, το 'χει πει και ο καιρός[/tab]
+[tab]      [ch]C#m[/ch]                 [ch]F#m[/ch]
+Ρούχα κάτω ριγμένα, σ' αγαπώ φορτισμένα[/tab]
+[tab]         [ch]A[/ch]               [ch]G#m[/ch]                   [ch]C#m[/ch]
+Ούτε στ' όνειρο μη μ' απατάς, μ' άλλο σώμα μην πας[/tab]
+ 
+ 
+[Chorus]
+[tab]      [ch]F#m[/ch]          [ch]C#m[/ch]
+Δε σε δίνω, δε σ' αφήνω,[/tab]
+[tab]     [ch]G#m[/ch]                     [ch]A[/ch]    [ch]B[/ch]      [ch]C#m[/ch]
+τα μοναδικά σου μάτια θησαυροί μου και παλάτια[/tab]
+[tab]       [ch]F#m[/ch]        [ch]C#m[/ch]
+Δεν σε δίνω, ορκισμένα,[/tab]
+[tab]      [ch]G#m[/ch]                       [ch]A[/ch]  [ch]B[/ch]     [ch]C#m[/ch]
+σ' αγαπώ και δε σε δίνω, δε σε δίνω σε κανένα[/tab]
+[tab]      [ch]F#m[/ch]          [ch]C#m[/ch]
+Δε σε δίνω, δε σ' αφήνω,[/tab]
+[tab]     [ch]G#m[/ch]                     [ch]A[/ch]    [ch]B[/ch]      [ch]C#m[/ch]
+τα μοναδικά σου μάτια θησαυροί μου και παλάτια[/tab]
+[tab]       [ch]F#m[/ch]        [ch]C#m[/ch]
+Δεν σε δίνω, ορκισμένα,[/tab]
+[tab]      [ch]G#m[/ch]                       [ch]A[/ch]  [ch]B[/ch]     [ch]C#m[/ch]
+σ' αγαπώ και δε σε δίνω, δε σε δίνω σε κανένα[/tab]

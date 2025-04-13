@@ -1,0 +1,78 @@
+URL: https://tabs.ultimate-guitar.com/tab/erik-van-neygen/dans-met-mij-door-de-nacht-chords-4378847
+Artist: Erik Van Neygen
+Song: Dans Met Mij Door De Nacht
+Genre: 
+Key: A
+
+
+(§ = Rust)
+(Wals dus 3/4)
+
+[Intro]
+| [ch]D[/ch]  | [ch]D[/ch]  | [ch]D[/ch]  | [ch]D[/ch]  |
+| [ch]D[/ch]  | [ch]E7[/ch] | [ch]A[/ch]  | [ch]A[/ch]  |
+| [ch]E7[/ch] | [ch]E7[/ch] | [ch]E7[/ch] | [ch]E7[/ch] |
+| [ch]A[/ch]  | [ch]D[/ch]  | [ch]A[/ch]  | [ch]A[/ch]  |
+
+[Vers 1]
+[tab][ch]A[/ch]                                                    [ch]E[/ch]     [ch]E[/ch]
+Zelfs met krullen van goud, is ze oud en armzalig de zaal[/tab]
+[tab][ch]E7[/ch]                        [ch]E[/ch]                               [ch]A[/ch]     [ch]A[/ch]
+Maar vannacht is ze fris, want er is dans en licht nog éénmaal[/tab]
+[tab]                              [ch]D[/ch]             [ch]A[/ch]          [ch]E[/ch]      [ch]E[/ch]
+Na het bal wordt de zaal, neergehaald omdat niemand ze koopt[/tab]
+[tab][ch]E7[/ch]                          [ch]E[/ch]                                 [ch]A[/ch]       [ch]A[/ch]
+Maak de nacht niet te kort, want morgen wordt onze jeugd meegesloopt[/tab]
+
+[Refrein]
+[tab][ch]D[/ch]                                                                [ch]A[/ch]         [ch]A[/ch]
+Dans met mij door de nacht, fluister zacht, vlij je hoofd op m'n schouder[/tab]
+[tab][ch]E7[/ch]                           [ch]E[/ch]                               [ch]A[/ch]      [ch]A[/ch]
+Dans met mij, dicht bij mij, liefste blijf, ook al worden we ouder[/tab]
+[tab][ch]D[/ch]                                                       [ch]A[/ch]     [ch]A[/ch]
+Dans met mij door de nacht, ga nog niet, wacht nog heel even[/tab]
+[tab][ch]E7[/ch]                           [ch]E[/ch]                          [ch]A[/ch]      [ch]A[/ch]
+Dans met mij, dicht bij mij, ga nog niet, blijf heel je leven[/tab]
+
+[Intro]
+| [ch]E[/ch]  | [ch]E[/ch]  | [ch]A[/ch]  | [ch]F[/ch]  |
+| [ch]Eb[/ch] | [ch]Eb[/ch] | [ch]Eb[/ch] | [ch]Eb[/ch] |
+| [ch]Eb[/ch] | [ch]Eb[/ch] | [ch]Bb[/ch] | [ch]Bb[/ch] |
+| [ch]F[/ch]  | [ch]F7[/ch] | [ch]F[/ch]  | [ch]F7[/ch] |
+| [ch]F[/ch]  | [ch]F[/ch]  | [ch]Bb[/ch] | [ch]Bb[/ch] |
+
+[Vers 2]
+[tab][ch]Bb[/ch]                                                  [ch]F[/ch]      [ch]F[/ch]
+Gun je mij nog één kans, nog één dans, de accordeon hijgt[/tab]
+[tab][ch]F7[/ch]                        [ch]F[/ch]                               [ch]Bb[/ch]      [ch]Bb[/ch]
+En de wals klinkt nog na, waar ik sta, als ‘t orkestje al zwijgt[/tab]
+[tab]                           [ch]Eb[/ch]                [ch]Bb[/ch]                   [ch]F[/ch]    [ch]F[/ch]
+‘k Wil je niet laten gaan, blijf niet staan, dans met mij tot het eind[/tab]
+[tab][ch]F7[/ch]                                    [ch]F[/ch]                      [ch]Bb[/ch]      [ch]Bb[/ch]
+Maar de nacht slokt ons op, als alles stopt en de balzaal verdwijnt[/tab]
+
+[Refrein]
+[tab][ch]Eb[/ch]                                                               [ch]Bb[/ch]       [ch]Bb[/ch]
+Dans met mij door de nacht, fluister zacht, vlij je hoofd op m'n schouder[/tab]
+[tab][ch]F7[/ch]                           [ch]F[/ch]                              [ch]Bb[/ch]     [ch]Bb[/ch]
+Dans met mij, dicht bij mij, liefste blijf ook al worden we ouder[/tab]
+[tab][ch]Eb[/ch]                                                      [ch]Bb[/ch]    [ch]Bb[/ch]
+Dans met mij door de nacht, ga nog niet, wacht nog heel even[/tab]
+[tab][ch]F7[/ch]                           [ch]F[/ch]                          [ch]Bb[/ch]     [ch]Bb[/ch]
+Dans met mij, dicht bij mij, ga nog niet, blijf heel je leven[/tab]
+
+[Coda]
+[tab][ch]Eb[/ch]                                                      [ch]Bb[/ch]    [ch]Bb[/ch]
+Dans met mij door de nacht, ga nog niet, wacht nog heel even[/tab]
+[tab][ch]F7[/ch]                           [ch]F[/ch]                          [ch]Bb[/ch]     [ch]Bb[/ch]
+Dans met mij, dicht bij mij, ga nog niet, blijf heel je leven[/tab]
+
+[Break]
+| [ch]F[/ch] | [ch]F[/ch] | § |
+
+[Slot]
+[tab][ch]F[/ch]             [ch]Bb[/ch]
+Blijf heel je leven[/tab]
+
+[Outro]
+| [ch]Bb[/ch] | [ch]Bb[/ch] | [ch]Bb[/ch] | [ch]Bb[/ch] |

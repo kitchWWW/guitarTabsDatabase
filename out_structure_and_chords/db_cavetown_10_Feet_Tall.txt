@@ -1,11 +1,25 @@
 {
-    "verse-1": [
+    "instrumental-1": [
+        "A5",
+        "E"
+    ],
+    "instrumental-2": [
         "A5",
         "E",
         "Emaj7",
         "C#m",
         "A",
+        "E"
+    ],
+    "instrumental-3": [
+        "A5",
         "E",
+        "Emaj7",
+        "C#m",
+        "A",
+        "E"
+    ],
+    "verse-1": [
         "A5",
         "E",
         "Emaj7",
@@ -14,12 +28,6 @@
         "E"
     ],
     "verse-2": [
-        "A5",
-        "E",
-        "Emaj7",
-        "C#m",
-        "A",
-        "E",
         "A5",
         "E",
         "Emaj7",

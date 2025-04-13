@@ -19,7 +19,7 @@
         "Bm",
         "A"
     ],
-    "pre-coro-1": [
+    "pre-chorus-1": [
         "Em",
         "Bm",
         "A",
@@ -27,12 +27,12 @@
         "Bm",
         "A"
     ],
-    "pre-coro-2": [
+    "pre-chorus-2": [
         "Em",
         "Bm",
         "A"
     ],
-    "coro-1": [
+    "chorus-1": [
         "G",
         "D",
         "A",
@@ -58,7 +58,7 @@
         "Bm",
         "A"
     ],
-    "coro-2": [
+    "chorus-2": [
         "G",
         "D",
         "A",
@@ -80,7 +80,7 @@
         "A",
         "Bm"
     ],
-    "coro-3": [
+    "chorus-3": [
         "G",
         "D",
         "A",

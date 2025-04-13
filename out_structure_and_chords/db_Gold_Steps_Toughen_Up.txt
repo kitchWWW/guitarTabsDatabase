@@ -136,7 +136,9 @@
         "D",
         "Bm",
         "F#m",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "F#m",
         "G",
         "A",

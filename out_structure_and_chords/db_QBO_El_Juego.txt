@@ -1,9 +1,9 @@
 {
     "intro": [],
-    "pre-coro-1": [],
-    "pre-coro-2": [],
-    "pre-coro-3": [],
-    "coro-1": [],
-    "coro-2": [],
-    "coro-3": []
+    "pre-chorus-1": [],
+    "pre-chorus-2": [],
+    "pre-chorus-3": [],
+    "chorus-1": [],
+    "chorus-2": [],
+    "chorus-3": []
 }

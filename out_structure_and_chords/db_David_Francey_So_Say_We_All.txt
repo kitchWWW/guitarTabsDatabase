@@ -23,7 +23,9 @@
         "D",
         "G",
         "C",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "Em",
         "D",
         "C",

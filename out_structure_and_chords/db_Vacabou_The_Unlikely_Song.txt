@@ -75,7 +75,27 @@
         "Bm",
         "Bm",
         "F#7",
+        "F#maj7"
+    ],
+    "chorus-2": [
+        "G",
+        "G/E",
+        "F#m",
+        "Em",
+        "Bm",
+        "Bm",
+        "F#7",
         "F#maj7",
+        "G",
+        "G/E",
+        "F#m",
+        "Em",
+        "Bm",
+        "Bm",
+        "F#7",
+        "F#maj7"
+    ],
+    "instrumental-1": [
         "Dsus2",
         "D",
         "Dsus2",
@@ -117,23 +137,18 @@
         "Asus2",
         "A"
     ],
-    "chorus-2": [
+    "instrumental-2": [
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "D",
+        "Asus2",
+        "A",
+        "Asus2",
+        "A",
+        "Bm",
         "G",
-        "G/E",
-        "F#m",
-        "Em",
-        "Bm",
-        "Bm",
-        "F#7",
-        "F#maj7",
-        "G",
-        "G/E",
-        "F#m",
-        "Em",
-        "Bm",
-        "Bm",
-        "F#7",
-        "F#maj7"
+        "A"
     ],
     "bridge": [
         "D",
@@ -157,18 +172,7 @@
         "A",
         "A",
         "A7",
-        "A7",
-        "Dsus2",
-        "D",
-        "Dsus2",
-        "D",
-        "Asus2",
-        "A",
-        "Asus2",
-        "A",
-        "Bm",
-        "G",
-        "A"
+        "A7"
     ],
     "outro": [
         "D",

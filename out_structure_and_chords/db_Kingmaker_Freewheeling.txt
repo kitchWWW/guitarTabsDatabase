@@ -75,15 +75,7 @@
         "F#m",
         "G",
         "F#m",
-        "G",
-        "A",
-        "G",
-        "D",
-        "A",
-        "G",
-        "D",
-        "Gsus2",
-        "Gsus2"
+        "G"
     ],
     "chorus-2": [
         "A",
@@ -105,15 +97,7 @@
         "F#m",
         "G",
         "F#m",
-        "G",
-        "A",
-        "G",
-        "D",
-        "A",
-        "G",
-        "D",
-        "Gsus2",
-        "Gsus2"
+        "G"
     ],
     "chorus-3": [
         "A",
@@ -137,6 +121,26 @@
         "F#m",
         "G",
         "A"
+    ],
+    "instrumental-1": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "Gsus2",
+        "Gsus2"
+    ],
+    "instrumental-2": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "Gsus2",
+        "Gsus2"
     ],
     "bridge": [
         "A",

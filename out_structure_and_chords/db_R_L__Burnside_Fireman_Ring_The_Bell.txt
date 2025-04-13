@@ -5,5 +5,7 @@
     "verse-3": [],
     "verse-4": [],
     "bridge-1": [],
-    "bridge-2": []
+    "bridge-2": [],
+    "instrumental-1": [],
+    "instrumental-2": []
 }

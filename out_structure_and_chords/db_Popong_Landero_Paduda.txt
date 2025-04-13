@@ -74,7 +74,18 @@
     ],
     "bridge-1": [
         "DM7",
+        "AM7"
+    ],
+    "bridge-2": [
+        "DM7",
         "AM7",
+        "AM7",
+        "DM7",
+        "AM7",
+        "DM7",
+        "AM7"
+    ],
+    "instrumental": [
         "AM7",
         "DM7",
         "C#m",
@@ -86,15 +97,6 @@
         "Bm",
         "C#m",
         "E",
-        "AM7"
-    ],
-    "bridge-2": [
-        "DM7",
-        "AM7",
-        "AM7",
-        "DM7",
-        "AM7",
-        "DM7",
         "AM7"
     ],
     "outro": [

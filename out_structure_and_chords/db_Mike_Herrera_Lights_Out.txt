@@ -81,7 +81,9 @@
         "C#",
         "B",
         "G#m",
-        "Bm",
+        "Bm"
+    ],
+    "instrumental": [
         "F#",
         "D#m",
         "G#m",

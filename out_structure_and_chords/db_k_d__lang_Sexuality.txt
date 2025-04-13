@@ -56,15 +56,7 @@
         "Am7",
         "Gm7",
         "Am7",
-        "Bb",
-        "C",
-        "Fm7",
-        "C",
-        "Fm7",
-        "C",
-        "Fm7",
-        "C",
-        "Fm7"
+        "Bb"
     ],
     "chorus-3": [
         "Bb",
@@ -89,6 +81,16 @@
         "Gm7",
         "Am7",
         "Bbsus4"
+    ],
+    "instrumental": [
+        "C",
+        "Fm7",
+        "C",
+        "Fm7",
+        "C",
+        "Fm7",
+        "C",
+        "Fm7"
     ],
     "outro": [
         "Bbsus4"

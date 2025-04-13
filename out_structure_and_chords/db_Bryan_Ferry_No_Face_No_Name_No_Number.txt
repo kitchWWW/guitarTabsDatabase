@@ -68,7 +68,9 @@
     "chorus-2": [
         "F",
         "C",
-        "C7",
+        "C7"
+    ],
+    "instrumental": [
         "F",
         "Bb",
         "F",

@@ -27,19 +27,21 @@
         "Asus2",
         "Cmaj7",
         "D6sus2",
-        "E",
-        "E",
-        "Cmaj7",
-        "Asus2",
-        "Cmaj7",
-        "D6sus2",
+        "E"
+    ],
+    "chorus-2": [
         "E",
         "Cmaj7",
         "Asus2",
         "Cmaj7",
         "D6sus2"
     ],
-    "chorus-2": [
+    "instrumental": [
+        "E",
+        "Cmaj7",
+        "Asus2",
+        "Cmaj7",
+        "D6sus2",
         "E",
         "Cmaj7",
         "Asus2",

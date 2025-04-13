@@ -27,7 +27,9 @@
         "Dm7",
         "C",
         "Am",
-        "G",
+        "G"
+    ],
+    "instrumental": [
         "F",
         "F",
         "Dm",

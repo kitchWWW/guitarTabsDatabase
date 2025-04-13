@@ -1,0 +1,42 @@
+{
+    "intro": [
+        "Eb",
+        "Gm",
+        "Cm",
+        "Ab",
+        "Eb",
+        "Gm",
+        "Cm",
+        "Ab"
+    ],
+    "verse": [
+        "Eb",
+        "Gm",
+        "Cm",
+        "Cm7",
+        "Ab",
+        "Eb",
+        "Gm",
+        "Cm7",
+        "Ab",
+        "Eb",
+        "G",
+        "Gm",
+        "Cm",
+        "Ab",
+        "Eb",
+        "Gm",
+        "Cm",
+        "Cm7",
+        "Ab",
+        "Eb",
+        "Gm",
+        "Cm",
+        "Cm7",
+        "Ab",
+        "Eb",
+        "Gm",
+        "Cm7",
+        "Ab"
+    ]
+}

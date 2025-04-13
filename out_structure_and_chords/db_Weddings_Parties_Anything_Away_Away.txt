@@ -61,11 +61,6 @@
         "Em",
         "G",
         "Em",
-        "D",
-        "D",
-        "D",
-        "Em",
-        "G",
         "D"
     ],
     "chorus-2": [
@@ -86,11 +81,20 @@
         "Em",
         "D"
     ],
-    "bridge": [
+    "instrumental-1": [
+        "D",
         "D",
         "Em",
         "G",
-        "A",
+        "D"
+    ],
+    "instrumental-2": [
+        "D",
+        "Em",
+        "G",
+        "A"
+    ],
+    "bridge": [
         "D",
         "Em",
         "G",

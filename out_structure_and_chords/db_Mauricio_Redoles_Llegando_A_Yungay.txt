@@ -1,5 +1,5 @@
 {
-    "coro": [
+    "chorus": [
         "F#m",
         "Bm",
         "Bm",

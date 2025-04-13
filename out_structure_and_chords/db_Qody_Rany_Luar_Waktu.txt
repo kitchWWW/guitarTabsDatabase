@@ -67,7 +67,9 @@
         "D#",
         "Dm",
         "Cm",
-        "D",
+        "D"
+    ],
+    "chorus-3": [
         "Gm",
         "F",
         "Cm",
@@ -79,7 +81,7 @@
         "Cm",
         "D"
     ],
-    "chorus-3": [
+    "instrumental": [
         "Gm",
         "F",
         "Cm",

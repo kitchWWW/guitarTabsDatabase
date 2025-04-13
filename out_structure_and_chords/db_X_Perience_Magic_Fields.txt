@@ -44,12 +44,7 @@
         "Ab",
         "Ebm",
         "Db",
-        "Bbm",
-        "Ab",
-        "Bbm",
-        "Ab",
-        "Ebm",
-        "Db"
+        "Bbm"
     ],
     "chorus-2": [
         "Bbm",
@@ -60,16 +55,7 @@
         "Ab",
         "Ebm",
         "Db",
-        "Bbm",
-        "Ab",
-        "Bbm",
-        "Ab",
-        "Ebm",
-        "Db",
-        "Bbm",
-        "Ab",
-        "Ebm",
-        "Db"
+        "Bbm"
     ],
     "chorus-3": [
         "Bbm",
@@ -80,17 +66,7 @@
         "Ab",
         "Ebm",
         "Db",
-        "Bbm",
-        "Bbm",
-        "Ab",
-        "Ebm",
-        "Db",
-        "Bbm",
-        "Ab",
-        "Bbm",
-        "Ab",
-        "Ebm",
-        "Db"
+        "Bbm"
     ],
     "chorus-4": [
         "Bbm",
@@ -105,6 +81,36 @@
         "Ab",
         "Ebm",
         "Gb",
+        "Db"
+    ],
+    "instrumental-1": [
+        "Ab",
+        "Bbm",
+        "Ab",
+        "Ebm",
+        "Db"
+    ],
+    "instrumental-2": [
+        "Ab",
+        "Bbm",
+        "Ab",
+        "Ebm",
+        "Db",
+        "Bbm",
+        "Ab",
+        "Ebm",
+        "Db"
+    ],
+    "instrumental-3": [
+        "Bbm",
+        "Ab",
+        "Ebm",
+        "Db",
+        "Bbm",
+        "Ab",
+        "Bbm",
+        "Ab",
+        "Ebm",
         "Db"
     ]
 }

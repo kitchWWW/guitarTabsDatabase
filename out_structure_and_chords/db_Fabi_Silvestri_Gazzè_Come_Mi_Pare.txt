@@ -80,7 +80,18 @@
         "Eb",
         "Cm",
         "Bb",
-        "Dm",
+        "Dm"
+    ],
+    "chorus-2": [
+        "Bb",
+        "Gm",
+        "F",
+        "Eb",
+        "Cm",
+        "Bb",
+        "Dm"
+    ],
+    "instrumental": [
         "Gm",
         "Eb",
         "Cm",
@@ -91,15 +102,6 @@
         "Cm",
         "Eb",
         "Cm"
-    ],
-    "chorus-2": [
-        "Bb",
-        "Gm",
-        "F",
-        "Eb",
-        "Cm",
-        "Bb",
-        "Dm"
     ],
     "outro": [
         "Gm",

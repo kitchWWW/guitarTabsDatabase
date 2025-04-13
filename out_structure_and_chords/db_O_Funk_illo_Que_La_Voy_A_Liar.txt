@@ -1,5 +1,5 @@
 {
-    "coro-1": [],
-    "coro-2": [],
-    "coro-3": []
+    "chorus-1": [],
+    "chorus-2": [],
+    "chorus-3": []
 }

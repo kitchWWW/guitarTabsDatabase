@@ -90,18 +90,7 @@
         "G",
         "Cm",
         "G",
-        "Cm",
-        "Cm",
-        "Ab",
-        "Cm",
-        "Ab",
-        "Cm",
-        "Ab",
-        "Cm",
-        "Ab",
-        "G",
-        "Cm",
-        "Ab"
+        "Cm"
     ],
     "chorus-2": [
         "G",
@@ -119,7 +108,22 @@
         "G",
         "Cm",
         "G",
+        "Cm"
+    ],
+    "instrumental-1": [
         "Cm",
+        "Ab",
+        "Cm",
+        "Ab",
+        "Cm",
+        "Ab",
+        "Cm",
+        "Ab",
+        "G",
+        "Cm",
+        "Ab"
+    ],
+    "instrumental-2": [
         "Cm",
         "Ab",
         "Cm",

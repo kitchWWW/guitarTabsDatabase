@@ -1,0 +1,62 @@
+{
+    "intro": [
+        "Cmaj7",
+        "Dmaj7"
+    ],
+    "verse-1": [
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7"
+    ],
+    "verse-2": [
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7"
+    ],
+    "chorus-1": [
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "A",
+        "G",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7"
+    ],
+    "chorus-2": [
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "A",
+        "G",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7",
+        "Cmaj7",
+        "Dmaj7"
+    ]
+}

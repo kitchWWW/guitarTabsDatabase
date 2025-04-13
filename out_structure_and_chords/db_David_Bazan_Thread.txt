@@ -51,14 +51,6 @@
         "Am7",
         "G",
         "Dsus2",
-        "Cmaj7",
-        "Cmaj7",
-        "Dsus2",
-        "G",
-        "Dsus2",
-        "G",
-        "Dsus2",
-        "G",
         "Cmaj7"
     ],
     "verse-3": [
@@ -78,6 +70,16 @@
         "G",
         "Dsus2",
         "Dsus2"
+    ],
+    "instrumental": [
+        "Cmaj7",
+        "Dsus2",
+        "G",
+        "Dsus2",
+        "G",
+        "Dsus2",
+        "G",
+        "Cmaj7"
     ],
     "outro": [
         "Cmaj7",

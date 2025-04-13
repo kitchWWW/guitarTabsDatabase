@@ -14,10 +14,10 @@ def parse_file(content):
     # Updated regex pattern for section headers:
     # It matches headers which:
     # - Either start at the beginning of a line with optional whitespace OR are inside brackets '[...]'
-    # - Then capture one of the section names (intro, verse, chorus, bridge, pre-chorus, solo, outro) ignoring case.
+    # - Then capture one of the section names (intro, verse, chorus, bridge, pre-chorus, solo, outro, coro, pre-coro) ignoring case.
     # - Optionally, there can be an accompanying number (e.g., "Verse 1") and then either a closing bracket or punctuation.
     header_pattern = re.compile(
-        r'(?i)(?:^\s*|\[)\s*(?P<section>intro|verse|chorus|bridge|pre-chorus|solo|outro|coro|pre-coro)(?:\s*(?P<number>\d+))?\s*(?:\]|\:|\-|\.\s+)',
+        r'(?i)(?:^\s*|\[)\s*(?P<section>intro|verse|chorus|bridge|pre-chorus|instrumental|solo|outro|coro|pre-coro)(?:\s*(?P<number>\d+))?\s*(?:\]|\:|\-|\.\s+)',
         re.MULTILINE
     )
     
@@ -29,6 +29,12 @@ def parse_file(content):
         # or store all chords under a default section like "unknown"
         return {}
     
+    # A mapping to translate Spanish section names to English
+    translation = {
+        'coro': 'chorus',
+        'pre-coro': 'pre-chorus'
+    }
+    
     # Use a dictionary to hold each section's occurrences;
     # each key's value is a list of lists (chord lists) for each occurrence.
     sections_dict = {}
@@ -36,6 +42,9 @@ def parse_file(content):
     for i, match in enumerate(matches):
         # Extract section name, normalizing to lower case
         section = match.group('section').lower()
+        # Translate Spanish labels to English if necessary
+        section = translation.get(section, section)
+        
         # If a number is provided (e.g., "Verse 1"), it could be used to further distinguish occurrences.
         # Here, we ignore it in the key naming since we will add numeric suffixes for multiple occurrences.
         start = match.end()  # Start of the content after the header

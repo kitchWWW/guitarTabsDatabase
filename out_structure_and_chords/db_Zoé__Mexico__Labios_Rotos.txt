@@ -3,6 +3,17 @@
         "Em",
         "G",
         "Bm",
+        "Bsus2/F#"
+    ],
+    "instrumental-1": [
+        "Em",
+        "G"
+    ],
+    "instrumental-2": [
+        "Em",
+        "G",
+        "Bm",
+        "Bm",
         "Bsus2/F#",
         "Em",
         "G"
@@ -87,14 +98,7 @@
         "D#m",
         "F#",
         "F",
-        "E",
-        "Em",
-        "G",
-        "Bm",
-        "Bm",
-        "Bsus2/F#",
-        "Em",
-        "G"
+        "E"
     ],
     "outro": [
         "D#m",

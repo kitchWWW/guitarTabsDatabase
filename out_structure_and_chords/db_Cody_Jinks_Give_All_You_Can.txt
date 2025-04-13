@@ -132,11 +132,7 @@
         "D",
         "D",
         "G",
-        "Am",
-        "Am",
-        "Em",
-        "G",
-        "D"
+        "Am"
     ],
     "chorus-2": [
         "C",
@@ -172,11 +168,7 @@
         "Eb",
         "Eb",
         "Ab",
-        "Bbm",
-        "Bbm",
-        "Fm",
-        "Ab",
-        "Eb"
+        "Bbm"
     ],
     "chorus-4": [
         "Db",
@@ -193,6 +185,18 @@
         "Db",
         "Ab",
         "Eb",
+        "Eb"
+    ],
+    "instrumental-1": [
+        "Am",
+        "Em",
+        "G",
+        "D"
+    ],
+    "instrumental-2": [
+        "Bbm",
+        "Fm",
+        "Ab",
         "Eb"
     ],
     "outro-1": [

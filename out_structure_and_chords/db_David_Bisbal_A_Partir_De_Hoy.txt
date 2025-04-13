@@ -23,7 +23,7 @@
         "B",
         "Db"
     ],
-    "coro-1": [
+    "chorus-1": [
         "Gb",
         "Db",
         "Gb",
@@ -60,7 +60,7 @@
         "B",
         "Db"
     ],
-    "coro-2": [
+    "chorus-2": [
         "Db",
         "Gb",
         "Db",
@@ -91,7 +91,7 @@
         "Ebm",
         "B"
     ],
-    "coro-3": [
+    "chorus-3": [
         "Db",
         "Gb",
         "Db",

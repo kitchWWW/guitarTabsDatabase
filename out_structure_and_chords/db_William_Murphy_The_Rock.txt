@@ -3,7 +3,9 @@
         "E",
         "D",
         "G",
-        "Bm",
+        "Bm"
+    ],
+    "instrumental": [
         "D",
         "G",
         "Bm",

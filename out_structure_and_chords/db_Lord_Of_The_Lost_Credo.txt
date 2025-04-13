@@ -116,7 +116,9 @@
         "Ab",
         "Eb",
         "Fm",
-        "Cm",
+        "Cm"
+    ],
+    "instrumental": [
         "Dm",
         "Fm",
         "Cm",

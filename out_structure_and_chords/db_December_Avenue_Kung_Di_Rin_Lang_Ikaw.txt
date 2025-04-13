@@ -37,10 +37,6 @@
         "E",
         "G#m7",
         "Asus2",
-        "Bsus4",
-        "E",
-        "G#m7",
-        "Asus2",
         "Bsus4"
     ],
     "chorus-2": [
@@ -66,6 +62,12 @@
         "G#m7",
         "Asus2",
         "Bsus4",
+        "E",
+        "G#m7",
+        "Asus2",
+        "Bsus4"
+    ],
+    "instrumental": [
         "E",
         "G#m7",
         "Asus2",

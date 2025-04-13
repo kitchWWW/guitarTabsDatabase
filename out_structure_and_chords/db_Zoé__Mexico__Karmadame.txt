@@ -17,7 +17,7 @@
         "G/F#",
         "E"
     ],
-    "coro-1": [
+    "chorus-1": [
         "C",
         "D",
         "Em",
@@ -37,18 +37,9 @@
         "Am/B",
         "C",
         "Dsus2",
-        "E",
-        "Dmaj7",
-        "F#m",
-        "Dmaj7",
-        "F#m",
-        "Dmaj7",
-        "F#m",
-        "G",
-        "G/F#",
         "E"
     ],
-    "coro-2": [
+    "chorus-2": [
         "C",
         "D",
         "Em",
@@ -82,7 +73,7 @@
         "Am/B",
         "C"
     ],
-    "coro-3": [
+    "chorus-3": [
         "C",
         "D",
         "Em",
@@ -102,6 +93,17 @@
         "Am/B",
         "C",
         "Dsus2",
+        "E"
+    ],
+    "instrumental": [
+        "Dmaj7",
+        "F#m",
+        "Dmaj7",
+        "F#m",
+        "Dmaj7",
+        "F#m",
+        "G",
+        "G/F#",
         "E"
     ]
 }

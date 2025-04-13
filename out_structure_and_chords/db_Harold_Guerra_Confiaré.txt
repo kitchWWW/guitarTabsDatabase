@@ -15,7 +15,7 @@
         "F/A",
         "Eb"
     ],
-    "coro": [
+    "chorus": [
         "Gm",
         "Eb/G",
         "Gm",

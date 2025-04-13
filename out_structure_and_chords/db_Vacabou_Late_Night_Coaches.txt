@@ -47,7 +47,9 @@
         "Em",
         "D",
         "A",
-        "E",
+        "E"
+    ],
+    "instrumental": [
         "Em",
         "D",
         "F#m",

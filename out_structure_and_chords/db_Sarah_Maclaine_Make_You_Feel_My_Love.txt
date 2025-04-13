@@ -46,25 +46,7 @@
         "Bbsus7",
         "Eb",
         "Ab",
-        "Eb",
-        "Ab",
-        "Eb/G",
-        "Gb",
-        "Db/F",
-        "Dbm/E",
-        "Ab/Eb",
-        "Bbsus7",
-        "Eb",
-        "Ab",
-        "Ab",
-        "Eb/G",
-        "Gb",
-        "Db/F",
-        "Dbm/E",
-        "Ab/Eb",
-        "Bbsus7",
-        "Eb",
-        "Ab"
+        "Eb"
     ],
     "verse-4": [
         "Ab",
@@ -115,5 +97,25 @@
         "Fm",
         "Bbm7",
         "Eb7"
+    ],
+    "instrumental": [
+        "Ab",
+        "Eb/G",
+        "Gb",
+        "Db/F",
+        "Dbm/E",
+        "Ab/Eb",
+        "Bbsus7",
+        "Eb",
+        "Ab",
+        "Ab",
+        "Eb/G",
+        "Gb",
+        "Db/F",
+        "Dbm/E",
+        "Ab/Eb",
+        "Bbsus7",
+        "Eb",
+        "Ab"
     ]
 }

@@ -42,13 +42,15 @@
         "F",
         "Am",
         "G",
-        "Dm",
+        "Dm"
+    ],
+    "chorus-2": [
         "F",
         "Am",
         "G",
         "Dm"
     ],
-    "chorus-2": [
+    "instrumental": [
         "F",
         "Am",
         "G",

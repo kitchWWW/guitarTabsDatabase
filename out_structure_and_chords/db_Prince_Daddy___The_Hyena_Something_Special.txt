@@ -1,0 +1,35 @@
+{
+    "intro": [
+        "Db",
+        "Gb",
+        "Ebm",
+        "Ab"
+    ],
+    "verse": [
+        "Db",
+        "Gb",
+        "Ebm",
+        "Ab",
+        "Db",
+        "Gb",
+        "Ebm",
+        "Ab",
+        "Ebm",
+        "Gb",
+        "Db",
+        "Ab",
+        "Ebm",
+        "Gb",
+        "Db",
+        "Ab",
+        "Gb",
+        "Gbm"
+    ],
+    "outro": [
+        "Db",
+        "Gb",
+        "Ebm",
+        "Ab",
+        "Db"
+    ]
+}

@@ -1,0 +1,86 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-charlatans/in-the-tall-grass-chords-3746279
+Artist: The Charlatans
+Song: In The Tall Grass
+Genre: 
+Key: 
+
+
+[Tip]
+[ch]Cmaj7/B[/ch] = x20010
+[ch]F[/ch]       = xx3211
+
+* Capo on 7th fret. (Chords reflect postions relative to capo)
+** The chords in instrumental are actually played better just with bass notes. You can play around
+with A and G (relative to capo)(and a bit of D and C) its a bit unstructured and jazzy
+anyway so the notes wont sound too out of place irrespective of the order you use them.
+
+[Intro]
+[ch]Am[/ch] [ch]C[/ch] [ch]Dm[/ch] [ch]F[/ch] (x2)
+[ch]Am[/ch] [ch]Cmaj7/B[/ch] (x2)
+
+[Verse 1]
+[tab][ch]Am[/ch]
+The door was open[/tab]
+[tab]        [ch]Cmaj7/B[/ch]
+No introduction[/tab]
+[tab][ch]Am[/ch]
+I didn't realise[/tab]
+[tab]                 [ch]Cmaj7/B[/ch]
+You came with instructions[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]               [ch]C[/ch]
+Felt free in the tall grass[/tab]
+[tab][ch]Dm[/ch]                [ch]F[/ch]     [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Letting go of the past[/tab]
+
+
+[Verse 2]
+[tab][ch]Am[/ch]
+Talk til the morning[/tab]
+[tab]                [ch]Cmaj7/B[/ch]
+Then I knew for certain[/tab]
+[tab][ch]Am[/ch]
+I am not[/tab]
+[tab]              [ch]Cmaj7/B[/ch]
+I am not your burden[/tab]
+
+
+[Chorus]
+[tab][ch]Am[/ch]               [ch]C[/ch]
+Felt free in the tall grass[/tab]
+[tab][ch]Dm[/ch]                [ch]F[/ch]     [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Letting go of the past[/tab]
+[tab][ch]Am[/ch]          [ch]C[/ch]            [ch]Dm[/ch]          [ch]F[/ch]           [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Lost in the reverie, and all that it meant to me[/tab]
+
+[Instrumental]
+[ch]Am[/ch] [ch]G[/ch] (x11)
+
+[Chorus]
+[tab][ch]Am[/ch]               [ch]C[/ch]
+Felt free in the tall grass[/tab]
+[tab][ch]Dm[/ch]                [ch]F[/ch]     [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Letting go of the past[/tab]
+[tab][ch]Am[/ch]          [ch]C[/ch]            [ch]Dm[/ch]          [ch]F[/ch]           [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Lost in the reverie, and all that it meant to me[/tab]
+
+[Instrumental Break]
+N.C
+
+[Chorus]
+[tab][ch]Am[/ch]               [ch]C[/ch]
+Felt free in the tall grass[/tab]
+[tab][ch]Dm[/ch]                [ch]F[/ch]     [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Letting go of the past[/tab]
+[tab][ch]Am[/ch]          [ch]C[/ch]            [ch]Dm[/ch]          [ch]F[/ch]            [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Lost in the reverie, and all that it meant to me[/tab]
+
+
+[Chorus 2]
+[tab][ch]Am[/ch]               [ch]C[/ch]
+Felt free in the tall grass[/tab]
+[tab][ch]Dm[/ch]                [ch]F[/ch]     [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Letting go of the past[/tab]
+[tab][ch]Am[/ch]          [ch]C[/ch]            [ch]Dm[/ch]          [ch]F[/ch]            [ch]Am[/ch] [ch]Cmaj7/B[/ch] [ch]Am[/ch]
+Lost in the reverie, and all that it meant to me[/tab]

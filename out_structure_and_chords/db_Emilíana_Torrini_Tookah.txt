@@ -30,7 +30,9 @@
         "Cb",
         "Db",
         "Cb",
-        "Ebm6",
+        "Ebm6"
+    ],
+    "instrumental": [
         "Bb5",
         "C5",
         "Db5",

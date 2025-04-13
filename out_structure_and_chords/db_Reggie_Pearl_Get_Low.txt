@@ -43,7 +43,9 @@
     "chorus-2": [
         "Dmaj7",
         "Gmaj7",
-        "Dmaj7",
+        "Dmaj7"
+    ],
+    "instrumental": [
         "Gmaj7",
         "Gmaj7",
         "G",

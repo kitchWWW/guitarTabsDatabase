@@ -37,10 +37,6 @@
         "Am",
         "F",
         "G",
-        "Am",
-        "Am",
-        "F",
-        "G",
         "Am"
     ],
     "chorus-2": [
@@ -57,15 +53,23 @@
         "Am",
         "F",
         "G",
-        "Am",
-        "Am",
-        "F",
-        "G",
         "Am"
     ],
     "chorus-4": [
         "F",
         "G",
+        "Am",
+        "F",
+        "G",
+        "Am"
+    ],
+    "instrumental-1": [
+        "Am",
+        "F",
+        "G",
+        "Am"
+    ],
+    "instrumental-2": [
         "Am",
         "F",
         "G",

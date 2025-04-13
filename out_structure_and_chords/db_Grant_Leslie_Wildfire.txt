@@ -125,7 +125,9 @@
         "C",
         "Em",
         "G",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "Em",
         "G",
         "C",

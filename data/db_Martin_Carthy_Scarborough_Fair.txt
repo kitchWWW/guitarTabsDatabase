@@ -1,0 +1,79 @@
+URL: https://tabs.ultimate-guitar.com/tab/martin-carthy/scarborough-fair-chords-5244588
+Artist: Martin Carthy
+Song: Scarborough Fair
+Genre: 
+Key: C#m
+
+
+[Chords]
+[ch]Am[/ch]  - x04030
+
+[tab][Picking pattern]
+     [ch]Am[/ch]
+e|-----0---------0---------0---------0--------|
+B|-----------3---------3---------3---------3--|
+G|---------0---------0---------0---------0----|
+D|-------4---------4---------4---------4------|
+A|---0---------0---------0---------0----------|
+E|--------------------------------------------|[/tab]
+
+
+[Verse 1]
+[tab][ch]Am[/ch]               [ch]C[/ch]           [ch]Am[/ch]    [ch]C[/ch]
+Are you going to Scarborough Fair?[/tab]
+[tab]         [ch]Am[/ch]        [ch]C[/ch]        [ch]Am[/ch]
+Parsley, sage, rosemary and thyme[/tab]
+[tab]         [ch]C[/ch]     [ch]Am[/ch]            [ch]G[/ch]
+Remember me to one who lives there[/tab]
+[tab]    [ch]Am[/ch]       [ch]G[/ch]                  [ch]Am[/ch]
+For once she was a true love of mine[/tab]
+
+[Verse 2]
+[tab][ch]Am[/ch]                    [ch]C[/ch]       [ch]Am[/ch]    [ch]C[/ch]
+Tell her to make me a cambric shirt[/tab]
+[tab]         [ch]Am[/ch]        [ch]C[/ch]        [ch]Am[/ch]
+Parsley, sage, rosemary and thyme[/tab]
+[tab]           [ch]C[/ch]     [ch]Am[/ch]       [ch]G[/ch]
+Without no seam nor needlework[/tab]
+[tab]    [ch]Am[/ch]          [ch]G[/ch]                 [ch]Am[/ch]
+And then she'll be a true love of mine[/tab]
+
+[Verse 3]
+[tab][ch]Am[/ch]                     [ch]C[/ch]       [ch]Am[/ch]   [ch]C[/ch]
+Tell her to find me an acre of land[/tab]
+[tab]         [ch]Am[/ch]        [ch]C[/ch]        [ch]Am[/ch]
+Parsley, sage, rosemary and thyme[/tab]
+[tab]  [ch]Am[/ch]               [ch]C[/ch]   [ch]Am[/ch]          [ch]G[/ch]
+Between the salt water and the sea strand[/tab]
+[tab]    [ch]Am[/ch]          [ch]G[/ch]                 [ch]Am[/ch]
+And then she'll be a true love of mine[/tab]
+
+[Verse 4]
+[tab][ch]Am[/ch]                    [ch]C[/ch]             [ch]Am[/ch]   [ch]C[/ch]
+Tell her to plough it with a lamb's horn[/tab]
+[tab]         [ch]Am[/ch]        [ch]C[/ch]        [ch]Am[/ch]
+Parsley, sage, rosemary and thyme[/tab]
+[tab]       [ch]Am[/ch]         [ch]C[/ch]        [ch]Am[/ch]         [ch]G[/ch]
+And to sow it all o'er with one peppercorn[/tab]
+[tab]    [ch]Am[/ch]          [ch]G[/ch]                 [ch]Am[/ch]
+And then she'll be a true love of mine[/tab]
+
+[Verse 5]
+[tab][ch]Am[/ch]                         [ch]C[/ch]         [ch]Am[/ch]      [ch]C[/ch]
+Tell her to reap it with a sickle of leather[/tab]
+[tab]         [ch]Am[/ch]        [ch]C[/ch]        [ch]Am[/ch]
+Parsley, sage, rosemary and thyme[/tab]
+[tab]       [ch]Am[/ch]            [ch]C[/ch]         [ch]Am[/ch]        [ch]G[/ch]
+And to thrash it all out with a bunch of heather[/tab]
+[tab]    [ch]Am[/ch]          [ch]G[/ch]                 [ch]Am[/ch]
+And then she'll be a true love of mine[/tab]
+
+[Verse 6]
+[tab][ch]Am[/ch]               [ch]C[/ch]           [ch]Am[/ch]    [ch]C[/ch]
+Are you going to Scarborough Fair?[/tab]
+[tab]         [ch]Am[/ch]        [ch]C[/ch]        [ch]Am[/ch]
+Parsley, sage, rosemary and thyme[/tab]
+[tab]         [ch]C[/ch]     [ch]Am[/ch]            [ch]G[/ch]
+Remember me to one who lives there[/tab]
+[tab]    [ch]Am[/ch]       [ch]G[/ch]                  [ch]Am[/ch]
+For once she was a true love of mine[/tab]

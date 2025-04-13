@@ -64,15 +64,7 @@
     "chorus-4": [
         "Ab",
         "Fm7",
-        "Db2",
-        "Ab",
-        "Fm7",
-        "Db2",
-        "Ab",
-        "Ab",
-        "Fm7",
-        "Db2",
-        "Ab"
+        "Db2"
     ],
     "chorus-5": [
         "Ab",
@@ -134,6 +126,16 @@
         "Ebsus",
         "Fm7",
         "Db2"
+    ],
+    "instrumental": [
+        "Ab",
+        "Fm7",
+        "Db2",
+        "Ab",
+        "Ab",
+        "Fm7",
+        "Db2",
+        "Ab"
     ],
     "outro": [
         "Ab",

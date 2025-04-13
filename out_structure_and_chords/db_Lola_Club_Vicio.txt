@@ -53,11 +53,7 @@
         "Dm",
         "F",
         "Fmaj7",
-        "C",
-        "C",
-        "G",
-        "Dm",
-        "F"
+        "C"
     ],
     "chorus-2": [
         "C",
@@ -100,6 +96,12 @@
         "Fm",
         "Dm",
         "Cm"
+    ],
+    "instrumental": [
+        "C",
+        "G",
+        "Dm",
+        "F"
     ],
     "bridge": [
         "F",

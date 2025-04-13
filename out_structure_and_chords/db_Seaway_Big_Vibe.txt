@@ -205,7 +205,9 @@
         "D",
         "C",
         "G",
-        "Bb",
+        "Bb"
+    ],
+    "instrumental": [
         "D",
         "A",
         "G",

@@ -11,7 +11,7 @@
         "A",
         "Dmaj7"
     ],
-    "pre-coro-1": [
+    "pre-chorus-1": [
         "Dmaj7",
         "Em",
         "G",
@@ -21,7 +21,7 @@
         "G",
         "A"
     ],
-    "pre-coro-2": [
+    "pre-chorus-2": [
         "Dmaj7",
         "Em",
         "G",
@@ -31,7 +31,7 @@
         "G",
         "A"
     ],
-    "coro-1": [
+    "chorus-1": [
         "D",
         "Em",
         "G",
@@ -52,7 +52,7 @@
         "A",
         "Dmaj7"
     ],
-    "coro-2": [
+    "chorus-2": [
         "D",
         "Em",
         "G",
@@ -68,7 +68,7 @@
         "G",
         "A"
     ],
-    "coro-3": [
+    "chorus-3": [
         "D",
         "Em",
         "G",

@@ -61,11 +61,7 @@
         "G",
         "Am",
         "Em",
-        "C",
-        "Em",
-        "Em",
-        "Em",
-        "Am"
+        "C"
     ],
     "chorus-3": [
         "G",
@@ -84,6 +80,12 @@
         "Em",
         "Am",
         "C",
+        "Am"
+    ],
+    "instrumental": [
+        "Em",
+        "Em",
+        "Em",
         "Am"
     ]
 }

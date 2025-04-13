@@ -1,0 +1,160 @@
+URL: https://tabs.ultimate-guitar.com/tab/61931
+Artist: Louis Bertignac
+Song: Ces Idées-Là
+Genre: 
+Key: 
+
+
+Titre  : Ces idées-là - 1987
+Paroles et musique de :
+Louis Bertignac et Corinne Marienneau
+Cette version est le mix de plusieurs versions.
+ 
+[ch]A7sus4[/ch] : x02233
+
+[tab][Accords]
+     [ch]Em/G[/ch]*
+e|---3--3---|
+B|---0--0---|
+G|---0--0---|
+D|---2--0---|
+A|---2--2---|
+E|---0--3---|[/tab]
+ 
+[tab][Série d'accords Em]
+   [ch]Em[/ch]* [ch]Emadd9[/ch]* [ch]Em[/ch]*
+e|--0---2------3--|
+B|--0---0------0--|
+G|--0---0------0--|
+D|--2---2------2--|
+A|--2---2------2--|
+E|--0---0------0--|[/tab]
+ 
+[tab][Notes pour début Chant]
+  [ch]D[/ch]                   [ch]A[/ch]
+e|-------------------------------|
+B|-------------------------------|
+G|--2--------2-----1--2---0------|
+D|4-------4-------------------2--|
+A|-------------------------------|
+E|-------------------------------|
+  Bébé, faudrait rentrer tu vois...[/tab]
+ 
+[tab][Intro Guitare]
+   [ch]D[/ch]     [ch]A[/ch]  [ch]Asus2[/ch] [ch]D/A[/ch]     [ch]D[/ch]     [ch]A7[/ch]  [ch]A[/ch]    [ch]D[/ch]     [ch]Asus4[/ch]
+e|--------------|-------|-2-----3---5--|-2-----5---5--|
+B|-3-----2---0--|-3-----|-3-----2---2--|-3-----3---3--|
+G|-2-----2---2--|-2-----|-2-----2---2--|-2-----2---2--|
+D|-0-----2---2--|-0-----|-0-----2---2--|-0-----0---0--|
+A|--------------|-0-----|--------------|-------0---0--|
+E|--------------|-------|--------------|--------------|[/tab]
+ 
+[Verse 1]
+[tab][ch]D[/ch]                  [ch]A[/ch]
+Bébé, faudrait rentrer tu vois[/tab]
+[tab]    [ch]Bm[/ch]                [ch]G[/ch]
+Je suis en mal d'être avec toi[/tab]
+[tab]   [ch]D[/ch]                  [ch]A[/ch]
+La machine à café est détraquée[/tab]
+[tab]    [ch]G[/ch]              [ch]Em/G[/ch]*
+Les cendriers tous renversés[/tab]
+ 
+[tab]    [ch]D[/ch]             [ch]A[/ch]
+Des heures et des heures passées[/tab]
+[tab]  [ch]Bm[/ch]              [ch]G[/ch]
+Devant la mire de ma télé[/tab]
+[tab]          [ch]D[/ch]
+Des nuits sans dormir[/tab]
+[tab]      [ch]A[/ch]
+A me demander[/tab]
+[tab]           [ch]G[/ch]         [ch]Em/G[/ch]*
+Où tu peux bien aller[/tab]
+ 
+[Chorus]
+[tab] [ch]D[/ch]    [ch]Dsus4[/ch] [ch]D[/ch]    [ch]A[/ch]
+(Ouh  ouh   ouh  ouh)[/tab]
+[tab][ch]A[/ch]                    [ch]Em[/ch]*        [ch]Emadd9[/ch]* [ch]Em[/ch]*
+  Faut pas m'laisser trainer là[/tab]
+                    (Ouh        ouh     ouh
+[tab][ch]D[/ch]    [ch]A7sus4[/ch] [ch]A7[/ch]      [ch]D[/ch]
+ouh)  Seul avec ces idées là[/tab]
+                   (ouh
+[tab][ch]Dsus4[/ch] [ch]D[/ch]    [ch]A[/ch]
+ouh   ouh  ouh)[/tab]
+[tab][ch]A[/ch]                    [ch]Em[/ch]*         [ch]Emadd9[/ch]* [ch]Em[/ch]*
+  J'suis pas si fort que tu crois[/tab]
+                    (Ouh         ouh     ouh
+[tab][ch]D[/ch]            [ch]A7sus4[/ch]     [ch]A7[/ch]       [ch]D[/ch]
+ouh) non non non Pas si fort que ça[/tab]
+ 
+[tab][Instrumental]
+   [ch]D[/ch]     [ch]A[/ch]  [ch]Asus2[/ch] [ch]D[/ch]       [ch]D[/ch]     [ch]A[/ch]   [ch]D/F#[/ch] [ch]Bm[/ch]    [ch]Dadd9/A[/ch]
+e|--------------|-------|-2-----0---2--|-2-----0---0--|
+B|-3-----2---0--|-3-----|-3-----2---3--|-3-----3---3--|
+G|-2-----2---2--|-2-----|-2-----2---2--|-4-----2---2--|
+D|-0-----2---2--|-0-----|-0-----2---4--|-4-----2---2--|
+A|--------------|-------|--------------|-2-----0---0--|
+E|--------------|-------|--------------|--------------|[/tab]
+ 
+[Verse 2]
+[tab][ch]D[/ch]         [ch]A[/ch]
+Bébé, un doute en moi[/tab]
+[tab]      [ch]Bm[/ch]    [ch]G[/ch]
+S'est figé  non[/tab]
+[tab]         [ch]D[/ch]
+Tu n'vas plus rentrer[/tab]
+[tab]         [ch]A[/ch]                 [ch]G[/ch]   [ch]Em/G[/ch]*
+Je peux fair'une croix sur toi[/tab]
+ 
+[tab][ch]D[/ch]                 [ch]A[/ch]
+Comment ne pas m'imaginer[/tab]
+[tab]   [ch]Bm[/ch]                  [ch]G[/ch]
+Ta petite gueule entre ses bras[/tab]
+[tab]           [ch]D[/ch]
+Comment ne pas crier[/tab]
+[tab]           [ch]A[/ch]
+Comment ne pas pleurer[/tab]
+[tab]      [ch]G[/ch]            [ch]Em/G[/ch]*
+Oh je suis fatigué      Oh non non[/tab]
+ 
+[Chorus]
+[tab] [ch]D[/ch]    [ch]Dsus4[/ch] [ch]D[/ch]    [ch]A[/ch]
+(Ouh  ouh   ouh  ouh)[/tab]
+[tab][ch]A[/ch]                    [ch]Em[/ch]*        [ch]Emadd9[/ch]* [ch]Em[/ch]*
+  Faut pas m'laisser trainer là[/tab]
+                    (Ouh        ouh     ouh
+[tab][ch]D[/ch]    [ch]A7sus4[/ch] [ch]A7[/ch]      [ch]D[/ch]
+ouh)  Seul avec ces idées là[/tab]
+                   (ouh
+[tab][ch]Dsus4[/ch] [ch]D[/ch]    [ch]A[/ch]
+ouh   ouh  ouh)[/tab]
+[tab][ch]A[/ch]                    [ch]Em[/ch]*         [ch]Emadd9[/ch]* [ch]Em[/ch]*
+  J'suis pas si fort que tu crois[/tab]
+                    (Ouh         ouh     ouh
+[tab][ch]D[/ch]            [ch]A7sus4[/ch]     [ch]A7[/ch]      ([ch]D[/ch])
+ouh) non non non Pas si fort que ça[/tab]
+ 
+[Instrumental]
+|[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A[/ch] |[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A7sus4[/ch]|
+|[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A[/ch] |[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A7sus2[/ch]|
+ 
+[tab][ch]D[/ch]    [ch]Dsus4[/ch] [ch]D[/ch]    [ch]A[/ch]    [ch]A[/ch]
+Ouh  ouh   ouh  ouh[/tab]
+[tab][ch]Em[/ch]*  [ch]Emadd9[/ch]* [ch]Em[/ch]* [ch]G[/ch]   [ch]A[/ch]
+Ouh  ouh     ouh ouh[/tab]
+ 
+[tab][Outro]
+   [ch]D[/ch]    [ch]Dsus4[/ch] [ch]D[/ch]    [ch]A[/ch]       [ch]Em[/ch]              [ch]G[/ch]   [ch]A[/ch]
+e|-2-----3----2--|-0-----|-0----2--3----|--3---0--|
+B|-3-----3----3--|-2-----|-0----0--0----|--3---2--|
+G|-2-----2----2--|-2-----|-2----2--2----|--0---2--|
+D|-0-----0----0--|-2-----|-2----2--0----|--0---2--|
+A|---------------|-------|--------------|--2---0--|
+E|---------------|-------|--------------|--3------|
+  Ouh   ouh  ouh  ouh     Ouh  ouh ouh[/tab]
+ 
+[Instrumental]
+|[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A[/ch] |[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A7sus4[/ch]|
+|[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A[/ch] |[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A7sus2[/ch]|
+|[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A[/ch] |[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A7sus4[/ch]|
+|[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A[/ch] |[ch]D[/ch] [ch]Em[/ch] |[ch]G[/ch] [ch]A7sus2[/ch]|[ch]D[/ch]

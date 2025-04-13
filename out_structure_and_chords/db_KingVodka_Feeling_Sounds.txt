@@ -23,21 +23,25 @@
         "G",
         "D",
         "Em",
-        "C",
-        "G",
-        "D",
-        "Em",
-        "C",
-        "G",
-        "D",
-        "Em",
         "C"
     ],
     "chorus-2": [
         "G",
         "D",
         "Em",
+        "C"
+    ],
+    "instrumental-1": [
+        "G",
+        "D",
+        "Em",
         "C",
+        "G",
+        "D",
+        "Em",
+        "C"
+    ],
+    "instrumental-2": [
         "G",
         "D",
         "Em",
@@ -51,6 +55,7 @@
         "Em",
         "C"
     ],
+    "instrumental-3": [],
     "verse": [
         "G",
         "D",

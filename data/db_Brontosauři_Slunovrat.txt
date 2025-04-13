@@ -1,0 +1,59 @@
+URL: https://tabs.ultimate-guitar.com/tab/2711826
+Artist: Brontosauři
+Song: Slunovrat
+Genre: 
+Key: Am
+
+
+[tab]Part of chorus:                 While Am, try this hammer:
+ [ch]Dsus2[/ch]
+e|--------------0h1---0-----|   |--------------0-----------|
+B|--------3-----------------|   |--------------------1-----|
+G|-----2-----2-----------2--|   |--------2--------2-----2--|
+D|--0-----------------------|   |----0h2----2--------------|
+A|--------------------------|   |--0-----------------------|
+E|--------------------------|   |--------------------------|[/tab]
+
+[Verse]
+[tab][ch]Am[/ch]            [ch]Am/C[/ch]       [ch]B7[/ch]   [ch]E7[/ch]       [ch]Am[/ch]
+Stíny nad obzorem pomalu jdou,  noc se snáší,[/tab]
+[tab]              [ch]Am/C[/ch]            [ch]Am[/ch]         [ch]Em[/ch]
+paseky osvítí zář z borovejch klád zapálenejch.[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]             [ch]C[/ch]      [ch]G[/ch]                       [ch]Dsus2[/ch] [ch]Dm[/ch] [ch]Dsus2[/ch]
+Sešli se zapomenout   a zvednout hlavu, to stačí,[/tab]
+[tab][ch]Am[/ch]                   [ch]Em/B[/ch]                 [ch]Am[/ch]
+jen trochu popadnout dech, než půjdou zas dál.[/tab]
+
+[Verse]
+[tab][ch]Am[/ch]             [ch]Am/C[/ch]          [ch]B7[/ch]   [ch]E7[/ch]       [ch]Am[/ch]
+Ohnutý lžíce a nůž, dům z igelitu,  lístek zpátky,[/tab]
+[tab]               [ch]Am/C[/ch]               [ch]Am[/ch]                  [ch]Em[/ch]
+boudy na zastávkách, kde potkáváš lidi, co potkat jsi chtěl.[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]             [ch]C[/ch]      [ch]G[/ch]                       [ch]Dsus2[/ch] [ch]Dm[/ch] [ch]Dsus2[/ch]
+Sešli se zapomenout   a zvednout hlavu, to stačí,[/tab]
+[tab][ch]Am[/ch]                   [ch]Em/B[/ch]                 [ch]Am[/ch]
+jen trochu popadnout dech, než půjdou zas dál.[/tab]
+
+[Verse]
+[tab][ch]Am[/ch]            [ch]Am/C[/ch]       [ch]B7[/ch]    [ch]E7[/ch]     [ch]Am[/ch]
+Stíny nad obzorem pomalu jdou, právě svítá,[/tab]
+[tab]              [ch]Am/C[/ch]            [ch]Am[/ch]         [ch]Em[/ch]
+šlápoty, ohniště, klid, smutnej je kemp opuštěnej.[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]             [ch]C[/ch]      [ch]G[/ch]                       [ch]Dsus2[/ch] [ch]Dm[/ch] [ch]Dsus2[/ch]
+Sešli se zapomenout   a zvednout hlavu, to stačí,[/tab]
+[tab][ch]Am[/ch]                   [ch]Em/B[/ch]                 [ch]Am[/ch]
+jen trochu popadnout dech, než půjdou zas dál.[/tab]
+
+
+
+************************************
+
+| h  Hammer-on
+
+************************************

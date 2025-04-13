@@ -99,7 +99,9 @@
         "Gadd11",
         "Am",
         "F",
-        "C",
+        "C"
+    ],
+    "instrumental": [
         "C",
         "F",
         "C",

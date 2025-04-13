@@ -33,9 +33,7 @@
         "F#",
         "Bbm",
         "Ab",
-        "F#",
-        "Bbm",
-        "C#"
+        "F#"
     ],
     "chorus-2": [
         "Bbm",
@@ -58,6 +56,10 @@
         "Bbm",
         "Ab",
         "F#"
+    ],
+    "instrumental": [
+        "Bbm",
+        "C#"
     ],
     "bridge": [
         "Bbm",

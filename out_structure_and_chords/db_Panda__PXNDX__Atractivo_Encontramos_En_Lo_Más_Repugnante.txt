@@ -1,5 +1,5 @@
 {
     "intro": [],
-    "pre-coro": [],
+    "pre-chorus": [],
     "outro": []
 }

@@ -53,7 +53,15 @@
         "D",
         "E",
         "F#m",
-        "G",
+        "G"
+    ],
+    "chorus-2": [
+        "D",
+        "E",
+        "F#m",
+        "G"
+    ],
+    "instrumental": [
         "A5",
         "Asus2",
         "A",
@@ -81,12 +89,6 @@
         "Asus2",
         "A",
         "Asus4"
-    ],
-    "chorus-2": [
-        "D",
-        "E",
-        "F#m",
-        "G"
     ],
     "bridge": [
         "A",

@@ -2,6 +2,7 @@
     "intro": [],
     "verse-1": [],
     "verse-2": [],
+    "instrumental": [],
     "chorus-1": [],
     "chorus-2": [],
     "bridge": [],

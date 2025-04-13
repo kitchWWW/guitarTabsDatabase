@@ -1,0 +1,76 @@
+URL: https://tabs.ultimate-guitar.com/tab/4709618
+Artist: Teitur Magnússon
+Song: Kamelgult
+Genre: 
+Key: C#m
+
+
+[Intro]
+[ch]C#m[/ch] [ch]E[/ch] [ch]C#m[/ch] [ch]E[/ch]
+[ch]F#m[/ch] [ch]B[/ch] [ch]F#m[/ch] [ch]B[/ch]
+
+[Verse 1]
+[tab][ch]C#m[/ch]        [ch]E[/ch]
+Kamelgulir frakkar og fingur[/tab]
+[tab][ch]C#m[/ch]            [ch]E[/ch]
+Fáein kamelgul blöð[/tab]
+[tab]   [ch]F#m[/ch]         [ch]B[/ch]
+Og kamelgul nú sál mín syngur[/tab]
+[tab][ch]F#m[/ch]                [ch]B[/ch]
+Svolítið kamelgult rugl[/tab]
+
+
+[Verse 2]
+[tab][ch]C#m[/ch]        [ch]E[/ch]
+Kamelgulir frakkar og fingur[/tab]
+[tab][ch]C#m[/ch]            [ch]E[/ch]
+Fáein kamelgul blöð[/tab]
+[tab]   [ch]F#m[/ch]         [ch]B[/ch]
+Og kamelgul nú sál mín syngur[/tab]
+[tab][ch]F#m[/ch]                [ch]B[/ch]
+Svolítið kamelgult rugl[/tab]
+
+
+[Verse 3]
+[tab][ch]C#m[/ch]        [ch]E[/ch]
+Kamelgulir frakkar og fingur[/tab]
+[tab][ch]C#m[/ch]            [ch]E[/ch]
+Fáein kamelgul blöð[/tab]
+[tab]   [ch]F#m[/ch]         [ch]B[/ch]
+Og kamelgul nú sál mín syngur[/tab]
+[tab][ch]F#m[/ch]                [ch]B[/ch] [ch]B7[/ch] [ch]B/D#[/ch]
+Svolítið kamelgult ruuuuugl[/tab]
+
+[Viðlag]
+[tab][ch]C#m[/ch]        [ch]E[/ch]
+Kamelgulir frakkar og fingur[/tab]
+[tab][ch]C#m[/ch]            [ch]E[/ch]
+Fáein kamelgul blöð[/tab]
+[tab]   [ch]F#m[/ch]         [ch]B[/ch]
+Og kamelgul nú sál mín syngur[/tab]
+[tab][ch]F#m[/ch]                [ch]B[/ch] [ch]B7[/ch] [ch]B/D#[/ch]
+Svolítið kamelgult ruuuuugl[/tab]
+
+[Sóló]
+[ch]C#m[/ch] [ch]E[/ch] [ch]C#m[/ch] [ch]E[/ch]
+[ch]F#m[/ch] [ch]B[/ch] [ch]F#m[/ch] [ch]B[/ch] [ch]B7[/ch] [ch]B/D#[/ch]
+
+[Viðlag]
+[tab][ch]C#m[/ch]        [ch]E[/ch]
+Kamelgulir frakkar og fingur[/tab]
+[tab][ch]C#m[/ch]            [ch]E[/ch]
+Fáein kamelgul blöð[/tab]
+[tab]   [ch]F#m[/ch]         [ch]B[/ch]
+Og kamelgul nú sál mín syngur[/tab]
+[tab][ch]F#m[/ch]                [ch]B[/ch] [ch]B7[/ch] [ch]B/D#[/ch]
+Svolítið kamelgult ruuuuugl[/tab]
+
+[Outro]
+[tab][ch]C#m[/ch]        [ch]E[/ch]
+Kamelgulir frakkar og fingur[/tab]
+[tab][ch]C#m[/ch]            [ch]E[/ch]
+Fáein kamelgul blöð[/tab]
+[tab]   [ch]F#m[/ch]         [ch]B[/ch]
+Og kamelgul nú sál mín syngur[/tab]
+[tab][ch]F#m[/ch]                [ch]B[/ch] [ch]B7[/ch] [ch]B/D#[/ch] 
+Svolítið kamelgult ruuuuugl[/tab]

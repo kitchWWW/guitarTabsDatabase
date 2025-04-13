@@ -28,10 +28,6 @@
         "G",
         "Em7",
         "Cadd9",
-        "Dsus4/F#",
-        "G",
-        "Em7",
-        "Cadd9",
         "Dsus4/F#"
     ],
     "chorus-2": [
@@ -53,6 +49,12 @@
         "Em7",
         "Cadd9",
         "Dsus4/F#",
+        "G",
+        "Em7",
+        "Cadd9",
+        "Dsus4/F#"
+    ],
+    "instrumental": [
         "G",
         "Em7",
         "Cadd9",

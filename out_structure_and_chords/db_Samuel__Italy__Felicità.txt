@@ -117,7 +117,9 @@
         "Am/F#",
         "Dm",
         "G",
-        "F",
+        "F"
+    ],
+    "instrumental": [
         "C/E",
         "Dm",
         "Dm",

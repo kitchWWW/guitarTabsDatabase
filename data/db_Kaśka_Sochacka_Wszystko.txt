@@ -1,0 +1,85 @@
+URL: https://tabs.ultimate-guitar.com/tab/5509047
+Artist: Kaśka Sochacka
+Song: Wszystko
+Genre: 
+Key: C
+
+
+Podane akordy grane są arpeggio w następujący sposób:
+Wpierw dźwięk bazowy na strunie basowej (np. C), a potem, do następnego akordu (np. Em/B),
+dogrywana jest reszta na strunach wiolinowych, z góry na dół (np. 0 1 0)
+Czyli w miejscu gdzie podany jest akord, uderzamy strunę basową, a potem do następnego akordu
+gramy arpeggio na strunach wiolinowych. Potem znowu struna basowa, itd.
+
+
+
+[Chords]
+C      X 3 X 0 1 0
+Em/B   X 2 X 0 0 0
+Fmaj7  X X 3 2 1 0
+G6     3 X X 0 0 0
+G7     3 X X 0 0 1
+Am     X 0 X 2 1 0
+
+
+
+[Intro]
+[ch]C[/ch] [ch]Em/B[/ch] [ch]Fmaj7[/ch] [ch]G6[/ch] [ch]G7[/ch]
+
+[Verse 1]
+[tab]        [ch]C[/ch]                             [ch]Em/B[/ch]
+Kolejna wiosna, kwitną bzy, na autach lepki, żółty pył[/tab]
+[tab]                 [ch]Fmaj7[/ch]           [ch]G6[/ch]                            [ch]G7[/ch]
+Ciągle mi nie przeszło, a już po kościach się rozeszło, prawie[/tab]
+[tab]          [ch]C[/ch]                        [ch]Em/B[/ch]
+Nie umiem ruszyć tutaj nic, minęło ponad 500 dni[/tab]
+[tab]                  [ch]Fmaj7[/ch]                         [ch]G6[/ch]    [ch]G7[/ch]
+Wiatr ci rozwiewa włosy, byłoby dobrze mieć cię dosyć[/tab]
+
+[Verse 2]
+[tab]            [ch]C[/ch]
+Moje sny są twoje[/tab]
+[tab]                                   [ch]Em/B[/ch]
+Co to za udręka, upał wciąż się zwiększa[/tab]
+[tab]                                  [ch]Fmaj7[/ch]
+Może gdybym była w czymś wyraźnie lepsza[/tab]
+[tab]                 [ch]G6[/ch]                  [ch]G7[/ch]
+Wtedy ty inaczej na mnie spojrzałbyś[/tab]
+
+[Chorus]
+[tab]             [ch]Am[/ch]
+Myśli też są twoje[/tab]
+[tab]                                 [ch]Fmaj7[/ch]
+Bez znaczenia, jaki mamy właśnie moment[/tab]
+[tab]                                    [ch]C[/ch]
+Choćby się zdawało, że to już skończone[/tab]
+[tab]                       [ch]G6[/ch]               [ch]G7[/ch]
+To wciąż ty wyznaczasz mi codzienny rytm[/tab]
+
+[Interlude]
+[ch]Am[/ch] [ch]Fmaj7[/ch] [ch]C[/ch] [ch]G6[/ch] [ch]G7[/ch]
+
+[Chorus]
+[tab]               [ch]Am[/ch]
+Staram się jak mogę[/tab]
+[tab]                                  [ch]Fmaj7[/ch]
+Boję się o finał, więc spowalniam drogę[/tab]
+[tab]                                    [ch]C[/ch]
+Nie wiem co mnie czeka, idę na piechotę, gubię się[/tab]
+[tab]        [ch]G6[/ch]            [ch]G7[/ch]
+Może celowo, może nie[/tab]
+
+[tab]                [ch]Am[/ch]
+Kiedyś nas widziałam[/tab]
+[tab]                                 [ch]Fmaj7[/ch]
+Jasno i wyraźnie, tylko tego chciałam[/tab]
+[tab]                                   [ch]C[/ch]
+Zapierała w piersiach dech ta panorama, ale dziś[/tab]
+[tab]            [ch]G6[/ch]                 [ch]G7[/ch]
+Już nie mam siły się tak wzbić[/tab]
+
+[Outro]
+[tab][ch]Am[/ch]                 [ch]Fmaj7[/ch] [ch]C[/ch]               [ch]G6[/ch]  [ch]G7[/ch]
+  Już nie wyjdę na bis,   zapowiadał się hit[/tab]
+[tab]         [ch]Am[/ch]     [ch]Fmaj7[/ch] [ch]C[/ch] [ch]G6[/ch] [ch]G7[/ch] N.C.
+Liczę do trzech...[/tab]

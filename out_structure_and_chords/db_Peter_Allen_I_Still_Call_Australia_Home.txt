@@ -83,7 +83,9 @@
         "F",
         "Bb",
         "Am",
-        "C7",
+        "C7"
+    ],
+    "instrumental": [
         "F",
         "A7",
         "Dm",

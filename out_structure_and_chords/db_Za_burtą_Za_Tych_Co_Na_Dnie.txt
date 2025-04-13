@@ -160,10 +160,6 @@
         "Am",
         "G",
         "G",
-        "Am",
-        "Am",
-        "Am",
-        "C",
         "Am"
     ],
     "chorus-5": [
@@ -198,6 +194,12 @@
         "Am",
         "G",
         "G",
+        "Am"
+    ],
+    "instrumental": [
+        "Am",
+        "Am",
+        "C",
         "Am"
     ],
     "outro": []

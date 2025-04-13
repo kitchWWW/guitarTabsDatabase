@@ -1,0 +1,52 @@
+URL: https://tabs.ultimate-guitar.com/tab/4103056
+Artist: Jorma Kääriäinen
+Song: Tie Jatkuu Äärettömiin Wichita Lineman
+Genre: 
+Key: Ab
+
+
+[Intro]
+|[ch]Fmaj7[/ch]  |[ch]G6[/ch]   |[ch]Fmaj7[/ch]  |[ch]G6[/ch]
+
+[Verse 1]
+[tab]                      [ch]Fmaj7[/ch]   [ch]Em[/ch]                  [ch]Gadd4[/ch] [ch]G[/ch]
+Pois pitkin valtatietä mustaa      Reitti mua kuljettaa[/tab]
+[tab][ch]Am[/ch]           [ch]Em[/ch]            [ch]D[/ch]          [ch]A[/ch] [ch]Asus4[/ch]  [ch]A[/ch]
+ Katseellani seuraan keskiviivaa valkeaa[/tab]
+
+[Chorus]
+[tab]                    [ch]G6[/ch]                              [ch]D/F#[/ch]
+Tuulen soitto ääntäs toistaa Tuo hymyn silmiin sumuisiin[/tab]
+[tab][ch]Dm[/ch]            [ch]A[/ch]      [ch]Esus4[/ch]
+  Ja tie alla pyöräin vie äärettömiin[/tab]
+
+[Interlude]
+|[ch]Fmaj7[/ch] |[ch]G6[/ch]  |[ch]Fmaj7[/ch] |[ch]G6[/ch]
+
+[Verse 2]
+[tab]                      [ch]Fmaj7[/ch]   [ch]Em[/ch]                     [ch]Gadd4[/ch] [ch]G[/ch]
+Käy matka kaupungista toiseen    Yksittäin ne taakse jää[/tab]
+[tab][ch]Am[/ch]       [ch]Em[/ch]         [ch]D[/ch]           [ch]A[/ch]  [ch]Asus4[/ch]  [ch]A[/ch]
+Ajatukset väsyneinä kiertää ympyrää[/tab]
+
+[Chorus]
+[tab]                     [ch]G6[/ch]                            [ch]D/F#[/ch]
+Pääni tahtoisin taas painaa  Pieniin käsiis lämpöisiin[/tab]
+[tab][ch]Dm[/ch]              [ch]A[/ch]      [ch]Esus4[/ch]
+  Vaan tie alla pyöräin vie äärettömiin[/tab]
+
+[Interlude]
+|[ch]Fmaj7[/ch]  |[ch]G6[/ch]  |[ch]Fmaj7[/ch] |[ch]G6[/ch]
+
+[Solo]
+|[ch]Fmaj7[/ch]  |[ch]Em[/ch]  |[ch]Gadd4[/ch] [ch]G[/ch]  |[ch]Am[/ch]  [ch]Em[/ch] |[ch]D[/ch]   |[ch]A[/ch]  [ch]Asus4[/ch] |[ch]A[/ch]
+
+[Chorus]
+[tab]                   [ch]G6[/ch]                          [ch]D/F#[/ch]
+Pääni tahtoisin jo painaa  Pieniin käsiis lämpöisiin[/tab]
+[tab][ch]Dm[/ch]              [ch]A[/ch]       [ch]Esus4[/ch]
+  Vaan tie alla pyöräin  vie äärettömiin[/tab]
+
+[Outro]
+|[ch]Fmaj7[/ch] |[ch]G6[/ch]   |[ch]Fmaj7[/ch] |[ch]G6[/ch]
+|[ch]Fmaj7[/ch] |[ch]G6[/ch]   |[ch]Fmaj7[/ch] |[ch]G6[/ch]   |[ch]A[/ch]

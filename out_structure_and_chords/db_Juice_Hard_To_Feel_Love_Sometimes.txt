@@ -54,11 +54,7 @@
         "Asus",
         "C#m7",
         "B",
-        "D",
-        "F#m7",
-        "Asus",
-        "C#m7",
-        "B"
+        "D"
     ],
     "chorus-2": [
         "F#m7",
@@ -93,6 +89,12 @@
         "C#m7",
         "B",
         "A"
+    ],
+    "instrumental": [
+        "F#m7",
+        "Asus",
+        "C#m7",
+        "B"
     ],
     "bridge": [
         "F#m7",

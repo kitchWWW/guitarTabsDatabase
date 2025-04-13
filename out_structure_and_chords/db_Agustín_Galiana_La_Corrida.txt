@@ -16,10 +16,6 @@
         "Dm",
         "F",
         "C",
-        "Bb",
-        "Dm",
-        "F",
-        "C",
         "Bb"
     ],
     "verse-2": [
@@ -54,6 +50,24 @@
         "Bb",
         "Bb"
     ],
+    "instrumental-1": [
+        "Dm",
+        "F",
+        "C",
+        "Bb"
+    ],
+    "instrumental-2": [
+        "Dm",
+        "F",
+        "C",
+        "Bb"
+    ],
+    "instrumental-3": [
+        "Dm",
+        "F",
+        "C",
+        "Bb"
+    ],
     "chorus-1": [
         "Dm",
         "F",
@@ -75,10 +89,6 @@
         "Bb"
     ],
     "chorus-3": [
-        "Dm",
-        "F",
-        "C",
-        "Bb",
         "Dm",
         "F",
         "C",
@@ -144,10 +154,6 @@
         "Bb",
         "C",
         "Bb",
-        "C",
-        "Dm",
-        "F",
-        "C",
-        "Bb"
+        "C"
     ]
 }

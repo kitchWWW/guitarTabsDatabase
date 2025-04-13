@@ -39,7 +39,9 @@
         "Dm",
         "Dm",
         "C",
-        "F",
+        "F"
+    ],
+    "instrumental": [
         "Bb",
         "Dm",
         "C"

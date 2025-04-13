@@ -24,12 +24,26 @@
         "G/B",
         "Asus4",
         "D/F#",
-        "G",
+        "G"
+    ],
+    "instrumental-1": [
         "C",
         "G",
         "G",
         "D/F#",
         "Em7"
+    ],
+    "instrumental-2": [
+        "Am",
+        "G/B",
+        "C",
+        "C",
+        "G/B",
+        "Am",
+        "D/F#",
+        "G",
+        "C",
+        "G"
     ],
     "chorus": [
         "Em7",
@@ -67,16 +81,6 @@
         "G/B",
         "Asus4",
         "D/F#",
-        "G",
-        "Am",
-        "G/B",
-        "C",
-        "C",
-        "G/B",
-        "Am",
-        "D/F#",
-        "G",
-        "C",
         "G"
     ]
 }

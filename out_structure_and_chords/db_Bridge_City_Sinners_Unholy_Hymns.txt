@@ -44,20 +44,7 @@
         "E7",
         "Am",
         "Dm",
-        "G6",
-        "Am",
-        "Am",
-        "G",
-        "E",
-        "Am",
-        "Am",
-        "Asus2",
-        "Bb",
-        "Am",
-        "C",
-        "E",
-        "Bb",
-        "C7"
+        "G6"
     ],
     "chorus": [
         "G6",
@@ -77,6 +64,21 @@
         "Am",
         "G",
         "E"
+    ],
+    "instrumental": [
+        "Am",
+        "Am",
+        "G",
+        "E",
+        "Am",
+        "Am",
+        "Asus2",
+        "Bb",
+        "Am",
+        "C",
+        "E",
+        "Bb",
+        "C7"
     ],
     "bridge": [
         "Am",

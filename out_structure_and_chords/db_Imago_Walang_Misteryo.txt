@@ -86,7 +86,9 @@
         "B",
         "C#m",
         "G#m",
-        "A",
+        "A"
+    ],
+    "instrumental": [
         "C#m",
         "G#m",
         "A",

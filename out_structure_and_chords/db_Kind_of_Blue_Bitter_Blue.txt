@@ -66,14 +66,6 @@
         "Bb",
         "Ab",
         "Bb",
-        "Cm",
-        "Cm",
-        "Abmaj7",
-        "Bb",
-        "Eb",
-        "Cm",
-        "Abmaj7",
-        "Bb",
         "Cm"
     ],
     "chorus-3": [
@@ -89,6 +81,16 @@
         "Cm",
         "Bb",
         "Ab",
+        "Bb",
+        "Cm"
+    ],
+    "instrumental": [
+        "Cm",
+        "Abmaj7",
+        "Bb",
+        "Eb",
+        "Cm",
+        "Abmaj7",
         "Bb",
         "Cm"
     ],

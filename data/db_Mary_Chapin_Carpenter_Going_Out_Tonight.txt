@@ -1,0 +1,90 @@
+URL: https://tabs.ultimate-guitar.com/tab/mary-chapin-carpenter/going-out-tonight-tabs-64416
+Artist: Mary Chapin Carpenter
+Song: Going Out Tonight
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+
+GOING OUT TONIGHT (Mary Chapin Carpenter & John Jennings)
+---------------------------------------------------------
+[Actually in F; capo 5.]
+[Each chord is about half a measure.]
+[The rhythm is an important part of this song; I'd write it down, but
+ I think it's pretty easy to figure out from listening to the recording.
+ C is 332010, and C(9) is 330010.]
+
+C  C(9)   C  C(9)   C  C(9)   C  C(9)
+[intro]
+
+          C      C(9)     C      C(9)     C  C(9)  C  C(9)
+I'm going out tonight to find myself a friend
+         C         C(9)        C        C(9)        C  C(9)  C  C(9)
+I need a welcome smile and the grasp of an open hand
+      F        F         Am         Am    F         F       Am        Am
+Gonna sit for hours in a small dark place, catch up with a long lost face
+C           C(9)      C        C(9)     C  C(9)  C  C(9)
+  And talk about how long it's really been
+
+I'm going out tonight with perfume on my wrist
+I'm need to find someone to show me what I've missed
+And when I see that someone sittin' there, gonna tell your memory I don't care
+If he offers something more than just a kiss
+
+G      G          Em    F       F        F   F   F
+  Underneath the moon so bright, I wanna fall tonight
+  G         G   G   F
+Beneath a spell
+G      G          Em   F     F         F         F          F
+  Underneath the sky so clear, I wanna find someone waiting there
+            G        G   G   G
+Who used to know me well
+
+I'm going out tonight without a chaperone
+I'm gonna leave that meddling heart of mine at home
+'Cause it don't like crowds or closing time, neon blues or pickup lines
+It makes me spend my Friday nights alone
+
+Underneath the moon so bright [first guitar solo]
+Underneath the sky so clear [second guitar solo]
+
+I'm gonna tell myself that someone I adore
+Is the one I'm with, ain't that what friends are for
+'Cause my empty arms are open wide; I'm long on spite, and short on pride
+And the old way isn't working anymore
+
+          C      C(9)     C      C(9)      C  C(9)  C  C(9)  C  C(9)  C.
+I'm going out tonight to find myself a friend
+
+
+TAB:
+
+[These notes should be right, but I don't know about the
+ voicings; if it's easier in another position, go for it.]
+
+[tab]FIRST GUITAR SOLO:
+  F                C                G                          F
+E ----------------|----------------|----------------|----------------|
+B ------111--0----|----------------|----------------|------8---------|
+G ------222--0--2-|2--0--0---------|----------------|---/7-----------|
+D --------------3-|3--2--2------02-|3--2--3-5-------|--5-------------|
+A --------triplet-|triplet----02---|5--3--5-5-------|----------------|
+E ----------------|----------3-trip|triplet---------|----------------|
+  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .[/tab]
+
+[tab]SECOND GUITAR SOLO:
+  F                C                G
+E ----------------|------000--1--3-|5--1------------|----------------|
+B ------666--5--3-|1-----111--3--5-|6--3--3---------|----3-----------|
+G ------777--5--4-|0-------triplet-|------4-4-------|5=4---5---------|
+D ----------------|----------------|triplet---------|----------------|
+A ----------------|----------------|----------------|----------------|
+E --------triplet-|----------------|----------------|----------------|
+  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .[/tab]
+
+
+- Adam Schneider, schneider@pobox.com

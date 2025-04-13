@@ -1,0 +1,46 @@
+{
+    "intro": [],
+    "verse-1": [
+        "Gbmaj7",
+        "Ab/Db",
+        "Gbmaj7",
+        "Ab/Db"
+    ],
+    "verse-2": [
+        "Gbmaj7",
+        "Ab/Db",
+        "Gbmaj7",
+        "Ab/Db"
+    ],
+    "bridge": [
+        "Gbmaj7",
+        "Ab/Db",
+        "Gbmaj7",
+        "Ab/Db"
+    ],
+    "chorus-1": [
+        "Gbmaj7",
+        "Fm7",
+        "D#m7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Fm7",
+        "D#m7",
+        "Dbmaj7"
+    ],
+    "chorus-2": [
+        "Gmaj7",
+        "F#m7",
+        "Em7",
+        "Dmaj7",
+        "Gmaj7",
+        "Dmaj7",
+        "Gmaj7",
+        "F#m7",
+        "Em7",
+        "Dmaj7",
+        "Gmaj7",
+        "Dmaj7"
+    ],
+    "solo": []
+}

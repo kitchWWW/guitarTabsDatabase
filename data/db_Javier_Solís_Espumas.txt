@@ -1,0 +1,120 @@
+URL: https://tabs.ultimate-guitar.com/tab/5442336
+Artist: Javier Solís
+Song: Espumas
+Genre: 
+Key: A
+
+
+[Intro]
+
+[ch]C#m7[/ch] [ch]Cm7[/ch] [ch]Bm[/ch] [ch]E7[/ch] [ch]Amaj7[/ch] [ch]Fm[/ch] [ch]Bm[/ch] [ch]E7[/ch] [ch]A[/ch]
+
+
+[Verse 1]
+
+[tab] [ch]E7[/ch]              [ch]A[/ch]  [ch]F#7[/ch]
+Amores que se fueron[/tab]
+[tab]             [ch]Bm[/ch]
+amores peregrinos[/tab]
+[tab]                [ch]E7[/ch]
+amores que se fueron[/tab]
+[tab]                [ch]D[/ch]
+dejando en mi alma[/tab]
+[tab] [ch]E7[/ch]            [ch]A[/ch]  [ch]Edim7[/ch] [ch]Bm[/ch]
+negros torbellinos.[/tab]
+
+
+[Pre-Chorus]
+
+[tab] [ch]E7[/ch]                [ch]A[/ch]
+Igual que a las espumas[/tab]
+[tab] [ch]A7[/ch]                  [ch]D[/ch] [ch]G7[/ch]
+que lleva el ancho rio[/tab]
+[tab]    [ch]E7[/ch]            [ch]A[/ch]
+se van tus ilusiones[/tab]
+[tab]  [ch]Edim7[/ch]       [ch]Bm[/ch]               [ch]A[/ch]
+siendo destrozadas por el remolino.[/tab]
+
+
+[Chorus]
+[tab]               [ch]Bm[/ch]  [ch]E7[/ch]
+Espumas que se van[/tab]
+[tab]                 [ch]A[/ch]
+bellas rosas viajeras[/tab]
+[tab]     [ch]C#m[/ch] [ch]C#m[/ch]      [ch]Bm[/ch]
+se elevan en danzantes[/tab]
+[tab]             [ch]D[/ch]
+y pequenos copos[/tab]
+[tab]     [ch]E7[/ch]         [ch]A[/ch]
+formando el paisaje.[/tab]
+
+[tab]              [ch]Bm[/ch]  [ch]E7[/ch]
+Ya nunca volveran[/tab]
+[tab]                [ch]A[/ch]    [ch]A7[/ch]
+las espumas viajeras[/tab]
+[tab]               [ch]D[/ch]
+como las ilusiones[/tab]
+[tab]            [ch]E7[/ch]
+que te depararon[/tab]
+[tab]            [ch]A[/ch]
+dichas pasajeras.[/tab]
+
+
+[Intro]
+
+[ch]C#m7[/ch] [ch]Cm7[/ch] [ch]Bm[/ch] [ch]E7[/ch] [ch]Amaj7[/ch] [ch]Fm[/ch] [ch]Bm[/ch] [ch]E7[/ch] [ch]A[/ch]
+
+
+[Verse 2]
+
+[tab]   [ch]E7[/ch]          [ch]A[/ch]   [ch]F#7[/ch]
+Espumas tembladoras[/tab]
+[tab]              [ch]Bm[/ch]
+de aguas fugitivas[/tab]
+[tab]                 [ch]E7[/ch]
+van retratando amores[/tab]
+[tab]            [ch]D[/ch]
+y bellos recuerdos que[/tab]
+[tab] [ch]E7[/ch]       [ch]A[/ch]  [ch]Edim7[/ch] [ch]Bm[/ch]
+deja la vida.[/tab]
+
+
+[Pre-Chorus]
+
+[tab] [ch]E7[/ch]              [ch]A[/ch]    [ch]A7[/ch]
+Se trenzan en coronas[/tab]
+[tab]               [ch]D[/ch]    [ch]G7[/ch]
+de blancos azahares[/tab]
+[tab]    [ch]E7[/ch]         [ch]A[/ch]
+de rosadas diademas[/tab]
+[tab] [ch]Edim7[/ch]          [ch]Bm[/ch]
+cuando llevan flores[/tab]
+[tab][ch]E7[/ch]            [ch]A[/ch]
+de la Siempreviva.[/tab]
+
+
+[Chorus]
+
+[tab]  [ch]A[/ch]             [ch]Bm[/ch] [ch]E7[/ch]
+Espumas que se van[/tab]
+[tab]                 [ch]A[/ch]
+bellas rosas viajeras[/tab]
+[tab]     [ch]C#m[/ch] [ch]Cm[/ch]     [ch]Bm[/ch]
+se elevan en danzantes[/tab]
+[tab]            [ch]D[/ch]
+y pequenos copos[/tab]
+[tab]    [ch]E7[/ch]         [ch]A[/ch]
+formando el paisaje.[/tab]
+
+
+[Outro]
+[tab]             [ch]Bm[/ch]   [ch]E7[/ch]
+Ya nunca volveran[/tab]
+[tab]                [ch]A[/ch]
+las espumas viajeras[/tab]
+[tab]  [ch]A7[/ch]            [ch]D[/ch]
+como las ilusiones[/tab]
+[tab]            [ch]E7[/ch]
+que te depararon[/tab]
+[tab]            [ch]A[/ch]
+dichas pasajeras.[/tab]

@@ -1,0 +1,103 @@
+URL: https://tabs.ultimate-guitar.com/tab/2901677
+Artist: BoA (보아)
+Song: Konoyono Shirushi - コノヨノシルシ -
+Genre: 
+Key: 
+
+
+[Intro]
+[ch]Aadd9[/ch] [ch]D6[/ch] [ch]E[/ch] [ch]C#[/ch] [ch]Gbm[/ch] [ch]E[/ch]
+[ch]A[/ch] [ch]D[/ch] [ch]E[/ch] [ch]C#[/ch] [ch]Gbm[/ch] [ch]E[/ch] [ch]A[/ch]
+
+[Verse]
+[tab]     [ch]D6[/ch]           [ch]E[/ch]   [ch]C#[/ch]        [ch]Gbm[/ch] [ch]E[/ch] [ch]A[/ch]
+suki na eiga no youni hito wa[/tab]
+[tab]   [ch]D[/ch]           [ch]E[/ch] [ch]C#[/ch]    [ch]Gbm[/ch]  [ch]E[/ch]    [ch]A[/ch]
+ikirare nai to shitte iru   kara[/tab]
+[tab]       [ch]D[/ch]        [ch]E[/ch]     [ch]C#[/ch]       [ch]Gbm[/ch] [ch]E[/ch] [ch]A[/ch]
+dare mo koi ni ochiru tabi ni[/tab]
+[tab][ch]D[/ch]             [ch]C#[/ch]  [ch]Gbm[/ch]   [ch]Asus4/B[/ch]        [ch]Asus4[/ch]      [ch]A[/ch]
+jibun dake no monogatari motome sugi teshi mau deshiyou[/tab]
+
+[Pre-Chorus]
+[tab]  [ch]Asus4/B[/ch]  [ch]A[/ch]   [ch]Asus4[/ch]  [ch]A[/ch]
+me no mae  fushigi souni[/tab]
+[tab][ch]Asus4/B[/ch]  [ch]A[/ch]  [ch]Gbm[/ch]     [ch]D#m7-5[/ch] [ch]E[/ch]
+hohoe    mu kimi to boku   wa...[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]       [ch]Dm7[/ch]         [ch]F/G[/ch]    [ch]Em7[/ch]
+ chizu mo nai no ni meguri aeta[/tab]
+[tab][ch]Am7[/ch]      [ch]Dm7[/ch]   [ch]F/G[/ch]       [ch]E[/ch]
+  sore wa aito sotto shinjitai[/tab]
+[tab][ch]Am7[/ch]         [ch]Dm7[/ch]    [ch]F/G[/ch]          [ch]Em7[/ch]
+  namida ni todoku kyori ni iru yo[/tab]
+[tab][ch]Am7[/ch]       [ch]Dm7[/ch]    [ch]F/G[/ch]      [ch]E[/ch]
+  boku ni kimi wa kakegae no nai[/tab]
+[tab][ch]Am7[/ch]        [ch]F6[/ch]   [ch]C[/ch]   [ch]Fadd9[/ch] [ch]G[/ch] [ch]A[/ch]
+kono yo no shirushi[/tab]
+
+[Verse]
+[tab]    [ch]D6[/ch]           [ch]E[/ch]    [ch]C#[/ch]     [ch]Gbm[/ch] [ch]E[/ch] [ch]A[/ch]
+chigau machi de umare takara[/tab]
+[tab][ch]D[/ch]               [ch]E[/ch]   [ch]C#[/ch]    [ch]Gbm[/ch] [ch]E[/ch]    [ch]A[/ch]
+chigau hibi wo sugo shita   futari[/tab]
+[tab]      [ch]D6[/ch]     [ch]E[/ch]     [ch]C#[/ch]     [ch]Gbm[/ch] [ch]E[/ch] [ch]A[/ch]
+keredo fuini onaji uta wo[/tab]
+[tab][ch]D[/ch]               [ch]C#[/ch]      [ch]Gbm[/ch] [ch]Asus4/B[/ch]         Asus5    [ch]A[/ch]
+guchi zuchimu kiseki kasane   onaji yume wo ima wa miru[/tab]
+
+[Pre-Chorus]
+[tab][ch]Asus4/B[/ch] [ch]A[/ch]       [ch]Asus4[/ch]       [ch]A[/ch]
+ kasu    kana mirai dake do[/tab]
+[tab]Asus5  [ch]A[/ch]    [ch]Gbm[/ch]  [ch]D#m7-5[/ch] [ch]E[/ch]
+boku  ra ni niau toii kedo[/tab]
+(netsu)
+
+[Chorus B]
+[tab][ch]Am7[/ch]        [ch]Dm7[/ch]       [ch]F/G[/ch]         [ch]Em7[/ch]
+binetsu mo nai no ni hoho ga atsui[/tab]
+[tab][ch]Am7[/ch]       [ch]Fm7[/ch]  [ch]F/G[/ch]     [ch]E[/ch]
+subete no kaze boku wa kanjiru[/tab]
+[tab][ch]Am7[/ch]     [ch]Dm7[/ch]        [ch]F/G[/ch]       [ch]Em7[/ch]
+kimi no kana shimi nugueru hodo[/tab]
+[tab][ch]Am7[/ch]      [ch]Dm7[/ch]   [ch]F/G[/ch]    [ch]E[/ch]
+soba ni iru yo hana retaku nai[/tab]
+[tab][ch]Am7[/ch]        [ch]F6[/ch]   [ch]C[/ch]   [ch]Em7[/ch] [ch]Gm7[/ch]
+kono yo no shirushi[/tab]
+
+[Interlude]
+[ch]A[/ch] [ch]D6[/ch] [ch]E[/ch] [ch]C#[/ch] [ch]Gbm[/ch] [ch]E[/ch] [ch]A[/ch] [ch]D6[/ch] [ch]E[/ch] [ch]C#[/ch] [ch]Gbm[/ch] [ch]E[/ch]
+[ch]A[/ch] [ch]D6[/ch] [ch]E[/ch] [ch]C#[/ch] [ch]Gbm[/ch] [ch]E[/ch] [ch]A[/ch] [ch]D[/ch] [ch]C#[/ch] [ch]Gbm[/ch] [ch]Asus4/B[/ch] [ch]Asus4[/ch] [ch]A[/ch]
+
+[Pre-Chorus]
+[tab][ch]Asus4/B[/ch]   [ch]A[/ch] [ch]Asus4[/ch]    [ch]A[/ch]
+me no mae fushigi souni[/tab]
+[tab][ch]Asus4/B[/ch]  [ch]A[/ch]  [ch]Gbm[/ch]    [ch]D#m7-5[/ch] [ch]E[/ch]
+hohoe    mu kimi to boku  wa...[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]       [ch]Dm7[/ch]         [ch]F/G[/ch]    [ch]Em7[/ch]
+ chizu mo nai no ni meguri aeta[/tab]
+[tab][ch]Am7[/ch]      [ch]Dm7[/ch]   [ch]F/G[/ch]       [ch]E[/ch]
+  sore wa aito sotto shinjitai[/tab]
+[tab][ch]Am7[/ch]         [ch]Dm7[/ch]    [ch]F/G[/ch]          [ch]Em7[/ch]
+  namida ni todoku kyori ni iru yo[/tab]
+[tab][ch]Am7[/ch]       [ch]Dm7[/ch]    [ch]F/G[/ch]      [ch]E[/ch]
+  boku ni kimi wa kakegae no nai[/tab]
+[tab][ch]Am7[/ch]        [ch]F6[/ch]   [ch]C[/ch]   [ch]Fadd9[/ch] [ch]G[/ch] [ch]A[/ch]
+kono yo no shirushi[/tab]
+
+[Chorus C]
+[tab][ch]Am7[/ch]     [ch]Dm7[/ch]         [ch]F/G[/ch]       [ch]Em7[/ch]
+chizu mo nai no ni tadori tsuita[/tab]
+[tab][ch]Am7[/ch]     [ch]Dm7[/ch]     [ch]F/G[/ch]      [ch]E[/ch]
+soko ni hana to kimi ga yureteta[/tab]
+[tab][ch]Am7[/ch]        [ch]Dm7[/ch]    [ch]F/G[/ch]       [ch]E[/ch]
+toku betsu ja nai koi dakaredo[/tab]
+[tab][ch]Am7[/ch]     [ch]Dm7[/ch]   [ch]F/G[/ch]       [ch]E[/ch]
+boku ni kimi wa kakegae no nai[/tab]
+[tab][ch]Am7[/ch]        [ch]F6[/ch]   [ch]C[/ch]   [ch]F[/ch]
+kono yo no shirushi[/tab]
+
+[ch]E[/ch] [ch]Am[/ch] [ch]Dm7[/ch] [ch]Gsus4[/ch] [ch]G[/ch] [ch]A[/ch]

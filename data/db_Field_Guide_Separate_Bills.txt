@@ -1,0 +1,95 @@
+URL: https://tabs.ultimate-guitar.com/tab/field-guide/separate-bills-chords-5395926
+Artist: Field Guide
+Song: Separate Bills
+Genre: 
+Key: D
+
+
+[tab][ch]Gsus2[/ch]
+e|x[/tab]
+B|3
+G|2
+D|0
+A|x
+E|3
+
+[tab][ch]G5maj7[/ch]
+e|2[/tab]
+B|3
+G|0
+D|0
+A|x
+E|3
+
+[tab][ch]G5maj6[/ch]
+e|0[/tab]
+B|3
+G|0
+D|0
+A|x
+E|3
+
+----------------------
+Notes:
+-The Bbm#5 might seem odd but it's just moving 3 notes from the Bm down a semitone.
+-The Gsus2 is just a D5 with G in the bass. But it's also the tonic so I labelled it as a G chord.
+-Especially in the intro and outro, play the bass note only occasionally, this is what adds the tension 
+as we're not sure whether to be at home (1 chord, D) 
+or far from it (4 chord, G) - much like the protagonist of the song :) 
+This is what adds the tension.
+-G5maj7 and G5maj6 chords are more often called Gmaj7(no3) and G6(no3). 
+But I prefer the power chord notation as it's easier to read.
+----------------------
+
+[Verse]
+[tab][ch]Gsus2[/ch]
+We go out and drink all night[/tab]
+You shuffle in close and it feels so nice
+[tab][ch]D5[/ch]
+When it's time to call it quits[/tab]
+[tab][ch]D5[/ch]                            [ch]Dsus[/ch]        [ch]D[/ch]
+They bring one bill and we ask to get it split[/tab]
+[tab][ch]Gsus2[/ch]
+And we'll leave here in separate cars[/tab]
+You'll go to him and I'll go to another bar
+[tab][ch]D5[/ch]
+And meet up with a real close friend[/tab]
+Probably be told that this should end
+
+[Chorus]
+[tab][ch]E7/B[/ch]                   [ch]A/C#[/ch]     [ch]G5maj7[/ch]  [ch]G5maj6[/ch]
+You've already got somebody to go back to[/tab]
+[tab][ch]E7/B[/ch]                   [ch]A/C#[/ch]  [ch]Gsus2[/ch]
+But I find myself wanting to tell you, you don't have to, go back to[/tab]
+
+[Verse 2]
+[tab][ch]Gsus2[/ch]
+So I try seeing other people[/tab]
+And let you know just how it goes
+[tab][ch]D5[/ch]
+Cause you and I are always candid[/tab]
+[tab][ch]D5/C#[/ch]
+Very few things you don't know[/tab]
+[tab][ch]Gsus2[/ch]
+But I got something to tell you[/tab]
+I just haven't had a chance to yet
+[tab][ch]D5[/ch]
+That I'm falling in love with you I'be been,[/tab]
+[tab][ch]Dsus[/ch]         [ch]D[/ch]        [ch]Dsus[/ch]
+Fall for you since we met[/tab]
+
+[Chorus]
+E7/B                   A/C#     G5maj7  G5maj6
+You've already got somebody to go back to
+[tab][ch]E7/B[/ch]                   [ch]A/C#[/ch]  [ch]Gsus2[/ch]
+But I find myself wanting to tell you, you don't have to, go back to[/tab]
+
+[Outro]
+[tab]             [ch]A/C#[/ch]        [ch]Bm[/ch]
+But then the stark realization[/tab]
+[tab]     [ch]Bbm#5[/ch]       [ch]Gsus2[/ch]
+That I may never have you or hold you or get you alone for the night[/tab]
+[tab][ch]Gsus2[/ch]
+But I knew all of that when I let myself fall for someone who's loved somebody else[/tab]
+
+And has for some time

@@ -1,0 +1,77 @@
+{
+    "verse-1": [
+        "Am",
+        "Am",
+        "Am",
+        "Dm",
+        "Cadd9",
+        "Am",
+        "Dm",
+        "Cadd9",
+        "Am"
+    ],
+    "verse-2": [
+        "Am",
+        "Am",
+        "Am",
+        "Dm",
+        "Cadd9",
+        "Am",
+        "Dm",
+        "Cadd9",
+        "Am"
+    ],
+    "verse-3": [
+        "Am",
+        "Am",
+        "Am",
+        "Dm",
+        "Cadd9",
+        "Am",
+        "Dm",
+        "Cadd9",
+        "Am"
+    ],
+    "verse-4": [
+        "Am",
+        "Am",
+        "Am",
+        "Dm",
+        "Cadd9",
+        "Am",
+        "Dm",
+        "Cadd9",
+        "Am"
+    ],
+    "chorus-1": [
+        "Am",
+        "Em7",
+        "Cadd9",
+        "Em7",
+        "Am",
+        "Em7",
+        "Cadd9",
+        "Em7"
+    ],
+    "chorus-2": [
+        "Am",
+        "Em7",
+        "Cadd9",
+        "Em7",
+        "Am",
+        "Em7",
+        "Cadd9",
+        "Em7"
+    ],
+    "bridge": [
+        "Am",
+        "Em7",
+        "Cadd9",
+        "Em7",
+        "Am",
+        "Em7",
+        "Cadd9",
+        "Em7",
+        "Am"
+    ]
+}

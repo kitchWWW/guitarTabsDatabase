@@ -1,0 +1,136 @@
+URL: https://tabs.ultimate-guitar.com/tab/pro-fide/barabbaan-laulu-chords-1955633
+Artist: Pro Fide
+Song: Barabbaan Laulu
+Genre: 
+Key: 
+
+
+[Intro]
+ [ch]Am[/ch] [ch]G[/ch] [ch]F[/ch] [ch]C[/ch] [ch]B[/ch] [ch]Am[/ch] [ch]G[/ch] [ch]F[/ch] [ch]C[/ch] (let ring to verse)
+
+[tab][Intro]
+e|-------------------------------------------------------------------|
+B|-----------------------------------------------1312----------------|
+G|---5-7-5-7b9~~(7)---------5--7-7b9-9-9-9------------12----------5--|
+D|-7-----------------5-7----------------------------------12--10--5--|
+A|----------------------------------------------------------------3--|
+E|-------------------------------------------------------------------|[/tab]
+
+[Verse] 
+[tab]      [ch]G[/ch]       [ch]F[/ch]           [ch]C[/ch]        [ch]F[/ch]
+Hänet nään ja alas painan pään[/tab]
+[tab]          [ch]C[/ch]       [ch]Em[/ch]                [ch]Am[/ch]   [ch]G[/ch]   [ch]C[/ch]
+tahtoisin pois ja kuitenkin tähän jään[/tab]
+[tab]       [ch]G[/ch]        [ch]F[/ch]               [ch]C[/ch] ([ch]C[/ch])/B   [ch]F[/ch]
+ristit nuo niin kylminä kohoaa[/tab]
+[tab]         [ch]C[/ch]           [ch]G[/ch]      [ch]F[/ch]     [ch]C[/ch]       [ch]C[/ch]
+keskeltä kansan joka kuolemaa odottaa[/tab]
+
+[tab]      [ch]G[/ch]         [ch]F[/ch]             [ch]C[/ch]      [ch]F[/ch]
+miksi Hän jonka kädet puhtaat on[/tab]
+[tab]         [ch]C[/ch]   [ch]Em[/ch]       [1]  [ch]Am[/ch] [ch]G[/ch]  [ch]C[/ch]
+sovittaa saa murhaajan tuomion[/tab]
+[tab]      [ch]G[/ch]   [ch]F[/ch]           [ch]C[/ch]      [ch]F[/ch]
+viattoman ajoivat kuolemaan[/tab]
+[tab]          [ch]C[/ch]  [ch]G[/ch]                [ch]C[/ch] [ch]B[/ch] [ch]Am[/ch] [2]
+ja päästivät minut Barabbaan[/tab]
+
+
+[Chorus]
+[tab]       [ch]G[/ch]         [ch]F[/ch]
+ylleni kaareutuu[/tab]
+[tab]              [ch]C[/ch] [ch]B[/ch] [ch]Am[/ch]
+varjo teloituspuun[/tab]
+[tab]        [ch]G[/ch]      [ch]F[/ch]
+tässäkö ties   –    Nasaretin mies[/tab]
+
+
+[Bridge]
+[ch]C[/ch] [ch]G[/ch] [ch]F[/ch] [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]Em[/ch] [ch]A[/ch] [ch]G[/ch] [ch]C[/ch] [ch]G[/ch] [ch]F[/ch] [ch]C[/ch] [ch]F[/ch] [ch]C[/ch] [ch]G[/ch] [ch]C[/ch]   [ch]C[/ch]
+
+[Verse 2]
+[tab]     [ch]G[/ch]          [ch]F[/ch]            [ch]C[/ch]       [ch]F[/ch]
+kuninkaan Sinun sanoivat olevan[/tab]
+         C            Em           Am G[1]C
+kruunusi raskaan näen haavat painavan
+[tab]        [ch]G[/ch]   [ch]F[/ch]              [ch]C[/ch]    [ch]F[/ch]
+ja aavistan   mitä tuskasi on[/tab]
+[tab]       [ch]C[/ch]      [ch]G[/ch]              [ch]C[/ch]
+kärsiä saitko vieraan kohtalon[/tab]
+
+[tab]e|---------------------------------------------------------------|
+B|-----5-5---------5---------------------------------------------|
+G|-----5-5-----7-5-5-7-5----7b9r77-5------5-----------5-5--------|
+D|-------------7-5---7-5-------------7-5----7-5-------5-5--------|
+A|---------------------------------------------7-5~---3-3--------|
+E|---------------------------------------------------------------|[/tab]
+
+[Verse 3]
+[tab]        [ch]G[/ch]         [ch]F[/ch]                 [ch]C[/ch]     [ch]F[/ch]
+silmäni suljen ja ruumiini ristillä nään[/tab]
+[tab]         [ch]C[/ch]        [ch]Em[/ch]          [1]   [ch]Am[/ch] [ch]G[/ch] [ch]C[/ch]
+syvällä tiedän en ansaitse enempää[/tab]
+[tab]            [ch]G[/ch]         [ch]F[/ch]             [ch]C[/ch]     [ch]F[/ch]
+kun kasvoni nostan ja uskallan katsomaan[/tab]
+[tab]      [ch]C[/ch]     [ch]G[/ch]                     [ch]C[/ch] [ch]B[/ch] Am[2]
+Sinut nään  –  ja minä elää saan[/tab]
+
+[Chorus] x2
+[tab]       [ch]G[/ch]   [4]      [ch]F[/ch]
+ylleni kaareutuu[/tab]
+               C B Am[2]
+varjo teloituspuun
+[tab]        [ch]G[/ch]      F[3]               [ch]F[/ch] [ch]G[/ch] [ch]Am[/ch]
+tässäkö ties   –   Nasaretin mies[/tab]
+
+[Outro]
+ [ch]Am[/ch] [ch]G[/ch] [ch]F[/ch] [ch]Em[/ch] [ch]C[/ch] [ch]B[/ch] [ch]Am[/ch] [ch]G[/ch] [ch]F[/ch]   end in ([ch]C[/ch])
+
+[tab][Outro]
+e|------------------------------------------------------------------------------------------------------|
+B|------------10---10-------------------------9b-9b-----------------10~--10-10------------------------8-|
+G|--7b9-7b9~-----9----9---9r7---5-------------8b-8b--9-7-5-7-5~~---10~---10-10--12-12--10-10--7-------9-|
+D|-------------------------------7--5-7---------------------------10~----10-10------------------------10|
+A|------------------------------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------------------------------|[/tab]
+
+[tab][1]
+e|-------------------|
+B|-----9b½-7.7~------|
+G|-------------------|
+D|-------------------|
+A|-------------------|
+E|-------------------|[/tab]
+
+[tab][2]
+e|-------------------------|
+B|-------------------------|
+G|------5------4---2-2-----|
+D|-------5------4--2-2-----|
+A|----3------2-----0-0-----|
+E|-------------------------|[/tab]
+
+[tab][3]
+e|-------------|
+B|10-----------|
+G|-10----------|
+D|--10---------|
+A|----9--------|
+E|-------------|[/tab]
+
+[tab][4]
+e|----------------|
+B|----------------|
+G|-5-7~--5-7~-----|
+D|----------------|
+A|----------------|
+E|----------------|[/tab]
+ 
+
+************************************
+
+| b  Bend
+| r  Release
+| ~  Vibrato
+  
+************************************

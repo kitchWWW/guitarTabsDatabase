@@ -1,0 +1,142 @@
+URL: https://tabs.ultimate-guitar.com/tab/908383
+Artist: Amel Bent
+Song: Où Je Vais
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------
+OÙ JE VAIS – Amel Bent
+-------------------------------------------------------------------------
+Tabbed by: Kengus
+
+Standard tuning
+Capo on first fret!
+*************************************************************************
+    [ch]Em[/ch] = 022001      [ch]G6/E[/ch] = 0xx453         [ch]D[/ch] = xx0232     [ch]Cadd9[/ch] = x32033
+     [ch]C[/ch] = x32013      [ch]G5/D[/ch] = x5x0x3    [ch]D#dim7[/ch] = xx1212        [ch]D7[/ch] = xx0212
+   [ch]Am7[/ch] = x02013      [ch]F[/ch]*/G = 3xx0x1     [ch]Esus4[/ch] = 0xx455        [ch]G7[/ch] = 3xx001
+    [ch]B7[/ch] = x21202    [ch]Am6/F#[/ch] = 2xx210         [ch]E[/ch] = 0xx454    [ch]Emadd9[/ch] = 02400x
+[tab]   [ch]B7[/ch]* = x2424x       [ch]B11[/ch] = x21200     [ch]Fadd9[/ch] = 1xx213 
+ Cmaj7 = x32000       G/B = x2x033         F = 1xx211       the guitar is[/tab]
+  Am/E = 0xx555    Emadd2 = 022002    B7sus4 = x2425x      mostly picking
+*************************************************************************
+
+INTRO
+[ch]Em[/ch]  [ch]C[/ch]  [ch]Am7[/ch]  B7-B7*
+[ch]Em[/ch]  [ch]C[/ch]  [ch]Am7[/ch]  B7-B7*  [ch]Cmaj7[/ch]  B7-B7*
+
+VERSE1
+[tab][ch]Am/E[/ch] [ch]G6/E[/ch]  [ch]Am/E[/ch]            [ch]G5/D[/ch] [ch]F[/ch]*/G    [ch]Cmaj7[/ch]
+Chan--ter, chanter pour se dessi-ner un monde[/tab]
+[tab]             [ch]Am6/F#[/ch]            [ch]B11[/ch]     [ch]B7[/ch]
+C'est pas si loin le temps, où je m'en allais[/tab]
+[tab][ch]Am/E[/ch] [ch]G6/E[/ch]       [ch]Am/E[/ch]         [ch]G5/D[/ch]
+Er----rer, pour sentir les mélodies[/tab]
+[tab][ch]F[/ch]*/G    [ch]Cmaj7[/ch]                      [ch]Am6/F#[/ch]       [ch]B11[/ch]  [ch]B7[/ch]
+ Qui m'inondaient d'espoir, je chantais pour oublier[/tab]
+
+PRE-CHORUS
+[tab][ch]Am7[/ch]                             [ch]G/B[/ch]            Emadd2-Em
+    Tapis dans l'ombre, tu me regardes dans les yeux[/tab]
+[tab]   [ch]Am7[/ch]            [ch]D[/ch]         [ch]D#dim7[/ch]    Esus4-E
+Me prends par la main, et me souris enfin[/tab]
+[tab][ch]Am7[/ch]                            [ch]G/B[/ch]             Emadd2-Em
+    D'un geste tu m'apaises, et me réchauffe un peu[/tab]
+[tab]  [ch]Fadd9[/ch]    [ch]F[/ch]      [ch]B7sus4[/ch]                          [ch]B7[/ch]*
+Je suis bien, mais est-ce vraiment ce que je veux?[/tab]
+
+CHORUS
+[tab]                         [ch]Em[/ch]           [ch]Cadd9[/ch]
+Mais qu'est-ce que j'ai fait, où je vais?[/tab]
+[tab]      [ch]Am7[/ch]            [ch]B11[/ch]   [ch]B7[/ch]         [ch]Em[/ch]
+Ce poème est un adieu à ce que j'étais[/tab]
+[tab]          [ch]Cadd9[/ch]           [ch]Am7[/ch]             [ch]B11[/ch]      [ch]B7[/ch]       [ch]Em[/ch]
+Pourquoi moi? Je ne sais pas, quel est ce monde où tu m'emmènes?[/tab]
+[tab]          [ch]Am7[/ch]                 [ch]D7[/ch]                  [ch]G7[/ch]               [ch]Cmaj7[/ch]
+Et je revois, le cours de ma vie je crains que rien ne soit plus pareil[/tab]
+[tab]           [ch]Am6/F#[/ch]  [ch]B7sus4[/ch]         [ch]B7[/ch]*          [ch]Emadd9[/ch]
+Mais je ne regrette rien, non, je ne regrette rien[/tab]
+
+VERSE2
+[tab][ch]Am/E[/ch] [ch]G6/E[/ch]  [ch]Am/E[/ch]          [ch]G5/D[/ch]     [ch]F[/ch]*/G  [ch]Cmaj7[/ch]
+Pleu--rer, pleurer, mes amis, mes illusions[/tab]
+[tab]        [ch]Am6/F#[/ch]             [ch]B11[/ch]    [ch]B7[/ch]   [ch]Am/E[/ch] [ch]G6/E[/ch]
+Purifier derrière les murs d'une prison do---rée[/tab]
+[tab]     [ch]Am/E[/ch]           [ch]G5/D[/ch]  [ch]F[/ch]*/G   [ch]Cmaj7[/ch]                   [ch]Am6/F#[/ch]    [ch]B11[/ch]  [ch]B7[/ch]
+Mais garder l'envie, vivre ma passion, qui sépare un écran de télévision[/tab]
+
+PRE-CHORUS
+[tab][ch]Am7[/ch]                           [ch]G/B[/ch]            Emadd2-Em
+    Sorti de l'ombre, je te regarde dans les yeux[/tab]
+[tab]         [ch]Am7[/ch]        [ch]D[/ch]              [ch]D#dim7[/ch]     Esus4-E
+Et je te sens si fragile, dans ton châteaux d’argile[/tab]
+[tab][ch]Am7[/ch]                              [ch]G/B[/ch]       Emadd2-Em  [ch]F[/ch]
+    D'un geste tu me nargues, et disparais un peu ainsi soit-il[/tab]
+[tab]   [ch]B7sus4[/ch]                       [ch]B7[/ch]*
+Car c'est vraiment ce que je veux[/tab]
+
+CHORUS
+[tab]                         [ch]Em[/ch]          [ch]Cadd9[/ch]
+Mais qu'est-ce que j'ai fait, où je vais?[/tab]
+[tab]      [ch]Am7[/ch]            [ch]B11[/ch]   [ch]B7[/ch]       [ch]Em[/ch]
+Ce poème est un adieu à ce que j'étais[/tab]
+[tab]          [ch]Cadd9[/ch]            [ch]Am7[/ch]            [ch]B11[/ch]      [ch]B7[/ch]       [ch]Em[/ch]
+Pourquoi moi? Je ne sais pas, quel est ce monde où tu m'emmènes?[/tab]
+[tab]          [ch]Am7[/ch]                 [ch]D7[/ch]                  [ch]G7[/ch]               [ch]Cmaj7[/ch]
+Et je revois, le cours de ma vie je crains que rien ne soit plus pareil[/tab]
+[tab]          [ch]Am6/F#[/ch]    [ch]B7sus4[/ch]   [ch]B7[/ch]*
+Mais je ne regrette rien[/tab]
+
+CHORUS
+[tab]                     [ch]Em[/ch]         [ch]Cadd9[/ch]
+Qu'est-ce qu'il m'arrive, je dérive[/tab]
+[tab]         [ch]Am7[/ch]            [ch]B11[/ch]    [ch]B7[/ch]      [ch]Em[/ch]
+Et ce poème est un adieu à ce que j'étais[/tab]
+[tab]          [ch]Cadd9[/ch]          [ch]Am7[/ch]             [ch]B11[/ch]     [ch]B7[/ch]      [ch]Em[/ch]
+Pourquoi moi, je n'sais pas, tous ces délires où tu m'emmènes[/tab]
+[tab]         [ch]Am7[/ch]                 [ch]D7[/ch]                 [ch]G7[/ch]               [ch]Cmaj7[/ch]
+Et je revois le cours de ma vie je crains que rien n'soit plus pareil[/tab]
+[tab]          [ch]Am6/F#[/ch]   [ch]B7sus4[/ch]         [ch]B7[/ch]*
+Mais je ne regrette rien, non, je ne regrette rien[/tab]
+
+[posted on www.ultimate-guitar.com]
+
+INTERLUDE
+[ch]Am7[/ch]  [ch]G/B[/ch]  Emadd2-Em  [ch]F[/ch]  [ch]B7sus4[/ch]  [ch]B7[/ch]*
+
+CHORUS
+[tab]                         [ch]Em[/ch]          [ch]Cadd9[/ch]
+Mais qu'est-ce que j'ai fait, où je vais?[/tab]
+[tab]      [ch]Am7[/ch]            [ch]B11[/ch]   [ch]B7[/ch]       [ch]Em[/ch]
+Ce poème est un adieu à ce que j'étais[/tab]
+[tab]          [ch]Cadd9[/ch]            [ch]Am7[/ch]            [ch]B11[/ch]      [ch]B7[/ch]       [ch]Em[/ch]
+Pourquoi moi? Je ne sais pas, quel est ce monde où tu m'emmènes?[/tab]
+[tab]          [ch]Am7[/ch]                 [ch]D7[/ch]                  [ch]G7[/ch]               [ch]Cmaj7[/ch]
+Et je revois, le cours de ma vie je crains que rien ne soit plus pareil[/tab]
+[tab]          [ch]Am6/F#[/ch]    [ch]B7sus4[/ch]   [ch]B7[/ch]*
+Mais je ne regrette rien[/tab]
+
+CHORUS
+[tab]                     [ch]Em[/ch]         [ch]Cadd9[/ch]
+Qu'est-ce qu'il m'arrive, je dérive[/tab]
+[tab]         [ch]Am7[/ch]            [ch]B11[/ch]    [ch]B7[/ch]      [ch]Em[/ch]
+Et ce poème est un adieu à ce que j'étais[/tab]
+[tab]          [ch]Cadd9[/ch]          [ch]Am7[/ch]             [ch]B11[/ch]     [ch]B7[/ch]      [ch]Em[/ch]
+Pourquoi moi, je n'sais pas, tous ces délires où tu m'emmènes[/tab]
+[tab]         [ch]Am7[/ch]                 [ch]D7[/ch]                 [ch]G7[/ch]               [ch]Cmaj7[/ch]
+Et je revois le cours de ma vie je crains que rien n'soit plus pareil[/tab]
+[tab]          [ch]Am6/F#[/ch]   [ch]B7sus4[/ch]         [ch]B7[/ch]*
+Mais je ne regrette rien, non, je ne regrette rien[/tab]
+
+OUTRO
+[tab][ch]Em[/ch]  [ch]Cadd9[/ch]  [ch]Am7[/ch]         [ch]B11[/ch]     [ch]B7[/ch]    [ch]Em[/ch]
+               Non, je ne regrette rien[/tab]
+[tab][ch]Cadd9[/ch]  [ch]Am7[/ch]         [ch]B11[/ch]     [ch]B7[/ch]    [ch]Em[/ch]   [ch]Am7[/ch]  [ch]D7[/ch]  [ch]G7[/ch]  [ch]Cmaj7[/ch]
+           Non, je ne regrette rien[/tab]
+[ch]Am6/F#[/ch]  [ch]B7sus4[/ch]  [ch]B7[/ch]*
+
+[fade out]
+
+=========================================================================
+Comment, rate, appreciate!

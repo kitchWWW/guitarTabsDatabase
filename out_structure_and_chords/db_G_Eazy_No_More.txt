@@ -1,0 +1,52 @@
+{
+    "intro": [
+        "G6sus",
+        "Em7",
+        "Em9"
+    ],
+    "chorus-1": [
+        "G6sus",
+        "Em7",
+        "Em9",
+        "G6sus",
+        "Em7"
+    ],
+    "chorus-2": [
+        "G6sus",
+        "Em7",
+        "Em9",
+        "G6sus",
+        "Em7"
+    ],
+    "chorus-3": [
+        "G6sus",
+        "Em7",
+        "Em9",
+        "G6sus",
+        "Em7"
+    ],
+    "verse-1": [
+        "G6sus",
+        "Em7",
+        "Em9",
+        "G6sus",
+        "Em7",
+        "Em9",
+        "G6sus",
+        "Em7",
+        "Em9"
+    ],
+    "verse-2": [
+        "G6sus",
+        "Em7",
+        "Em9",
+        "G6sus",
+        "Em7",
+        "Em9"
+    ],
+    "bridge": [
+        "G6sus",
+        "Em7",
+        "Em9"
+    ]
+}

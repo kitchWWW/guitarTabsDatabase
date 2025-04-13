@@ -1,0 +1,122 @@
+URL: https://tabs.ultimate-guitar.com/tab/5381715
+Artist: Küszöb
+Song: Élni Kéne
+Genre: 
+Key: D
+
+
+[Intro]
+[ch]Em[/ch] [ch]D[/ch] [ch]G[/ch] [ch]Am[/ch] [ch]C[/ch] [ch]D[/ch]  x2
+[ch]Bm[/ch]
+
+
+[Verse 1]
+[tab][ch]Em[/ch]        [ch]Am[/ch]
+burokban vagyok[/tab]
+[tab][ch]C[/ch]            [ch]D[/ch]
+semmit nem érezni most benn[/tab]
+[tab][ch]Em[/ch]       [ch]Am[/ch]
+üvegre nyomott[/tab]
+[tab][ch]C[/ch]          [ch]D[/ch]
+orromból kiszálló lelken[/tab]
+[tab][ch]Em[/ch]   [ch]Am[/ch]
+párarajzoló[/tab]
+[tab][ch]C[/ch]             [ch]Bm[/ch]
+ujjbegyekben lüktet a vér[/tab]
+[tab][ch]Em[/ch]           [ch]Am[/ch]
+a szív pici fémgolyó[/tab]
+[tab][ch]C[/ch]                   [ch]D[/ch]
+gurul a mellkasban érezni kér[/tab]
+
+[ch]Em[/ch] [ch]D[/ch] [ch]G[/ch] [ch]Am[/ch] [ch]C[/ch] [ch]D[/ch] [ch]Bm[/ch]
+
+
+[Verse 2]
+[tab][ch]Em[/ch]         [ch]Am[/ch]
+nincsenek szavak[/tab]
+[tab][ch]C[/ch]            [ch]D[/ch]
+üres minden mondatom már[/tab]
+[tab][ch]Em[/ch]            [ch]Am[/ch]
+ne tégy úgy, harag,[/tab]
+[tab][ch]C[/ch]                [ch]D[/ch]
+mint hogyha nem folytatódnál[/tab]
+[tab][ch]Em[/ch]              [ch]Am[/ch]
+ne tégy úgy, idő,[/tab]
+[tab][ch]C[/ch]                     [ch]D[/ch]
+minthogyha nem telnél ne tégy[/tab]
+[tab][ch]Em[/ch]             [ch]Am[/ch]
+ne tégy úgy, szív,[/tab]
+[tab][ch]C[/ch]                [ch]D[/ch]
+mint hogyha nem lennél elég[/tab]
+[tab][ch]Em[/ch]            [ch]Am[/ch]
+érzéktelen a bőr[/tab]
+[tab][ch]C[/ch]            [ch]D[/ch]
+ne száradj könny ne fogyj el[/tab]
+[tab][ch]Em[/ch]               [ch]Am[/ch]
+csontig hatol a tőr[/tab]
+[tab][ch]C[/ch]           [ch]D[/ch]            [ch]C[/ch] [ch]D[/ch]
+ordítani a néma csönddel[/tab]
+
+
+[Chorus]
+[tab][ch]Em[/ch]                [ch]D[/ch]
+semmit sem érzek nincs nevetés[/tab]
+[tab][ch]Bm[/ch]            [ch]C[/ch]
+nincsen sírás sem remegés[/tab]
+[tab][ch]Em[/ch]                [ch]D[/ch]
+kinyitok hátha bejön valami de[/tab]
+[tab][ch]Bm[/ch]                     [ch]C[/ch]
+a semminek kell előbb kimennie[/tab]
+[tab][ch]Em[/ch]            [ch]D[/ch]            [ch]Bm[/ch]
+szív zakatol szív zakatol szív zakatol[/tab]
+[tab]   [ch]C[/ch]
+de nem találom[/tab]
+[tab][ch]Em[/ch]                [ch]D[/ch]                [ch]Bm[/ch]
+szív zakatol szív zakatol benn valahol[/tab]
+[tab]    [ch]C[/ch]
+de nem találom[/tab]
+
+
+[Bridge]
+[tab]    [ch]Em[/ch]             [ch]D[/ch]
+de nem találom az életet[/tab]
+[tab][ch]Bm[/ch]               [ch]C[/ch]
+nem hibázok nem tévedek[/tab]
+[tab][ch]Em[/ch]             [ch]D[/ch]
+nem tévedek nem is tudok[/tab]
+[tab][ch]Bm[/ch]               [ch]C[/ch]
+még csak el sem indulok[/tab]
+[tab][ch]Em[/ch]           [ch]D[/ch]
+élni kéne de nem merek[/tab]
+[tab][ch]Bm[/ch]               [ch]C[/ch]
+nem merek élni amíg lehet[/tab]
+[tab][ch]Em[/ch]               [ch]D[/ch]
+nem merek élni amíg lehet[/tab]
+[tab][ch]Bm[/ch]            [ch]C[/ch]
+élni kéne de nem merek[/tab]
+
+[ch]Em[/ch] [ch]D[/ch] [ch]G[/ch] [ch]Am[/ch] [ch]C[/ch] [ch]D[/ch]  x2
+[ch]Bm[/ch]
+
+
+[Outro]
+[tab][ch]F#m[/ch]               [ch]D[/ch]
+semmit sem érzek nincs nevetés[/tab]
+[tab][ch]C#[/ch]
+nincsen sírás sem remegés[/tab]
+[tab][ch]F#m[/ch]               [ch]D[/ch]
+kinyitok hátha bejön valami de[/tab]
+[tab][ch]C#[/ch]
+a semminek kell előbb kimennie[/tab]
+[tab][ch]F#m[/ch]                 [ch]D[/ch]                     [ch]C#[/ch]
+zakatol a szív zakatol a szív zakatol a szív[/tab]
+[tab][ch]F#m[/ch]                 [ch]D[/ch]                     [ch]C#[/ch]
+zakatol a szív zakatol a szív zakatol a szív[/tab]
+
+
+[Solo]
+[ch]F#m[/ch] [ch]D[/ch] [ch]C#[/ch] x4
+
+
+[Piano outro]
+[ch]F#m[/ch] [ch]D[/ch] [ch]C#[/ch] x4

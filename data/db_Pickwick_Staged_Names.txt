@@ -1,0 +1,64 @@
+URL: https://tabs.ultimate-guitar.com/tab/pickwick/staged-names-chords-1241544
+Artist: Pickwick
+Song: Staged Names
+Genre: 
+Key: 
+
+
+http://pickwickmusic.com/
+
+Pickwick
+
+Staged names
+
+Should be spot on, enjoy!
+
+[tab][ch]Fmaj7[/ch]: EADGBe
+       X33210 (or 133210)[/tab]
+
+Capo on 5th fret
+
+Intro / Verse
+[ch]Am[/ch] [ch]Am[/ch] [ch]G[/ch] [ch]Em[/ch]
+
+Chorus
+[ch]Am[/ch] [ch]G[/ch] [ch]Em[/ch] [ch]G[/ch] [ch]Am[/ch] [ch]G[/ch] [ch]Em[/ch] [ch]G[/ch] (hold into verse)
+
+repeat verse
+
+Chorus x2
+
+Bridge
+[ch]Fmaj7[/ch] [ch]Dm[/ch] [ch]G[/ch] [ch]Am[/ch]
+[ch]Fmaj7[/ch] [ch]Dm[/ch] [ch]E[/ch] (hold into verse)
+
+repeat verse
+
+End
+
+--------------------------------------------------
+No capo version
+
+[tab][ch]Bbmaj7[/ch]: EADGBe
+        6X8765 or XX8765[/tab]
+
+[tab][ch]Gm[/ch]:     EADGBe
+        355333[/tab]
+
+Intro / Verse
+[ch]Dm[/ch] [ch]Dm[/ch] [ch]C[/ch] [ch]Am[/ch]
+
+Chorus
+[ch]Dm[/ch] [ch]C[/ch] [ch]Am[/ch] [ch]C[/ch] [ch]Dm[/ch] [ch]C[/ch] [ch]Am[/ch] [ch]C[/ch] (hold into verse)
+
+repeat verse
+
+Chorus x2
+
+Bridge (use barre chords here)
+[ch]Bbmaj7[/ch] [ch]Gm[/ch] [ch]C[/ch] [ch]Dm[/ch]
+[ch]Bbmaj7[/ch] [ch]Gm[/ch] [ch]A[/ch] (hold into verse)
+
+repeat verse
+
+End

@@ -1,0 +1,115 @@
+URL: https://tabs.ultimate-guitar.com/tab/1789023
+Artist: Hasse Andersson
+Song: Guld Och Gröna Skogar
+Genre: 
+Key: 
+
+
+ORDER: C1 INT1 V1 PC1 C2 INT2 V2 C3 C-INS PC2 C4 FC
+
+
+[CHORUS 1]
+[tab]n.c.    [ch]D[/ch]                       [ch]A[/ch]            [ch]F#m[/ch]
+Det var dans och hålligång uppå logen natten lång[/tab]
+[tab]        [ch]D[/ch]               [ch]E[/ch]              [ch]A[/ch]
+Det var sommar, det var guld och gröna skogar[/tab]
+
+
+[INTERLUDE 1]
+[ch]A[/ch]    | [ch]E[/ch] [ch]F#m[/ch]
+[ch]D[/ch]  [ch]E[/ch] | [ch]A[/ch]
+
+
+[VERSE 1]
+[tab]    [ch]D[/ch]                      [ch]A[/ch]
+Det är en stilla kväll men jag får ingen ro[/tab]
+[tab][ch]Bm[/ch]                           [ch]E[/ch]
+Solen dröjer kvar vid havets rand[/tab]
+[tab]    [ch]D[/ch]                  [ch]A[/ch]
+Jag börjar tänka på en gång för länge sen[/tab]
+[tab]   [ch]D[/ch]                         [ch]Esus4[/ch] [ch]E[/ch]
+En annan kväll i pilevallars land[/tab]
+
+
+[PRE-CHORUS 1]
+[tab][ch]E[/ch]           [ch]F#m[/ch]         [ch]D[/ch]          [ch]E[/ch]
+Spelemännen spelade som elden vore lös[/tab]
+[tab][ch]E[/ch]                      [ch]F#m[/ch]          [ch]D[/ch]        [ch]E[/ch]      [ch]A[/ch]
+Pågarna från Sjöbo var vilda och de svingade varsin tös[/tab]
+
+
+[CHORUS 2]
+[tab][ch]A[/ch]       [ch]D[/ch]                       [ch]A[/ch]    
+Det var dans och hålligång uppå logen natten lång[/tab]
+[tab]        [ch]F#m[/ch]                 [ch]D[/ch]          [ch]E[/ch]
+Det var sommar, det var guld och gröna skogar[/tab]
+[tab]        [ch]D[/ch]                            [ch]A[/ch]           [ch]F#m7[/ch]
+Jag var ung och du var grann, som vi älskade varann[/tab]
+[tab]        [ch]D[/ch]               [ch]E[/ch]              [ch]A[/ch]
+Det var sommar, det var guld och gröna skogar[/tab]
+
+
+[INTERLUDE 2]
+[ch]D[/ch] [ch]E[/ch] | [ch]A[/ch] |
+
+
+[VERSE 2]
+[tab]      [ch]D[/ch]               [ch]A[/ch]
+Under eken där vid ån frågade du mig[/tab]
+[tab]   [ch]Bm[/ch]                       [ch]E[/ch]
+Om jag var din i alla våra dar[/tab]
+[tab]    [ch]D[/ch]                      [ch]F#m[/ch]
+Och Solen sänkte sig när fiolen stämde upp[/tab]
+[tab]    [ch]D[/ch]          [ch]E[/ch]             [ch]A[/ch]
+Jag lovade att alltid stanna kvar[/tab]
+
+
+[CHORUS 3]
+[tab]        [ch]D[/ch]                       [ch]A[/ch]    
+Det var dans och hålligång uppå logen natten lång[/tab]
+[tab]        [ch]F#m[/ch]                 [ch]D[/ch]          [ch]E[/ch]
+Det var sommar, det var guld och gröna skogar[/tab]
+[tab]        [ch]D[/ch]                            [ch]A[/ch]           [ch]F#m7[/ch]
+Jag var ung och du var grann, som vi älskade varann[/tab]
+[tab]        [ch]D[/ch]          [ch]E[/ch]              [ch]A[/ch]
+Och jag lovade dig guld och gröna skogar[/tab]
+
+
+[CHORUS - INSTRUMENTAL]
+[ch]Bb[/ch]        | [ch]F[/ch]    [ch]Gm[/ch] |
+[ch]Eb[/ch]        | [ch]Bb[/ch] [ch]F[/ch]    |
+[ch]Bb[/ch]        | [ch]F[/ch]    [ch]Gm[/ch] |
+[ch]Eb[/ch]   [ch]Bb[/ch] [ch]F[/ch] | [ch]Bb[/ch]      |
+
+
+[PRE-CHORUS 2]
+[tab][ch]F[/ch]           [ch]Gm[/ch]          [ch]Eb[/ch]         [ch]Fsus4[/ch]
+Spelemännen spelade som elden vore lös[/tab]
+[tab][ch]F[/ch]                      [ch]Gm[/ch]           [ch]Eb[/ch]       [ch]F[/ch]      [ch]Bb[/ch]
+Pågarna från Sjöbo var vilda och de svingade varsin tös[/tab]
+
+
+[CHORUS 4]
+[tab][ch]C[/ch]       [ch]F[/ch]                       [ch]C[/ch]   
+Det var dans och hålligång uppå logen natten lång[/tab]
+[tab]        [ch]Am[/ch]                  [ch]F[/ch]          [ch]G[/ch]
+Det var sommar, det var guld och gröna skogar[/tab]
+[tab][ch]C[/ch]       [ch]F[/ch]                            [ch]C[/ch]           [ch]Am[/ch]
+Jag var ung och du var grann, som vi älskade varann[/tab]
+[tab]        [ch]F[/ch]          [ch]G[/ch]              [ch]C[/ch]
+Och jag lovade dig guld och gröna skogar[/tab]
+
+
+[FINAL CHORUS]
+[tab][ch]C[/ch]   [ch]F[/ch]
+Lalala lala lala[/tab]
+[tab]    [ch]C[/ch]
+Lalala lala lala[/tab]
+[ch]Am[/ch]    [ch]F[/ch]  |   [ch]G[/ch] |
+
+[tab][ch]C[/ch]       [ch]F[/ch]                            [ch]C[/ch]           [ch]Am[/ch]
+Jag var ung och du var grann, som vi älskade varann[/tab]
+[tab]        [ch]F[/ch]               [ch]G[/ch]              [ch]C[/ch]
+Det var sommar, det var guld och gröna skogar[/tab]
+[tab]          [ch]F[/ch]              [ch]G[/ch]              [ch]C[/ch]
+Så ge mig sommar, ge mig guld och gröna skogar[/tab]

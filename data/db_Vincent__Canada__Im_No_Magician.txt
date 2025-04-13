@@ -1,0 +1,170 @@
+URL: https://tabs.ultimate-guitar.com/tab/vincent-canada/im-no-magician-chords-3103415
+Artist: Vincent (Canada)
+Song: Im No Magician
+Genre: 
+Key: C
+
+
+NOTES_____________________________________________________________________________________________________
+
+ PLUCK  = Pluck chord (once and hold)
+
+ STRUM  = Strum pattern (see above, or some fun other variant you come up with}
+   Note - I'm not 100% certain the "note length" indicated...
+   STRUM X = Strum Pattern X)Pre-Chorus
+   STRUM Y = Strum Pattern Y)Chorus
+   STRUM z = Strum Pattern Z)Drop 4
+
+ ARPEGG = Arpeggiate (i.e. play Riff Q)
+
+ BUILD  = Building in terms of volume/urgency
+
+ SN     = Singing Notes / suggested alterations from original
+          I sing this from the guy's perspective. SN indicates a possible alteration
+
+ x      = times to play something
+
+
+RIFFS_____________________________________________________________________________________________________
+
+Lead Riffs------------------------------------------------------------------------------------------------
+
+Riff Q Option 1 (if you prefer reaching)     Riff Q Option 2 (if you prefer barre)
+
+[tab]    [ch]Dm[/ch]       [ch]F[/ch]        [ch]C[/ch]        [ch]G[/ch]                 [ch]Dm[/ch]       [ch]F[/ch]        [ch]C[/ch]        [ch]G[/ch]
+1E||---1----|---5----|---0----|--------|     1E||---1----|---5----|---0----|--------|
+2G||--3-----|--1-----|--------|---3----|     2G||--3-----|--------|--------|---3----|
+3B||-2------|-2------|--0-----|--0-----|     3B||-2------|--5-----|--0-----|--0-----|
+4D||0-------|--------|-2------|-0------|     4D||0-------|-7------|-2------|-0------|
+5A||--------|3-------|3-------|--------|     5A||--------|8-----0-|3-------|--------|
+6E||--------|--------|--------|3-------|     6E||--------|--------|--------|3-------|[/tab]
+
+  Riff Q Tips 1:  I find Option 1 easier on an acoustic, so the hand is in place to play the C
+              2:  More comfortable if you feel like repositioning your hand and barring (electric)
+
+Backup Riffs and Outro------------------------------------------------------------------------------
+
+[tab]BU-Riff R (Backup / Fill)     BU-Riff S (Backup)       Outro Riff
+                                                           [ch]Dm[/ch]       [ch]F[/ch]        [ch]C[/ch]        [ch]G[/ch]
+1E||-5(3)-----|               1E||-5(3)-----|          1E||------1-|------5-|------0-|------3-|
+2G||----5(3)--|               2G||----5(3)--|          2G||-3---3--|-1---1--|-1---1--|-0---3--|
+3B||----------|               3B||------5(2)|          3B||----2---|----2---|----0---|----0---|
+4D||----------|               4D||----------|          4D||0--0----|--------|--------|--------|
+5A||5---------|               5A||5---------|          5A||--------|3--3----|3--3----|--------|
+6E||----------|               6E||----------|          6E||--------|--------|--------|3--3----|[/tab]
+
+  Riff R Tips 1:  () in Riffs above means pull-off
+                  () below in the SONG section means its optional backup/filler, or optional singing notes
+
+              2:  You'll hear these Riffs played quietly in the first verse and during the 2nd build.
+                  If you have fast hands, you might be able to pull it off - OR you've got backup
+
+  Outro Riff:     Not perfect, passable rendition
+
+
+CHORDS____________________________________________________________________________________________________
+
+  On the Chorus and Drop, I think the following chord progressions are all viable.
+
+  T: [ch]Dm[/ch] - [ch]F[/ch]  - [ch]C[/ch] - [ch]G[/ch]       OR       U: [ch]Dm[/ch] - [ch]Am[/ch] - [ch]F[/ch] - [ch]G[/ch]       OR       V: [ch]Dm[/ch] - [ch]F[/ch] - [ch]Am[/ch] - [ch]G[/ch]
+
+  My preferences are:  Chorus (V-V-V-V); Drop (V-T-V-T)
+
+  General Note 1) The chorus in the official version is sung over bass notes.
+                  I treat more like a bridge here and suggest a strumming pattern.
+                  I suggest keeping Drop to 2x unless you can sing the high notes on the 2nd round, then 4x ok
+
+SONG______________________________________________________________________________________________________
+
+[Intro]                                                             ARPEGG RIFF Q
+[tab][ch]Dm[/ch]    [ch]F[/ch]       [ch]C[/ch]    [ch]G[/ch]
+  Ahh-Ahhh Ah-Ahhh Oooohhhh[/tab]
+
+
+[Verse 1]                                                           ARPEGG RIFF Q
+[tab]    [ch]Dm[/ch]
+You brought out the Fender                                                                 (SN: You => I)[/tab]
+[tab]       [ch]F[/ch]
+Try to make us(a) better[/tab]
+[tab]          [ch]C[/ch]                   [ch]G[/ch]
+By playing our favorite melodyyy[/tab]
+[tab]   [ch]Dm[/ch]
+We know we both messed up[/tab]
+[tab]    [ch]F[/ch]
+But this fight won't let up, oh[/tab]
+[tab][ch]C[/ch]                  [ch]G[/ch]
+Same record on repeeat[/tab]
+
+
+[Pre-Chorus]                                                        ARPEGG RIFF Q
+[tab][ch]Dm[/ch]               [ch]F[/ch]                     [ch]C[/ch]       [ch]G[/ch]
+Tell me boy, are we in different conversations alone? Oh-oh-oh                             (SN: boy => girl)[/tab]
+[tab][ch]Dm[/ch]           [ch]F[/ch]               [ch]C[/ch]        [ch]G[/ch]
+Tell me boy, what do we keep fighting for? Well, you know                                  (SN: boy => girl)[/tab]
+
+
+[Chorus] x 2                                                        BUILD STRUM X          (Riff R)
+[tab][ch]Dm[/ch]                      [ch]F[/ch]
+ I’m no magician, can't find it if it's missin[/tab]
+[tab]    [ch]Am[/ch]                  [ch]G[/ch]
+The universe is talkin, we should listen[/tab]
+[tab][ch]Dm[/ch]                      [ch]F[/ch]
+ I hear it's a sin sayin it only hurts more[/tab]
+[tab][ch]Am[/ch]                   [ch]G[/ch]
+ The longer that you wait-wait to let it go[/tab]
+
+
+[Drop] x 2                                                          STRUM Y-Y-Y-Y to Y-Y-Y-Z (Original is x4)
+[tab][ch]Dm[/ch]    [ch]F[/ch]        [ch]Am/C[/ch]      [ch]G[/ch]
+  Ahh-Ahhh  Ah-Ahhh      Oooh                                       SN: Like Intro but louder (get creative)[/tab]
+
+
+[Verse 2]                                                           ARPEGG RIFF Q
+[tab][ch]Dm[/ch]
+You make a nice dinner[/tab]
+[tab]         [ch]F[/ch]
+Thinking that it'll save us[/tab]
+[tab]   [ch]C[/ch]                         [ch]G[/ch]
+But too much has happened heeere[/tab]
+[tab][ch]Dm[/ch]
+Words can't be replaced[/tab]
+[tab]    [ch]F[/ch]
+And scars can't be erased[/tab]
+[tab]  [ch]C[/ch]                         [ch]G[/ch]
+Oh, am I not making this cleear?[/tab]
+
+
+[Pre-Chorus]                                                        PLUCK                 
+[tab][ch]Dm[/ch]               [ch]F[/ch]                     [ch]Am/C[/ch]      [ch]G[/ch]
+Tell me boy, are we in different conversations alone? Oh-oh-oh                            (BU-RIFF S per line)[/tab]
+[tab][ch]Dm[/ch]           [ch]F[/ch]               [ch]Am/C[/ch]     [ch]G[/ch]
+Tell me boy, what do we keep fighting for? Well, you know                                 (SN: boy => girl)[/tab]
+
+
+[Chorus]                                                            STRUM X   (ALTERNATE BU-RIFF R/S per line)
+[tab][ch]Dm[/ch]                      [ch]F[/ch]
+ I’m no magician, can't find it if it's missin[/tab]
+[tab]    [ch]Am[/ch]                  [ch]G[/ch]
+The universe is talkin, we should listen[/tab]
+[tab][ch]Dm[/ch]                      [ch]F[/ch]
+ I hear it's a sin sayin it only hurts more[/tab]
+[tab][ch]Am[/ch]                   [ch]G[/ch]
+ The longer that you wait-wait to let it go[/tab]
+[tab][ch]Dm[/ch]                 [ch]F[/ch]
+ Going in circles 'til we're turning purple[/tab]
+[tab][ch]Am[/ch]                  [ch]G[/ch]
+Which one of us can be more hurtful[/tab]
+[tab][ch]Dm[/ch]                     [ch]F[/ch]
+ I hear it's a sin sayin it only hurts more[/tab]
+[tab][ch]Am[/ch]                   [ch]G[/ch]
+ The longer that you wait-wait to let it go[/tab]
+
+
+[Drop] x 2 / x 4                                                    STRUM Y-Y-Y-Y to Y-Y-Y-Z (Original is x4)
+[tab][ch]Dm[/ch]    [ch]F[/ch]        [ch]Am/C[/ch]      [ch]G[/ch]
+  Ahh-Ahhh  Ah-Ahhh      Oooh                                       SN: Like Intro but louder (get creative)[/tab]
+
+
+[Outro]                                                             OUTRO RIFF
+[tab][ch]Dm[/ch]      [ch]F[/ch]       [ch]C[/ch]        [ch]G[/ch]
+  La Da-Da-Daaa   Hey-ey-heeey[/tab]

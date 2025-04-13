@@ -1,0 +1,113 @@
+{
+    "intro": [
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "Dsus2/C"
+    ],
+    "verse-1": [
+        "Dsus2",
+        "Dsus2/C",
+        "Asus2",
+        "Dsus2",
+        "Dsus2/C",
+        "Asus2",
+        "Dsus2",
+        "Dsus2/C",
+        "Asus2",
+        "Dsus2",
+        "Gm",
+        "Asus2"
+    ],
+    "verse-2": [
+        "Dsus2",
+        "Dsus2/C",
+        "Asus2",
+        "Dsus2",
+        "Dsus2/C",
+        "Asus2",
+        "Dsus2",
+        "Dsus2/C",
+        "Asus2",
+        "Dsus2",
+        "Asus2"
+    ],
+    "verse-3": [
+        "Gm",
+        "Dsus2",
+        "Asus2",
+        "Gm",
+        "Dsus2",
+        "Asus2",
+        "Gm",
+        "Dsus2",
+        "Asus2",
+        "Gm",
+        "Dsus2",
+        "Asus2"
+    ],
+    "pre-chorus-1": [
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "Dsus2"
+    ],
+    "pre-chorus-2": [
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "Dsus2"
+    ],
+    "chorus-1": [
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "F",
+        "Gm",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "C#m",
+        "Asus2",
+        "Dsus2",
+        "Asus2"
+    ],
+    "chorus-2": [
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "F",
+        "Gm",
+        "Dsus2"
+    ],
+    "bridge": [
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Dsus2",
+        "Asus2",
+        "Asus2",
+        "Dsus2"
+    ],
+    "instrumental": [
+        "Asus2",
+        "Dsus2",
+        "F"
+    ],
+    "outro": [
+        "Asus2",
+        "Gm",
+        "Dsus2"
+    ]
+}

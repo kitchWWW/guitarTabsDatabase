@@ -1,0 +1,200 @@
+URL: https://tabs.ultimate-guitar.com/tab/1557619
+Artist: Luis Jara
+Song: Tú, Que Te Vas
+Genre: 
+Key: 
+
+
+=INTRO= (punteo)
+
+[tab]   Am          Dm Am G          C          Am
+E--12----------13-12-10---------12-13-12-------
+B------10-12-13------------10-12--------13-10--
+G------------------------12--------------------
+D----------------------------------------------
+A----------------------------------------------
+E----------------------------------------------[/tab]
+
+[tab]          Dm          E   Dm Am  E
+E---------10-------13-12--10--8--7--
+B----10-13--13-12-------------------
+G--10-------------------------------
+D-----------------------------------
+A-----------------------------------
+E-----------------------------------[/tab]
+
+=ESTROFA 1,1=
+   Am                    Am
+DE TI, ME HAN HABLADO DE TI,
+    G                       C
+LLEVABAN EL PERFUME DE TU PIEL
+    F                  Dm
+EL SOL Y LA NOCHE AL CAER,
+   Dm7          F            E
+TRAJERON TU RECUERDO SIN QUERER...
+
+=ESTROFA 1,2=
+   Am                    Am
+DE TI, ME HAN HABLADO DE TI
+   G                            C
+Y SÉ QUE ESTÁN DICIENDO QUE TE VAS
+     F          (Dm)
+EL VIENTO QUE ME ROZA,
+    E
+TÚ HUELLA EN CADA COSA,
+   F             Am            E
+EL AIRE QUE ME ESTÁ FALTANDO Y TÚ...
+
+=CORO I=
+                Am
+QUE TE MARCHAS, TÚ QUE TE VAS
+        Dm
+Y YA NO PUEDO MÁS VIVIR,
+G                        C
+TÚ QUE TE VAS, YA NO SOY NADA PARA TI,
+F        Am    Dm           G
+ MIRA MIS OJOS, YA NO TE IMPORTA
+           C              F
+Y TE ME ESCAPAS COMO EL VIENTO
+        E     Am
+SIN VOLVER... NO...
+
+=(Se repite el punteo de la INTRO)=
+
+=ESTROFA 2,1=
+   Am                    Am
+DE TI, ME HAN HABLADO DE TI
+    G                      C
+TUS BESOS OLVIDADOS EN MI PIEL,
+    F                       Dm
+LA LUZ DE UNA ESTRELLA AL NACER
+  Dm7           F           E
+TENÍA EL BRILLO DE TU DESNUDEZ...
+
+=ESTROFA 2,2=
+   Am                    Am
+DE TI, ME HAN HABLADO DE TI
+     G                            C
+LAS COSAS QUE OLVIDASTE EN ESTE AMOR,
+   F          (Dm)
+EL AIRE QUE TOCASTE
+   E
+REPITE A CADA INSTANTE
+   F            Am          E
+EL ECO QUE ME ESTÁS DEJANDO TÚ...
+
+=CORO II=
+                Am
+QUE TE MARCHAS, TÚ QUE TE VAS
+         Dm
+Y YA NO PUEDO MÁS VIVIR,
+G                      C
+TÚ QUE TE VAS Y NO SOY NADA PARA TI,
+F        Am   Dm            G
+ MIRA MIS OJOS QUE ESTÁN LLOROSOS
+           C             F            E
+SI EN LA MAÑANA SIENTO FRÍO AL DESPERTAAAAR...
+
+[tab]=Puente=
+   A#m              D#m                 G#             C#
+E--6-9-8---6-9-8---6-9-8-9--  ----------6-9-8--6-9-8---6-9-8-9--
+B---------6-------6-------7-  ----------------6-------6-------6-
+G---------------------------  TÚ QUE TE VAAAHAAAHAAAS..........-
+D---------------------------  ----------------------------------
+A---------------------------  ----------------------------------
+E---------------------------  ----------------------------------[/tab]
+
+    F#            A#m  D#m          G#
+OOOUOH... MIRA MIS OJOS, YA NO TE IMPORTA
+          C#             F#            F
+Y TE ME ESCAPAS COMO EL VIENTO SIN VOLVER...
+
+=CORO III=
+A#m                      D#m
+(TÚ, QUE TE VAS) ¡Y YA NO PUEDO MÁS VIVIR!
+ G#                        C#                    F#
+(TÚ, QUE TE VAS) ¡Y YA NO PUEDO MÁS SENTIR!... OOUOH...
+        A#m  D#m           G#
+MIRA MIS OJOS QUE ESTÁN LLOROSOS
+           C#           F#            F
+SI EN LA MAÑANA SIENTO FRÍO AL DESPERTAR...
+
+=CORO IV=
+A#m                      D#m
+(TÚ, QUE TE VAS) ¡Y YA NO PUEDO MÁS VIVIR!
+ G#                        C#                    F#
+(TÚ, QUE TE VAS) ¡Y YA NO PUEDO MÁS SENTIR!... OOUOH...
+        A#m  D#m          G#
+MIRA MIS OJOS, YA NO TE IMPORTA
+          C#             F#            F
+Y TE ME ESCAPAS COMO EL VIENTO SIN VOLVER...
+
+=CORO V=
+A#m                          D#m
+(TÚ, QUE TE VAS) ¡TÚ QUE TE VAAAAAAS!
+ G#                        C#                    F#
+(TÚ, QUE TE VAS) ¡Y YA NO PUEDO MÁS SENTIR!... OOUOH...
+        A#m  D#m           G#
+MIRA MIS OJOS QUE ESTÁN LLOROSOS
+           C#           F#            F
+SI EN LA MAÑANA SIENTO FRÍO AL DESPERTAR..
+
+[tab]E--------6---18---
+B-------6---------
+G------6----------
+D-----8-----------
+A----8------------
+E---6-------------[/tab]
+
+----------------------------- F I N -----------------------------
+
+ Aquí les van algunas indicaciones básicas para tocar la canción:
+ ________________________________________________________________
+|                             |                                  |
+|   C L A V E                 |         C U E R D A S            |
+|                             |                                  |
+|    C = [ch]C                   |          E-A-D-G-B-E[/ch]             |
+|    D = [ch]D[/ch]                   |          | | | | | |   ACORDES   |
+[tab]|    E = [ch]E[/ch]                   |          X-0-2-2-1-0 = Am        |
+|    F = [ch]F                   |          3-2-0-0-0-3 = G[/ch]         |
+|    G = [ch]G[/ch]                  |          X-3-2-0-1-0 = C         |
+|    A = [ch]A                   |          1-3-3-2-1-1 = F[/ch]         |
+|    B = [ch]B[/ch]                   |          X-X-0-2-3-1 = Dm        |
+|                             |          X-X-0-2-1-1 = Dm7       |[/tab]
+[tab]|  m = Acorde menor           |          0-2-2-1-0-0 = E         |
+|  # = Acorde sostenido       |          X-1-3-3-2-1 = A#m       |
+|  7 = Acorde séptima         |          X-X-4-3-4-2 = D#m       |
+|                             |          4-6-6-5-4-4 = G#        |
+|                             |          4-4-6-6-6-4 = C#        |
+|                             |          2-4-4-3-2-2 = F#        |[/tab]
+|_____________________________|__________________________________|
+|                                                                |
+|          ( Ejemplo 1: F# es igual a 'FA sostenido' )           |
+|        ( Ejemplo 2: Dm7 es igual a 'RE menor séptima' )        |
+|________________________________________________________________|
+|                                                                |
+|   Para que la canción suene perfecta te recomiendo ejecutar    |
+|  el acorde y los cambios de acorde en el mismo momento que se  |
+| pronuncia la sílaba que está debajo del acorde, por eso ubiqué |
+|  los acordes en posición precisa sobre cada estrofa, punteo y  |
+|  coros, así, te será menos difícil ubicar el acento musical y  |
+|  porsupuesto, lo más importante es que obtendrás la armonía y  |
+|     melodía similares a la versión original de Luis Jara.      |
+|________________________________________________________________|
+
+'Hola soy un baladista aficionado, me llamo Rodrigo y soy chileno,
+ojalá les guste mucho esta canción de este gran artista nacional,
+pues va dedicada a todos los enamorados, espero que la disfruten y
+por cualquier duda que tengan escríbanme a rodrymicky@
+ah y un saludo pal Marco, Joc, Simón, Aarón, Yoi, Carolina, Gaby,
+Claudia,Laura,LordCaoz,Roberto,KuroChan,Chika Denisse, al grupo
+Sweet Revenge, a su vocalbajita mi primo Jonathan y un besito rico
+para mi amada  te quiero mucho bebé.'
+
+         &gt;&gt;
+               (*Abril 20,1989 - Diciembre 10,2004+)
+         'Que el Señor te tenga en su gloria hermanita mía'
+
+                    'Que el Señor les Bendiga'
+Marzo 8, 2005                                ...El último romántico
+=========================

@@ -1,0 +1,128 @@
+URL: https://tabs.ultimate-guitar.com/tab/blessid-union-of-souls/let-me-be-the-one-tabs-60923
+Artist: Blessid Union of Souls
+Song: Let Me Be The One
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+Date: Mon, 25 May 1998 14:54:25 -0500 (CDT)
+From: "Branden R. Williams" &lt;brw@kickinit.net>
+Subject: b/blessid_union_of_souls/let_me_be_the_one.crd
+
+This is based on the transcription by Alexander Hsi pu Feng
+&lt;ahf1@acpub.duke.edu>.  Some of the chords have minor fixes and in the
+previous transcription. several key chords were misplaced.  This version
+fixes all of these.
+
+The C(9) chord which was previously placed here is actually just a C
+chord fingered a bit different.  Also in place of these G Chords should
+be a Gmaj7.  Also some C? turned out to be Fs and such.
+
+C      032013
+D      x00232
+D9     x00230
+Dsus   x00233
+F      133211  (barre the first fret)
+Gmaj7  320002  (or an easier one -> 3x0002).  I prefer this fingering for
+               pure simplicity and chord structure.  Chords tend to ring
+               better if you have an open fifth at the root instead of
+               of a triad.  To finger this correctly, simply use your
+               thumb to mute the A string.
+
+One last note before we get started.  In the chorus, the D chord is
+jazzed up by doing the following...
+
+    D                          Then the following G chord
+
+[tab]e [-2-------2-----3---2---0-----22--3--]
+B [-3-------3-----3---3---3-----33--3--]
+G [-2-------2-----2---2---2-----22--2--]
+D [------------------------------------]
+A [------------------------------------]
+E [-x-------x-----x---x---x-----xx--x--][/tab]
+
+----
+
+LET ME BE THE ONE - Blessid Union of Souls
+
+Intro: G C D C
+
+Gmaj7                         C
+So you're scared to show your feelings
+Gmaj7          C
+Baby I do understand
+Gmaj7                       C
+Well I don't make a promise I can't keep
+Gmaj7                       C
+And I vow to be a real good friend
+
+D                         C
+In those big green eyes I see a glow of fire
+D
+I just hope that I'm the one you're dreaming of
+
+
+*Chorus:
+G      C             D, Dsus, D, D9, D
+Let me be the one to love you (ohh)
+G      C             D, Dsus
+Let me be the one to care
+G      C             D, Dsus, D, D9, D
+Let me be the one to light your flame
+G      C    D
+Oh baby, oh baby
+D                     n.c.
+Let me be the one
+
+
+Gmaj7                 C
+We spend all our time together
+Gmaj7                   C
+We can't stand to sleep alone
+Gmaj7                    C
+When you say you have to leave for now
+Gmaj7               C
+I miss you before you're gone
+
+D                         C
+All along we thought this was absurd (absurd)
+D                    C
+Every moment that we spend goes by too fast
+D                         F
+Darling darling take this chance on me
+C            D
+Cause I have eyes only for you
+
+Chorus (x2).  Below is coming out of second chorus
+
+G      C      D
+Oh baby, come on
+D                 D  Dsus  D
+Let me be the one
+
+( 4 bars of drums )
+
+Gmaj7                         C
+So you're scared to show your feelings
+Gmaj7          C
+Baby I do understand
+Gmaj7                       C
+Well I don't make a promise I can't keep
+Gmaj7                       C
+And I vow to be a real good friend
+
+D                         C
+All along we thought this was absurd (absurd)
+D                    C
+Every moment that we spend goes by too fast
+D                         C
+Darling darling take this chance on me
+D
+I have eyes only for you
+
+Chorus (x2)

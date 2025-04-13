@@ -1,0 +1,80 @@
+URL: https://tabs.ultimate-guitar.com/tab/chicosci/a-habit-of-rest-brings-nothing-tabs-55428
+Artist: Chicosci
+Song: A Habit Of Rest Brings Nothing
+Genre: 
+Key: 
+
+
+SONG: A Habit of Rest Brings Nothing
+BAND: Chico Sci.
+ALBUM: Method of Breathing
+TRANSCRIBED BY: Ron Moncada (rv_coc@hotmail.com)
+RE-ARRANGE AND PASTE BY : Jeffrey Camposano (incustank@pinoymusika.com
+AGE:18
+website: http://justsayemo.musicdot.com ; http://cocband.musicdot.com
+
+LEGEND:
+
+/ or \   - slide up or down
+p        - pull off
+h        - hammer on
+p.m. --- - palm mute
+b        - bend
+
+Tuning: Tune guitar whole step down (DGCFAD) then drop d. 
+
+[tab]Intro: 
+gtr. 1
+D --------------------
+A -777777777777778888-
+F -777777777777777777-
+C -555555555555555555-
+G --------------------
+C --------------------
+listen to the cd to figure
+out the rhythm pattern[/tab]
+
+[tab]gtr.2
+D ----------------------------------------
+A ----------------------------------------
+F --7777777777777777-5555555555555555-----
+C -------------------3333333333333333-----
+G --5555555555555555-3333333333333333-----
+C -------------------3333333333333333-----[/tab]
+
+[tab]Verse:
+D------------------------15151515--
+A----------------------------------
+F----------------------------------
+C---32-0-32-0-32-0-32-0------------(8x)
+G---32-0-32-0-32-0-32-0------------
+C---32-0-32-0-32-0-32-0------------
+p.m.-- - -- - -- - -- -[/tab]
+
+[tab]Chorus:
+D ----------------------------------------
+A ----------------------------------------
+F --7777777777777777-5555555555555555-----
+C -------------------3333333333333333-----(4x)
+G --5555555555555555-3333333333333333-----
+C -------------------3333333333333333-----[/tab]
+
+[tab]Interlude:
+D ----------------
+A -77777-7777777--
+F -77777-7777777--(4x)
+C -55555-5555555--
+G ----------------[/tab]
+
+repeat verse, chorus & interlude
+
+[tab](2:20)
+D --------1515--
+A --------------
+F --------------
+C --33-33-------(16x)
+G --33-33-------
+C --33-33-------[/tab]
+
+repeat intro riff then chorus till end
+_end_

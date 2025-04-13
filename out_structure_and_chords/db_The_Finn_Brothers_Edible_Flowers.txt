@@ -1,0 +1,117 @@
+{
+    "intro": [
+        "Am",
+        "G6",
+        "Fmaj7",
+        "Em",
+        "Dm7",
+        "C",
+        "G"
+    ],
+    "verse-1": [
+        "Am",
+        "G6",
+        "Fmaj7",
+        "Em",
+        "Dm7",
+        "C",
+        "G"
+    ],
+    "verse-2": [
+        "Am",
+        "G6",
+        "Fmaj7",
+        "Em",
+        "Dm7",
+        "C",
+        "G"
+    ],
+    "verse-3": [
+        "Am",
+        "G6",
+        "Fmaj7",
+        "Em",
+        "Dm7",
+        "C",
+        "G"
+    ],
+    "verse-4": [
+        "G",
+        "C",
+        "Csus2",
+        "Am",
+        "Fmaj7",
+        "Em7",
+        "C",
+        "Csus2",
+        "Am",
+        "Gsus4",
+        "G"
+    ],
+    "verse-5": [
+        "C",
+        "Csus2",
+        "Am",
+        "Fmaj7",
+        "Em7",
+        "Dm7",
+        "C",
+        "Gsus4",
+        "G"
+    ],
+    "verse-6": [
+        "Am",
+        "Am",
+        "G6",
+        "Fmaj7",
+        "Em",
+        "Dm7",
+        "C",
+        "G"
+    ],
+    "verse-7": [
+        "Am",
+        "G6",
+        "Fmaj7",
+        "Em",
+        "Dm7",
+        "C",
+        "G"
+    ],
+    "verse-8": [
+        "G",
+        "C",
+        "Csus2",
+        "Am",
+        "Fmaj7",
+        "Em7",
+        "C",
+        "Csus2",
+        "Am",
+        "Gsus4",
+        "G"
+    ],
+    "verse-9": [
+        "G",
+        "C",
+        "Csus2",
+        "Am",
+        "Fmaj7",
+        "Em7",
+        "Dm7",
+        "C",
+        "Gsus4",
+        "G",
+        "Dm7",
+        "C",
+        "Gsus4",
+        "G",
+        "Am",
+        "G6",
+        "Fmaj7",
+        "Em",
+        "Dm7",
+        "C",
+        "G"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "verse-1": [
+        "Em7",
+        "Fmaj9",
+        "Am7/E",
+        "Em7",
+        "Fmaj9",
+        "Am7/E"
+    ],
+    "verse-2": [
+        "Em7",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9",
+        "Em7",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9",
+        "Emaj7"
+    ],
+    "verse-3": [
+        "Em7",
+        "G#dim",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9",
+        "Em7",
+        "Em7",
+        "G#dim",
+        "Fadd9",
+        "F#m7b5",
+        "B7#5#9"
+    ],
+    "pre-chorus-1": [
+        "Em7",
+        "Fmaj9",
+        "Em7",
+        "E7sus4",
+        "Em7"
+    ],
+    "pre-chorus-2": [
+        "Em7",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9",
+        "Emaj7",
+        "Em7",
+        "G#dim",
+        "Fmaj7"
+    ],
+    "chorus-1": [
+        "Em7",
+        "G#dim",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9",
+        "Em7",
+        "G#dim",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9",
+        "Em7",
+        "Fmaj7",
+        "Em7",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9"
+    ],
+    "chorus-2": [
+        "Em7",
+        "Abdim",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9",
+        "Em7",
+        "G#dim",
+        "Fmaj7",
+        "F#m7b5",
+        "B7#5#9"
+    ]
+}

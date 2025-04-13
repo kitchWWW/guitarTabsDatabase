@@ -90,7 +90,7 @@ with open('g_files/songsToDo.txt', 'r') as fd:
             page = urllib.request.urlopen(req)
         except urllib.error.HTTPError as e:
             print(f"HTTP error for {site}: {e.read()}")
-            time.sleep(SLEEP_TIME)
+            time.sleep(2)
             print("\a")
             continue
         print("got it")

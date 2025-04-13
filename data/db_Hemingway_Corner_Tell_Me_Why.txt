@@ -1,0 +1,50 @@
+URL: https://tabs.ultimate-guitar.com/tab/hemingway-corner/tell-me-why-ukulele-1263195
+Artist: Hemingway Corner
+Song: Tell Me Why
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Date: Tue, 5 Dec 1995 20:00:00 +0000
+From: peter.willmott.cnv854@nt.com
+Subject: CRD: Tell Me Why by Hemingway Corner
+
+{t:Tell Me Why}
+{st:Hemingway Corner}
+
+{define: C#m base-fret 4 frets x 1 3 3 2 1 }
+
+{c:NOTE:  Capo on 1st fret}
+
+[tab][[ch]E[/ch]]
+[A]  Sailing hard ships through[B] broken harbours,[/tab]
+[F#m]Out on the waves, in the ni-[E]ight.
+
+[A]  Still the searcher must [B]ride a dark horse,
+[F#m]Racing along through his fri-[E]ight.
+
+{soc}
+{[ch]C[/ch]:Chorus:}
+[[ch]B[/ch]]  Tell me why-y      [[ch]A[/ch]]     [[ch]E[/ch]]
+[tab][[ch]B[/ch]]  Tell me why-y      [[ch]A[/ch]]     [[ch]E[/ch]]
+Is it [B]hard to make arrangements with your[A]self,[/tab]
+When you're [B]old enough to [A]repay,
+[tab]But [[ch]G#m[/ch]]young enough to [[ch]C#m[/ch]]sell.  [[ch]A[/ch]]        [[ch]B[/ch]]     [[ch]F#m[/ch]]   [[ch]E[/ch]]
+{eoc}[/tab]
+
+[A]  Tell me lies, later[B] come and see me,
+[F#m]I'll be around for awhi-[E]ile.
+
+[A]  I am lonely but[B] you can free me,
+[F#m]All in the way that you smi-[E]ile.
+
+{[ch]C[/ch]:Chorus:}
+
+[[ch]A[/ch]]     [[ch]B[/ch]]     [[ch]F#m[/ch]]   [[ch]E[/ch]]
+[[ch]A[/ch]]     [[ch]B[/ch]]     [[ch]F#m[/ch]]   [[ch]E[/ch]]
+
+{[ch]C[/ch]:Chorus:}

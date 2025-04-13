@@ -1,0 +1,12 @@
+{
+    "bridge": [
+        "Gmaj7",
+        "Cmaj7",
+        "Dsus4",
+        "Am7"
+    ],
+    "outro": [
+        "G",
+        "F"
+    ]
+}

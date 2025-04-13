@@ -1,0 +1,169 @@
+URL: https://tabs.ultimate-guitar.com/tab/albert-hammond/the-free-electric-band-chords-1406266
+Artist: Albert Hammond
+Song: The Free Electric Band
+Genre: 
+Key: 
+
+
+Song: The Free Electric Band
+Artist: Albert Hammond
+Composers: Albert Hammond & Mike Hazlewood
+Album: The Free Electric band
+
+Tabbed by DJ 24th July 2013
+
+IGNORE THE CHORD BOX DIAGRAMS that the website
+displays, they are generated automatically from a
+generic database and often don't show the best
+options for a particular chord progression. Just use
+the voicings suggested in the text column numbers
+
+C  = x32010    F   = 133211
+C4 = x33010    C/G = 332010
+G  = 320033    G7  = 323003 or 320001
+               G/B = x20033
+
+* = No chords, tap the beat on the guitar body
+
+The C4 is only implied by the vocal melody,
+and is not crucial. On those lines where there's a C4
+the bass plays an upward progression of the notes
+C, D, E on the end of the bar of C, then back to a G.
+So, as another option, you could play all those bars
+as below (instead of the C4) as a little walk up
+on the 4th string:
+
+
+C/D = xx0xxx   C/E = xx2xxx 
+
+[tab]   [ch]C[/ch]       [ch]C/D[/ch] [ch]C/E[/ch]   [ch]G[/ch]
+|  /  /  /  /__/  |  /  /  /  /  |[/tab]
+
+Please take a second to scroll down to the bottom of
+the page and select a star rating for my tab, thanks
+=====================================================
+[Intro]
+[tab]   [ch]C[/ch]    [ch]C4[/ch] [ch]C[/ch]  [ch]G[/ch]         [ch]C[/ch]     [ch]C4[/ch] [ch]C[/ch]  [ch]G[/ch]
+| / / / /_/ | / / / / | / / / /_/ | / / / / |[/tab]
+
+[Verse 1]
+[tab]   [ch]C[/ch]                   [ch]C4[/ch]   [ch]C[/ch]  [ch]G[/ch]
+My father is a doctor, he's a  family man,[/tab]
+[tab]   [ch]C[/ch]                        [ch]C4[/ch]  [ch]C[/ch]      [ch]G[/ch]
+My mother works for chari - ty, when - ever she can,[/tab]
+[tab]            [ch]C[/ch]                           
+And they're both good, clean Americans...[/tab]
+[tab]       [ch]C4[/ch]  [ch]C[/ch]    [ch]G[/ch]
+...Who a - bide by the law,[/tab]
+[tab]         [ch]C[/ch]                         [ch]C4[/ch]
+And they both stick up for liber - ty,[/tab]
+[tab][ch]C[/ch]        [ch]G[/ch]
+And they both support the war[/tab]
+
+[Verse 2]
+[tab]   [ch]C[/ch]             [ch]F[/ch]
+My happiness was paid for... [/tab]
+[tab]          [ch]G[/ch]                [ch]C[/ch]
+When they laid their money down,[/tab]
+[tab]    [ch]C[/ch]            [ch]F[/ch]
+For summers in a summer-camp,[/tab]
+[tab]    [ch]G[/ch]              [ch]C[/ch]                      [ch]F[/ch]
+And winters in the town, my future in the system...[/tab]
+[tab]    [ch]C/G[/ch]              [ch]G[/ch]          [ch]G7[/ch]
+Was talked about and planned,[/tab]
+       *      *       *
+But I gave it up for music,
+[tab] *      *        *       [ch]C[/ch]   [ch]C4[/ch] [ch]C[/ch] [ch]G[/ch]    [ch]C[/ch]   [ch]C4[/ch] [ch]C[/ch] [ch]G[/ch]
+And The Free E - lectric Band[/tab]
+
+[Verse 3]
+[tab]  [ch]C[/ch]                            [ch]C4[/ch]
+I went to school in handwashed shirts,[/tab]
+[tab][ch]C[/ch]    [ch]G[/ch]
+With neatly oiled hair,[/tab]
+[tab]         [ch]C[/ch]                        [ch]C4[/ch]
+And the school was big, and newly built,[/tab]
+[tab][ch]C[/ch]   [ch]G[/ch]
+And filled with light and air,[/tab]
+[tab]        [ch]C[/ch]
+And the teacher taught us values,[/tab]
+[tab][ch]C4[/ch]   [ch]C[/ch]  [ch]G[/ch]                             [ch]C[/ch]
+That we had to learn to keep and they clipped the ear[/tab]
+[tab]        [ch]C4[/ch]  [ch]C[/ch]   [ch]G[/ch]
+Of many i - dle kid who went to sleep[/tab]
+
+[Verse 4]
+[tab]        [ch]C[/ch]              [ch]F[/ch]
+'Til my father organ - ised for me...[/tab]
+[tab]     [ch]G[/ch]              [ch]C[/ch]                         [ch]F[/ch]
+...A college in the east but I went to Cali - fornia,[/tab]
+[tab]        [ch]G[/ch]                [ch]C[/ch]
+For the sunshine and the beach,[/tab]
+[tab]   [ch]C[/ch]               [ch]F[/ch]              [ch]C/G[/ch]          [ch]G[/ch]    [ch]G7[/ch]
+My parents and my lecturers could never under- stand,[/tab]
+      *       *      *
+Why I gave it up for music,
+[tab]*       *        *       [ch]C[/ch]       [ch]C4[/ch] [ch]C[/ch]  [ch]G[/ch]
+And The Free E - lectric Band[/tab]
+
+[Bridge]
+[tab]           [ch]F[/ch]                [ch]C[/ch]
+Well, they used to sit, and speculate,[/tab]
+[tab]    [ch]G[/ch]         [ch]G/B[/ch]         [ch]C[/ch]
+U - pon their son's car - eer,[/tab]
+[tab]  [ch]F[/ch]            [ch]C[/ch]            [ch]G[/ch]     [ch]G/B[/ch]     [ch]C[/ch]
+A lawyer, or a docter, or a civil engin - eer,[/tab]
+[tab]     [ch]C[/ch]                 [ch]F[/ch]
+Just give me bread and water,[/tab]
+[tab]      [ch]C/G[/ch]          [ch]G[/ch]      [ch]G7[/ch]
+Put a guitar in my hand,[/tab]
+       *     *      *
+'Cause all I need is music,
+[tab]*       *        *       [ch]C[/ch]    [ch]C4[/ch] [ch]C[/ch]  [ch]G[/ch]    [ch]C[/ch]   [ch]C4[/ch] [ch]C[/ch]  [ch]G[/ch]
+And The Free E - lectric Band[/tab]
+ 
+[Verse 5]
+[tab]   [ch]C[/ch]                     [ch]C4[/ch]  [ch]C[/ch]  [ch]G[/ch]
+My father sent me money, and I  spent it very fast,[/tab]
+[tab]     [ch]C[/ch]
+On a girl I met in Berkeley,[/tab]
+[tab][ch]C4[/ch]  [ch]C[/ch]  [ch]G[/ch]
+In  a  Social Science class,[/tab]
+[tab]            [ch]C[/ch]
+Yes, and we learnt about her body,[/tab]
+[tab][ch]C4[/ch]  [ch]C[/ch]   [ch]G[/ch]
+But her mind we didn't know,[/tab]
+[tab]     [ch]C[/ch]                      [ch]C4[/ch]
+Un - til deep rooted atti - tudes,[/tab]
+[tab][ch]C[/ch]   [ch]G[/ch]
+And morals, began to show[/tab]
+
+[Verse 6]
+[tab]    [ch]C[/ch]             [ch]F[/ch]            [ch]G[/ch]                [ch]C[/ch]
+She wanted to get married even though she never said,[/tab]
+[tab]      [ch]C[/ch]                 [ch]F[/ch]
+And I knew her well e - nough by now...[/tab]
+[tab]   [ch]G[/ch]              [ch]C[/ch]                            [ch]F[/ch]
+To see inside her head, she'd settle for sub - urbia,[/tab]
+[tab]      [ch]C/G[/ch]             [ch]G[/ch]      [ch]G7[/ch]
+And a little patch of land,[/tab]
+     *        *     *
+So I gave her up for music,
+[tab]*       *        *       [ch]C[/ch]      [ch]C4[/ch] [ch]C[/ch]  [ch]G[/ch]
+And The Free E - lectric Band[/tab]
+[tab][ch]C[/ch]      [ch]C4[/ch] [ch]C[/ch]         [ch]G[/ch]
+Oo---- oo-----, the Free Electric Band![/tab]
+
+[Coda]
+[tab]            [ch]C[/ch]              [ch]C4[/ch]       [ch]C[/ch]
+||:  Dabba, da, da-da, da, dee-dee, deep...[/tab]
+[tab]             [ch]G[/ch]
+  ...For The Free Electric Band,[/tab]
+[tab]            [ch]C[/ch]              [ch]C4[/ch]       [ch]C[/ch]
+     Dabba, da, da-da, da, dee-dee, deep![/tab]
+[tab]             [ch]G[/ch]
+  ...For The Free Electric Band :|| (Repeat)[/tab]
+
+[Suggestion for ending]
+[tab]*     *       *      *       *        *       [ch]C[/ch]
+All I need is music, and The Free E - lectric Band[/tab]

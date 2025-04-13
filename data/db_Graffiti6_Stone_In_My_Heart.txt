@@ -1,0 +1,66 @@
+URL: https://tabs.ultimate-guitar.com/tab/graffiti6/stone-in-my-heart-chords-1010914
+Artist: Graffiti6
+Song: Stone In My Heart
+Genre: 
+Key: 
+
+
+Chords Used: *the notes in parenthesis are the notes for
+               the same chord, but as a barred alternate*
+
+[tab]    [ch]F#[/ch]   [ch]A[/ch]      [ch]B[/ch]      [ch]C#[/ch]
+ e|-2---0(5)---2(7)---4(9)--|
+ B|-2---2(5)---4(7)---6(9)--|
+ G|-3---2(6)---4(8)---6(10)-|
+ D|-4---2(7)---4(9)---6(11)-|
+ A|-4---0(7)---2(9)---4(11)-|
+ E|-2----(5)----(7)----(9)--|[/tab]
+
+
+MAIN CHORD PROGRESSION:
+
+[ [ch]F#[/ch] / [ch]A[/ch] / [ch]B[/ch] / [ch]F#[/ch] ]
+
+It's basically these chords the entire song (except
+before the first chorus where you use [C#])...
+
+And here is the lead guitar riff. I can't really tell
+if the end of the riff uses pulls or bends. You be the
+judge:
+
+[tab]  [ch]F#[/ch]              [ch]A[/ch]               [ch]B[/ch]               [ch]F#[/ch]
+e|----------------------------------------------------------------|
+B|----------------------------------------------------------------|
+G|----------6-----9-8-6-----------9-8-6-----6---------------------|
+D|8-----9---------------9---9---9-------9-----9-8---9p8h9p8h9p8h9-|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+  1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +[/tab]
+
+
+Here are the chords with the lyrics. Remember that the [C#]
+is only played once before the first chorus and never again.
+
+
+VERSE:
+
+[tab][ch]F#[/ch]                 [ch]A[/ch]               [ch]B[/ch]            [ch]F#[/ch]
+    With a rose in her hand and a candle on her chest,[/tab]
+[tab]([ch]F#[/ch])                 [ch]A[/ch]               [ch]B[/ch]               [ch]F#[/ch]
+She put her head on my head and with teary eyes she said.[/tab]
+[tab]([ch]F#[/ch])     [ch]A[/ch]        [ch]B[/ch]      [ch]F#[/ch]
+Precious time we have together[/tab]
+[tab]([ch]F#[/ch])             [ch]A[/ch]               [ch]B[/ch]             [ch]F#[/ch]      [ch]C#[/ch]~~~~
+With a stone in my heart I stood up and I was gone.[/tab]
+
+
+CHORUS:
+
+[tab]                   [ch]F#[/ch]     [ch]A[/ch]            [ch]B[/ch]      [ch]F#[/ch]
+And it makes me stronger,    makes me wiser,[/tab]
+[tab]               ([ch]F#[/ch])   [ch]A[/ch]            [ch]B[/ch]       [ch]F#[/ch]
+It makes me stronger,    makes me wiser.[/tab]
+
+
+It's a breeze from here on out. Just stick to the main
+chord pregression and remember the pauses.

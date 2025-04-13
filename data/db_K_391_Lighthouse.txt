@@ -1,0 +1,141 @@
+URL: https://tabs.ultimate-guitar.com/tab/k-391/lighthouse-chords-4352498
+Artist: K-391
+Song: Lighthouse
+Genre: 
+Key: F#m
+
+
+***Big thanks to martink12au for his input into creating this Tab.***
+Tabbed by Robert Da Prato 17th September, 2022
+
+Artist:       K-391&Julianne Aurora
+Link to Song: https://www.youtube.com/watch?v=49ohUZeHjP8
+Request by : echo392 [a]
+
+Define:
+[ch]Asus2[/ch] = x02200   [ch]F#m7[/ch] = 2x2222   [ch]AM7[/ch] = x02120    * = Single Strum
+
+***************************************************************
+
+[Intro]
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+
+[Verse 1]
+[tab][ch]F#m[/ch]                            [ch]D[/ch]             [ch]A[/ch]
+    There's a light, there's a light I know[/tab]
+[tab]                               [ch]A[/ch]
+And there's a place, there's a place to go[/tab]
+[tab][ch]F#m[/ch]                               [ch]D[/ch]
+    And there's a hand, there's a hand to hold[/tab]
+[tab][ch]A[/ch]                           [ch]Asus2[/ch]  [ch]A[/ch]
+  Through the highs and the lows[/tab]
+[tab]         [ch]F#m[/ch]            [ch]D[/ch]
+We see a shooting star across the sky[/tab]
+[tab]    [ch]A[/ch]             [ch]Asus2[/ch]     
+And how they all align[/tab]
+[tab]             [ch]F#m[/ch]             [ch]D[/ch]
+So won't you make a wish for us tonight[/tab]
+[tab]    [ch]A[/ch]              [ch]E[/ch]
+And watch it come alive[/tab]
+
+[Chorus]
+[tab]         [ch]F#m[/ch]               [ch]D[/ch]
+We see a lighthouse in the night[/tab]
+[tab]         [ch]A[/ch]               [ch]E[/ch]
+Whenever we get lost and lose our way[/tab]
+[tab]         [ch]F#m[/ch]               [ch]D[/ch]
+We see a lighthouse in the night[/tab]
+[tab]         [ch]A[/ch]               [ch]E[/ch]                 [ch]F#m[/ch]            
+Whenever we get lost but find our way back home[/tab]
+
+[Bridge]
+[tab][ch]D[/ch]           [ch]A[/ch]               [ch]E[/ch]                     [ch]F#m[/ch]
+    I see a light begins to shine and it leads me home[/tab]
+
+[Instrumental]
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+            Oh, ooh
+
+[Verse 2]
+[tab][ch]F#m[/ch]                       [ch]D[/ch]             [ch]A[/ch]
+    We've been walking on endless roads[/tab]
+[tab]                    [ch]E[/ch]          [ch]F#m[/ch]
+Holding on, holding on to hope[/tab]
+[tab]                           [ch]D[/ch]      
+No, we don't know what the future holds[/tab]
+[tab]    [ch]A[/ch]       [ch]Asus2[/ch]     [ch]E[/ch]
+The best is yet   to  come[/tab]
+[tab]         [ch]F#m[/ch]      [ch]F#m7[/ch]   [ch]D[/ch]
+We see a shooting star across the sky[/tab]
+[tab]    [ch]A[/ch]        [ch]Asus2[/ch]  [ch]E[/ch]
+And how they all   align[/tab]
+[tab]             [ch]F#m[/ch]             [ch]D[/ch]
+So won't you make a wish for us tonight[/tab]
+[tab]    [ch]A[/ch]              [ch]E[/ch]
+And watch it come alive[/tab]
+
+[Chorus]
+[tab]         [ch]F#m[/ch]               [ch]D[/ch]
+We see a lighthouse in the night[/tab]
+[tab]         [ch]A[/ch]               [ch]E[/ch]
+Whenever we get lost and lose our way[/tab]
+[tab]         [ch]F#m[/ch]               [ch]D[/ch]
+We see a lighthouse in the night[/tab]
+[tab]         [ch]A[/ch]               [ch]E[/ch]                 [ch]F#m[/ch]       
+Whenever we get lost but find our way back home[/tab]
+
+[Bridge]
+[tab][ch]D[/ch]           [ch]A[/ch]               [ch]E[/ch]                     [ch]F#m[/ch]
+    I see a light begins to shine and it leads me home[/tab]
+
+[Instrumental]
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |   [/tab]
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+[tab]   [ch]F#m[/ch]            [ch]D[/ch]              [ch]A[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+
+[Verse 3]
+[tab]    [ch]F#m[/ch]                  [ch]D[/ch]
+Oh, you're so close, but yet so far[/tab]
+[tab]    [ch]A[/ch]                            [ch]E[/ch]
+But still you're lightin' up the dark[/tab]
+[tab]    [ch]F#m[/ch]               [ch]D[/ch]
+You hold a place here in my heart[/tab]
+[tab]    [ch]A[/ch]            [ch]E[/ch]
+And I can't let  go[/tab]
+
+[Instrumental]
+[tab]   [ch]D[/ch]               [ch]E[/ch]             [ch]F#m[/ch]        [ch]A[/ch]
+No don't light, no don't light   sunlight   shine near[/tab]
+[tab]       [ch]D[/ch]           [ch]E[/ch]       [ch]F#m[/ch]       [ch]A[/ch]
+I hope nope   and  hope    sunlight      near[/tab]
+[tab]   [ch]AM7[/ch]            [ch]A[/ch]              [ch]F#m[/ch]            [ch]A[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+
+[Outro]
+[tab]         [ch]F#m[/ch]               [ch]D[/ch]
+We see a lighthouse in the night[/tab]
+[tab]         [ch]A[/ch]               [ch]E[/ch]
+Whenever we get lost and lose our way[/tab]
+[tab]         [ch]F#m[/ch]               [ch]D[/ch]
+We see a lighthouse in the night[/tab]
+[tab]         [ch]A[/ch]               [ch]E[/ch]                 [ch]F#m[/ch]       [ch]D[/ch]
+Whenever we get lost but find our way back home[/tab]
+[tab]   [ch]F#m[/ch]            [ch]A[/ch]              [ch]D[/ch]              [ch]E[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+[tab]         [ch]F#m[/ch]              [ch]F#m7[/ch]              [ch]D[/ch]
+Whenever we  get lost and find our way back home[/tab]
+[ch]A[/ch]*    [ch]F#m[/ch]*    [ch]E[/ch]*    [ch]D[/ch]*    [ch]A[/ch]*

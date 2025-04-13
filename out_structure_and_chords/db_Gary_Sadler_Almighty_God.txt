@@ -1,0 +1,41 @@
+{
+    "intro": [
+        "Fsus4",
+        "F",
+        "Fsus4",
+        "F",
+        "Bb",
+        "Gm",
+        "F",
+        "C",
+        "Gm",
+        "Dm",
+        "Bb",
+        "F",
+        "C",
+        "Dm",
+        "G",
+        "Bb"
+    ],
+    "chorus": [
+        "F",
+        "C",
+        "Dm",
+        "Bb",
+        "F",
+        "C",
+        "Dm",
+        "Bb",
+        "Gm"
+    ],
+    "bridge": [
+        "Dm",
+        "F",
+        "Bb",
+        "Gm",
+        "Dm",
+        "F",
+        "Bb",
+        "Gm"
+    ]
+}

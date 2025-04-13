@@ -1,0 +1,89 @@
+URL: https://tabs.ultimate-guitar.com/tab/barroco-andino/la-manca-chords-1532152
+Artist: Barroco Andino
+Song: La Manca
+Genre: 
+Key: 
+
+
+El nivel de la canción es avanzado (Lo siento pero ni cambiando
+el tono se podría simplificar)
++Probablemente el compás es 3/4, para tocarlo en guitarra
+decidí que 6/8 sería mejor.
++El simbolo / significa que se debe repetir el acorde anterior otro compás.
++Dos acordes entre | quiere decir que se asignan 3 cuentas a cada uno.
+
+
+Introducción (lenta) [ch]F[/ch]   [ch]C[/ch]   [ch]F[/ch]   [ch]C[/ch]
+
+[tab]         [ch]Dm[/ch]                  [ch]C[/ch]
+Que mi dedito lo cogió una almeja,[/tab]
+[tab]           [ch]F[/ch]                  [ch]Adim[/ch]
+y que la almeja se cayó en la arena,[/tab]
+[tab]  [ch]D7[/ch]                          [ch]Gm[/ch]
+y que la arena se la tragó el mar.[/tab]
+[tab]          [ch]A#[/ch]                    /      /
+Y que del mar la pescó un ballenero[/tab]
+[tab]          [ch]F[/ch]                  /
+y el ballenero llegó a Gibraltar;[/tab]
+[tab]               [ch]G[/ch]               [ch]C[/ch]
+y que en Gibraltar cantan pescadores:[/tab]
+
+     |F      C        |Dm       C    |
+-«Novedad de tierra sacamos del mar,
+[tab]    |F          [ch]Adim[/ch]   |D7 [ch]Gm[/ch]   |
+novedad de un dedito de ni-ña:[/tab]
+[tab]       |D#   [ch]A#[/ch]     | [ch]A#[/ch]         [ch]F[/ch] |
+¡la que esté manca lo venga a buscar![/tab]
+[tab]         |Dm [ch]G[/ch]    |   [ch]C[/ch]          [ch]F[/ch]  |
+¡la que esté manca lo venga a buscar![/tab]
+
+(Cambio de velocidad y ritmo a Joropo)
+
+Inter: [ch]F[/ch]  [ch]C[/ch]  [ch]F[/ch]  [ch]C[/ch]
+
+[tab]         [ch]Dm[/ch]                  [ch]C[/ch]
+Que mi dedito lo cogió una almeja,[/tab]
+[tab]           [ch]F[/ch]                  [ch]Adim[/ch]
+y que la almeja se cayó en la arena,[/tab]
+[tab]       [ch]D7[/ch]                         [ch]Gm[/ch]
+Que me den un barco para ir a traerlo,[/tab]
+[tab]          [ch]A#[/ch]                /     /
+y para el barco me den capitán,[/tab]
+[tab]         [ch]F[/ch]                     /
+para el capitán que me den soldada,[/tab]
+[tab]             [ch]G[/ch]               [ch]C[/ch]
+y que por soldada pide la ciudad:[/tab]
+
+    |F       C       |Dm       C    |
+Marsella con torres y plazas y barcos,
+[tab]   |F       [ch]Adim[/ch]   |D7       [ch]Gm[/ch]   |
+de todo el mundo la mejor ciudad,[/tab]
+[tab]         |D#    [ch]A#[/ch]  |  [ch]A#[/ch]      [ch]F[/ch] |
+que no será hermosa como una niñita[/tab]
+[tab]  |Dm      [ch]G[/ch]    |   [ch]C[/ch]       [ch]F[/ch]  |
+a la que robó su dedito el mar,[/tab]
+
+      |F    C      |Dm       C    |
+y los balleneros en pregones cantan
+[tab]   |F      [ch]Adim[/ch]   | [ch]D7[/ch]        [ch]Gm[/ch]   |
+y están esperando sobre Gibraltar[/tab]
+[tab]    |D#     [ch]A#[/ch]     |A#         [ch]F[/ch] |
+novedad de tierra sacamos del mar[/tab]
+[tab]         |Dm [ch]G[/ch]    |   [ch]C[/ch]            [ch]G#[/ch] |
+¡la que esté manca lo venga  a  buscar!                C#[/tab]
+                          Que mi dedito lo cogió una almeja
+[tab]                           [ch]F[/ch]                   [ch]A#[/ch]
+                  Que la almeja se cayó en la arena[/tab]
+[tab]                           [ch]A#[/ch]      [ch]D#[/ch]           [ch]D#m[/ch]
+                  Y que del mar la pesco un ballenero[/tab]
+[tab]                                   [ch]A#[/ch]
+                  que fue a Gibraltar[/tab]
+
+[tab]         [ch]Gm[/ch]  [ch]C[/ch]         [ch]F[/ch]          [ch]A#[/ch]
+¡La que este manca lo venga a buscar![/tab]
+    (sin acordes)                 A#     /   /   un A# al final
+¡La que este manca lo venga a buscar!
+
+
+PD. Al final no he tenido el tiempo para resolver la ensalada en la letra.
+ Aun así he tratado de respetar la cuenta de cada acorde.

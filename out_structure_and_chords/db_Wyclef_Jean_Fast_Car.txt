@@ -1,0 +1,132 @@
+{
+    "intro-1": [
+        "Em",
+        "D(add11)"
+    ],
+    "intro-2": [
+        "Em",
+        "Dadd11"
+    ],
+    "verse-1": [
+        "Em",
+        "Em",
+        "Em",
+        "Em",
+        "Dadd11",
+        "Dadd11"
+    ],
+    "verse-2": [
+        "Em",
+        "Em",
+        "Em",
+        "Em",
+        "Dadd11",
+        "Dadd11"
+    ],
+    "verse-3": [
+        "Em",
+        "Em",
+        "Em",
+        "Em",
+        "Dadd11",
+        "Dadd11"
+    ],
+    "verse-4": [
+        "Em",
+        "Em",
+        "Em",
+        "Em",
+        "Dadd11",
+        "Dadd11",
+        "C",
+        "C",
+        "Em"
+    ],
+    "verse-5": [
+        "Em",
+        "Em",
+        "Em",
+        "Em",
+        "Dadd11",
+        "Dadd11"
+    ],
+    "verse-6": [
+        "Em",
+        "Em",
+        "Em",
+        "Em",
+        "Dadd11",
+        "Dadd11"
+    ],
+    "verse-7": [
+        "Em",
+        "Em",
+        "Em",
+        "Em",
+        "Dadd11",
+        "Dadd11",
+        "C",
+        "C",
+        "Em"
+    ],
+    "chorus-1": [
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "C",
+        "Em",
+        "C",
+        "C",
+        "G6",
+        "Am"
+    ],
+    "chorus-2": [
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "C",
+        "Em",
+        "C",
+        "C",
+        "G6",
+        "Am"
+    ],
+    "chorus-3": [
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "C",
+        "Em",
+        "C",
+        "C",
+        "G6",
+        "Am"
+    ],
+    "chorus-4": [
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "C",
+        "Em",
+        "C",
+        "C",
+        "G6",
+        "Am"
+    ],
+    "instrumental": [
+        "Em",
+        "C",
+        "G"
+    ],
+    "outro": [
+        "Em"
+    ]
+}

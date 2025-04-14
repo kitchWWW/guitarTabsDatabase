@@ -1,0 +1,44 @@
+{
+    "verse-1": [
+        "F",
+        "Csus",
+        "F",
+        "Csus",
+        "F"
+    ],
+    "verse-2": [
+        "F",
+        "Csus",
+        "F",
+        "Csus"
+    ],
+    "verse-3": [
+        "F",
+        "Csus",
+        "F",
+        "Csus",
+        "F",
+        "F",
+        "Csus",
+        "F",
+        "Csus"
+    ],
+    "chorus": [
+        "F",
+        "G",
+        "Am",
+        "F",
+        "F",
+        "G",
+        "Am",
+        "F"
+    ],
+    "bridge": [
+        "F",
+        "Csus",
+        "Am",
+        "F",
+        "F",
+        "Csus"
+    ]
+}

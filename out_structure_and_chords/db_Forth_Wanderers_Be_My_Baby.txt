@@ -1,0 +1,65 @@
+{
+    "intro": [
+        "Dmaj7",
+        "C5/F#",
+        "F#dim7",
+        "Dmaj7",
+        "C5/F#",
+        "F#dim7"
+    ],
+    "verse-1": [
+        "Dmaj7",
+        "C5/F#",
+        "F#dim7",
+        "Dmaj7",
+        "Dmaj7",
+        "F#7",
+        "A13",
+        "A7",
+        "Dmaj7",
+        "Dmaj7",
+        "F#7",
+        "A13",
+        "A7",
+        "Dmaj7"
+    ],
+    "verse-2": [
+        "Dmaj7",
+        "C5/F#",
+        "F#dim7",
+        "Dmaj7",
+        "C5/F#",
+        "F#dim7",
+        "Dmaj7",
+        "F#7",
+        "A13",
+        "A7"
+    ],
+    "chorus-1": [
+        "Dmaj7",
+        "F#7",
+        "A13",
+        "A7",
+        "Dmaj7",
+        "F#7",
+        "A13",
+        "A7",
+        "Dmaj7",
+        "C5/F#",
+        "F#dim7"
+    ],
+    "chorus-2": [
+        "Dmaj7",
+        "F#7",
+        "A13",
+        "A7",
+        "Dmaj7",
+        "F#7",
+        "A13",
+        "A7",
+        "Dmaj7",
+        "C5/F#",
+        "F#dim7",
+        "Dmaj7"
+    ]
+}

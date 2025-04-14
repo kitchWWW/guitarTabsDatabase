@@ -1,0 +1,65 @@
+{
+    "intro": [
+        "Bm",
+        "Bm",
+        "D/C",
+        "D/F#",
+        "A",
+        "E/G#",
+        "Bm",
+        "Bm"
+    ],
+    "verse-1": [
+        "Bm",
+        "D/C",
+        "D/F#",
+        "F#m13",
+        "A",
+        "E/G#",
+        "G",
+        "F#m",
+        "Bm"
+    ],
+    "verse-2": [
+        "Bm",
+        "D/C",
+        "D/F#",
+        "F#m13",
+        "A",
+        "E/G#",
+        "G",
+        "F#m",
+        "Bm"
+    ],
+    "verse-3": [
+        "Bm",
+        "D/C",
+        "D/F#",
+        "F#m13",
+        "A",
+        "E/G#",
+        "G",
+        "F#m",
+        "Bm"
+    ],
+    "verse-4": [
+        "Bm",
+        "D/C",
+        "D/F#",
+        "F#m13",
+        "A",
+        "E/G#",
+        "G",
+        "F#m",
+        "Bm"
+    ],
+    "instrumental-1": [
+        "C",
+        "Bm"
+    ],
+    "instrumental-2": [
+        "C",
+        "Bm",
+        "Bm"
+    ]
+}

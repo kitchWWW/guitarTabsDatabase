@@ -1,0 +1,134 @@
+URL: https://tabs.ultimate-guitar.com/tab/get-well-soon/we-are-safe-inside-while-they-burn-down-our-house-chords-3162302
+Artist: Get Well Soon
+Song: We Are Safe Inside While They Burn Down Our House
+Genre: 
+Key: 
+
+
+As far as I know the band plays this song using D standard tuning, but I wanted to make chords you can play
+without having to tune your guitar into D standard. So we'll use Drop D tuning insted.
+It's not as comfortable as playing in D standard, but will let us avoid all the tuning.
+We'll use drop D to add that nice D bass note in the verse Dm chords and several other places.
+
+
+In the beginning of the intro I suggest you play Gm as x55336. This way it sounds closer to the original.
+In later parts of the song you can play Gm as you like.
+
+
+
+THESE CHORDS ARE DROP D if you use D standard or E standart tuning adjust accordingly!
+
+Intro chords:   
+[ch]Gm[/ch]    x55336 
+[ch]Dm[/ch]    057765
+[ch]Gm6/D[/ch] xx0986
+
+Verse and chorus chords:
+[ch]Gm[/ch]       555333
+[ch]Csus2/G[/ch]  535333
+[ch]Dm[/ch]       0532xx
+[ch]Bb[/ch]       x13331
+[ch]Bb/A[/ch]     x03331
+
+
+[ch]A[/ch]      x03330
+[ch]A7[/ch]     x03030
+[ch]Dm[/ch]     000231
+[ch]Dm/E[/ch]   200231
+[ch]Dm/F[/ch]   300231
+
+
+[ch]Eb[/ch]     x68886
+[ch]Ebmaj7[/ch] x65333
+
+
+Outro is basically Verse once + Chorus twice
+Let's go!
+
+[Intro]
+[ch]Gm[/ch] [ch]Dm[/ch]
+[ch]Gm[/ch] [ch]Gm6/D[/ch] [ch]Dm[/ch]
+
+
+[tab][ch]Gm[/ch] [ch]Gm/A[/ch] ...
+---------[/tab]
+[tab]-3~~~~~~
+-0~~~~~~
+-0~~~~~~
+-1--0~~~
+---------[/tab]
+
+Picking starts:
+
+... [ch]Gm[/ch] [ch]Csus2/G[/ch] [ch]Dm[/ch]
+[ch]Bb[/ch] [ch]Bb/A[/ch]
+
+[Verse 1]
+[tab][ch]Gm[/ch]                 [ch]Csus2/G[/ch]
+Wait inside, please wait[/tab]
+[tab]   [ch]Dm[/ch]     [ch]Bb[/ch]     [ch]Bb/A[/ch]
+Beware, my heart![/tab]
+[tab][ch]Gm[/ch]                [ch]Csus2/G[/ch]
+Then I will come back[/tab]
+[tab]  [ch]Dm[/ch]        [ch]Bb[/ch]     [ch]Bb/A[/ch]
+Defend our home[/tab]
+
+[Chorus]
+
+[tab][ch]A[/ch]          [ch]A7[/ch]        [ch]Dm[/ch]   [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+Don't you say we're lost[/tab]
+[tab][ch]A[/ch]       [ch]A7[/ch]     [ch]Dm[/ch]   [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+We are safe inside[/tab]
+[tab]            [ch]Eb[/ch]           [ch]Ebmaj7[/ch]  [ch]D[/ch]
+While they  burn  down   our    house[/tab]
+
+[Verse 2]
+[tab][ch]Gm[/ch]                 [ch]Csus2/G[/ch]
+This is the life I live[/tab]
+[tab]      [ch]Dm[/ch]     [ch]Bb[/ch]     [ch]Bb/A[/ch]
+The friends I keep[/tab]
+[tab][ch]Gm[/ch]                [ch]Csus2/G[/ch]
+Keep me warm at night[/tab]
+[tab]    [ch]Dm[/ch]     [ch]Bb[/ch]     [ch]Bb/A[/ch]
+And help in need[/tab]
+
+
+[tab]    [ch]Gm[/ch]              [ch]Csus2/G[/ch]
+If this day is the last[/tab]
+[tab]        [ch]Dm[/ch]       [ch]Bb[/ch]     [ch]Bb/A[/ch]
+We'll shout we'd sing[/tab]
+[tab]      [ch]Gm[/ch]                [ch]Csus2/G[/ch]
+We'll call this day the first[/tab]
+[tab]  [ch]Dm[/ch]        [ch]Bb[/ch]     [ch]Bb/A[/ch]
+Until it's true[/tab]
+
+
+[Chorus]
+
+[tab][ch]A[/ch]          [ch]A7[/ch]        [ch]Dm[/ch]   [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+Don't you say we're lost[/tab]
+[tab][ch]A[/ch]       [ch]A7[/ch]     [ch]Dm[/ch]   [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+We are safe inside[/tab]
+[tab]            [ch]Eb[/ch]           [ch]Ebmaj7[/ch]  [ch]D[/ch]
+While they  burn  down   our    house[/tab]
+
+[Interlude]
+[ch]A[/ch]  [ch]Dm[/ch]  [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+[ch]A[/ch]  [ch]Dm[/ch]  [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+[ch]Eb[/ch]    [ch]Ebmaj7[/ch]  [ch]D[/ch]
+
+[Outro]
+
+[ch]Gm[/ch]          [ch]Csus2/G[/ch]
+[ch]Dm[/ch]       [ch]Bb[/ch]   [ch]Bb/A[/ch]
+[ch]Gm[/ch]          [ch]Csus2/G[/ch]
+[ch]Dm[/ch]       [ch]Bb[/ch]   [ch]Bb/A[/ch]
+
+[ch]A[/ch]  [ch]A7[/ch]  [ch]Dm[/ch]  [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+[ch]A[/ch]  [ch]A7[/ch]  [ch]Dm[/ch]  [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+[ch]Eb[/ch]    [ch]Ebmaj7[/ch]  [ch]D[/ch]
+
+
+[ch]A[/ch]  [ch]A7[/ch]  [ch]Dm[/ch]  [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+[ch]A[/ch]  [ch]A7[/ch]  [ch]Dm[/ch]  [ch]Dm/E[/ch]  [ch]Dm/F[/ch]  [ch]Gm[/ch]
+[ch]Eb[/ch]    [ch]Ebmaj7[/ch]  [ch]D[/ch]

@@ -1,0 +1,50 @@
+{
+    "intro": [
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "C",
+        "Bm",
+        "G",
+        "C",
+        "Bm",
+        "E",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "C",
+        "Bm",
+        "G",
+        "C",
+        "Bm",
+        "E"
+    ],
+    "solo": [
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em"
+    ],
+    "outro": [
+        "Am",
+        "Em"
+    ]
+}

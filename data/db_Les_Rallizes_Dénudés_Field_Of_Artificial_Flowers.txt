@@ -1,0 +1,97 @@
+URL: https://tabs.ultimate-guitar.com/tab/4348379
+Artist: Les Rallizes Dénudés
+Song: Field Of Artificial Flowers
+Genre: 
+Key: 
+
+
+This is the version off Heavier Than a Death in the Family (People Can Choose)
+
+Lyrics from here: https://rateyourmusic.com/list/slioganach/translating-les-rallizes-denudes-into-english/
+
+Drop B tuning B-A-d-g-b-e
+Capo 5 - sounding key E major
+
+[Chords]
+
+[ch]E[/ch] 0244xx
+[ch]G[/ch] xx0232
+[ch]D[/ch] x02220
+[ch]A[/ch] x22100
+[ch]F[/ch] x32010
+
+
+Play this riff on the E throughout
+
+[tab]e|--------------------|
+B|--------------------|
+G|-------4-4-4-4-4-4--|
+D|-------4-4-4-4-4-4--|
+A|--0h2--2-2-2-2-2-2--|
+E|-------0-0-0-0-0-0--|[/tab]
+
+
+[Intro]
+[ch]E[/ch] [ch]G[/ch] [ch]D[/ch] x2
+
+[Verse 1]
+[tab][ch]E[/ch]                 [ch]G[/ch]      [ch]D[/ch]      [ch]E[/ch]
+Zōka no gen'ya no Haruka kanata kara[/tab]
+[tab][ch]E[/ch]                 [ch]G[/ch] [ch]D[/ch]  [ch]E[/ch]
+fuki tsukete kuru kaze yo[/tab]
+[tab][ch]E[/ch]                     [ch]G[/ch]  [ch]D[/ch]    [ch]E[/ch]
+yurusu koto o shiranu chikara yo[/tab]
+
+[Refrain 1]
+[tab][ch]A[/ch]           [ch]G[/ch]        [ch]F[/ch]        [ch]E[/ch]
+  kono chinohate made fukitobase[/tab]
+[ch]E[/ch]
+
+[Verse 2]
+[tab][ch]E[/ch]                [ch]G[/ch]         [ch]D[/ch]    [ch]E[/ch]
+chi no soko kara shinwa no soko kara[/tab]
+[tab][ch]E[/ch]               [ch]G[/ch] [ch]D[/ch] [ch]E[/ch]
+wakiokotte kuru honō[/tab]
+[tab][ch]E[/ch]                   [ch]G[/ch]  [ch]D[/ch] [ch]E[/ch]
+hakai to yasashi-sa no honō[/tab]
+
+[Refrain 2]
+[tab][ch]A[/ch]           [ch]G[/ch]        [ch]F[/ch]       [ch]E[/ch]
+  kono chinohate made moe tsukuse (fukitobase)[/tab]
+
+[Guitar Solo]
+[ch]A[/ch]
+
+Bass Riff
+
+[tab]e|---------------|
+B|---------------|
+G|---------------|
+D|----7-6-5------|
+A|----------7-5--|
+E|--5------------|[/tab]
+
+
+[Verse 3]
+[tab][ch]E[/ch]                  [ch]G[/ch]   [ch]D[/ch]    [ch]E[/ch]
+omae no sono-me wa garasu tama[/tab]
+[tab][ch]E[/ch]                 [ch]G[/ch]    [ch]D[/ch]        [ch]E[/ch]
+motto chikadzukya   chigatte mieru[/tab]
+[ch]E[/ch]
+
+[Refrain 3]
+[tab][ch]A[/ch]        [ch]G[/ch]        [ch]F[/ch]             [ch]E[/ch]
+  makkana akashi o oshietekureru[/tab]
+
+[Verse 4]
+[tab][ch]E[/ch]              [ch]G[/ch]   [ch]D[/ch]     [ch]E[/ch]
+meramera moete kudake chiru[/tab]
+[tab][ch]E[/ch]             [ch]G[/ch]  [ch]D[/ch]  [ch]E[/ch]
+kudake chitte maiagaru[/tab]
+
+[Refrain 4]
+[tab][ch]A[/ch]    [ch]G[/ch]       [ch]F[/ch]                       [ch]E[/ch]
+eien mitai ni kudake chiru (maiagaru)[/tab]
+
+[Outro]
+[ch]E[/ch]

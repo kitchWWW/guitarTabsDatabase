@@ -1,0 +1,90 @@
+URL: https://tabs.ultimate-guitar.com/tab/kevin-shields/city-girl-chords-3023687
+Artist: Kevin Shields
+Song: City Girl
+Genre: 
+Key: 
+
+
+****************************************
+
+Chords you'll use:
+
+[tab]e|- x ---- 3 ----- x ----- 4 ----- x -|
+b|- x ---- 3 ----- 4 ----- 4 ----- 3 -|
+G|- 4 ---- 4 ----- 6 ----- 6 ----- 1 -|
+D|- 5 ---- 5 ----- 6 ----- 6 ----- 2 -|
+A|- 5 ---- 5 ----- 4 ----- 4 ----- 2 -|
+E|- 3 ---- 3 ----- x ----- x ----- 0 -|
+   G(1)   G(2)   C#m(1)  C#m(2)    E7[/tab]
+
+[tab]e|- x ----- x ----- x ---- x ----- 2 -|
+b|- 5 ----- 5 ----- 2 ---- 3 ----- 3 -|
+G|- 4 ----- 4 ----- 2 ---- 4 ----- 4 -|
+D|- 5 ----- 5 ----- 2 ---- x ----- 4 -|
+A|- x ----- 3 ----- 0 ---- 2 ----- 2 -|
+E|- 3 ----- 3 ----- x ---- x ----- x -|
+    G6    Cmaj7/G   A    Bm(1)    Bm(2)[/tab]
+
+(1) = Variation 1
+(2) = Variation 2 (Barred)
+
+Notes:
+
+When you hover over the chord name below, 
+it will not show the correct chord to use. 
+Please reference the tab above for the 
+correct chords.
+
+Some of the chords are barred (noted above
+as Variation 2). Please use your ear to
+figure out where in the song to play them.
+
+****************************************
+
+[Verse 1]
+[tab][ch]G[/ch]       [ch]C#m[/ch]        [ch]E7[/ch]            [ch]G6[/ch]
+Free    Tonight    Last night    With You[/tab]
+[tab][ch]A[/ch]                [ch]Bm[/ch]
+You're always    You're Wonderful[/tab]
+[tab][ch]Bm[/ch]       [ch]G[/ch]
+I wanted youuuuuuu[/tab]
+
+[Chorus]
+[tab][ch]C#m[/ch]      [ch]E7[/ch]         [ch]Cmaj7/G[/ch]
+I do     I do       I do[/tab]
+
+[Verse 2]
+[tab][ch]G[/ch]       [ch]C#m[/ch]      [ch]E7[/ch]        [ch]G6[/ch]
+City    girl     I want    You[/tab]
+[tab][ch]A[/ch]             [ch]Bm[/ch]
+City girl     You're beautiful[/tab]
+[tab][ch]Bm[/ch]              [ch]G[/ch]
+I love youuuuuuuu[/tab]
+
+[Chorus]
+[tab][ch]C#m[/ch]      [ch]E7[/ch]       [ch]Cmaj7/G[/ch]
+I do     I do     I do[/tab]
+
+[Verse 3]
+[tab][ch]G[/ch]       [ch]C#m[/ch]           [ch]E7[/ch]             [ch]G6[/ch]
+I       Good Luck     Gibberish?     Gibberish?[/tab]
+[tab][ch]A[/ch]             [ch]Bm[/ch]
+City girl     You're beautiful[/tab]
+[tab][ch]Bm[/ch]              [ch]G[/ch]
+I love youuuuuuuu[/tab]
+
+[Chorus]
+[tab][ch]C#m[/ch]      [ch]E7[/ch]       [ch]Cmaj7/G[/ch]
+I do     I do     I do[/tab]
+
+[Verse 4]
+[tab][ch]G[/ch]        [ch]C#m[/ch]            [ch]E7[/ch]        [ch]G6[/ch]
+Ci-      -ty Girl       I Want    You[/tab]
+[tab][ch]A[/ch]             [ch]Bm[/ch]
+City girl     You're beautiful[/tab]
+[tab][ch]Bm[/ch]             [ch]G[/ch]
+I love youuuuuuuu[/tab]
+
+[Chorus]
+[tab][ch]C#m[/ch]        [ch]E7[/ch]       [ch]Cmaj7/G[/ch]
+I do       I do     I do[/tab]

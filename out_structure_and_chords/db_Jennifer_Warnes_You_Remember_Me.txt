@@ -1,0 +1,133 @@
+{
+    "intro": [
+        "F",
+        "Am",
+        "Bb",
+        "Eb9"
+    ],
+    "verse-1": [
+        "F",
+        "Am",
+        "Bb",
+        "Bb/C"
+    ],
+    "verse-2": [
+        "F",
+        "Am",
+        "Bb",
+        "Eb9"
+    ],
+    "verse-3": [
+        "F",
+        "Am",
+        "Bb",
+        "Bb/C",
+        "F",
+        "Am",
+        "Bb",
+        "Eb9"
+    ],
+    "instrumental-1": [
+        "F",
+        "F/Eb",
+        "Bb/D",
+        "Eb",
+        "F"
+    ],
+    "instrumental-2": [
+        "F",
+        "F/Eb",
+        "Bb/D",
+        "Eb",
+        "F"
+    ],
+    "instrumental-3": [
+        "F",
+        "Am",
+        "Bb",
+        "Eb9",
+        "F",
+        "F/Eb",
+        "Bb/D",
+        "Eb",
+        "F"
+    ],
+    "pre-chorus": [
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "F"
+    ],
+    "chorus-1": [
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "F",
+        "Cm",
+        "F",
+        "Bb",
+        "F/A",
+        "Gm",
+        "Bb7",
+        "Eb",
+        "Eb/F",
+        "Bb",
+        "Bb",
+        "C"
+    ],
+    "chorus-2": [
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "F",
+        "Cm",
+        "F",
+        "Bb",
+        "F/A",
+        "Gm",
+        "Bb7",
+        "Eb",
+        "Eb/F",
+        "Bb",
+        "Bb",
+        "C"
+    ],
+    "chorus-3": [
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "Cm/Bb",
+        "Bb",
+        "F",
+        "Cm",
+        "F",
+        "Bb",
+        "F/A",
+        "Gm",
+        "Bb7",
+        "Eb",
+        "Eb/F"
+    ],
+    "outro": [
+        "Bb",
+        "Bb/Ab",
+        "Eb/G",
+        "Eb/F",
+        "F",
+        "Bb"
+    ]
+}

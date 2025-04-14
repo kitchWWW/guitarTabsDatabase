@@ -1,0 +1,87 @@
+URL: https://tabs.ultimate-guitar.com/tab/l-a-guns/the-ballad-of-jayne-tabs-192807
+Artist: L.A. Guns
+Song: The Ballad Of Jayne
+Genre: 
+Key: 
+
+
+Band:L.A. Guns
+Song:The Ballad of Jayne
+From:Cocked and Loaded(released in 1988)
+Guitars: 1 acoustic, 1 electric(I'll tab that later, it's much harder to figure out)
+
+----------------------------------------------------------------------------
+r before a chord name means to roll the chord slightly
+^  Hit-on/Pull-off
+/  Slide
+b  Bend
+_  Let Note Ring
+On Acoustic, down a half-step(D#,G#,C#,F#,A#,D#) it sounds best with a 12-string, but
+it works with a 6-string.
+
+[tab]Intro                            
+   D      C D     C D     C       
+E |-------0-------0-------0-----||-----3------------------3----------0|
+B |----3--1----3--1----3--1-1^0-||-----3--------1^0-------3-------3--1|
+G |-----0-0-----0-0-----0-0----0||---0--0-----0----0----0--0-------0-0|
+D |-------2-------2-------2-----||--0----0---2-2-------0----0--------2|
+A |3/5----3-3/5---3-3/5---3-----||-2------2-3---------2------2-3/5---3|
+E |-----------------------------||3------------------3----------------|[/tab]
+
+[tab]Verse         
+   G         C        G
+E |-----3------------------3----------0---|
+B |-----3--------1^0-------3-------3--1^0-|
+G |---0--0-----0----0----0--0-------0-0--0|
+D |--0----0---2-2-------0----0--------2---|
+A |-2------2-3---------2------2-3/5---3---|
+E |3------------------3-------------------|[/tab]
+[tab]1: She    was always something special
+   That   diamond shinin bright in the rain
+   Everybody dreams of angels
+Pre-Chorus
+   D              C
+E |----2-------2-------0------0--|
+B |---3-3-----3-3-----1-1----1-1-|
+G |--2---2---2---2---2---2--2---2|
+D |-0-------0-------0------0-----|
+A |0-------0-------3------3------|
+E |------------------------------|[/tab]
+[tab]No one will ever know how much I loved you so
+Chorus
+E |-3--3-----3--3---|
+B |--3--3-3---3--3-3|
+G |---0--0-----0--0-|
+D |-----------------|
+A |---------3-------|
+E |3----------------|[/tab]
+[tab]Now it all seems funny kinda like a dream
+Things aint always what they seem
+What a Shame
+what happened to Jayne
+Post Chorus
+   D                    D     C D     C D     C
+E |---3-2-------3-2---2_------0-------0-------0---|
+B |------3---------3--3_---3--1----3--1----3--1^0-|
+G |-------2---------2-2_----0-2-----0-2-----0-2--0|
+D |0---------0----------------0-------0-------0---|
+A |---------------------3/5---3-3/5---3-3/5---3---|
+E |-----------------------------------------------|[/tab]
+
+
+Structure:
+Intro
+Verse
+Pre-Chorus
+Chorus
+Post-Chorus
+Verse
+Pre-Chorus
+Chorus
+Post-Chorus
+Solo(acoustic goes through verse, pre-chorus-chorus)
+Intro
+Verse
+Chorus
+Post-Chorus
+Chorus

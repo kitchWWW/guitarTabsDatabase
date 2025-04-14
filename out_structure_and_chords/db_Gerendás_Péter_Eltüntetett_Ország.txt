@@ -1,0 +1,47 @@
+{
+    "intro": [
+        "Emadd9",
+        "Emadd9",
+        "Emadd9",
+        "Emadd9"
+    ],
+    "verse-1": [
+        "Emadd9",
+        "Cmaj7",
+        "Emadd9",
+        "Cmaj7",
+        "Emadd9",
+        "Dsus2",
+        "B7",
+        "Cmaj7",
+        "Emadd9"
+    ],
+    "verse-2": [
+        "Emadd9",
+        "Cmaj7",
+        "Emadd9",
+        "Cmaj7",
+        "Emadd9",
+        "Dsus2",
+        "B7",
+        "Cmaj7",
+        "Emadd9"
+    ],
+    "chorus": [
+        "G",
+        "Bsus4",
+        "B7",
+        "Asus4",
+        "A7",
+        "Dm",
+        "A",
+        "Dm",
+        "Dm7",
+        "B",
+        "Em",
+        "Cmaj7",
+        "Em",
+        "Cmaj7",
+        "Emadd9"
+    ]
+}

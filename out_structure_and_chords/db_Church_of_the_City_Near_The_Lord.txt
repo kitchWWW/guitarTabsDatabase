@@ -1,0 +1,145 @@
+{
+    "intro": [
+        "F",
+        "C",
+        "Gm7",
+        "F",
+        "Bbmaj7"
+    ],
+    "verse-1": [
+        "F",
+        "Csus",
+        "Gm7",
+        "F",
+        "Bbmaj7",
+        "Bb6",
+        "F",
+        "Csus",
+        "Gm7",
+        "F",
+        "Bbmaj7",
+        "Bb6"
+    ],
+    "verse-2": [
+        "F",
+        "Csus",
+        "Gm7",
+        "F",
+        "Bbmaj7",
+        "Bb6",
+        "F",
+        "Csus",
+        "Gm7",
+        "F",
+        "Bbmaj7",
+        "Bb6"
+    ],
+    "pre-chorus-1": [
+        "Gm7",
+        "F/A",
+        "Csus"
+    ],
+    "pre-chorus-2": [
+        "Gm7",
+        "F/A",
+        "Csus"
+    ],
+    "pre-chorus-3": [
+        "Gm7",
+        "F/A",
+        "Csus"
+    ],
+    "pre-chorus-4": [
+        "Gm7",
+        "F/A",
+        "Csus"
+    ],
+    "chorus-1": [
+        "F",
+        "Bb",
+        "Dm7",
+        "C",
+        "F/A",
+        "Bb",
+        "Dm7",
+        "C"
+    ],
+    "chorus-2": [
+        "F",
+        "Bb",
+        "Dm7",
+        "C",
+        "F/A",
+        "Bb",
+        "Dm7",
+        "C"
+    ],
+    "chorus-3": [
+        "F",
+        "Bb",
+        "Dm7",
+        "C",
+        "F/A",
+        "Bb",
+        "Dm7",
+        "C",
+        "F",
+        "Bb/F",
+        "F",
+        "C",
+        "F/A",
+        "Bb2",
+        "Dm7",
+        "C"
+    ],
+    "chorus-4": [
+        "F",
+        "Bb",
+        "Dm7",
+        "C",
+        "F/A",
+        "Bb",
+        "Dm7",
+        "C"
+    ],
+    "chorus-5": [
+        "F",
+        "Bb",
+        "Dm7",
+        "C",
+        "F/A",
+        "Bb",
+        "Dm7",
+        "C"
+    ],
+    "bridge-1": [
+        "F",
+        "Bb/F",
+        "F",
+        "C",
+        "F/A",
+        "Bb2",
+        "Dm7",
+        "C"
+    ],
+    "bridge-2": [
+        "F",
+        "Bb/F",
+        "F",
+        "C",
+        "F/A",
+        "Bb2",
+        "Dm7",
+        "C"
+    ],
+    "bridge-3": [
+        "F",
+        "Bb/F",
+        "F",
+        "C",
+        "F/A",
+        "Bb2",
+        "Dm7",
+        "C"
+    ]
+}

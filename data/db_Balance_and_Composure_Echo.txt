@@ -1,0 +1,39 @@
+URL: https://tabs.ultimate-guitar.com/tab/balance-and-composure/echo-tabs-1085330
+Artist: Balance and Composure
+Song: Echo
+Genre: 
+Key: 
+
+
+Echo - Balance And Composure
+tabbed by joetinks
+
+This song has a verse chorus verse chorus structure, but all parts use the same chord progression.
+
+I would play this in Standard.
+
+[tab]e|-----------------------------------------------|
+B|-----------------------------------------------|
+G|-----------------------------------------------|
+D|--10-10-10-10-10-10-10-10--6-6-6-6-6-6-6-6-----|
+A|--10-10-10-10-10-10-10-10--6-6-6-6-6-6-6-6-----|
+E|--8--8--8--8--8--8--8--8---4-4-4-4-4-4-4-4-----|[/tab]
+
+[tab]e|----------------------------------------|
+B|----------------------------------------|
+G|----------------------------------------|
+D|----6-6-6-6-6-6-6-6--6-6-6-6-6-6-6-6----|
+A|----6-6-6-6-6-6-6-6--6-6-6-6-6-6-6-6----|
+E|----4-4-4-4-4-4-4-4--4-4-4-4-4-4-4-4----|[/tab]
+
+It honestly doesn't change. If you're feeling outrageous, you can change it to Cmin 
+chord (bar on the 8th fret) and a Abmaj chord (bar 4th fret, G string 5th fret)
+
+[tab]e|--8------4--|
+B|--8------4--|
+G|--8------5--|
+D|--10-----6--|
+A|--10-----6--|
+E|--8------4--|[/tab]
+
+Also, the rhythm is slightly different in the first verse.

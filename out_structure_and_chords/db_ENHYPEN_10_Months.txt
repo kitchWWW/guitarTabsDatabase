@@ -1,0 +1,50 @@
+{
+    "intro": [
+        "F#m7",
+        "B7",
+        "Emaj7",
+        "C#m7"
+    ],
+    "verse": [
+        "F#m7",
+        "B7",
+        "Emaj7",
+        "Fm7b5",
+        "F#m7",
+        "B7",
+        "Emaj7",
+        "Fm7b5"
+    ],
+    "pre-chorus": [
+        "F#m7",
+        "B7",
+        "Emaj7",
+        "C#m9",
+        "C#m7",
+        "F#m7",
+        "B7",
+        "Emaj7",
+        "C#9sus4",
+        "C#9"
+    ],
+    "chorus": [
+        "F#m7",
+        "B13",
+        "Emaj7",
+        "C#m9",
+        "C#m7",
+        "F#m7",
+        "B13",
+        "Emaj7",
+        "C#9sus4",
+        "Amaj7",
+        "Am6",
+        "G#m7",
+        "C#m7",
+        "F#m7",
+        "B9sus4",
+        "Emaj9",
+        "C#9sus4",
+        "C#m7"
+    ]
+}

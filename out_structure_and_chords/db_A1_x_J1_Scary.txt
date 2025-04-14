@@ -1,0 +1,104 @@
+{
+    "chorus-1": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C"
+    ],
+    "chorus-2": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C"
+    ],
+    "chorus-3": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C"
+    ],
+    "chorus-4": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C"
+    ],
+    "chorus-5": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C"
+    ],
+    "chorus-6": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C"
+    ],
+    "verse-1": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C"
+    ],
+    "verse-2": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "B",
+        "Fm",
+        "C"
+    ],
+    "verse-3": [
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C",
+        "Dm",
+        "Bb",
+        "Fm",
+        "C"
+    ]
+}

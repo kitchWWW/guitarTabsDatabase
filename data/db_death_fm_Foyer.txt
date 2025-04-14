@@ -1,0 +1,65 @@
+URL: https://tabs.ultimate-guitar.com/tab/death-fm/foyer-tabs-4949620
+Artist: death_fm
+Song: Foyer
+Genre: 
+Key: 
+
+
+[tab]The Chord Shape Used For The Whole Song (On Guitar):
+e|----|
+B|----|
+G|-8--|
+D|-12-|
+A|-10-|
+E|-8--|[/tab]
+
+[tab][Intro]
+e|--------------------|
+B|--------------------|
+G|-8------------------|
+D|--------12----------|   12x
+A|-----10------8h10---|
+E|---8-------8------8-|[/tab]
+
+[tab][Verse]
+e|--------------------|
+B|--------------------|
+G|-8------------------|
+D|--------12----------|   8x(?)
+A|-----10------8h10---|
+E|---8-------8------8-|[/tab]
+
+[tab][Chorus]
+e|--------------------|
+B|--------------------|
+G|-8------------------|
+D|--------12----------|   6x(?)
+A|-----10------8h10---|
+E|---8-------8------8-|[/tab]
+
+[tab][Sample Part]
+e|--------------------|
+B|--------------------|
+G|-8------------------|
+D|--------12----------|   8x
+A|-----10------8h10---|
+E|---8-------8------8-|[/tab]
+
+[tab][Outro]
+e|--------------------|
+B|--------------------|
+G|-8------------------|
+D|--------12----------|   32x(?)
+A|-----10------8h10---|
+E|---8-------8------8-|[/tab]
+
+Just re-listened to the death_fm Home Songs album and heard this. It's a really awesome song with all the 
+different elements in it, but the guitar stays the same the whole time. I think it might be played on an 
+acoustic guitar, but it works very well on electric guitar with a little bit of chorus on a clean filter or
+maybe a slight phaser too. Much respect to the music taste of anyone trying to learn this. If there's any 
+other death_fm songs or anything you'd like me to tab out, leave a comment with the song and artist.
+Have fun learning it!
+
+*********************************
+8h10 - Hammer on to 10 from 8
+*********************************

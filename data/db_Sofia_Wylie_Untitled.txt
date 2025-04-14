@@ -1,0 +1,196 @@
+URL: https://tabs.ultimate-guitar.com/tab/sofia-wylie/untitled-chords-4599788
+Artist: Sofia Wylie
+Song: Untitled
+Genre: 
+Key: C
+
+
+Untitled song from Sofia Wylie's tiktok @sofiawylie
+https://www.tiktok.com/@sofiawylie/video/7187449053263777066
+
+On piano, chords are played with the bass note and a C5/G on top.
+Song is in 12/8, play the bass note on each down beat except beat 10 and fill in with G3+C4.
+
+For the verses:
+|   Piano:
+|      1   2   3   4   5   6   7   8   9   10  11  12
+|   RH    GC  GC       GC  GC      GC  GC      GC  GC
+|   LH C(3)       E(2)        F(2)
+|
+[tab]|   Guitar:
+|        1 2 3 4 5 6 7 8 9 10 11 12
+|   e|-----------------------------------|
+|   B|-----1-1---1-1---1-1----1--1-------|
+|   G|-----0-0---0-0---0-0----0--0-------|
+|   D|-----------------------------------|
+|   A|---3-------------------------------|
+|   E|---------0-----1-------------------|[/tab]
+|
+For the pre-chorus:
+|   Piano:
+|      1   2   3   4   5   6   7   8   9   10  11  12
+|   RH    GC  GC       GC  GC     GC  GC       GC   GC
+|   LH [ch]D(2)[/ch]                   [ch]F(2)[/ch]
+|
+[tab]|   The guitar technically doesn't go down far enough to play that D lower than the E as it is played
+|   on Saylor's piano, but you can play it an octave up like this on guitar to maintain the same intervals:
+|        1 2 3 4 5 6 7 8 9 10 11 12
+|   e|-----------------------------------|
+|   B|-----1-1---1-1---1-1----1--1-------|
+|   G|-----0-0---0-0---0-0----0--0-------|
+|   D|---0-----------3-------------------|
+|   A|-----------------------------------|
+|   E|-----------------------------------|[/tab]
+|
+|
+For the chorus:
+|   Piano:
+|      1   2   3   4   5   6   7   8    9   10  11  12
+|   RH    GC  GC       GC  GC      GC  GC       GC  GC
+|   LH C(3)       G(2)        F(2)
+|
+[tab]|   Guitar:
+|        1 2 3 4 5 6 7 8 9 10 11 12
+|   e|-----------------------------------|
+|   B|-----1-1---1-1---1-1----1--1-------|
+|   G|-----0-0---0-0---0-0----0--0-------|
+|   D|-----------------------------------|
+|   A|---3-------------------------------|
+|   E|---------3-----1-------------------|[/tab]
+|
+
+Note: You can play C/E as Em, C/F as F, C/D as Dm, and C/G as G, and they would still sound okay!
+
+[Intro]
+
+[ch]C[/ch] [ch]C/E[/ch] [ch]C/F[/ch]
+
+[ch]C[/ch] [ch]C/E[/ch] [ch]C/F[/ch]
+
+[Verse 1]
+
+[tab]   [ch]C[/ch]           [ch]C/E[/ch]      [ch]C/F[/ch]
+I studied your favorite songs[/tab]
+[tab]       [ch]C[/ch]        [ch]C/E[/ch]           [ch]C/F[/ch]
+You'd mention a book, and I'd learn every line[/tab]
+[tab]     [ch]C[/ch]             [ch]C/E[/ch]        [ch]C/F[/ch]
+Memorized all the things you liked about me[/tab]
+[tab]      [ch]C[/ch]            [ch]C/E[/ch]        [ch]C/F[/ch]
+So I could be her more of the time[/tab]
+
+[Verse 2]
+
+[tab]   [ch]C[/ch]          [ch]C/E[/ch]         [ch]C/F[/ch]
+I made up a game where I'd notice[/tab]
+[tab] [ch]C[/ch]          [ch]C/E[/ch]            [ch]C/F[/ch]
+All of the small things you do[/tab]
+[tab]       [ch]C[/ch]                [ch]C/E[/ch]
+In my mind, they would grow[/tab]
+[tab]       [ch]C/F[/ch]                [ch]C[/ch]              [ch]C/E[/ch]        [ch]C/F[/ch]
+But I think we both know that they meant nothing to you[/tab]
+
+[Pre-Chorus]
+
+[tab][ch]C/D[/ch]      [ch]C/F[/ch]
+I'm not sure that[/tab]
+[tab][ch]C/D[/ch]   [ch]C/F[/ch]
+I can say in full honesty[/tab]
+
+[Chorus]
+
+[tab][ch]C[/ch]           [ch]C/G[/ch]      [ch]C/F[/ch]
+ That I'm not just a past time for you[/tab]
+[tab][ch]C[/ch]            [ch]C/G[/ch]         [ch]C/F[/ch]
+ When you've got nothing better to do[/tab]
+[tab]    [ch]C[/ch]            [ch]C/G[/ch]
+I'd give you my world[/tab]
+[tab]       [ch]C/F[/ch]
+You'd give me a night[/tab]
+[tab]   [ch]C[/ch]                [ch]C/G[/ch]
+I think that you're perfect[/tab]
+[tab]     [ch]C/F[/ch]
+You think I'm alright[/tab]
+[tab]    [ch]C[/ch]* [ch]G[/ch]*  [ch]F[/ch]*
+But I love you too much, my dear[/tab]
+[tab][ch]C[/ch]   [ch]C/G[/ch]   [ch]C/F[/ch]
+  To be loved only 'cause I'm here[/tab]
+
+[Instrumental]
+
+[ch]C[/ch] [ch]C/E[/ch] [ch]C/F[/ch]
+
+[ch]C[/ch] [ch]C/E[/ch] [ch]C/F[/ch]
+
+[Verse 3]
+
+[tab][ch]C[/ch]             [ch]C/E[/ch]
+Fool me once, fool me twice[/tab]
+[tab][ch]C/F[/ch]
+I'll be the fool[/tab]
+[tab][ch]C[/ch]             [ch]C/E[/ch]            [ch]C/F[/ch]
+Love you from far away, but I'll play it cool[/tab]
+[tab]   [ch]C[/ch]          [ch]C/E[/ch]          [ch]C/F[/ch]
+I wish loving people would somehow equal[/tab]
+[tab]    [ch]C[/ch]           [ch]C/E[/ch]          [ch]C/F[/ch]
+The notion that they love you too[/tab]
+
+[Pre-Chorus]
+
+[tab][ch]C/D[/ch]    [ch]C/F[/ch]
+I now know that[/tab]
+[tab][ch]C/D[/ch]    [ch]C/F[/ch]
+I can say in full honesty[/tab]
+
+[Chorus]
+
+[tab][ch]C[/ch]          [ch]C/G[/ch]       [ch]C/F[/ch]
+  That I'm simply a pastime for you[/tab]
+[tab][ch]C[/ch]             [ch]C/G[/ch]         [ch]C/F[/ch]
+  When you've got nothing better to do[/tab]
+[tab]    [ch]C[/ch]          [ch]C/G[/ch]
+I give you my world[/tab]
+[tab]     [ch]C/F[/ch]
+You give me a night[/tab]
+[tab]   [ch]C[/ch]                [ch]C/G[/ch]
+I think that you're perfect[/tab]
+[tab]     [ch]C/F[/ch]
+You think I'm alright[/tab]
+[tab]       [ch]C[/ch]* [ch]G[/ch]*   [ch]F[/ch]*
+'Cause I love you too much, my dear[/tab]
+[tab][ch]C[/ch]   [ch]C/G[/ch]  [ch]C/F[/ch]
+  To be loved only 'cause I'm here[/tab]
+
+[Bridge]
+
+[tab][ch]C/D[/ch]        [ch]C/F[/ch]
+  And it's not fair[/tab]
+[tab]        [ch]C/D[/ch]
+How you don't care[/tab]
+[tab]      [ch]C/F[/ch]                    [ch]C/D[/ch]
+But I cannot give up on this hurt[/tab]
+[tab]           [ch]C/F[/ch]
+Still it's not there[/tab]
+[tab]        [ch]C/D[/ch]          N.C.
+All the love that I thought I could earn, so[/tab]
+
+[Chorus]
+
+[tab][ch]C[/ch]             [ch]C/G[/ch]       [ch]C/F[/ch]
+  Guess I'll stay just a pastime for you[/tab]
+[tab][ch]C[/ch]             [ch]C/G[/ch]          [ch]C/F[/ch]
+  'Til you've got something better to do[/tab]
+[tab]      [ch]C[/ch]          [ch]C/G[/ch]
+I'll give you my world[/tab]
+[tab]       [ch]C/F[/ch]
+You'll give me a night[/tab]
+[tab]    [ch]C[/ch]               [ch]C/G[/ch]
+I think that you're perfect[/tab]
+[tab]    [ch]C/F[/ch]
+You think I'm alright[/tab]
+
+[tab]    [ch]C[/ch]* [ch]G[/ch]*   [ch]F[/ch]*
+But I love you too much, my dear[/tab]
+[tab][ch]C[/ch]*   [ch]G[/ch]*  [ch]F[/ch]*
+  To be loved only 'cause I'm here[/tab]
+
+* = play just the bass note once

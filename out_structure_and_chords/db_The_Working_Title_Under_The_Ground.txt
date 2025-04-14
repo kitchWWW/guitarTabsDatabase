@@ -1,0 +1,38 @@
+{
+    "intro": [
+        "Asus2",
+        "E",
+        "C#m",
+        "Bsus4",
+        "Asus2",
+        "E",
+        "C#m",
+        "Bsus4",
+        "Asus2"
+    ],
+    "verse": [
+        "Bsus4",
+        "G#m",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "E"
+    ],
+    "chorus": [
+        "Asus2",
+        "E",
+        "C#m",
+        "Bsus4",
+        "Asus2",
+        "E",
+        "C#m",
+        "Bsus4",
+        "Asus2"
+    ],
+    "bridge": [
+        "G#m",
+        "Bsus4",
+        "Asus2",
+        "Cmaj7"
+    ]
+}

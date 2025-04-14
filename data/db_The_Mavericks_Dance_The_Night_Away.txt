@@ -1,0 +1,70 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-mavericks/dance-the-night-away-chords-76225
+Artist: The Mavericks
+Song: Dance The Night Away
+Genre: 
+Key: 
+
+
+DANCE THE NIGHT AWAY
+
+(From the 1998 Album)
+Transcribed by Thom Pattison
+  
+
+Words and Music by Raul
+E 0 2 2 1 0 0
+  
+[tab][ch]B7[/ch]
+x 2 1 2 0 2[/tab]
+Gtr I ([ch]E[/ch] [ch]A[/ch] [ch]D[/ch] [ch]G[/ch] [ch]B[/ch] [ch]E[/ch]) - 'Untitled'
+
+There are only 2 chords repeated in this song and they are E and (shown above) 
+
+[tab]    Gtr I solo
+|----------------------------------------------------|
+|----------------------------------------------------|
+|---------1-----1-2-----------------2-----4-----4----|
+|-2---4-----2-4-----4-6-2---------4---4-2---2-1------|
+|---2---2-----------------4-2-4-6--------------------|
+|----------------------------------------------------|[/tab]
+
+
+Tablature Legend
+----------------
+ h   - hammer-on
+ p   - pull-off
+ b   - bend
+ pb  - pre-bend
+ r   - bend release (if no number after the r, then release immediately)
+ /\  - slide into or out of (from/to "nowhere")
+ s   - legato slide
+ S   - shift slide
+ &lt;> - natural harmonic
+[n]  - artificial harmonic
+n(n) - tapped harmonic
+ ~   - vibrato
+ tr  - trill
+ T   - tap
+ TP  - trem. picking
+ PM  - palm muting
+\n/  - tremolo bar dip; n = amount to dip
+ \n  - tremolo bar down
+ n/  - tremolo bar up
+/n\  - tremolo bar inverted dip
+ =   - hold bend; also acts as connecting device for hammers/pulls
+ &lt;> - volume swell (louder/softer)
+ x   - on rhythm slash represents muted slash
+ o   - on rhythm slash represents single note slash
+
+Misc Legend
+-----------
+ |  - bar
+||  - double bar
+||o - repeat start
+o|| - repeat end
+*|  - double bar (ending)
+ :  - bar (freetime)
+ $  - Segno
+ &  - Coda
+Tempo markers - &lt;E/E./Q/Q./H/H.&gt; = BPM(8/16=s8/s16),
+where s8 = swing 8ths, s16 = swing 16ths

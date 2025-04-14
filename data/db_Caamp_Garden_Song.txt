@@ -1,0 +1,103 @@
+URL: https://tabs.ultimate-guitar.com/tab/caamp/garden-song-chords-4264159
+Artist: Caamp
+Song: Garden Song
+Genre: 
+Key: Db
+
+
+[tab][Chords]
+    [ch]Dadd4[/ch]   [ch]G[/ch]     [ch]D7[/ch]   [ch]Bm/D[/ch]   [ch]C[/ch]     [ch]G[/ch]
+e|----------------------------------3----|
+B|----3-----3-----2-----1-----1-----3----|
+G|----0-----4-----3-----2-----0-----0----|
+D|----4-----5-----2-----x-----2-----0----|
+A|----5-----5-----3-----3-----3-----2----|
+E|----------------------------------3----|[/tab]
+
+
+[tab]Main riff used for the intro/verse/interlude/outro
+        [ch]Dadd4[/ch]         [ch]G[/ch]
+e|------------------------|
+B|--------1-----------3---|
+G|--------0------0h4--4---|
+D|---0h4--4-----------5---|
+A|--------5-----------5---|
+E|------------------------|[/tab]
+
+
+[Intro]
+[ch]Dadd4[/ch]  [ch]G[/ch] x3
+[ch]Dadd4[/ch]  [ch]D7[/ch]  [ch]Bm/D[/ch]  [ch]G[/ch]
+
+
+[Verse 1]
+[tab][ch]Dadd4[/ch]                 [ch]G[/ch]
+I really think you're cute[/tab]
+[tab][ch]Dadd4[/ch]                       [ch]G[/ch]
+When you're workin' in your garden[/tab]
+[tab][ch]Dadd4[/ch]             [ch]G[/ch]
+And you think I'm handsome[/tab]
+[tab][ch]Dadd4[/ch]              [ch]G[/ch]
+When I play the guitar[/tab]
+[tab][ch]Dadd4[/ch]      [ch]G[/ch]
+And I know everything about you[/tab]
+[tab][ch]Dadd4[/ch]               [ch]G[/ch]
+I think you know me through and through[/tab]
+[tab][ch]Dadd4[/ch]      [ch]G[/ch]
+I couldn't live without you[/tab]
+[tab][ch]Dadd4[/ch]
+Don't know what I'd do, oh no[/tab]
+
+
+[Chorus]
+[tab][ch]C[/ch]                             [ch]G[/ch]
+You think you're fallin' for me[/tab]
+[tab]               [ch]C[/ch]
+But you do not know[/tab]
+[tab]                               [ch]G[/ch]
+You think you're fallin' for me[/tab]
+
+
+[Interlude]
+[ch]Dadd4[/ch]  [ch]G[/ch] x2
+[ch]Dadd4[/ch]  [ch]D7[/ch]  [ch]Bm/D[/ch]  [ch]G[/ch]
+
+[Verse 2]
+[tab][ch]Dadd4[/ch]                 [ch]G[/ch]
+I really think you're cute[/tab]
+[tab][ch]Dadd4[/ch]                       [ch]G[/ch]
+When you're workin' in your garden[/tab]
+[tab][ch]Dadd4[/ch]   [ch]G[/ch]
+Smart   mouth like your daddy[/tab]
+[tab][ch]Dadd4[/ch]   [ch]G[/ch]
+Soft    hands like your mama[/tab]
+[tab][ch]Dadd4[/ch]       [ch]G[/ch]
+You like to stay up late[/tab]
+[tab][ch]Dadd4[/ch]           [ch]G[/ch]
+And watch indie movies[/tab]
+[tab][ch]Dadd4[/ch]        [ch]G[/ch]
+And when the credits roll[/tab]
+[tab][ch]Dadd4[/ch]
+I hear you say so sweet, "Oh no"[/tab]
+
+
+[Chorus]
+[tab][ch]C[/ch]                              [ch]G[/ch]
+You think you're fallin' for me[/tab]
+[tab]               [ch]C[/ch]
+But you do not know[/tab]
+[tab]                             [ch]G[/ch]
+You think you're fallin' for me[/tab]
+[tab]                   [ch]C[/ch]
+Oh, but you do not know[/tab]
+[tab]                         [ch]G[/ch]
+Think you're fallin' for me[/tab]
+[tab]               [ch]C[/ch]
+But you do not know[/tab]
+[tab]                             [ch]G[/ch]
+You think you're fallin' for me[/tab]
+
+
+[Outro]
+[ch]Dadd4[/ch]  [ch]G[/ch]  [ch]Dadd4[/ch]  [ch]G[/ch]  x3
+[ch]Dadd4[/ch]  [ch]G[/ch]  [ch]Dadd4[/ch]

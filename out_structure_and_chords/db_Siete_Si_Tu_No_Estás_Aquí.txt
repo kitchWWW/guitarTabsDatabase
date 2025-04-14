@@ -1,0 +1,34 @@
+{
+    "chorus-1": [
+        "Fm",
+        "C#sus2",
+        "G#",
+        "D#sus2",
+        "C#sus2",
+        "G#"
+    ],
+    "chorus-2": [
+        "Fm",
+        "C#sus2",
+        "G#",
+        "D#sus2",
+        "Fm",
+        "C#sus2",
+        "G#",
+        "D#sus2",
+        "Fm",
+        "C#sus2",
+        "G#",
+        "D#sus2",
+        "Fm",
+        "C#sus2",
+        "G#",
+        "D#sus2",
+        "D#sus2",
+        "Fm",
+        "C#sus2",
+        "G#",
+        "D#sus2",
+        "D#sus2"
+    ]
+}

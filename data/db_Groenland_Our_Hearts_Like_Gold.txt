@@ -1,0 +1,84 @@
+URL: https://tabs.ultimate-guitar.com/tab/groenland/our-hearts-like-gold-chords-5104837
+Artist: Groenland
+Song: Our Hearts Like Gold
+Genre: 
+Key: F#
+
+
+// One nice touch to approximate the piano effect is to struck the bass note on the 1st beat
+// and the rest of the chord on the 2nd and 4th.
+
+
+[Intro]
+[ch]F#[/ch]
+
+
+[Part I]
+[tab][ch]F#[/ch]
+We tried to take off on time because we care[/tab]
+[tab][ch]F#[/ch]                                       [ch]B[/ch]
+The animals were awfully kind to lead us there[/tab]
+[tab]                                [ch]F#[/ch]
+They felt us near, the way was clear[/tab]
+
+
+[Part II]
+[tab][ch]F#[/ch]
+Even when you think you know where you belong[/tab]
+[tab][ch]F#[/ch]                                       [ch]B[/ch]
+How can you expect to grow when you stay home[/tab]
+[tab]                                [ch]F#[/ch]
+Your feet are gold, get off the road[/tab]
+
+
+[Interlude]
+[ch]F#[/ch] \ [ch]B[/ch] \
+[ch]F#[/ch] \ [ch]B[/ch] \
+[ch]F#[/ch] \
+
+
+[Part III]
+[tab][ch]F#[/ch]
+We saw a cloud of grey smoke rising from your yard[/tab]
+[tab][ch]F#[/ch]
+The world has got the strangest ways to work things out[/tab]
+
+
+[Part IV]
+[tab]                          [ch]B[/ch]
+And our hearts will never be the same[/tab]
+[tab]                         [ch]F#[/ch]
+I wonder why I came but I did[/tab]
+[tab]                               [ch]B[/ch]
+And the things we thought we'd never see[/tab]
+[tab]                                    [ch]G#[/ch]
+We look up to the trees while they speak[/tab]
+[tab]  [ch]B[/ch]
+I'm right where you are[/tab]
+[tab]  [ch]Bm[/ch]                    [ch]F#[/ch]
+I don't need much more, for now[/tab]
+
+
+[Interlude]
+[ch]B[/ch] \ [ch]G#[/ch] \ [ch]B[/ch] \ [ch]F#[/ch] \
+[ch]B[/ch] \ [ch]G#[/ch] \ [ch]B[/ch] \ [ch]F#[/ch] \
+
+
+[Part V]
+[tab][ch]F#[/ch]                        [ch]B[/ch]
+And our hearts will never be the same[/tab]
+[tab]                        [ch]F#[/ch]
+I wonder why I came but I did[/tab]
+[tab][ch]F#[/ch]                             [ch]B[/ch]
+And the things we thought we'd never see[/tab]
+[tab]                                   [ch]F#[/ch]
+We look up to the trees while they speak[/tab]
+
+[tab][ch]F#[/ch]                        [ch]B[/ch]
+And our hearts will never be the same[/tab]
+[tab]                        [ch]F#[/ch]
+I wonder why I came but I did[/tab]
+[tab][ch]F#[/ch]                             [ch]B[/ch]
+And the things we thought we'd never see[/tab]
+[tab]                                   [ch]F#[/ch]
+We look up to the trees while they speak[/tab]

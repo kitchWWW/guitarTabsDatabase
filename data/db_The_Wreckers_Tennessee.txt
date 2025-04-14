@@ -1,0 +1,144 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-wreckers/tennessee-tabs-375561
+Artist: The Wreckers
+Song: Tennessee
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------------
+                          Tennessee – The Wreckers
+-------------------------------------------------------------------------------
+Tabbed by: Steph
+Email: clichedplatitude@hotmail.com
+
+Tuning: standard
+Capo on fourth fret
+
+[tab]this is the riff after many lines during the verses, I'm referring to it as X:
+e|----------------------|
+B|----------------------|
+G|----------------------|
+D|--0-0--2-2/4-2-0---0h2|
+A|-----------------3----|
+E|----------------------|[/tab]
+[tab]also, when switching chords often hit the bottom string at 0 and then hold to correct 
+such as:
+   Cadd9  G
+e|--3-----3-----|
+B|--3-----3-----|
+G|--0-----0-----|
+D|--2-----0-----|
+A|--0h3---2-----|
+E|--x-----0h3---|
+intro:[/tab]
+
+Cadd9 G Cadd9 G
+
+[tab]e|------------------|
+B|------------------|
+G|--0---------------|
+D|----4-2--0--------|
+A|-----------0h2----|
+E|------------------|[/tab]
+
+verse 1:
+Cadd9               G
+I never had all the answers
+Em                 D      (X)
+I never had enough time
+Cadd9              G
+I sure had all the reasons
+    Em                      D         (X)
+Why you weren't what I wanted to find
+
+verse 2:
+Cadd9                G
+I never layed all my cards out
+Em                 D      (X)
+You just wanted to play
+Cadd9                    G
+The king he waited on my doorsteps
+          Em                  D       (X)
+While the joker in me went on our way
+
+chorus:
+Cadd9       D
+Maybe I was much too selfish
+    G    D/F#               C      C  G/B
+But baby you're still on my mind
+       Cadd9      D
+Now I'm grown and all alone
+    G             D/F#    Em
+And wishing I was with you tonight
+        C             C   G/B D
+Cause I can guarantee
+                      Cadd9    G  Cadd9  G
+Things are sweeter in Tennessee
+
+[tab]after chorus:
+e|------------------------|
+B|------------------------|
+G|--0---------------------|
+D|----4-2--0--------------|
+A|-----------0h2--2/3\2-0-|
+E|------------------------|[/tab]
+
+verse 3:
+Cadd9                      G
+These days everything is all business
+    Em                      D
+I'm never in one place for too long
+Cadd9                     G
+There's no lack of arms around me
+            Em                    D         (X)
+But I still wonder if somewhere I went wrong
+
+chorus:
+Cadd9       D
+Maybe I was much too selfish
+    G    D/F#               C      C  G/B
+But baby you're still on my mind
+       Cadd9      D
+Now I'm grown and all alone
+    G             D/F#    Em
+And wishing I was with you tonight
+        C             C   G/B D
+Cause I can guarantee
+                      Cadd9    G  Cadd9  G
+Things are sweeter in Tennessee
+
+bridge:
+Am                               Em
+And I'd wish on every star in the southern sky
+         C
+For that man in our life
+   D
+If I did not think that, oh
+
+chorus:
+Cadd9       D
+Maybe I was much too selfish
+    G    D/F#               C      C  G/B
+But baby you're still on my mind
+       Cadd9      D
+Now I'm grown and all alone
+    G             D/F#    Em
+And wishing I was with you tonight
+        C             C   G/B D
+Cause I can guarantee
+                      Cadd9    G
+Things are sweeter in Tennessee
+        Cadd9          G/B
+Yes, I can guarantee
+                      Cadd9    G  Cadd9  G
+Things are sweeter in Tennessee
+
+
+the ending is just Cadd9 and G, sometimes sliding the high strings like a D chord 
+from 5th to 7th fret (e string)
+
+| /  slide up
+| \  slide down
+| h  hold
+| x  Mute note
+==============================================================================

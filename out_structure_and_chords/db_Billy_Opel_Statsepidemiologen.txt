@@ -1,0 +1,53 @@
+{
+    "verse-1": [
+        "G",
+        "Gm",
+        "G",
+        "Gm",
+        "Bb",
+        "C",
+        "Gm"
+    ],
+    "verse-2": [
+        "G",
+        "Gm",
+        "G",
+        "Gm",
+        "Bb",
+        "C",
+        "Gm"
+    ],
+    "verse-3": [
+        "G",
+        "Gm",
+        "G",
+        "Gm",
+        "Bb",
+        "C",
+        "Gm"
+    ],
+    "verse-4": [
+        "C",
+        "Gm",
+        "C",
+        "Gm",
+        "Bb",
+        "C",
+        "Gm",
+        "Bb",
+        "C",
+        "Gm"
+    ],
+    "instrumental-1": [
+        "C",
+        "Gm",
+        "C",
+        "D"
+    ],
+    "instrumental-2": [
+        "C",
+        "Gm",
+        "C",
+        "D"
+    ]
+}

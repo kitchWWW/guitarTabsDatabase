@@ -1,0 +1,38 @@
+{
+    "chorus-1": [
+        "Cm",
+        "Fm",
+        "Bb",
+        "Eb",
+        "Cm",
+        "Fm",
+        "Bb",
+        "Eb",
+        "Cm",
+        "Fm",
+        "Bb",
+        "Eb",
+        "Cm",
+        "Fm",
+        "Bb",
+        "Eb",
+        "Cm",
+        "Fm",
+        "Bb",
+        "Eb",
+        "Cm",
+        "Fm",
+        "Bb",
+        "Eb"
+    ],
+    "chorus-2": [
+        "Cm",
+        "Fm",
+        "Bb",
+        "Eb",
+        "Cm",
+        "Fm",
+        "Bb",
+        "Eb"
+    ]
+}

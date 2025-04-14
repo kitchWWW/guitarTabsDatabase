@@ -1,0 +1,100 @@
+{
+    "verse-1": [
+        "Dsus2",
+        "Bm11",
+        "F#m7",
+        "G6sus2",
+        "Dsus2",
+        "Bm11",
+        "F#m7",
+        "G6sus2"
+    ],
+    "verse-2": [
+        "Dsus2",
+        "Bm11",
+        "F#m7",
+        "G6sus2",
+        "Dsus2",
+        "Bm11",
+        "F#m7",
+        "G6sus2"
+    ],
+    "pre-chorus-1": [
+        "Em7",
+        "F#m7",
+        "G6sus2",
+        "Em7",
+        "F#m7",
+        "G6sus2"
+    ],
+    "pre-chorus-2": [
+        "Em7",
+        "F#m7",
+        "G6sus2",
+        "Em7",
+        "F#m7",
+        "G6sus2"
+    ],
+    "chorus-1": [
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "Fm11",
+        "G6sus2",
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "Fm11",
+        "G6sus2"
+    ],
+    "chorus-2": [
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "Fm11",
+        "G6sus2",
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "Fm11",
+        "G6sus2"
+    ],
+    "chorus-3": [
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "G6sus2",
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "Fm11",
+        "G6sus2",
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "Fm11",
+        "G6sus2",
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "Fm11",
+        "G6sus2",
+        "Dsus2",
+        "G6sus2",
+        "Bm11",
+        "Fm11",
+        "G6sus2"
+    ],
+    "bridge": [
+        "Bm11",
+        "Asus4",
+        "G6sus2",
+        "EM7",
+        "Cadd9"
+    ],
+    "outro": [
+        "Bm11",
+        "F#m7",
+        "G6sus2"
+    ]
+}

@@ -1,0 +1,105 @@
+URL: https://tabs.ultimate-guitar.com/tab/kettcar/nacht-chords-3619835
+Artist: Kettcar
+Song: Nacht
+Genre: 
+Key: F
+
+
+[Chords]
+Esus4/B:   x22200
+E6sus4/C#: x42200
+Bsus4:     x24400
+
+[Intro]
+| [ch]E[/ch] | [ch]Esus4/B[/ch] [ch]E6sus4/C#[/ch] | [ch]Bsus4[/ch] | [ch]Asus2[/ch] |
+| [ch]E[/ch] | [ch]Esus4/B[/ch] [ch]E6sus4/C#[/ch] | [ch]Bsus4[/ch] | [ch]Asus2[/ch] |
+
+[Verse 1]
+[tab][ch]E[/ch]                             [ch]Asus2[/ch]
+ Die Stufen, die Haustür, der Flur[/tab]
+[tab]                     [ch]Bsus4[/ch]
+Mein Herz schlägt im Dunkeln und ich[/tab]
+[tab]            [ch]Asus2[/ch]
+Lass hinter mir[/tab]
+[tab]                          [ch]E[/ch]
+Die letzten paar Meter gerannt[/tab]
+[tab]                           [ch]Asus2[/ch]
+Gerannt, um zu sehen wo du bist[/tab]
+[tab]                             [ch]Bsus4[/ch]
+Gerannt, um zu fühlen wie es ist[/tab]
+[tab]         [ch]Asus2[/ch]
+Hier bei dir[/tab]
+
+[Pre-Chorus]
+[tab][ch]G#m[/ch] [ch]A[/ch]      [ch]B[/ch]         [ch]A[/ch]          [ch]C#m[/ch]
+     Meine Welt aufgehoben und ich[/tab]
+[tab][ch]B[/ch]         [ch]E[/ch]         [ch]A[/ch]          [ch]G#m[/ch]
+ Kann die Welt in 3 Wörtern erklären[/tab]
+[tab][ch]A[/ch] [ch]B[/ch]             [ch]A[/ch]
+  Wenn ich denn müsste[/tab]
+[tab][ch]G#m[/ch]                 [ch]A[/ch]
+ Dort hinten wird's hell[/tab]
+
+[Chorus]
+[tab]    [ch]A[/ch]               [ch]B[/ch]            [ch]C#m[/ch]         [ch]G#m[/ch]
+Und schwarz wird zu grau wird zu rot wird zu Licht[/tab]
+[tab]    [ch]A[/ch]            [ch]B[/ch]           [ch]C#m[/ch]            [ch]G#m[/ch]
+Und benommen, verschwommen erkennen was man will[/tab]
+[tab]      [ch]A[/ch]         [ch]B[/ch]            [ch]C#m[/ch]       [ch]G#m[/ch]       [ch]A[/ch]     [ch]B[/ch]
+Meine Welt aufgehoben, meine Welt in 3 Wörtern erklärt[/tab]
+
+[Instrumental]
+| [ch]E[/ch] | [ch]Esus4/B[/ch] [ch]E6sus4/C#[/ch] | [ch]Bsus4[/ch] | [ch]Asus2[/ch] |
+
+[Verse 2]
+[tab][ch]E[/ch]                               [ch]Asus2[/ch]
+ Und alles was ich brauche heut Nacht[/tab]
+[tab]                 [ch]Bsus4[/ch]
+Eigentlich nicht viel[/tab]
+[tab]          [ch]Asus2[/ch]
+Nur einen Platz[/tab]
+[tab]              [ch]E[/ch]
+Von dem aus ich[/tab]
+[tab]                         [ch]Asus2[/ch]
+Deinen Schlaf beobachten kann[/tab]
+[tab]                         [ch]Bsus4[/ch]
+Das ist eigentlich nicht viel[/tab]
+[tab][ch]Asus2[/ch]
+Alles[/tab]
+
+[Pre-Chorus]
+[tab][ch]G#m[/ch] [ch]A[/ch]      [ch]B[/ch]         [ch]A[/ch]          [ch]C#m[/ch]
+     Meine Welt aufgehoben und ich[/tab]
+[tab][ch]B[/ch]         [ch]E[/ch]         [ch]A[/ch]          [ch]G#m[/ch]
+ Kann die Welt in 3 Wörtern erklären[/tab]
+[tab][ch]A[/ch] [ch]B[/ch]             [ch]A[/ch]
+  Wenn ich denn müsste[/tab]
+[tab][ch]G#m[/ch]                 [ch]A[/ch]
+ Dort hinten wird's hell[/tab]
+
+[Chorus]
+[tab]    [ch]A[/ch]               [ch]B[/ch]            [ch]C#m[/ch]         [ch]G#m[/ch]
+Und schwarz wird zu grau wird zu rot wird zu Licht[/tab]
+[tab]    [ch]A[/ch]            [ch]B[/ch]           [ch]C#m[/ch]            [ch]G#m[/ch]
+Und benommen, verschwommen erkennen was man will[/tab]
+[tab]      [ch]A[/ch]         [ch]B[/ch]            [ch]C#m[/ch]       [ch]G#m[/ch]       [ch]A[/ch]     [ch]B[/ch]
+Meine Welt aufgehoben, meine Welt in 3 Wörtern erklärt[/tab]
+
+[Outro]
+[tab]      [ch]C#m[/ch]       [ch]G#m[/ch]       [ch]A[/ch]     [ch]B[/ch]
+Meine Welt in 3 Wörtern erklärt[/tab]
+[tab]      [ch]C#m[/ch]       [ch]G#m[/ch]     [ch]A[/ch] [ch]B[/ch]
+Meine Welt in 3 Wörtern[/tab]
+[tab]      [ch]C#m[/ch]       [ch]G#m[/ch]
+Meine Welt in 3 Wörtern[/tab]
+
+[ch]A[/ch] [ch]B[/ch] [ch]C#m[/ch] [ch]G#m[/ch] x7
+[tab]      [ch]A[/ch]         [ch]B[/ch]            [ch]C#m[/ch]       [ch]G#m[/ch]       [ch]A[/ch]     [ch]B[/ch] [ch]C#m[/ch] [ch]G#m[/ch]
+Meine Welt aufgehoben, meine Welt in 3 Wörtern erklärt[/tab]
+[tab]      [ch]A[/ch]         [ch]B[/ch]            [ch]C#m[/ch]       [ch]G#m[/ch]       [ch]A[/ch]     [ch]B[/ch] [ch]C#m[/ch] [ch]G#m[/ch]
+Meine Welt aufgehoben, meine Welt in 3 Wörtern erklärt[/tab]
+[tab]      [ch]A[/ch]         [ch]B[/ch]            [ch]C#m[/ch]       [ch]G#m[/ch]       [ch]A[/ch]     [ch]B[/ch] [ch]C#m[/ch] [ch]G#m[/ch]
+Meine Welt aufgehoben, meine Welt in 3 Wörtern erklärt[/tab]
+
+[ch]A[/ch] [ch]B[/ch] [ch]C#m[/ch] [ch]G#m[/ch] x2
+[ch]A[/ch] [ch]B[/ch] [ch]E[/ch]

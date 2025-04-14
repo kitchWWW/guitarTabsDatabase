@@ -1,0 +1,69 @@
+URL: https://tabs.ultimate-guitar.com/tab/lords-of-acid/blowing-up-your-mind-bass-9053
+Artist: Lords of Acid
+Song: Blowing Up Your Mind
+Genre: 
+Key: 
+
+
+title-blowing up your mind
+artist-lords of acid
+tabbed by-bobby siegfried
+type-bass tablature
+send comments, corrections, tabs to: rustyrptle@aol.com
+tune down 1/2 step
+/=slide up
+\=slide down
+x=dead hits
+h=hammer on
+
+[tab]INTRO (finger picked VERY quietly at about 15th or 16th fret)
+   8x
+G| -------------------- |-----|
+D|.--------------------.|-----|
+A|.-7--7-7-5-5---------.|-7/--|
+E| ------------0-0-0-0- |-----|[/tab]
+
+[tab]VERSE PART 1
+   8x
+G| ------------------------- |
+D|.-------------------------.|
+A|.------------7-5----------.|
+E| -0--0-0-5-7-----5--5-5-7- |[/tab]
+
+[tab]VERSE PART 2
+   2x
+G| -------------------------------------------------------- |
+D|.-------------------------------------------------7/-19\-.|
+A|.-0--x-x-------0--0-0-0-2-3-0--x-x-------0--0-0-0--------.|
+E| --------0-0-0---------------------0-0-0----------------- |
+   note: the slide up from 7 is played 1st time
+	the slide down from 19 is played 2nd time[/tab]
+
+[tab]VERSE PART 3
+   2x	
+G| ------------------------- |
+D|.--------------5----------.|
+A|.-0--0-0-5h7-0---5--5-5-7-.|
+E| ------------------------- |[/tab]
+
+VERSE PART 2 1x (with slide from 19)
+
+[tab]CHORUS 
+   8x
+G| --------------------------- |
+D|.---------------------------.|
+A|.----------7-5--------------.|
+E| -0-0-0-0------0-0-0-0--2-3- |[/tab]
+
+INTRO 8x
+VERSE PART 1 8x
+VERSE PART 2 2x
+VERSE PART 3 2x
+VERSE PART 2 1x (with slide from 19)
+CHORUS 8x
+INTRO 8x
+VERSE PART 1 8x
+VERSE PART 2 2x
+VERSE PART 3 2x
+VERSE PART 2 1x (with slide from 19)
+CHORUS 8x

@@ -1,0 +1,103 @@
+{
+    "intro": [
+        "Em",
+        "D",
+        "Csus2"
+    ],
+    "verse-1": [
+        "Em",
+        "Csus2",
+        "Am",
+        "Csus2",
+        "Em",
+        "Csus2",
+        "Am",
+        "Csus2"
+    ],
+    "verse-2": [
+        "Em",
+        "Csus2",
+        "Am",
+        "Csus2",
+        "Em",
+        "Csus2",
+        "Am",
+        "Csus2"
+    ],
+    "pre-chorus-1": [
+        "D",
+        "Csus2",
+        "D",
+        "Csus2",
+        "D"
+    ],
+    "pre-chorus-2": [
+        "D",
+        "Csus2",
+        "D",
+        "Csus2",
+        "D"
+    ],
+    "chorus-1": [
+        "Em",
+        "G",
+        "D",
+        "Csus2",
+        "Em",
+        "G",
+        "D",
+        "Csus2",
+        "D",
+        "Em"
+    ],
+    "chorus-2": [
+        "Em",
+        "G",
+        "D",
+        "Csus2",
+        "Em",
+        "G",
+        "D",
+        "Csus2",
+        "Em",
+        "G",
+        "D",
+        "Csus2",
+        "Em",
+        "G",
+        "D",
+        "Csus2",
+        "D",
+        "Em"
+    ],
+    "instrumental": [
+        "Em",
+        "Csus2",
+        "G",
+        "D/F#"
+    ],
+    "bridge": [
+        "Em",
+        "Csus2",
+        "G",
+        "D/F#",
+        "Em",
+        "Csus2",
+        "G",
+        "D/F#",
+        "Em",
+        "Csus2",
+        "G",
+        "D/F#",
+        "Em",
+        "Csus2",
+        "G",
+        "D/F#"
+    ],
+    "outro": [
+        "Em",
+        "Csus2",
+        "D",
+        "Em"
+    ]
+}

@@ -1,0 +1,64 @@
+URL: https://tabs.ultimate-guitar.com/tab/4275691
+Artist: La Maravillosa Orquesta del Alcohol
+Song: Canción De Cuna
+Genre: 
+Key: 
+
+
+[Intro]
+
+[ch]D[/ch]
+[ch]Bm[/ch] [ch]G[/ch] [ch]D[/ch] [x8]
+
+[Chorus]
+[tab][ch]G[/ch]
+Todo lo cría la tierra[/tab]
+[tab][ch]D[/ch]
+Todo se lo come el sol[/tab]
+[tab][ch]G[/ch]
+Todo lo puede el dinero[/tab]
+[tab][ch]Bm[/ch]        [ch]G[/ch]        [ch]D[/ch]
+Todo lo vence el amor[/tab]
+
+[Bridge]
+[ch]Bm[/ch] [ch]G[/ch] [ch]D[/ch] [x4]
+
+[Chorus]
+[tab][ch]G[/ch]
+Todo lo cría la tierra[/tab]
+[tab][ch]D[/ch]
+Todo se lo come el sol[/tab]
+[tab][ch]G[/ch]
+Todo lo vence el dinero[/tab]
+[tab][ch]G[/ch]
+Todo lo vence el dinero[/tab]
+[tab][ch]Bm[/ch]       [ch]G[/ch]         [ch]D[/ch]
+Todo lo puede el amor[/tab]
+
+[Bridge]
+[ch]Bm[/ch] [ch]G[/ch] [ch]D[/ch] [x4]
+[ch]C[/ch] [ch]F[/ch] [ch]C[/ch]
+[ch]Am[/ch] [ch]F[/ch] [ch]C[/ch] [x2]
+[ch]F[/ch] [ch]G[/ch] [ch]Am[/ch] [x2]
+[ch]F[/ch] [ch]G[/ch] [ch]C[/ch]
+
+[Verse]
+[tab][ch]C[/ch]                               [ch]F[/ch]
+Este niño que llora no tiene cuna[/tab]
+[tab]                                       [ch]C[/ch]
+Su madre es carpintera y le va a hacer una[/tab]
+[tab][ch]C[/ch]
+Échate niño en la cuna[/tab]
+[tab][ch]C[/ch]
+Échate niño en la cuna[/tab]
+[tab]         [ch]Am[/ch]                        [ch]F[/ch]         [ch]C[/ch]
+Que a los pies tienes la luna y a la cabecera el sol[/tab]
+[tab][ch]C[/ch]
+Échate niño en la cuna[/tab]
+[tab][ch]C[/ch]
+Échate niño en la cuna[/tab]
+[tab]         [ch]Am[/ch]                        [ch]F[/ch]         [ch]C[/ch]
+Que a los pies tienes la luna y a la cabecera el sol[/tab]
+
+[Outro]
+[ch]F[/ch] [ch]C[/ch]

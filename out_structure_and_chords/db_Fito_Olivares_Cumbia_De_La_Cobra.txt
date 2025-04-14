@@ -1,0 +1,27 @@
+{
+    "intro": [
+        "Gm",
+        "Cm",
+        "F"
+    ],
+    "verse-1": [
+        "Gm",
+        "Cm",
+        "Gm"
+    ],
+    "verse-2": [
+        "Gm",
+        "Cm",
+        "Gm"
+    ],
+    "verse-3": [
+        "Gm",
+        "Cm",
+        "Gm"
+    ],
+    "verse-4": [
+        "Gm",
+        "Cm",
+        "Gm"
+    ]
+}

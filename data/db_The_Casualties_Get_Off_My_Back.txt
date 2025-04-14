@@ -1,0 +1,121 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-casualties/get-off-my-back-drums-880926
+Artist: The Casualties
+Song: Get Off My Back
+Genre: 
+Key: 
+
+
+
+Album: Die Hards
+
+Intro:
+
+[tab]  |-------15x------|
+S |--o---o---o---o-|--o---o-oooo----|
+Ft|o-o-o-o-o-o-o-o-|o-o-o-o-----oooo|
+B |o---oo--o---oo--|o---oo--o---o---|[/tab]
+
+[tab]  |-------3x-------|		   triplet
+t |----------------|----------/-|----|
+S |--o---o---o---o-|--o---o--o--o--o--|
+Ft|o-o-o-o-o-o-o-o-|o-o-o-o--o--o--o--|
+B |o---oo--o---oo--|o---oo------------|[/tab]
+
+[tab]  |-------3x-------|
+S |--o---o---o---o-|--o---o-oooo----|
+Ft|o-o-o-o-o-o-o-o-|o-o-o-o-----oooo|
+B |o---oo--o---oo--|o---oo--o---o---|[/tab]
+
+Verse (loose Hi-Hat):
+
+[tab]  |--------3x------|
+C |X---------------|----------------|
+H |--x-x-x-x-x-x-x-|x-x-x-x---------|
+S |--o---o---o---o-|--o---o-o-oooooo|
+B |o---oo--o---oo--|o---oo--o---o---|[/tab]
+
+Chorus (loose Hi-Hat):
+
+[tab]					   triplet
+C |X---------------|----------/-|----|
+H |--x-x-x-x-x-x-x-|x-x-x-x--x--x--x--|
+S |--o---o---o---o-|--o---o--o--o--o--|
+B |o---oo--o---oo--|o---oo------------|[/tab]
+
+[tab]C |X---------------|----------------|
+H |--x-x-x-x-x-x-x-|x-x-x-x---------|
+S |--o---o---o---o-|--o---o-oooo----|
+Ft|----------------|------------oooo|
+B |o---oo--o---oo--|o---oo----------|[/tab]
+
+
+
+
+Interlude:
+
+[tab]  |----------------3x---------------|
+R |x-x-x-x-x-x-x-x-|x-x-x-x---------|
+S |--o---o---o---o-|--o---o-oooo----|
+Ft|----------------|------------oooo|
+B |o---oo--o---oo--|o---oo--o---o---| [/tab]
+
+[tab]R |x-x-x-x-x-x-x-x-|----------------|
+S |--o---o---o---o-|oooo----oooo----|
+Ft|----------------|------oo----oooo|
+B |o---oo--o---oo--|o---o---o---o---| [/tab]
+
+Interlude 2:
+
+[tab]  |----------------4x---------------|
+R |x-x-x-x-x-x-x-x-|x-x-x-x---------|
+S |--o---o---o---o-|--o---o-oooo----|
+Ft|----------------|------------oooo|
+B |o---oo--o---oo--|o---oo--o---o---| [/tab]
+
+Interlude 3 (loose Hi-Hat):
+
+[tab]  |-------3x-------|
+H |x-x-x-x-x-x---x-|x-x-x-x---------|
+S |--o---o---o---o-|--o---o-oooo----|
+Ft|----------------|------------oooo|
+B |o---oo--o-------|o---oo--o---o---|[/tab]
+
+[tab]  |-------3x-------|
+H |x-x-x-x-x-x---x-|x-x-x-x---------|
+S |--o---o---o---o-|--o---o-oooo----|
+Ft|----------------|------------oooo|
+B |o---oo--o-------|o---oo--o---o---|[/tab]
+
+Ending:
+
+[tab]  |----------------3x---------------|
+R |x-x-x-x-x-x-x-x-|x-x-x-x---------|
+S |--o---o---o---o-|--o---o-oooo----|
+Ft|----------------|------------oooo|
+B |o---oo--o---oo--|o---oo--o---o---| [/tab]
+
+
+
+[tab]C |----------------|X---X---X-------|
+R |x-x-x-x-x-x-x-x-|----------------|
+S |--o---o---o---o-|----------------|
+B |o---oo--o---oo--|o---o---o-------| [/tab]
+
+
+Order:
+Intro
+Verse 
+Chorus
+Verse 
+Chorus
+Interlude
+Verse
+Chorus
+Verse 
+Chorus
+Interlude 2
+Interlude 3
+Chorus
+Verse
+Chorus
+Ending

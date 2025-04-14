@@ -1,0 +1,93 @@
+{
+    "intro": [
+        "Ebm7",
+        "Ebm7",
+        "Ebsus2",
+        "Ebm7",
+        "Eb5"
+    ],
+    "verse-1": [
+        "Ebm7",
+        "B",
+        "Ebm7",
+        "B",
+        "Ebm7",
+        "B",
+        "Ebm7",
+        "B",
+        "Bmaj7",
+        "Abm",
+        "Ebm7",
+        "Bmaj7",
+        "Abm",
+        "Bb"
+    ],
+    "verse-2": [
+        "Ebm7",
+        "B",
+        "Ebm7",
+        "B",
+        "Ebm7",
+        "B",
+        "Ebm7",
+        "B",
+        "Bmaj7",
+        "Abm",
+        "Ebm7",
+        "Bmaj7",
+        "Abm",
+        "Bb"
+    ],
+    "chorus-1": [
+        "Ebm7",
+        "Eb7sus4",
+        "Bmaj7",
+        "Ebm7"
+    ],
+    "chorus-2": [
+        "Ebm7",
+        "Eb7sus4",
+        "Bmaj7",
+        "Ebm7",
+        "Ebm7",
+        "Eb7sus4",
+        "Bmaj7",
+        "Ebm7"
+    ],
+    "chorus-3": [
+        "Ebm7",
+        "Eb7sus4",
+        "Bmaj7",
+        "Ebm7",
+        "Ebm7",
+        "Eb7sus4",
+        "Bmaj7",
+        "Ebm7",
+        "Ebm",
+        "Ebm7",
+        "Bmaj7"
+    ],
+    "solo": [
+        "Ebm7",
+        "Abm",
+        "Ebm",
+        "E",
+        "B",
+        "Gb",
+        "Abm",
+        "Ebm",
+        "E",
+        "B",
+        "Gb",
+        "B"
+    ],
+    "outro": [
+        "Ebm7",
+        "Eb7sus4",
+        "Bmaj7",
+        "Ebm7",
+        "Ebm7",
+        "Eb7sus4",
+        "Bmaj7"
+    ]
+}

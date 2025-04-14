@@ -1,0 +1,45 @@
+URL: https://tabs.ultimate-guitar.com/tab/f-minus/victim-in-pain-tabs-633041
+Artist: F-Minus
+Song: Victim In Pain
+Genre: 
+Key: 
+
+
+Artist: F-Minus
+Title: Victim In Pain
+Album: Won't Bleed Me/Failed Society (2005)
+Label: Alternative Tentacles/Blacknoise
+
+Sort of an easy song to play; the verse chords are pretty fast.
+If you have any suggestions or whatever, just leave a comment.
+
+
+[tab]  Intro Chord
+e|------------|
+B|------------|
+G|------------|
+D|-9----------|
+A|-9----------|
+E|-7----------|[/tab]
+
+[tab]  Verse Chords
+e|----------------|
+B|----------------|
+G|----------------|
+D|-9--/16--12--7--| repeat
+A|-9--/16--12--7--| 8 times
+E|-7--/14--10--6--|[/tab]
+
+[tab]  Chorus Chords
+e|------------------|------------------|
+B|------------------|------------------|
+G|------------------|------------------|
+D|-9--9-9---7--7-7--|-2--2-2---9--9-9--| repeat
+A|-9--9-9---7--7-7--|-2--2-2---9--9-9--| 2 times
+E|-7--7-7---5--5-5--|-0--0-0---7--7-7--|[/tab]
+
+Remaining order:
+.. Verse Chords 6 times
+.. Chorus Chords 2 times
+.. Verse Chords 2 times, play first chord + pick slide
+.. Verse Chords 2 times, play first chord

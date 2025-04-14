@@ -1,0 +1,123 @@
+URL: https://tabs.ultimate-guitar.com/tab/md-45/my-town-tabs-443991
+Artist: MD.45
+Song: My Town
+Genre: 
+Key: 
+
+
+                                MY  TOWN
+                                  MD45
+                   (From The 2004 Album The Carving)
+
+
+Transcribed by Jonathan Casper (confinedforever)
+
+Gtr 1 & 2 - Standard Tuning - (E A D G B E)
+
+
+
+
+
+[tab]Riff 1
+eb|-------------------|
+Bb|-------------------|
+Gb|-------------------|
+Db|-------------------|
+Ab|-2----5----7----8--|
+Eb|-0----3----5----6--|[/tab]
+
+
+[tab]Riff 2
+eb|------------------------------|
+Bb|------------------------------|
+Gb|------------------------------|
+Db|------------------------------|
+Ab|-------7/8-8-8--------7/8-8-8-|
+Eb|-0-5-0-5/6-6-6--0-5-0-5/6-6-6-|
+    * * *          * * *
+  "New York City, Hollywood..."[/tab]
+
+[tab]Final time:
+eb|-------------------------------------|
+Bb|-------------------------------------|
+Gb|-------------------------------------|
+Db|-------------------------------------|
+Ab|-------7/8-8-8--------7/8-8-8--------|
+Eb|-0-5-0-5/6-6-6--0-5-0-5/6-6-6--0-5-0-|
+    * * *          * * *          * * *
+   "...Denver, Seattle..."[/tab]
+
+
+Play Riff 1   "Tonight we stole..."
+Play Riff 2   "Cleveland, Charlotte..."
+Play Riff 1   "Tonight we stole..."
+
+
+[tab]Riff 3
+eb|---------------------------------|
+Bb|---------------------------------|
+Gb|---------------------------------|
+Db|---------5---------------5-------| --|
+Ab|---7p5-x---x-5h7-x-7p5-x---x-5h7-|   |
+Eb|-0-------------------------------|   |[/tab]
+                                        |
+[tab]eb|-----------------------------|       |--> Play 4x
+Bb|-----------------------------|       |
+Gb|-----------------------------|       |
+Db|-------5---------------------| ------|
+Ab|-7p5-x---x-5h7-x-7p5-x-5p4-x-|
+Eb|-----------------------------|[/tab]
+
+[tab]eb|---------------------------------|
+Bb|---------------------------------|
+Gb|---------------------------------|
+Db|---------------------------------|
+Ab|---5p4-x-4p3-x-3p2-x-2p1-0-----2-|
+Eb|-0-------------------------3-2-0-|
+                            * * *[/tab]
+
+Play Riff 2  "Nashville, Houston..."
+Play Riff 1  "Tonight we stole..."
+Play Riff 2
+
+[tab]Ending:
+eb|---------------------------------------|
+Bb|---------------------------------------|
+Gb|---------------------------------------|
+Db|---------------------------------------|
+Ab|-------7/8-8-8--------7/8-8-8--------2-|
+Eb|-0-5-0-5/6-6-6--0-5-0-5/6-6-6--0-5-0-0-|
+    * * *          * * *          * * *[/tab]
+
+
+Notation:
+
+10^        = bend a quarter step.
+10b11      = bend a half step.
+10b12      = bend a full step.
+10b12r10   = bend and release.
+[10]12     = pre-bend.
+[10]12r10  = pre-bend and release.
+{14}       = pick the 14th fret while holding the most 
+             previous bend.
+&lt;17>       = touch the string above the 17th fret while 
+             previous note(s) is(are) still ringing.
+
+10b13*     = tremolo bar bend, from the 10th fret to the 13th fret.
+7d4*       = tremolo bar dive, from the 7th fret to the 4th fret. 
+12~*       = tremolo bar vibrato.
+
+x   =  mute with fret-hand
+*   =  palm mute
+X\\ =  pick slide
+h   =  hammer-on
+p   =  pull-off
+~   =  vibrato
+t   =  finger tap
+/   =  slide up
+\   =  slide down
+h.  =  natural harmonics
+a   =  artificial harmonics
+(9) =  ghost note
+tm  =  trem picking
+tr  =  trill

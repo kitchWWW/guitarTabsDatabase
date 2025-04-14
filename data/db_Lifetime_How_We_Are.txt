@@ -1,0 +1,73 @@
+URL: https://tabs.ultimate-guitar.com/tab/lifetime/how-we-are-ukulele-1255916
+Artist: Lifetime
+Song: How We Are
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+
+Date: Sat, 3 Jan 1998 22:59:33 -0600 (CST)
+From: "Joe D." &lt;skunx@ix.netcom.com>
+Subject: "How We Are" by Lifetime
+
+tabbed by Joe fats (skunx@ix.netcom.com)
+
+CHORDS
+
+    [ch]D[/ch]    [ch]F#[/ch]   [ch]G[/ch]    [ch]A[/ch]  
+
+[tab]|----------------------|
+|----------------------|
+|---7------------------|
+|---7----4----5----7---|
+|---5----4----5----7---|
+|--------2----3----5---|[/tab]
+
+
+Intro riff:
+
+[tab]|------------------------|
+|------------------------|
+|--12-11-9-7-9--7-9-7-6--|
+|------------------------|
+|--10-9--7-5-7--5-7-5-4--|
+|------------------------|[/tab]
+
+Verse:
+
+[tab][ch]D[/ch]             [ch]F#[/ch]    [ch]G[/ch]       [ch]A[/ch]
+the kids wont come around tonight theyre stayin home[/tab]
+[tab][ch]D[/ch]          [ch]F#[/ch]        [ch]G[/ch]    [ch]A[/ch]
+what if we played to only 23 its how we are[/tab]
+[tab][ch]D[/ch]           [ch]F#[/ch]     [ch]G[/ch]       [ch]A[/ch]
+i heard you got us figured out and now theres talk [/tab]
+[tab] [ch]D[/ch]             [ch]F#[/ch]      [ch]G[/ch]          [ch]A[/ch]
+about the band we dont hear cause we dont care its how we are[/tab]
+
+CHORUS:
+
+[tab][ch]G[/ch]      [ch]A[/ch]      [ch]G[/ch]      [ch]A[/ch]       [ch]G[/ch]      [ch]A[/ch]      [ch]G[/ch]     [ch]A[/ch]          
+                     how we are                  how we are[/tab]
+
+Bridge:
+
+[tab][ch]D[/ch]            [ch]A[/ch]               [ch]F#[/ch]
+we'll go our way we may have changed[/tab]
+[tab]                [ch]G[/ch]           [ch]A[/ch]       [ch]D[/ch]
+but we're still here and we came to play[/tab]
+[tab]             [ch]A[/ch]               [ch]F#[/ch]                      [ch]G[/ch]
+we'll go our way we may have changed but we're still here[/tab]
+
+repeat Intro riff
+
+repeat Verse
+
+repeat CHORUS
+
+end on D
+
+=============================================================================

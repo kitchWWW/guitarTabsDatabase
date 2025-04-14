@@ -1,0 +1,68 @@
+URL: https://tabs.ultimate-guitar.com/tab/zurdok/pared-tabs-1121940
+Artist: Zurdok
+Song: Pared
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------------
+                                PARED - Zurdok
+-------------------------------------------------------------------------------
+Tabbed by:Rafa88offspring
+Email: rafa88offspring@hotmail.com
+
+Tuning: Standard (EADgbe)
+
+Aquí va esta rolilla de Zurdok :) cualquier cosa ahí está mi mail.
+
+[tab]Intro/Verso
+Guitarra 1
+Repite este acorde durante todo el verso
+e|-------|
+B|-------|
+G|-------|
+D|-5--5--|
+A|-5--5--|
+E|-3--3--|[/tab]
+
+[tab]Guitarra 2
+e|---3---3---3---3---2---2---2----2--|
+B|-3---3---3---3---3---3---3----3----|
+G|-----------------------------------|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|[/tab]
+
+[tab]Coro
+e|----------------------|
+B|----------------------|
+G|----------------------|
+D|-555555555-888-44444--|
+A|-555555555-888-44444--|
+E|-333333333-666-22222--|[/tab]
+
+[tab]Puente (parte de violines)
+e|-----------------------|
+B|-----------------------|
+G|----------------55555--|
+D|-555555555-8888-55555--|
+A|-555555555-8888-33333--|
+E|-333333333-6666--------|[/tab]
+
+
+************************************
+
+| /   slide up
+| \   slide down
+| h   hammer-on
+| p   pull-off
+| ~   vibrato
+| +   harmonic
+| x   Mute note
+| b   Bend
+| pb  Pre-bend
+| br  Bend release
+| pbr Pre-bend release
+| brb Bend release bend
+
+************************************

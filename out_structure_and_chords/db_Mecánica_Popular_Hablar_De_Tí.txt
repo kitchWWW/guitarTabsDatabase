@@ -1,0 +1,23 @@
+{
+    "chorus-1": [
+        "G5a(SOL)",
+        "A5a(LA)",
+        "B5a(SIm)",
+        "G5a(SOL)",
+        "A5a(LA)",
+        "A",
+        "Em",
+        "A",
+        "D",
+        "D",
+        "Em",
+        "A"
+    ],
+    "chorus-2": [
+        "G5a(SOL)",
+        "A5a(LA)",
+        "B5a(SIm)",
+        "G5a(SOL)",
+        "A5a(LA)"
+    ]
+}

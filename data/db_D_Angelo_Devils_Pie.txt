@@ -1,0 +1,37 @@
+URL: https://tabs.ultimate-guitar.com/tab/dangelo/devils-pie-bass-1723954
+Artist: D'Angelo
+Song: Devils Pie
+Genre: 
+Key: 
+
+
+                                    Devil's Pie
+                                      D'Angelo
+
+Bass                                                                  D'Angelo
+                                                     Christopher Edward Martin
+
+Tuning: DGCF
+
+Sample loops throughout song
+
+[tab]F|---------------------------------|---------------------------------|
+C|---------------------------------|---------------------------------|
+G|-3---5-3-------------------------|---------------------------------|
+D|-----------------6-------1---0---|-----1---4-----1-4---4-1-4-------|
+   E   S S Q       Q       E   E     E   E   E.    S E   S S Q[/tab]
+
+[tab]F|---------------------------------|---------------------------------|
+C|---------------------------------|---------------------------------|
+G|-3---5-3-------------------------|---------------------------------|
+D|-----------------6-------1---0---|-----1---4-----1-4---4-1-4---4---|
+   E   S S Q       Q       E   E     E   E   E.    S E   S S E   E[/tab]
+
+
+Key to rhythm notations:
+
+W - Whole Note/Semi-Brieve
+H - Half Note/Minim
+Q - Quarter Note/Crotchet       Q. - Dotted Quarter Note
+E - Eight Note/Quaver           E. - Dotted Eight Note
+S - Sixteenth Note/Semi-Quaver  S. - Dotted Sixteenth Note

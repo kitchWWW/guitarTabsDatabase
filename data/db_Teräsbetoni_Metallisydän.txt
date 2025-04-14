@@ -1,0 +1,141 @@
+URL: https://tabs.ultimate-guitar.com/tab/2943272
+Artist: Teräsbetoni
+Song: Metallisydän
+Genre: 
+Key: 
+
+
+[Intro]
+
+[tab]    [ch]F[/ch]                               [ch]F[/ch]       [ch]Dm[/ch]     [ch]A#[/ch]     [ch]F[/ch]
+e|--1-------------------------------1-------1------1------1-----|
+B|--1-------------------------------1-------3------3------1-----|
+G|--2--2--0----------------(5)------2-------2------3------2-----|
+D|--3--------3--2---0h2p0--(5)------3-------0------3------3-----|
+A|-(3)----------------------3-------3--------------1------3-----|
+E|-(1)------------------------------1---------------------1-----|[/tab]
+
+
+[tab]Optionally fingerpick first part of first verse like this:
+    [ch]F[/ch]                                 [ch]Dm[/ch]
+e|------------------------------------------1-------1-------1-------1-----|
+B|----------------------------------------3-------3-------3-------3-------|
+G|--------2-------2-------2-------2-----2-------2-------2-------2---------|
+D|------3-------3-------3-------3-----0-------0-------0-------0-----------|
+A|----3-------3-------3-------3-------------------------------------------|
+E|--1-------1-------1-------1---------------------------------------------|[/tab]
+
+[tab]    [ch]A#[/ch]                                [ch]F[/ch]                 [ch]E[/ch]       [ch]E7[/ch]
+e|-------------------------------------------------------------------------|
+B|--------3-------3-------3-------3----------------------------------------|
+G|------3-------3-------3-------3-----------2-------2---------1-------1----|
+D|----3-------3-------3-------3-----------3-------3---------2-------0------|
+A|--1-------1-------1-------1-----------3-------3---------2-------2--------|
+E|------------------------------------1-------1---------0-------0----------|[/tab]
+
+[tab]    [ch]Dm[/ch]               [ch]F[/ch]                [ch]G[/ch]
+e|--------1-------1------------------------------------------------------|
+B|------3-------3--------------------------------------------------------|
+G|----2-------2------------2-------2----------0---------------0----------|
+D|--0-------0------------3-------3--------0-----0---0-----0-----0---0----|
+A|---------------------3-------3--------2---------2-----2---------2------|
+E|-------------------1-------1--------3-----3---------3-----3------------|[/tab]
+
+[tab]    [ch]A#[/ch]               [ch]C[/ch]                [ch]F[/ch]
+e|-----------------------------------------------------------------------|
+B|--------3-------3--------1-------1-------------------------------------|
+G|------3-------3--------0-------0----------2-------2-------2-------2----|
+D|----3-------3--------2-------2----------3-------3-------3-------3------|
+A|--1-------1--------3-------3----------3-------3-------3-------3--------|
+E|------------------------------------1-------1-------1-------1----------|[/tab]
+
+
+[Verse 1]
+
+[tab][ch]F[/ch]                     [ch]Dm[/ch]
+Pimeys on nyt laskeutunut[/tab]
+[tab]     [ch]A#[/ch]                   [ch]F[/ch]    [ch]E[/ch] [ch]E7[/ch]
+Sammunut on tuli viimeinenkin[/tab]
+[tab]     [ch]Dm[/ch]   [ch]F[/ch]           [ch]G[/ch]
+Sydänyönä aika tullut on[/tab]
+[tab][ch]A#[/ch]    [ch]C[/ch]           [ch]F[/ch]
+Käydä yksin taistohon[/tab]
+
+[Chorus]
+
+[tab]    [ch]Dm[/ch]    [ch]A#[/ch]        [ch]F[/ch]      [ch]C[/ch]
+Kun yksin oot, eikä toivoa näy[/tab]
+[tab]    [ch]Dm[/ch]    [ch]A#[/ch]             [ch]F[/ch]      [ch]C[/ch]
+Oot voimaton ja raskaaks taakka käy[/tab]
+[tab]   [ch]F[/ch]  [ch]Am[/ch]     [ch]Dm[/ch]   [ch]A#[/ch]    [ch]F[/ch]    [ch]A#[/ch]    [ch]C[/ch]                   [ch]F[/ch]      [ch]G[/ch]
+Et luovuttaa saa, sillä rinnassasi hakkaa sydän metallinen[/tab]
+
+[Verse 2]
+
+[tab][ch]G[/ch]                  [ch]Em[/ch]
+Katson tähtitaivaalle[/tab]
+[tab]      [ch]C[/ch]                    [ch]G[/ch]
+Puhun kaatuneille sankareille[/tab]
+[tab][ch]D[/ch] [ch]Em[/ch]     [ch]G[/ch]            [ch]A[/ch]
+  Veljet! Tulen luoksenne[/tab]
+[tab]      [ch]C[/ch]          [ch]D[/ch]            [ch]G[/ch]
+Mutta moni vielä kuolee vuoksenne[/tab]
+
+[Chorus]
+
+[tab]    [ch]Em[/ch]    [ch]C[/ch]         [ch]G[/ch]      [ch]D[/ch]
+Kun yksin oot, eikä toivoa näy[/tab]
+[tab]    [ch]Em[/ch]   [ch]C[/ch]               [ch]G[/ch]      [ch]D[/ch]
+Oot voimaton ja raskaaks taakka käy[/tab]
+[tab]   [ch]G[/ch]  [ch]D[/ch]      [ch]Em[/ch]   [ch]C[/ch]     [ch]G[/ch]    [ch]C[/ch]     [ch]D[/ch]         [ch]B[/ch]
+Et luovuttaa saa, sillä rinnassasi hakkaa..[/tab]
+[tab]             [ch]Em[/ch]  [ch]D/F#[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]C[/ch]
+Sydän metallinen[/tab]
+
+[Bridge]
+
+[tab][ch]D[/ch]       [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]  [ch]D[/ch]  [ch]C[/ch]
+Metallisydän[/tab]
+[tab][ch]D[/ch]       [ch]B[/ch]      [ch]Em[/ch]  [ch]D/F#[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]C[/ch]
+  Sydän metallinen![/tab]
+[tab][ch]D[/ch]       [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]  [ch]D[/ch]
+Metallisydän[/tab]
+
+[Solo]
+
+[ch]C[/ch] [ch]B[/ch] [ch]A[/ch] [ch]G[/ch] [ch]F[/ch]    [ch]G[/ch]    [ch]A[/ch]    [ch]Em[/ch]    [ch]C[/ch]    [ch]D[/ch]    [ch]F#m[/ch]  [ch]F#[/ch]
+
+[ch]Bm[/ch]  [ch]B[/ch]  [ch]Em[/ch]  [ch]C[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]Em[/ch]  [ch]C[/ch]  [ch]G[/ch]  [ch]D[/ch]  [ch]G[/ch] [ch]D[/ch] [ch]Em[/ch] [ch]C[/ch] [ch]G[/ch] [ch]C[/ch] [ch]D[/ch]
+
+[Chorus]
+
+[tab]    [ch]Em[/ch]    [ch]C[/ch]         [ch]G[/ch]      [ch]D[/ch]
+Kun yksin oot, eikä toivoa näy[/tab]
+[tab]    [ch]Em[/ch]   [ch]C[/ch]             [ch]G[/ch]      [ch]D[/ch]
+Oot voimaton ja raskas taakka käy[/tab]
+[tab]   [ch]G[/ch]  [ch]D[/ch]      [ch]Em[/ch]   [ch]C[/ch]     [ch]G[/ch]    [ch]C[/ch]     [ch]D[/ch]         [ch]Em[/ch]  [ch]D/F#[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]C[/ch]
+Et luovuttaa saa, sillä rinnassasi hakkaa..[/tab]
+
+[Outro]
+
+[tab][ch]D[/ch]       [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]  [ch]D[/ch]  [ch]C[/ch]
+Metallisydän[/tab]
+[tab][ch]D[/ch]       [ch]B[/ch]      [ch]Em[/ch]  [ch]D/F#[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]C[/ch]
+  Sydän metallinen![/tab]
+[tab][ch]D[/ch]       [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]  [ch]D[/ch]  [ch]C[/ch]   [ch]D[/ch]  [ch]B[/ch]  [ch]Em[/ch]  [ch]D/F#[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]C[/ch]
+Metallisydän[/tab]
+[tab][ch]D[/ch]       [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]  [ch]D[/ch]  [ch]C[/ch]   [ch]D[/ch]  [ch]B[/ch]  [ch]Em[/ch]  [ch]D/F#[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]C[/ch]
+Metallisydän[/tab]
+[tab][ch]D[/ch]       [ch]G[/ch]    [ch]D/F#[/ch]  [ch]Em[/ch]  [ch]D[/ch]  [ch]C[/ch]   [ch]D[/ch]  [ch]B[/ch]  [ch]Em[/ch]
+Metallisydän[/tab]
+
+
+
+************************************
+
+| (n)  Ghost note
+| h    Hammer-on
+| p    Pull-off
+
+
+************************************

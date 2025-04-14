@@ -1,0 +1,117 @@
+URL: https://tabs.ultimate-guitar.com/tab/crx/slow-down-chords-1900671
+Artist: CRX
+Song: Slow Down
+Genre: 
+Key: 
+
+
+[CHORDS]
+
+Intro &amp; Verse
+[ch]Cm[/ch]    xxx888
+[ch]Gm[/ch]    xxx786
+[ch]F[/ch]     xxx565
+[ch]Fsus4[/ch] xxx566
+
+Chorus
+[ch]Cm[/ch]   xxx888
+[ch]Bb[/ch]   xxx766
+[ch]Gm[/ch]   xxx786
+[ch]F[/ch]    xxx565
+
+Bridge &amp; Outro
+[ch]Cm[/ch]   xx10-8-8x
+[ch]Gm[/ch]   xx12-12-11x
+[ch]Eb[/ch]   xxx12-11-11
+[ch]Bb[/ch]   xxx10-11-10
+[ch]F[/ch]    xxx10-10-8
+
+
+
+[Intro]
+[ch]Cm[/ch] [ch]Gm[/ch] [ch]F[/ch] [ch]Cm[/ch]
+[ch]Cm[/ch] [ch]Gm[/ch] [ch]F[/ch] [ch]Fsus4[/ch] [ch]F[/ch] [ch]Fsus4[/ch] [ch]F[/ch] [ch]Fsus4[/ch] [ch]F[/ch] [ch]Fsus4[/ch]
+[ch]Cm[/ch] [ch]Gm[/ch] [ch]F[/ch] [ch]Cm[/ch]
+[ch]Cm[/ch] [ch]Gm[/ch] [ch]F[/ch] [ch]Fsus4[/ch] [ch]F[/ch] [ch]Fsus4[/ch] [ch]F[/ch] [ch]Fsus4[/ch] [ch]F[/ch] [ch]Fsus4[/ch]
+
+
+[Verse]
+[tab][ch]Cm[/ch] [ch]Gm[/ch]        [ch]F[/ch]             [ch]Cm[/ch]
+I don't know why you go so fast[/tab]
+[tab][ch]Cm[/ch]     [ch]Gm[/ch]   [ch]F[/ch]
+Always racing[/tab]
+[tab][ch]Cm[/ch] [ch]Gm[/ch]   [ch]F[/ch]               [ch]Cm[/ch] 
+I wanna make the moment last[/tab]
+[tab][ch]Cm[/ch]       [ch]Gm[/ch]    [ch]F[/ch] 
+Keep you waiting[/tab]
+
+
+[Chorus]
+[tab][ch]Cm[/ch]      [ch]Bb[/ch]         [ch]Gm[/ch]         [ch]F[/ch]
+Oh slow down, slow down, slow down[/tab]
+[tab][ch]Cm[/ch]      [ch]Bb[/ch]         [ch]Gm[/ch]   [ch]F[/ch]
+Oh slow down, slow down[/tab]
+[tab][ch]Cm[/ch]      [ch]Bb[/ch]         [ch]Gm[/ch]         [ch]F[/ch]
+Oh slow down, slow down, slow down[/tab]
+[tab][ch]Cm[/ch]      [ch]Bb[/ch]         [ch]Gm[/ch]   [ch]F[/ch]
+Oh slow down, slow down[/tab]
+
+
+[Instrumental]
+[ch]Cm[/ch] [ch]Gm[/ch] [ch]F[/ch] [ch]Cm[/ch]
+[ch]Cm[/ch] [ch]Gm[/ch] [ch]F[/ch] 
+
+
+[Verse]
+[tab][ch]Cm[/ch] [ch]Gm[/ch]    [ch]F[/ch]           [ch]Cm[/ch]
+I see it all passing by[/tab]
+[tab][ch]Cm[/ch]      [ch]Gm[/ch]    [ch]F[/ch]
+Endless chasing[/tab]
+[tab][ch]Cm[/ch] [ch]Gm[/ch]       [ch]F[/ch]                [ch]Cm[/ch]
+I wish that I could stop the time[/tab]
+[tab][ch]Cm[/ch]       [ch]Gm[/ch]    [ch]F[/ch]
+And just save it[/tab]
+
+
+[Chorus]
+[tab][ch]Cm[/ch]      [ch]Bb[/ch]         [ch]Gm[/ch]         [ch]F[/ch]
+Oh slow down, slow down, slow down[/tab]
+[tab][ch]Cm[/ch]      [ch]Bb[/ch]         [ch]Gm[/ch]   [ch]F[/ch]
+Oh slow down, slow down[/tab]
+[tab][ch]Cm[/ch]      [ch]Bb[/ch]         [ch]Gm[/ch]         [ch]F[/ch]
+Oh slow down, slow down, slow down[/tab]
+[tab][ch]Cm[/ch]      [ch]Bb[/ch]         [ch]Gm[/ch]   [ch]F[/ch]
+Oh slow down, slow down[/tab]
+
+
+[Bridge]
+[tab][ch]Cm[/ch] [ch]Gm[/ch] [ch]Eb[/ch] [ch]Bb[/ch] [ch]F[/ch]
+............When I see you speeding by[/tab]
+[tab][ch]Cm[/ch] [ch]Gm[/ch] [ch]Eb[/ch] [ch]Bb[/ch] [ch]F[/ch]
+............All I do is wave goodbye[/tab]
+[tab][ch]Cm[/ch] [ch]Gm[/ch] [ch]Eb[/ch] [ch]Bb[/ch] [ch]F[/ch]
+............I wish I could pass some time[/tab]
+[tab][ch]Cm[/ch] [ch]Gm[/ch] [ch]Eb[/ch] [ch]Bb[/ch] [ch]F[/ch]
+............Enough to get it right[/tab]
+
+
+[Chorus]
+[tab][ch]Cm[/ch]   [ch]Bb[/ch]            [ch]Gm[/ch]            [ch]F[/ch]
+Slow down, Slow it down, slow it down[/tab]
+[tab][ch]Cm[/ch]   [ch]Bb[/ch]            [ch]Gm[/ch]            [ch]F[/ch]
+Slow down, Slow it down, slow it down[/tab]
+[tab][ch]Cm[/ch]   [ch]Bb[/ch]            [ch]Gm[/ch]            [ch]F[/ch]
+Slow down, Slow it down, slow it down[/tab]
+[tab][ch]Cm[/ch]   [ch]Bb[/ch]            [ch]Gm[/ch]            [ch]F[/ch]
+Slow down, Slow it down, slow it down[/tab]
+
+
+[Outro]
+[tab][ch]Cm[/ch] [ch]Gm[/ch] [ch]Eb[/ch] [ch]Bb[/ch] [ch]F[/ch]
+............Our lives our speeding by[/tab]
+[tab][ch]Cm[/ch] [ch]Gm[/ch] [ch]Eb[/ch] [ch]Bb[/ch] [ch]F[/ch]
+............Wish we could stop the time[/tab]
+[tab][ch]Cm[/ch] [ch]Gm[/ch] [ch]Eb[/ch] [ch]Bb[/ch] [ch]F[/ch]
+............All our lives are speeding by[/tab]
+[tab][ch]Cm[/ch] [ch]Gm[/ch]   [ch]Eb[/ch]    [ch]Bb[/ch]   [ch]F[/ch]
+Oh slow down, Slow down[/tab]

@@ -1,0 +1,105 @@
+{
+    "intro": [
+        "D",
+        "Bm",
+        "Csus2",
+        "Em7"
+    ],
+    "verse-1": [
+        "D",
+        "Bm",
+        "Csus2",
+        "Em7",
+        "D",
+        "Bm7",
+        "Csus2",
+        "Em7"
+    ],
+    "verse-2": [
+        "D",
+        "Bm",
+        "Csus2",
+        "Em7",
+        "D",
+        "Bm7",
+        "Csus2",
+        "Em7"
+    ],
+    "verse-3": [
+        "D",
+        "Bm",
+        "Csus2",
+        "Em7",
+        "D",
+        "Bm",
+        "Csus2",
+        "Em7"
+    ],
+    "chorus-1": [
+        "D",
+        "Gmaj7",
+        "Asus4",
+        "A",
+        "G/B",
+        "D",
+        "Gmaj7",
+        "Asus4",
+        "A",
+        "Asus2",
+        "A"
+    ],
+    "chorus-2": [
+        "D",
+        "Gmaj7",
+        "Asus4",
+        "A",
+        "G/B",
+        "D",
+        "Gmaj7",
+        "Asus4",
+        "A",
+        "Asus2",
+        "A",
+        "Bb",
+        "Gm7",
+        "D"
+    ],
+    "chorus-3": [
+        "D",
+        "Gmaj7",
+        "Asus4",
+        "A",
+        "G/B",
+        "D",
+        "Gmaj7",
+        "Asus4",
+        "A",
+        "Asus2",
+        "A"
+    ],
+    "bridge": [
+        "Em",
+        "C#m7b5",
+        "Bm",
+        "E/G#",
+        "G",
+        "Gm/Bb",
+        "D",
+        "Bm7",
+        "Csus2",
+        "Em7"
+    ],
+    "outro": [
+        "D",
+        "Gmaj7",
+        "Asus4",
+        "A",
+        "G/B",
+        "D",
+        "Gmaj7",
+        "Asus4",
+        "A",
+        "Asus2",
+        "A"
+    ]
+}

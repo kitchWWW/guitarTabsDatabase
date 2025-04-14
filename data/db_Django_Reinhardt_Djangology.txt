@@ -1,0 +1,107 @@
+URL: https://tabs.ultimate-guitar.com/tab/django-reinhardt/djangology-chords-489827
+Artist: Django Reinhardt
+Song: Djangology
+Genre: 
+Key: 
+
+
+Because of Django's disfigurement of his left hand he effectively only had the use of
+thumb, first and second digits. So he had to play chords using these only. It has been
+though that he was able in some instances to bring his disfigured fingers into play. We 
+will be using all of ours.
+
+Django had to find a method of playing chords with his disfigurement. So he substituted
+normal fingering to triads.
+
+The triad is an inherently easy chord to play, and when used imaginatively can be used
+great effect. Especially at speed.
+
+I don't know if you are familiar with these chords but they are essential to get that
+feel.
+
+They all can be transposed up and down the neck as required.
+
+I've always found when learning chords that putting them into context with a tune makes
+task a little easier. So I'll first show you the chord shapes to the tune:
+
+[ch]A[/ch] Maj
+
+[tab]E *!-----!-----!-----!-----!
+B *!-----!-----!-----!-----!
+G  !-----!-----!--3--!-----!
+D  !-(1)-!-----!-----!-----!
+A *!-----!-----!-----!-----!
+E  !-----!-----!--2--!-----!
+    7th[/tab]
+
+[ch]Cm6[/ch]
+
+[tab]E *!-----!-----!-----!-----!
+B *!-----!-----!-----!-----!
+G  !-----!--3--!-----!-----!
+D  !--1--!-----!-----!-----!
+A *!-----!-----!-----!-----!
+E  !-----!-(2)-!-----!-----!
+    7th[/tab]
+
+[ch]GMaj[/ch]
+
+[tab]E *!-----!-----!-----!-----!
+B *!-----!-----!-----!-----!
+G  !-----!-----!--3--!-----!
+D  !-(1)-!-----!-----!-----!
+A *!-----!-----!-----!-----!
+E  !-----!-----!--2--!-----!
+    5th[/tab]
+
+[ch]Bbm6[/ch]
+
+[tab]E *!-----!-----!-----!-----!
+B *!-----!-----!-----!-----!
+G  !-----!--3--!-----!-----!
+D  !--1--!-----!-----!-----!
+A *!-----!-----!-----!-----!
+E  !-----!-(2)-!-----!-----!
+    5th[/tab]
+
+[ch]Am6[/ch]
+
+[tab]E *!-----!-----!-----!-----!
+B *!-----!-----!-----!-----!
+G  !-----!--3--!-----!-----!
+D  !--1--!-----!-----!-----!
+A *!-----!-----!-----!-----!
+E  !-----!-(2)-!-----!-----!
+    4th[/tab]
+
+[ch]D7[/ch]
+
+[tab]E *!-----!-----!-----!-----!
+B *!-----!-----!-----!-----!
+G  !-----!--3--!-----!-----!
+D  !--1--!-----!-----!-----!
+A  !-----!-(2)-!-----!-----!
+E *!-----!-----!-----!-----!
+    4th[/tab]
+
+[ch]G6/9[/ch]
+
+[tab]E  !-----!--3--!-----!-----!
+B  !-----!--3--!-----!-----!
+G  !--1--!-----!-----!-----!
+D  !-----!-(2)-!-----!-----!
+A  !-----!--2--!-----!-----!
+E *!-----!-----!-----!-----!
+    4th[/tab]
+
+The Ab6/9 is the last chord (G6/9) slid up one fret. Then up one more for the A6/9
+
+[tab][ch]AMaj[/ch]  [ch]Cm6[/ch]  [ch]GMaj[/ch]  [ch]Bbm6[/ch]  [ch]Am6[/ch]  [ch]D7[/ch]
+  Rpt[/tab]
+ //    //   //    //   //   //  ////
+
+[tab][ch]Ab6/9[/ch]  [ch]A6/9[/ch]
+////   ////[/tab]
+
+[tab][ch]AMaj[/ch]  [ch]Cm6[/ch]  [ch]GMaj[/ch]  [ch]Bbm6[/ch]  [ch]Am6[/ch]  [ch]D7[/ch]  [ch]G6/9[/ch]
+ //    //   //    //   //   //  ////[/tab]

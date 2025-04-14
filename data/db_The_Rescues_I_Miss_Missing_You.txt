@@ -1,0 +1,80 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-rescues/i-miss-missing-you-ukulele-1352077
+Artist: The Rescues
+Song: I Miss Missing You
+Genre: 
+Key: 
+
+
+“I Miss Missing You”- The Rescues
+Tabbed by Robin Young
+
+For extra help, look out for a cover of this song on my YouTube channel, under 
+the username likeROCKSTAR.
+
+Tuning: DADGAD, Capo 3
+*All chords are relative to capo and are written out in the key of D. For the 
+real notes, transpose up by 3 half-steps to the key of F.
+
+CHORDS:
+[ch]Asus4[/ch]:        770700     (AEDDAD)
+[ch]A[/ch](add11):     770600     (AEDC#AD)
+[ch]B[/ch]-7:          990700     (BF#DDAD)
+[ch]Csus2[/ch](add13): 10.10.0000 (CGDGAD)
+[ch]D5[/ch]:           000200     (DADAAD)
+[ch]D/F#[/ch]:         400200     (F#ADAAD)
+[ch]E[/ch]-7sus4       220000     (EBDGAD)
+[ch]G[/ch](add9):      550400     (GDDBAD)
+[ch]G[/ch]-(add9):     550300     (GDDBbAD)
+[ch]Gsus2[/ch]:        550000     (GDDGAD)
+[ch]Gsus2[/ch](#11):   550600     (GDDC#AD)
+
+Intro:
+[ch]E[/ch]-7sus4  [ch]D/F#[/ch]  [ch]Gsus2[/ch] (2x)
+
+VERSE 1:
+[tab][ch]Gsus2[/ch](#11)                         [ch]D5[/ch]           [ch]A[/ch](add11)
+          I used to wish away your memory every night[/tab]
+[tab][ch]Gsus2[/ch](#11)                       [ch]D5[/ch]    [ch]A[/ch](add11)
+Trying to erase the lines you’ve drawn[/tab]
+[tab][ch]Gsus2[/ch](#11)                           [ch]D5[/ch]            [ch]A[/ch](add11)
+          But suddenly, you’ve faded almost out of sight[/tab]
+[tab]           [ch]B[/ch]-7    [ch]Csus2[/ch](add13) [ch]G(add9)[/ch]
+Now you’re going, going,       gone[/tab]
+
+CHORUS:
+[tab][ch]D5[/ch] [ch]E[/ch]-7sus4      [ch]D/F#[/ch] [ch]G(add9)[/ch]
+Why       did I try[/tab]
+[tab]   [ch]B[/ch]-7             [ch]A[/ch](add11)
+So hard to let you go?[/tab]
+[tab]      [ch]G(add9)[/ch]
+Well, deep down, I don’t know[/tab]
+[tab]   [ch]D5[/ch] [ch]E[/ch]-7sus4          [ch]D/F#[/ch]             [ch]G(add9)[/ch]
+If I         am really ready to say goodbye[/tab]
+[tab]    [ch]B[/ch]-7       [ch]A[/ch](add11)      [ch]G(add9)[/ch]
+Now what am I gonna hold on to?[/tab]
+[tab][ch]E[/ch]-7sus4 [ch]D/F#[/ch]  [ch]G[/ch]-      [ch]D5[/ch]
+I       miss  missing you[/tab]
+
+VERSE 2:
+I always felt some comfort in my loneliness
+If nothing else, it filled the space
+Now that I’m over you, I’m left with emptiness
+And nothing to take its place
+
+(CHORUS)
+
+[tab][ch]E[/ch]-7sus4 [ch]D/F#[/ch]  [ch]G[/ch]-
+I       miss  missing…[/tab]
+
+BRIDGE:
+[tab][ch]B[/ch]-7              [ch]A[/ch](add11)         [ch]G(add9)[/ch]    [ch]D5[/ch]  [ch]A[/ch](add11)
+   Your smile on every stranger’s face I saw[/tab]
+[tab][ch]B[/ch]-7              [ch]A[/ch](add11)         [ch]G(add9)[/ch]       [ch]Asus4[/ch]  [ch]A[/ch](add11)
+   Now I have to concentrate to remember you at all[/tab]
+
+(CHORUS/OUTRO)
+
+[tab][ch]E[/ch]-7sus4 [ch]D/F#[/ch]  [ch]G[/ch]-      [ch]B[/ch]-7         [ch]A[/ch](add11)
+I       miss  missing you, yes, I do[/tab]
+[tab][ch]E[/ch]-7sus4 [ch]D/F#[/ch]  [ch]G[/ch]-      [ch]D5[/ch]
+I       miss  missing you[/tab]

@@ -1,0 +1,120 @@
+{
+    "intro": [
+        "C",
+        "G",
+        "Am",
+        "F",
+        "G"
+    ],
+    "verse-1": [
+        "C",
+        "G",
+        "Am",
+        "F",
+        "G",
+        "C",
+        "G",
+        "Am",
+        "F",
+        "G",
+        "Dm",
+        "C",
+        "F",
+        "G"
+    ],
+    "verse-2": [
+        "D#",
+        "A#",
+        "Cm",
+        "G#",
+        "A#sus4",
+        "A#",
+        "D#",
+        "A#",
+        "Cm",
+        "G#",
+        "A#sus4",
+        "Fm",
+        "D#/G",
+        "G#",
+        "A#sus4",
+        "A#"
+    ],
+    "chorus-1": [
+        "C",
+        "Am",
+        "F",
+        "Gsus4",
+        "G",
+        "C",
+        "Am",
+        "F",
+        "Gsus4",
+        "G",
+        "C"
+    ],
+    "chorus-2": [
+        "D#",
+        "Cm",
+        "G#",
+        "A#sus4",
+        "A#",
+        "D#",
+        "Cm",
+        "G#",
+        "A#sus4",
+        "D#",
+        "Fm"
+    ],
+    "chorus-3": [
+        "F",
+        "Dm",
+        "A#",
+        "Csus4",
+        "C",
+        "F",
+        "Dm",
+        "A#",
+        "Csus4",
+        "C",
+        "Dm",
+        "C"
+    ],
+    "instrumental-1": [
+        "C",
+        "G",
+        "Am",
+        "F",
+        "G"
+    ],
+    "instrumental-2": [
+        "Fm",
+        "D#/G",
+        "G#",
+        "A#sus4",
+        "A#"
+    ],
+    "instrumental-3": [
+        "F",
+        "C",
+        "Dm",
+        "A#"
+    ],
+    "bridge": [
+        "Fm",
+        "G#",
+        "D#",
+        "A#sus4",
+        "A#",
+        "Fm",
+        "D#/G",
+        "G#",
+        "A#sus4",
+        "A#"
+    ],
+    "outro": [
+        "A#",
+        "Csus4",
+        "F"
+    ]
+}

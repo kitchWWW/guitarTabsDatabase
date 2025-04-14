@@ -1,0 +1,92 @@
+{
+    "intro": [
+        "Em7",
+        "Dsus4",
+        "Cadd9"
+    ],
+    "verse-1": [
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "G/B",
+        "Csus2",
+        "G/B",
+        "Csus2",
+        "Dsus4",
+        "G/B",
+        "Csus2",
+        "G/B",
+        "Csus2",
+        "Dsus4"
+    ],
+    "verse-2": [
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "G/B",
+        "Csus2",
+        "G/B",
+        "Csus2",
+        "Dsus4",
+        "G/B",
+        "Csus2",
+        "G/B",
+        "Csus2",
+        "Dsus4"
+    ],
+    "chorus-1": [
+        "G",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9"
+    ],
+    "chorus-2": [
+        "G",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9"
+    ],
+    "chorus-3": [
+        "G",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "Em7",
+        "Dsus4",
+        "Cadd9",
+        "G"
+    ],
+    "bridge": [
+        "A7sus4",
+        "Gadd9/B",
+        "Csus2",
+        "A7sus4",
+        "Gadd9/B",
+        "Csus2",
+        "D"
+    ]
+}

@@ -1,0 +1,61 @@
+URL: https://tabs.ultimate-guitar.com/tab/matchbox-twenty/busted-bass-7033
+Artist: Matchbox Twenty
+Song: Busted
+Genre: 
+Key: 
+
+
+BUSTED--Matchbox 20
+Tabbed by reynard75@hotmail.com
+
+Riff "A"
+
+[tab]G---------------
+D---------------
+A---------5-2-3-
+E---0-2-3-------[/tab]
+
+Riff "B"
+
+[tab]G-----------------
+D-----------------
+A-----7-5-7-------
+E-0-0-------3-3-2-[/tab]
+
+Riff "C"
+
+[tab]G-------------------
+D-------------------
+A-33333333-55555555-
+E-------------------[/tab]
+
+Riff "D"
+
+[tab]G----------------------------------------
+D-222-22-2-555-55-5----------------------
+A-------------------555-55-5-33-22-------
+E--------------------------------55-33---[/tab]
+
+
+INTRO:   Ax2
+VERSE I: Bx4, C
+         Bx6, C
+         Bx2, C
+CHORUS:  Dx2
+         Ax2
+VERSEII: Bx4, C
+         Bx2, C
+CHORUS:  Dx4
+         Ax2
+BRIDGE:  Pedal on C (a3) from 1st "...watched it" until "well,..."
+         Pedal on E (d2) from "well..." to "...watched it"
+         Pedal on C (a3) from "...watched it" until "well,...", GO TO:
+
+[tab]G-------------------------------------
+D-------------------------------------
+A-------0-2-3--0-3-5-----------5--3-5-
+E-0-2-3-----------------0-2-3---------[/tab]
+
+THEN:    Dx4
+         Ax2
+         Sustained open E (e0)

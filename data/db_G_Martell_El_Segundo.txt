@@ -1,0 +1,42 @@
+URL: https://tabs.ultimate-guitar.com/tab/g-martell/el-segundo-chords-3003833
+Artist: G Martell
+Song: El Segundo
+Genre: 
+Key: 
+
+
+[Intro]
+
+(Bajo)
+
+[Intro banda]
+
+[ch]BbMaj7[/ch] [ch]Am7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] x2
+
+[Verso 1] (Último Am7 abierto para entrar a coro)
+
+[ch]Gm7[/ch] [ch]Gm7[/ch] [ch]Am7[/ch] [ch]Am7[/ch] x4
+
+[Coro 1]
+
+[ch]BbMaj7[/ch] [ch]Am7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] x2
+
+[Verso 2] (Último Am7 con obligados diferentes a los del puente)
+
+[ch]Gm7[/ch] [ch]Gm7[/ch] [ch]Am7[/ch] [ch]Am7[/ch] x4
+
+[Coro 2]
+
+[ch]BbMaj7[/ch] [ch]Am7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] x4
+
+[Solo]
+
+[ch]BbMaj7[/ch] [ch]Am7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] x4
+
+[Puente Obligados]
+
+[ch]Dm7[/ch] [ch]Am7[/ch] [ch]BbMaj7[/ch] [ch]BbMaj7[/ch] x4
+
+[Coro Final] (En la última vuelta de este coro los dos Dm7 se tocan obligados igual que en el puente)
+
+[ch]BbMaj7[/ch] [ch]Am7[/ch] [ch]Dm7[/ch] [ch]Dm7[/ch] x4

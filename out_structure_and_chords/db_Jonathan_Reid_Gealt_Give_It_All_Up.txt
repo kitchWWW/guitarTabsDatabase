@@ -1,0 +1,70 @@
+{
+    "verse-1": [
+        "C#m7/A",
+        "D(add9)",
+        "C#m7/A",
+        "D(add9)",
+        "C#m7/A",
+        "D(add9)",
+        "C#m7/A",
+        "D(add9)"
+    ],
+    "verse-2": [
+        "C#m7/A",
+        "D(add9)",
+        "C#m7/A",
+        "D(add9)",
+        "C#m7/A",
+        "D(add9)",
+        "C#m7/A",
+        "D(add9)"
+    ],
+    "chorus-1": [
+        "F#m",
+        "E",
+        "D",
+        "F#m",
+        "E",
+        "D"
+    ],
+    "chorus-2": [
+        "F#m",
+        "E",
+        "D",
+        "F#m",
+        "E",
+        "D",
+        "A"
+    ],
+    "chorus-3": [
+        "F#m",
+        "E",
+        "D",
+        "F#m",
+        "E",
+        "D"
+    ],
+    "instrumental": [
+        "C#m7/A",
+        "D(add9)"
+    ],
+    "bridge-1": [
+        "E",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "F#m",
+        "E"
+    ],
+    "bridge-2": [
+        "C#m7/A",
+        "D(add9)",
+        "C#m7/A",
+        "D(add9)"
+    ],
+    "outro": [
+        "C#m7/A"
+    ]
+}

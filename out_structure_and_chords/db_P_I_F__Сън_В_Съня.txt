@@ -1,0 +1,42 @@
+{
+    "verse-1": [
+        "Bm",
+        "G",
+        "Asus2",
+        "C",
+        "Bm",
+        "G",
+        "Asus2",
+        "C"
+    ],
+    "verse-2": [
+        "Bm",
+        "G",
+        "Asus2",
+        "C",
+        "Bm",
+        "G",
+        "Asus2",
+        "C"
+    ],
+    "chorus-1": [
+        "Em",
+        "G",
+        "Asus2",
+        "C",
+        "Em",
+        "G",
+        "Asus2",
+        "C"
+    ],
+    "chorus-2": [
+        "Em",
+        "G",
+        "Asus2",
+        "C",
+        "Em",
+        "G",
+        "Asus2",
+        "C"
+    ]
+}

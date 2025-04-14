@@ -1,0 +1,108 @@
+{
+    "intro": [
+        "Bm7"
+    ],
+    "verse-1": [
+        "Bm7",
+        "Gsus2",
+        "Bm7",
+        "Gsus2"
+    ],
+    "verse-2": [
+        "Bm7",
+        "G",
+        "Dsus2",
+        "Bm7",
+        "G",
+        "Dsus2",
+        "Bm7",
+        "G",
+        "Dsus2",
+        "Bm7",
+        "A7",
+        "Dsus2"
+    ],
+    "verse-3": [
+        "D",
+        "Bm7",
+        "Gsus2",
+        "Dsus2",
+        "Bm7",
+        "Gsus2",
+        "Dsus2",
+        "Bm7",
+        "Gsus2",
+        "D"
+    ],
+    "instrumental": [
+        "D",
+        "Dsus2",
+        "D",
+        "Bm7",
+        "D",
+        "Dsus2",
+        "D",
+        "G"
+    ],
+    "chorus-1": [
+        "G",
+        "A",
+        "Bm7",
+        "Dsus2",
+        "G",
+        "A",
+        "Bm7",
+        "Dsus2",
+        "G",
+        "A",
+        "Bm7",
+        "Bm7",
+        "A",
+        "Gsus2",
+        "G",
+        "A",
+        "Bm7",
+        "Dsus2"
+    ],
+    "chorus-2": [
+        "G",
+        "A",
+        "Bm7",
+        "Dsus2",
+        "G",
+        "A",
+        "Bm7",
+        "Dsus2",
+        "G",
+        "A",
+        "Bm7",
+        "Bm7",
+        "A",
+        "Gsus2",
+        "G",
+        "A",
+        "Bm7",
+        "Dsus2"
+    ],
+    "bridge": [
+        "Gsus2",
+        "D",
+        "A7",
+        "Bm7",
+        "A",
+        "Gsus2",
+        "D",
+        "A7",
+        "D"
+    ],
+    "outro": [
+        "G",
+        "A",
+        "Bm7",
+        "D",
+        "G",
+        "A",
+        "Bm7",
+        "D"
+    ]
+}

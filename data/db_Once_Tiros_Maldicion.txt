@@ -1,0 +1,83 @@
+URL: https://tabs.ultimate-guitar.com/tab/once-tiros/maldicion-tabs-1574176
+Artist: Once Tiros
+Song: Maldicion
+Genre: 
+Key: 
+
+
+b - bend (estirar)
+br- bend and release (estirar y volver)
+p - pull off (ligado descendente)
+/ - slide
+
+Les mando la correccion de los acordes de esta cancion,
+y el último solo que no estaba publicado, el primer solo ya
+está publicado asi q no es necesario. Cualquier cosa escriban.
+
+Versos:
+=======
+      Bm        G       F#
+Maldicion otro dia como ayer,
+    Bm            G         F#
+sentado frente a la television,
+      Bm          G        D - A
+mutacion es mi estado natural,
+      Bm           G           F#
+peligroso pal que se quiera colgar.
+
+         Bm           G           F#           Bm  -  F#
+...y la razon no la ves ni por decreto de Dios.
+
+
+Estribillo:
+===========
+       D          A        Bm  -  G
+Y hay mas de lo que vos sabes,
+       D          A       Bm  -  G
+y hay mas de lo que imaginas,
+       D          A    Bm  -  G
+y hay mas de lo que crees,
+       A
+y hay mas de lo que podes.
+
+
+Parte pesada:
+============
+Bm - A - E
+
+No porque este...
+que me voy pal otro lado
+que me sale el salado
+que tengo dentro de mi...
+
+
+Ultimo solo:
+============
+
+[tab]E|---------------7---------10-12-14-12-10--10--10---------|
+B|-7--7-7-7-----10bv-----12--------------12-------12-12v--|
+G|-9b-7-9-9b----------------------------------------------|
+D|-----------9--------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|[/tab]
+
+[tab]E|-10----10-------------7--7-7-7-9-10--7-9-10/12--10-9-7--7-|
+B|---0-12--0-10---------7--7-7--------------------------10--|
+G|--------------9br-9br----7-7------------------------------|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|[/tab]
+
+[tab]E|-10p9p7-10p9p7-10p9p7-10p9p7-12p10p9-12p10p9-12p10p9-12p10p9-|
+B|-------------------------------------------------------------|
+G|-------------------------------------------------------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|[/tab]
+
+[tab]E|-10p9p7-10p9p7-------------------------|
+B|---------------10p8p7-10p8p7--7-7--7-7-|
+G|------------------------------7-7--7-7-|
+D|------------------------------9-9--9-9-|
+A|------------------------------9-9--9-9-|
+E|------------------------------7-7--7-7-|[/tab]

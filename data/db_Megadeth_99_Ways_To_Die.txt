@@ -1,0 +1,54 @@
+URL: https://tabs.ultimate-guitar.com/tab/megadeth/99-ways-to-die-tabs-74800
+Artist: Megadeth
+Song: 99 Ways To Die
+Genre: 
+Key: 
+
+
+Ayeh Guitarists!
+
+Since I'm bored lately, I thought I'd transcribe some other solo pieces
+from Megadeth (Yes, again. It's their 'fault', not mine...)
+
+Explanations:  P - pull off
+               H - hammer on
+               B - bend
+               R - release bend
+               / - slide up
+               \ - slide down
+               ^ - upstroke (the pick moves towards the sky. "Pull")
+               v - downstroke (the pick moves towards the ground. "Push")
+             (5) - let ring the indicated note, but don't pick
+
+BE CAREFUL WITH THE STROKE DIRECTION!!!
+
+===================================
+
+FIRST: A piece from the second solo of 99 Ways to Die 
+      (Megadeth, The Beavis and Butt-head Experience)
+
+Note: Very fast!!!
+
+[tab]    v  ^  v  ^  v  ^  v  ^    v  ^  v  ^  v  ^  v  ^
+E|-20-15-17----15----------|-15----------15----------|
+B|----------18----18-17-18-|----18-17-15----15-17----|
+G|-------------------------|----------------------18-|
+D|-------------------------|-------------------------|
+A|-------------------------|-------------------------|
+E|-------------------------|-------------------------|[/tab]
+
+[tab]    v  ^  v  ^  v  ^  v  v    ^     v  ^  v  ^     v  ^  ^
+E|-------------------------|-------------------------------|
+B|-15----------15-------18-|-------20-18-20-------20-18----|
+G|----18-17-18----18-15(15)|-18H19----------18H19-------19-|
+D|-------------------------|-------------------------------|
+A|-------------------------|-------------------------------|
+E|-------------------------|-------------------------------|[/tab]
+
+[tab]    v
+E|-19B21-------------------|-------------------------------|
+B|-------------------------|-------------------------------|
+G|-------------------------|-------------------------------|
+D|-------------------------|-------------------------------|
+A|-------------------------|-------------------------------|
+E|-------------------------|-------------------------------|[/tab]

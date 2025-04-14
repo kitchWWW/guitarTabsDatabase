@@ -1,0 +1,34 @@
+{
+    "pre-chorus-1": [
+        "Bb",
+        "C",
+        "Dm",
+        "Bb"
+    ],
+    "pre-chorus-2": [],
+    "chorus-1": [
+        "F",
+        "C",
+        "Dm",
+        "Bb",
+        "F",
+        "C",
+        "Dm",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "Dm",
+        "Bb",
+        "F",
+        "C",
+        "C"
+    ],
+    "chorus-2": [
+        "Bb",
+        "C",
+        "Dm",
+        "C"
+    ],
+    "bridge": []
+}

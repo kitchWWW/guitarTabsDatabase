@@ -1,0 +1,25 @@
+{
+    "intro": [
+        "Em",
+        "Am"
+    ],
+    "chorus": [
+        "G",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "G",
+        "Em",
+        "Am",
+        "G",
+        "Em",
+        "Am",
+        "G",
+        "Em",
+        "Am"
+    ],
+    "outro": [
+        "Em"
+    ]
+}

@@ -1,0 +1,78 @@
+URL: https://tabs.ultimate-guitar.com/tab/4189882
+Artist: Christian Panico
+Song: Dal Fondo Salirò
+Genre: 
+Key: Em
+
+
+[Intro]
+
+[ch]Em7[/ch] [ch]D/F#[/ch] [ch]G[/ch] [ch]C[/ch] [ch]G[/ch] [ch]D[/ch] [ch]Em7[/ch] [ch]D/F#[/ch] [ch]G[/ch]
+
+[Verse 1]
+
+[tab][ch]Em7[/ch]   [ch]D/F#[/ch]     [ch]G[/ch]
+Dimmi Cosa Vuoi[/tab]
+[tab][ch]C[/ch]                 [ch]G[/ch]     [ch]D/F#[/ch]
+Sei Felice Di Chi Siamo Noi[/tab]
+[tab][ch]Em7[/ch]   [ch]D/F#[/ch]    [ch]G[/ch]
+O Tu Vuoi Di Più[/tab]
+[tab][ch]C[/ch]                   [ch]G[/ch]        [ch]D/F#[/ch]
+Stai Cercando Ancora Quanto Puoi[/tab]
+[tab][ch]Em7[/ch] [ch]D/F#[/ch] [ch]G[/ch]
+Vado    Giù[/tab]
+[tab][ch]C[/ch]                    [ch]G[/ch]           [ch]D/F#[/ch]
+E I Bei Momenti Li Cambierei Nei Giorni[/tab]
+[tab][ch]Em7[/ch] [ch]D/F#[/ch] [ch]G[/ch]
+  Vorrei[/tab]
+[tab][ch]C[/ch]             [ch]G[/ch]      [ch]D/F#[/ch]
+Ma La Paura È Dentro Me[/tab]
+
+[Instrumental]
+
+[ch]Em7[/ch] [ch]D/F#[/ch] [ch]G[/ch]  [ch]Em7[/ch] [ch]D/F#[/ch] [ch]G[/ch]
+
+[Verse 2]
+
+[tab][ch]Em7[/ch]    [ch]D/F#[/ch]      [ch]G[/ch]
+E Dimmi Cosa Vuoi[/tab]
+[tab][ch]C[/ch]                      [ch]G[/ch]       [ch]D/F#[/ch]
+Non Sei Stanco Di Quei Vuoti E Poi[/tab]
+[tab][ch]Em7[/ch]   [ch]D/F#[/ch]    [ch]G[/ch]
+Ora Vuoi Di Più[/tab]
+[tab][ch]C[/ch]                  [ch]G[/ch]       [ch]D/F#[/ch]
+ma è difficile non so se puoi[/tab]
+[tab][ch]Em7[/ch] [ch]D/F#[/ch] [ch]G[/ch]
+ vado  giù[/tab]
+[tab][ch]C[/ch]                  [ch]G[/ch]             [ch]D/F#[/ch]
+I Bei Momenti Li Cambierei Nei Giorni[/tab]
+[tab][ch]Em7[/ch] [ch]D/F#[/ch] [ch]G[/ch]
+  Potrei[/tab]
+[tab][ch]C[/ch]              [ch]G[/ch]       [ch]D/F#[/ch]
+Ma La Paura È Dentro Di Me[/tab]
+
+[Chorus]
+
+[tab][ch]Am[/ch]              [ch]D/F#[/ch]            [ch]G[/ch]        [ch]D/F#[/ch] [ch]Em7[/ch]
+Hai Visto Sono Fuori Dal Mare, Dalle Profondità[/tab]
+[tab][ch]Am[/ch]               [ch]D/F#[/ch]                [ch]G[/ch]      [ch]D/F#[/ch]   [ch]Em7[/ch]
+E Prendo Il Volo Senza Paure. Noi Siamo Lontani Ormai[/tab]
+[tab][ch]Am[/ch]          [ch]D/F#[/ch]   [ch]G[/ch]                  [ch]D/F#[/ch] [ch]Em7[/ch]
+E Dal Fondo Salirò E Dal Fondo, Fondo Salirò[/tab]
+[tab][ch]Am[/ch]           [ch]D/F#[/ch]      [ch]G[/ch]        [ch]D/F#[/ch]   [ch]Em7[/ch]
+E Dal Fondo Salirò Noi Siamo Lontani Ormai[/tab]
+
+[Instrumental]
+[ch]Bm[/ch] [ch]D[/ch] [ch]A[/ch] [ch]Em[/ch] 
+[ch]Bm[/ch] [ch]D[/ch] [ch]A[/ch]
+
+[Chorus]
+
+[tab][ch]Am[/ch]             [ch]D/F#[/ch]            [ch]G[/ch]       [ch]D/F#[/ch] [ch]Em7[/ch]
+Hai Visto Sono Fuori Dal Mare Dalle Profondità[/tab]
+[tab][ch]Am[/ch]                [ch]D/F#[/ch]           [ch]G[/ch]      [ch]D/F#[/ch]    [ch]Em7[/ch]
+Prendiamo Il Volo Senza Paure Voliamo Lontano Ormai[/tab]
+[tab][ch]Am[/ch]           [ch]D/F#[/ch]  [ch]G[/ch]       [ch]D/F#[/ch]           [ch]Em7[/ch]
+E Dal Fondo Salirò E Dal Fondo, Fondo Salirò[/tab]
+[tab][ch]Am[/ch]            [ch]D/F#[/ch]     [ch]G[/ch]       [ch]D/F#[/ch]   [ch]Em7[/ch]
+E Dal Fondo Salirò Voliamo Lontano Ormai[/tab]

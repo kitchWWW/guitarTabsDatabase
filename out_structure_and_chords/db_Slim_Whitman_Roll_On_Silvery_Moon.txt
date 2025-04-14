@@ -1,0 +1,58 @@
+{
+    "intro": [
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb"
+    ],
+    "verse": [
+        "Eb",
+        "D",
+        "Bb",
+        "Gm",
+        "F",
+        "Eb",
+        "Eb",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Eb",
+        "D",
+        "Eb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "D",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb"
+    ],
+    "instrumental": [
+        "Ab",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb"
+    ],
+    "outro": [
+        "Ab",
+        "Eb",
+        "Gm",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab"
+    ]
+}

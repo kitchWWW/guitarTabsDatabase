@@ -1,0 +1,46 @@
+{
+    "intro": [
+        "D",
+        "Gmaj7",
+        "Em",
+        "D",
+        "D"
+    ],
+    "verse-1": [
+        "D",
+        "Gmaj7",
+        "Em",
+        "D",
+        "Gmaj7",
+        "Em",
+        "Asus4",
+        "A",
+        "Gmaj7",
+        "Em",
+        "A",
+        "D",
+        "Gmaj7",
+        "Em"
+    ],
+    "verse-2": [
+        "D",
+        "Gmaj7",
+        "Em",
+        "D",
+        "Gmaj7",
+        "Em",
+        "Asus4",
+        "A",
+        "Gmaj7",
+        "Em",
+        "A",
+        "D"
+    ],
+    "chorus": [
+        "Gmaj7",
+        "Em",
+        "A",
+        "Bm",
+        "Gmaj7"
+    ]
+}

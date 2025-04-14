@@ -1,0 +1,104 @@
+URL: https://tabs.ultimate-guitar.com/tab/3836834
+Artist: Dota Kehr
+Song: Für Einen
+Genre: 
+Key: 
+
+
+[Intro]
+
+[tab]   [ch]G[/ch]                 [ch]G[/ch]
+e|-----------------|-----------------|
+B|-----------------|-------------0---|
+G|--(0)--0-----2---|-------0---------|  (0) string is caught slightly,
+D|---0-2-----2-----|---0-2-----2-----|      probably by mistake
+A|-----------------|-----------------|
+E|-3---------------|-3---------------|[/tab]
+
+[Verse 1]
+
+[tab][ch]D[/ch]                            [ch]G[/ch]*
+  Die Andern sind das weite Meer[/tab]
+[tab][ch]D[/ch]                   [ch]G[/ch]
+  Du aber bist der Hafen[/tab]
+[tab][ch]Bm[/ch]           [ch]A[/ch]                    [ch]Em[/ch]
+  So glaube mir: kannst ruhig schlafen[/tab]
+[tab][ch]D[/ch]                          [ch]G[/ch]
+  Ich steure immer wieder her[/tab]
+
+[Verse 2]
+
+[tab][ch]D[/ch]                            [ch]G[/ch]
+  Die Andern sind das weite Meer[/tab]
+[tab][ch]D[/ch]                   [ch]G[/ch]
+  Du aber bist der Hafen[/tab]
+[tab][ch]Bm[/ch]           [ch]A[/ch]                    [ch]Em[/ch]
+  So glaube mir: kannst ruhig schlafen[/tab]
+[tab][ch]D[/ch]                          [ch]G[/ch]
+  Ich steure immer wieder her[/tab]
+
+[Chorus]
+
+[tab][ch]Bm[/ch]               [ch]A[/ch]                [ch]G[/ch]
+  Denn all die Stürme, die mich trafen[/tab]
+[tab]                          [ch]Bm[/ch]
+  Sie ließen meine Segel leer[/tab]
+[tab]              [ch]A[/ch]              [ch]Em[/ch]*
+  Die Andern sind das bunte Meer[/tab]
+
+[Verse 3]
+
+[tab][ch]D[/ch]                   [ch]G[/ch]
+  Du aber bist der Hafen[/tab]
+[tab][ch]D[/ch]                   [ch]G[/ch]
+  Du aber bist der Hafen[/tab]
+
+[Bridge]
+
+[tab][ch]Em[/ch]             [ch]F#[/ch]        [ch]D[/ch]
+  Du bist der Leuchtturm, Letztes Ziel[/tab]
+[tab][ch]G[/ch]         [ch]A[/ch]                  [ch]Bm[/ch]    [ch]A[/ch]
+  Kannst Liebster, ruhig schlafen[/tab]
+[tab][ch]G[/ch]           [ch]A[/ch]  [ch]Em[/ch]*
+  Die Andern...   das ist Wellenspiel[/tab]
+
+[Verse 4]
+
+[tab][ch]D[/ch]                   [ch]G[/ch]
+  Du aber bist der Hafen[/tab]
+[tab][ch]D[/ch]                   [ch]G[/ch]
+  Du aber bist der Hafen[/tab]
+
+[Instrumental]
+
+[ch]D[/ch] [ch]G[/ch]
+[ch]D[/ch] [ch]G[/ch]
+
+[Bridge]
+
+[tab][ch]Em[/ch]             [ch]F#[/ch]        [ch]D[/ch]
+  Du bist der Leuchtturm, Letztes Ziel[/tab]
+[tab][ch]G[/ch]         [ch]A[/ch]                  [ch]Bm[/ch]    [ch]A[/ch]
+  Kannst Liebster, ruhig schlafen[/tab]
+[tab][ch]G[/ch]           [ch]A[/ch]  [ch]Em[/ch]*
+  Die Andern...   das ist Wellenspiel[/tab]
+
+[Verse 5]
+
+[tab][ch]D[/ch]                   [ch]G[/ch]
+  Du aber bist der Hafen[/tab]
+[tab][ch]D[/ch]                   [ch]G[/ch]
+  Du aber bist der Hafen[/tab]
+
+[Outro]
+
+[ch]D[/ch] [ch]G[/ch]
+[ch]D[/ch]
+
+[tab]   [ch]G[/ch]                 [ch]G[/ch]
+e|-----------------|-----------------|
+B|-----------------|-------------0---|
+G|-------0-----2---|-------0---------|
+D|---0-2-----2-----|---0-2-----2-----|
+A|-----------------|-----------------|
+E|-3---------------|-3---------------|[/tab]

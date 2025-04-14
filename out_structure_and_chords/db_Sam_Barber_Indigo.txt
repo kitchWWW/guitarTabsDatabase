@@ -1,0 +1,111 @@
+{
+    "intro-1": [],
+    "intro-2": [
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "C/G",
+        "Dadd4/A",
+        "Em"
+    ],
+    "verse-1": [
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "C/G",
+        "Dadd4/A"
+    ],
+    "verse-2": [
+        "C/G",
+        "Dadd4/A",
+        "Em"
+    ],
+    "pre-chorus-1": [
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "C/G",
+        "Dadd4/A",
+        "Em"
+    ],
+    "pre-chorus-2": [
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "C/G",
+        "Dadd4/A",
+        "Em"
+    ],
+    "pre-chorus-3": [
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "C/G",
+        "Dadd4/A",
+        "Em"
+    ],
+    "chorus-1": [
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G",
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G",
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G"
+    ],
+    "chorus-2": [
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G",
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G",
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G"
+    ],
+    "chorus-3": [
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G",
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G",
+        "C/G",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "Em",
+        "Dadd4/A",
+        "C/G",
+        "Dadd4/A",
+        "Em"
+    ],
+    "outro": [
+        "C/G",
+        "Dadd4/A",
+        "Em"
+    ]
+}

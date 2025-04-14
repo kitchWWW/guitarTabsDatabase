@@ -1,0 +1,102 @@
+URL: https://tabs.ultimate-guitar.com/tab/4974853
+Artist: Cafuné
+Song: Perspective
+Genre: 
+Key: 
+
+
+Single released March 3, 2023
+Youtube link: https://youtu.be/n87C0iUyrCU
+Spotify link: https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI?si=1b5826542f0f4a11
+
+Half-step down tuning. If you want to play this song with your guitar tuned on standard tuning,
+set the "TRANSPOSE" button to -1.
+
+
+[Intro]
+| [ch]C#m[/ch]       | [ch]G#m7[/ch]      | [ch]Amaj7[/ch]     | [ch]G#m7[/ch]      |
+
+
+[Verse 1]
+[tab][ch]C#m[/ch]        [ch]G#m7[/ch]
+ Someplace, waiting[/tab]
+[tab][ch]Amaj7[/ch]      [ch]G#m7[/ch]
+ Repeating conversations[/tab]
+[tab][ch]C#m[/ch]          [ch]G#m7[/ch]   [ch]Amaj7[/ch]
+ That haven't taken place[/tab]
+[tab]   [ch]G#m7[/ch]
+Outside of my head[/tab]
+[tab][ch]C#m[/ch]     [ch]G#m7[/ch]
+ Hitting pavement[/tab]
+[tab][ch]Amaj7[/ch]    [ch]G#m7[/ch]
+ Lost in my displacement[/tab]
+[tab][ch]C#m[/ch]     [ch]G#m7[/ch]
+ Trading places[/tab]
+[tab]      [ch]Amaj7[/ch]                   [ch]G#m7[/ch]
+We've been here before, going backwards and forwards[/tab]
+
+
+[Chorus]
+[tab]   [ch]Amaj7[/ch]
+If memory serves[/tab]
+[tab]        [ch]E[/ch]                     [ch]B[/ch]
+We were walking around on the east side[/tab]
+[tab][ch]Amaj7[/ch]
+Talking what you deserve[/tab]
+[tab]   [ch]E[/ch]                   [ch]B[/ch]
+To live as much as you learn[/tab]
+[tab]      [ch]Amaj7[/ch]
+And I saw your face fall[/tab]
+[tab]            [ch]E[/ch]                 [ch]B[/ch]
+Through the hours of daylight left[/tab]
+[tab]          [ch]G#m7[/ch]
+Now we're running out of time[/tab]
+[tab][ch]F#m[/ch]                     [ch]G#m7[/ch]
+ I think I'm losing perspective[/tab]
+
+
+[Post-Chorus]
+| [ch]C#m[/ch]       | [ch]G#m7[/ch]      | [ch]Amaj7[/ch]     | [ch]G#m7[/ch]      |
+| [ch]C#m[/ch]       | [ch]G#m7[/ch]      | [ch]Amaj7[/ch]     | [ch]G#m7[/ch]      |
+
+
+[Verse 2]
+N.C.
+Tender placement
+[tab][ch]Amaj7[/ch]            [ch]G#m7[/ch]
+ A bruise that's never fading[/tab]
+[tab][ch]C#m[/ch]     [ch]G#m7[/ch]
+ Picking favorites[/tab]
+[tab][ch]Amaj7[/ch]     [ch]G#m7[/ch]
+ With the phrase that pays[/tab]
+
+
+[Chorus]
+[tab]       [ch]Amaj7[/ch]
+But if memory serves[/tab]
+[tab]        [ch]E[/ch]                     [ch]B[/ch]
+We were walking around on the east side[/tab]
+[tab][ch]Amaj7[/ch]
+Talking what you deserve[/tab]
+[tab]   [ch]E[/ch]                   [ch]B[/ch]
+To live as much as you learn[/tab]
+[tab]      [ch]Amaj7[/ch]
+And I saw your face fall[/tab]
+[tab]            [ch]E[/ch]                 [ch]B[/ch]
+Through the hours of daylight left[/tab]
+[tab]          [ch]G#m7[/ch]
+Now we're running out of time[/tab]
+[tab][ch]F#m[/ch]                     [ch]G#m7[/ch]
+ I think I'm losing perspective[/tab]
+
+
+[Instrumental]
+| [ch]Amaj7[/ch]     | [ch]Amaj7[/ch]     | [ch]E[/ch]         | [ch]B[/ch]         |
+| [ch]Amaj7[/ch]     | [ch]Amaj7[/ch]     | [ch]E[/ch]         | [ch]B[/ch]         |
+| [ch]Amaj7[/ch]     | [ch]Amaj7[/ch]     | [ch]E[/ch]         | [ch]B[/ch]         |
+| [ch]G#m7[/ch]      | [ch]G#m7[/ch]      | [ch]F#m[/ch]       | [ch]F#m[/ch]  [ch]G#m7[/ch] |
+
+
+[Outro]
+| [ch]C#m[/ch]       | [ch]G#m7[/ch]      | [ch]Amaj7[/ch]     | [ch]G#m7[/ch]      |
+| [ch]C#m[/ch]       | [ch]G#m7[/ch]      | [ch]Amaj7[/ch]     | [ch]G#m7[/ch]      |

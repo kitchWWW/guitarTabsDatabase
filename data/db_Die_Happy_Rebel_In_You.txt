@@ -1,0 +1,125 @@
+URL: https://tabs.ultimate-guitar.com/tab/die-happy/rebel-in-you-ukulele-1366610
+Artist: Die Happy
+Song: Rebel In You
+Genre: 
+Key: 
+
+
+Chorded with tvnoir.de Session
+Video: www.youtube.com/watch?v=CqMvTrl8zZY
+
+The chording was done by ear, I tried to get as close as possible to
+the original song. Therefore some chords might be a bit exotic (I
+wasn't even sure about the naming of the chords). Those chords are
+marked with "(alt.)" for "alternative". It should work well with
+the base chord infront of the "(alt.)", but if you want to play it
+like the guitar player in the video, you should use the alternative
+version of the chord I wrote down below. Chords without this marking
+are just "normal" - play them like you learned them.
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+[tab]|  [ch]F[/ch]  |[ch]Fadd9[/ch]|[ch]Csus2[/ch]|[ch]Gadd9[/ch]| [ch]Am[/ch]  | [ch]Am[/ch]  |[ch]Asus4[/ch]|  [ch]C[/ch]  |[ch]Csus2[/ch]|  [ch]D5[/ch] |
+|     |     |     |     |     | alt.|     |     | alt.|     |[/tab]
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+|  x  |  x  |  x  |  x  |  0  |  7  |  0  |  3  |  0  |  x  |
+|  3  |  3  |  x  |  5  |  2  |  7  |  2  |  2  |  10 |  0  |
+|  2  |  2  |  0  |  4  |  2  |  5  |  2  |  0  |  9  |  2  |
+|  0  |  0  |  2  |  0  |  0  |  0  |  2  |  0  |  0  |  2  |
+|  1  |  3  |  3  |  3  |  0  |  0  |  0  |  0  |  8  |  0  |
+|  0  |  0  |  0  |  0  |  0  |  0  |  0  |  1  |  0  |  0  |
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+[tab]---| Intro |----------------------------------------------------------
+|                                                                    |[/tab]
+[tab]|    Chord:    [ch]Am[/ch]      [ch]C[/ch]    [ch]Am[/ch]                     ||                |
+|    Count:    1       2       3       4           || x4             |[/tab]
+|    Down/Up:  D---D-U-D----D-----U-U--D---D-U-D-U ||                |
+|                                                                    |
+|                                         1  2   3  4  5  6  7  8    |
+|    Strumming for the rest of the song:  D  DU  D  D    UUD DU DU   |
+|                                                                    |
+----------------------------------------------------------------------
+
+[tab]---| Verse 1 |--------------------------------------------------------
+|                                                                    |[/tab]
+[tab]| [ch]Fadd9[/ch]            [ch]Gadd9[/ch]                                             |
+|    Start silent, end up screaming                                  |[/tab]
+| Em (alt.)        Gsus2 (alt.)                                      |
+|    this ain't no dream you're dreaming                             |
+[tab]| [ch]Fadd9[/ch]            [ch]Gadd9[/ch]       [ch]Am[/ch] (altern.)                          |
+|    the hell is freezing over now                                   |[/tab]
+|                                                                    |
+----------------------------------------------------------------------
+    
+[tab]--| Bridge |---------------------------------------------------------
+|                                                                    |[/tab]
+[tab]| ([ch]Am[/ch] (altern.))          [ch]F[/ch]                                          |
+|    'cause the love is expecting you                                |[/tab]
+[tab]|                  [ch]Csus2[/ch]                                             |
+|    to brake your borders through                                   |[/tab]
+[tab]|                     [ch]Am[/ch]                                             |
+|    on that mission impossible                                      |[/tab]
+[tab]| ([ch]Am[/ch])                                                               |
+|    don't you wanna fight back for good?                            |[/tab]
+|                                                                    |
+[tab]|    [ch]F[/ch]          [ch]Gadd9[/ch]             [ch]F[/ch]                   [ch]D5[/ch]    (mute)   |
+|    never look back, you fear is breathing down your neck           |[/tab]
+|                                                                    |
+----------------------------------------------------------------------
+    
+    
+[tab]---| Refrain 1 |------------------------------------------------------
+|                                                                    |[/tab]
+[tab]| (silent)           [ch]Am[/ch]                         [ch]Csus2[/ch]                |
+|    it's a rebel in you taking, taking, taking over                 |[/tab]
+[tab]|             [ch]Fadd9[/ch]                       [ch]Asus4[/ch]     [ch]F[/ch]                |
+|    rebel in you breaking, breaking, breaking through               |[/tab]
+[tab]| ([ch]F[/ch])             [ch]Am[/ch]                         [ch]Csus2[/ch]                   |
+|    the rebel in you taking, taking, taking over                    |[/tab]
+[tab]|        [ch]F[/ch]                                                           |
+|    the time is now and the place is here                           |[/tab]
+[tab]|            [ch]Asus4[/ch]                  [ch]F[/ch]         [ch]Am[/ch] (leads into Intro)  |
+|    and the rebel take control and shift the gear                   |[/tab]
+|                                                                    |
+----------------------------------------------------------------------
+    
+    
+[tab]|--| Intro (only two times) |----------------------------------------|[/tab]
+
+
+[tab]---| Verse 2 |--------------------------------------------------------
+|                                                                    |[/tab]
+[tab]| [ch]Fadd9[/ch]               [ch]Gadd9[/ch]          [ch]Am[/ch] (alt.)    [ch]Csus2[/ch] (alt.)       |
+|    These crossroads are missleading at your own risk               |[/tab]
+|                                                                    |
+----------------------------------------------------------------------
+    
+    
+[tab]|--| Bridge |--------------------------------------------------------|[/tab]
+
+
+[tab]---| Refrain 2 |------------------------------------------------------[/tab]
+|                                                                    |
+|    (Where not given, chords are the same as in Refrain 1!)         |
+|                                                                    |
+|    it's the rebel in you taking, taking, taking over               |
+|    rebel in you breaking, breaking,breaking through                |
+|    the rebel in you taking, taking, taking over                    |
+|                                                                    |
+[tab]|    [ch]F[/ch]                      [ch]Csus2[/ch]      [ch]D5[/ch]                            |
+|    never look back, never look back                                |[/tab]
+|                                                                    |
+|    it's the rebel in you taking, taking, taking over               |
+|    rebel in you breaking, breaking,breaking through                |
+|    the rebel in you taking, taking, taking over                    |
+|                                                                    |
+|    the time is now and the place is here                           |
+|    and the rebel take control and shift the gear                   |
+|                                                                    |
+----------------------------------------------------------------------
+
+[tab]---| Intro (four times again) |---------------------------------------
+|                                                                    |
+| (and the rebel take control and shift the gear)                    |
+|                                                                    |
+----------------------------------------------------------------------[/tab]

@@ -1,0 +1,69 @@
+URL: https://tabs.ultimate-guitar.com/tab/4934470
+Artist: Les Chiens
+Song: La Nuit Dérobée
+Genre: 
+Key: D
+
+
+[Intro]
+[ch]D[/ch]  | [ch]D[/ch]  | [ch]D[/ch]    | [ch]D[/ch]    |
+[ch]C[/ch]  | [ch]C[/ch]  | [ch]C[/ch]    | [ch]C[/ch]    |
+[ch]Bm[/ch] | [ch]Bm[/ch] | [ch]Bm[/ch]   | [ch]Bm[/ch]   |
+[ch]G[/ch]  | [ch]G[/ch]  | [ch]D/F#[/ch] | [ch]D/F#[/ch] |
+
+
+[Verse 1]
+[tab][ch]D[/ch]                                  [ch]C[/ch]
+    Les gens sont beaux l'après-midi[/tab]
+[tab][ch]Bm[/ch]                                    [ch]G[/ch]  [ch]D/F#[/ch]
+    Mais Montréal est plus belle la nuit[/tab]
+[tab][ch]D[/ch]                             [ch]C[/ch]
+    Si tu es là, je reste aussi[/tab]
+[tab][ch]Bm[/ch]                            [ch]G[/ch]     [ch]D/F#[/ch]
+    À regarder les rues qui luisent[/tab]
+[tab][ch]D[/ch]                                   [ch]C[/ch]
+    Presque un peu trop après la pluie[/tab]
+[tab][ch]Bm[/ch]                               [ch]G[/ch]  [ch]D/F#[/ch]
+    Presque un peu trop, à mon avis[/tab]
+
+
+[Instrumental]
+[ch]D[/ch] | [ch]D[/ch] | [ch]G[/ch] | [ch]G[/ch] |
+[ch]D[/ch] | [ch]D[/ch] | [ch]G[/ch] | [ch]G[/ch] |
+
+
+[Verse 2]
+[tab][ch]D[/ch]                                   [ch]C[/ch]
+    Moi, je me sens gris comme le ciel[/tab]
+[tab][ch]Bm[/ch]                            [ch]G[/ch]     [ch]D/F#[/ch]
+    Un nuage lourd prêt à se fendre[/tab]
+[tab][ch]D[/ch]                               [ch]C[/ch]
+    Mais qui se retient de le faire[/tab]
+[tab][ch]Bm[/ch]                              [ch]G[/ch]    [ch]D/F#[/ch]
+    De peur d'inonder toute la Terre[/tab]
+
+
+[Verse 3]
+[tab][ch]D[/ch]                             [ch]C[/ch]
+    Si tu es là, je reste aussi[/tab]
+[tab][ch]Bm[/ch]                            [ch]G[/ch]     [ch]D/F#[/ch]
+    À regarder les rues qui luisent[/tab]
+[tab][ch]D[/ch]                             [ch]C[/ch]
+    Si tu es là, je reste aussi[/tab]
+[tab][ch]Bm[/ch]                                           [ch]G[/ch]    [ch]D/F#[/ch]
+    Trop belle, qu'est-ce tu veux que je te dise?[/tab]
+
+
+[Verse 4]
+[tab][ch]D[/ch]                                  [ch]C[/ch]
+    Les gens sont beaux l'après-midi[/tab]
+[tab][ch]Bm[/ch]                                    [ch]G[/ch]  [ch]D/F#[/ch]
+    Mais Montréal est plus belle la nuit[/tab]
+[tab][ch]D[/ch]                                  [ch]C[/ch]
+    Les gens sont beaux l'après-midi[/tab]
+[tab][ch]Bm[/ch]                                [ch]G[/ch]      [ch]D/F#[/ch]
+    Mais Montréal est plus belle la nuit[/tab]
+
+
+[Outro]
+[ch]D[/ch]

@@ -1,0 +1,91 @@
+{
+    "verse-1": [
+        "Emadd9",
+        "Amadd9",
+        "Emadd9",
+        "Amadd9",
+        "Emadd9",
+        "Amadd9",
+        "Emadd9",
+        "Amadd9"
+    ],
+    "verse-2": [
+        "Emadd9",
+        "Amadd9",
+        "Emadd9",
+        "Amadd9",
+        "Emadd9",
+        "Amadd9",
+        "Emadd9",
+        "Amadd9"
+    ],
+    "bridge-1": [
+        "Fm",
+        "E",
+        "Fm",
+        "E"
+    ],
+    "bridge-2": [
+        "Fm",
+        "E",
+        "Fm",
+        "E"
+    ],
+    "chorus-1": [
+        "Am",
+        "Dm",
+        "G",
+        "C",
+        "E",
+        "Am",
+        "Dm",
+        "G",
+        "C",
+        "E",
+        "Emadd9"
+    ],
+    "chorus-2": [
+        "Am",
+        "Dm",
+        "G",
+        "C",
+        "E",
+        "Am",
+        "Dm",
+        "G",
+        "C",
+        "E"
+    ],
+    "chorus-3": [
+        "Am",
+        "Dm",
+        "G",
+        "C",
+        "E",
+        "Am",
+        "Dm",
+        "G",
+        "C",
+        "E"
+    ],
+    "solo": [
+        "Am",
+        "Dm",
+        "G",
+        "C",
+        "E",
+        "Am",
+        "Dm",
+        "G",
+        "C",
+        "E"
+    ],
+    "outro": [
+        "Emadd9",
+        "Amadd9",
+        "Emadd9",
+        "Amadd9",
+        "Emadd9",
+        "Amadd9"
+    ]
+}

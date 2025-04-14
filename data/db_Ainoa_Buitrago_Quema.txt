@@ -1,0 +1,149 @@
+URL: https://tabs.ultimate-guitar.com/tab/ainoa-buitrago/quema-chords-4770548
+Artist: Ainoa Buitrago
+Song: Quema
+Genre: 
+Key: C#
+
+
+BPM:      137
+Released: 15 Oct 2021
+Album:    La Ruta de las Flores
+
+
+[Chords]
+[Gadd11   320013]
+[Fadd9    xx3213]
+
+
+Capo: 1 fret
+
+
+[Intro]
+[ch]Em[/ch] [ch]F[/ch]  [ch]Gadd11[/ch]
+
+
+[Verse 1]
+[tab]   [ch]Fadd9[/ch]
+Ella,[/tab]
+[tab]                           [ch]Am[/ch]
+Hecha de piedra y flores secas,[/tab]
+[tab]                            [ch]C[/ch]
+Que cada vez que llueve tiembla,[/tab]
+[tab]                  [ch]Gadd11[/ch]
+No tuvo tiempo de reír.[/tab]
+[tab]     [ch]Dm[/ch]
+Y fuera[/tab]
+[tab]                        [ch]F[/ch]
+Las voces a la lejos suenan,[/tab]
+[tab]                             [ch]Am7[/ch]
+Y el mundo se ha vuelto de cera,[/tab]
+[tab]                     [ch]Gadd11[/ch]
+Y ya no sabe a donde ir.[/tab]
+
+
+[Pre-Chorus]
+[tab]        [ch]Dm[/ch]
+A veces vuela sin pensar en la caída,[/tab]
+[tab][ch]Em[/ch]         [ch]F[/ch]
+Cuando las alas se te rompen otra vez,[/tab]
+[tab]        [ch]Am[/ch]
+Y de repente ya no tienes salvavidas,[/tab]
+[tab]       [ch]Gadd11[/ch]
+Sosteniéndote, eh.[/tab]
+
+
+[Chorus]
+[tab]     [ch]C[/ch]
+Y quema,[/tab]
+[tab]                                      [ch]Fmaj7[/ch]
+Cuando sientes que ya no hay nadie cerca,[/tab]
+[tab]                          [ch]Am7[/ch]
+El peso de quererte a medias,[/tab]
+[tab]                             [ch]F[/ch]
+No sé qué hacer para que vuelva,[/tab]
+[tab]                                      [ch]C[/ch]
+Se fue hace tanto tiempo que ahora quema,[/tab]
+[tab]                            [ch]Fmaj7[/ch]
+La piel cuando nadie te espera,[/tab]
+[tab]                          [ch]Am7[/ch]
+El peso de quererte a medias,[/tab]
+[tab]                             [ch]G[/ch]
+No sé qué hacer para que vuelva,[/tab]
+[tab][ch]G[/ch]
+Se fue hace tanto tiempo que ahora ella.[/tab]
+
+
+[Verse 2]
+[tab][ch]Fadd9[/ch]                [ch]G[/ch]
+Cansada de tanta pelea,[/tab]
+[tab]                             [ch]Am[/ch]
+Que ahora tan solo pide tregua,[/tab]
+[tab]                     [ch]G[/ch]
+Tan solo volver a sentir.[/tab]
+[tab]                [ch]Dm[/ch]
+Que no hay barreras,[/tab]
+[tab]                [ch]Em[/ch]       [ch]F[/ch]
+Que a veces merecen la pena,[/tab]
+[tab]                          [ch]Am[/ch]
+Tocar el fondo con las yemas,[/tab]
+[tab]                    [ch]Gadd11[/ch] [ch]G[/ch]
+Si quieres volver a reír.[/tab]
+
+
+[Pre-Chorus]
+[tab]        [ch]Dm[/ch]
+A veces vuela sin pensar en la caída,[/tab]
+[tab][ch]Em[/ch]         [ch]F[/ch]
+Cuando las alas se te rompen otra vez,[/tab]
+[tab]        [ch]Am7[/ch]
+Y de repente ya no tienes salvavidas,[/tab]
+[tab]       [ch]Gadd11[/ch]
+Sosteniéndote, eh-eh.[/tab]
+
+
+[Chorus]
+[tab]     [ch]C[/ch]
+Y quema,[/tab]
+[tab]                                      [ch]Fmaj7[/ch]
+Cuando sientes que ya no hay nadie cerca,[/tab]
+[tab]                          [ch]Am7[/ch]
+El peso de quererte a medias,[/tab]
+[tab]                             [ch]F[/ch]
+No sé qué hacer para que vuelva,[/tab]
+[tab]                                      [ch]C[/ch]
+Se fue hace tanto tiempo que ahora quema,[/tab]
+[tab]                            [ch]Fmaj7[/ch]
+La piel cuando nadie te espera,[/tab]
+[tab]                          [ch]Am7[/ch]
+El peso de quererte a medias,[/tab]
+[tab]                             [ch]G[/ch]
+No sé qué hacer para que vuelva,[/tab]
+[tab][ch]G[/ch]                                     [ch]F[/ch]    [ch]G[/ch]   [ch]Am[/ch]
+Se fue hace tanto tiempo que ahora quema-a-a-a-a,[/tab]
+[tab]                 [ch]C[/ch]           [ch]F[/ch]       [ch]G[/ch]
+Las veces que me quise a media-a-a-a-aa-as.[/tab]
+
+
+[Outro]
+[tab]   [ch]C[/ch]
+Quema,[/tab]
+[tab]                                     [ch]Fmaj7[/ch]
+Cuando siento que ya no hay nadie cerca,[/tab]
+[tab]                          [ch]Am7[/ch]
+El peso de quererme a medias,[/tab]
+[tab]                             [ch]F[/ch]
+No sé qué hacer para que vuelva,[/tab]
+[tab]                                      [ch]C[/ch]
+Me fui hace tanto tiempo que ahora quema.[/tab]
+[tab]                            [ch]Fmaj7[/ch]
+La piel cuando nadie te espera,[/tab]
+[tab]                          [ch]Am7[/ch]
+El peso de quererte a medias,[/tab]
+[tab]                             [ch]F[/ch]
+No sé qué hacer para que vuelva,[/tab]
+[tab]                                      [ch]C[/ch]   [ch]Fmaj7[/ch]
+Se fue hace tanto tiempo que ahora quema . . .,[/tab]
+[tab]                             [ch]Am[/ch]   [ch]Gadd11[/ch]
+Las veces que me quise a media . . .,[/tab]
+[tab]            [ch]G[/ch]                      [ch]G[/ch]
+Me fui hace tanto tiempo que ahora ella.[/tab]

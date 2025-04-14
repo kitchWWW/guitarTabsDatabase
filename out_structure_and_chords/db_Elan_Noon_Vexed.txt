@@ -1,0 +1,103 @@
+{
+    "intro": [
+        "F"
+    ],
+    "verse-1": [
+        "F",
+        "D7",
+        "Db7",
+        "C7",
+        "Bb",
+        "Bb/A",
+        "F",
+        "Fmaj7",
+        "Dm",
+        "Db7",
+        "C7",
+        "Bbm7",
+        "C7",
+        "F"
+    ],
+    "verse-2": [
+        "F",
+        "D7",
+        "Db7",
+        "C7",
+        "Bb",
+        "Bb/A",
+        "F",
+        "Fmaj7",
+        "Dm",
+        "Db7",
+        "C7",
+        "Bbm7",
+        "C7",
+        "F"
+    ],
+    "verse-3": [
+        "F",
+        "D7",
+        "Db7",
+        "C7",
+        "Bb",
+        "Bb/A",
+        "F",
+        "Fmaj7",
+        "Dm",
+        "Db7",
+        "C7",
+        "Bbm7",
+        "C7"
+    ],
+    "verse-4": [
+        "F",
+        "D7",
+        "Db7",
+        "C7",
+        "Bb",
+        "Bb/A",
+        "F",
+        "Fmaj7",
+        "Dm",
+        "Db7",
+        "C7",
+        "Bbm7",
+        "C7",
+        "Fmaj7"
+    ],
+    "instrumental": [
+        "Fmaj7",
+        "D7",
+        "Db7",
+        "C7",
+        "Bb",
+        "Bbm",
+        "F"
+    ],
+    "chorus": [
+        "Dm",
+        "Bbdim",
+        "F",
+        "Bb",
+        "Eb",
+        "Ab",
+        "D7",
+        "Dm",
+        "Bbdim",
+        "F",
+        "Bb",
+        "Eb",
+        "Ab",
+        "D7"
+    ],
+    "outro": [
+        "Fmaj7",
+        "D7",
+        "Db7",
+        "C7",
+        "Bb",
+        "Bbm",
+        "F",
+        "Fmaj7"
+    ]
+}

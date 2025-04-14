@@ -1,0 +1,138 @@
+URL: https://tabs.ultimate-guitar.com/tab/dave-matthews/gravedigger-chords-5229408
+Artist: Dave Matthews
+Song: Gravedigger
+Genre: 
+Key: 
+
+
+[Notes]
+
+Played as a 4/4 for most of the song, but switches to a 3/4 for the outro.
+
+Chords in the outro are all strummed with the pattern.
+
+(x)'s in the bridge strumming pattern represent chord changes.
+
+The Am at the end of each chorus is strummed with the normal strumming pattern.
+
+On the last line of the last chorus, just play the base notes.
+
+[Chords]
+
+Am:   x0221x
+Am/G: 30221x
+E:    0221xx
+F:    1332xx
+D/F#: 20023x
+Dm:   xx0231
+C:    x32010
+G:    320xxx
+Bb5:  x133xx
+
+[Intro/Verse/Chorus Riff]
+
+When the Am and Am/G are followed by
+a E or F, use this pattern(The F or E is strummed with the normal strumming pattern):
+
+[tab] ([ch]Am[/ch])             ([ch]Am/G[/ch])              ([ch]E[/ch])  ([ch]F[/ch])
+e|------------------------------------(-)or(-)|
+B|----0h1-1-0-0-0-0-----0h1-1-0-0-0-0-(-)or(-)|
+G|----2---2---2-2-2-----2---2---2-2-2-(1)or(2)|
+D|--2---------2-2-2---2---------2-2-2-(2)or(3)|
+A|0-----------------------------------(2)or(3)|
+E|------------------3-----------------(0)or(1)|[/tab]
+
+When they are followed by D/F#,
+use this one(The D/F# is strummed with the normal strumming pattern):
+
+[tab] ([ch]Am[/ch])  ([ch]Am/G[/ch]) ([ch]D/F#[/ch])
+e|-----------------|
+B|----1---1-1-1-1-3|
+G|----2---2-2-2-2-2|
+D|--2-----2-2-2-2-0|
+A|0---------------0|
+E|------3---------2|[/tab]
+
+
+
+
+
+[Intro]
+[ch]Am[/ch]   [ch]Am/G[/ch]   [ch]F[/ch]   [ch]Am[/ch]
+
+[Verse 1]
+[tab][ch]Am[/ch]               [ch]Am/G[/ch]     [ch]F[/ch]                                              [ch]Am[/ch]
+ Cyrus Jones 1810 to 1913, made his great grandchildren believe you could live to a hundred and three.[/tab]
+[tab][ch]Am[/ch]                               [ch]Am/G[/ch]                            [ch]F[/ch]                 [ch]Am[/ch]
+ A hundred and three is forever when you're just a little kid, so, Cyrus Jones lived forever.[/tab]
+
+[Chorus]
+[tab]      [ch]Am[/ch]                     [ch]Am/G[/ch]                       [ch]E[/ch]
+Gravedigger, when you dig my grave, could you make it shallow,[/tab]
+[tab]        [ch]Am[/ch]    [ch]Am/G[/ch]     [ch]D/F#[/ch]
+So that I can feel the rain.[/tab]
+[tab]      [ch]Am[/ch]     [ch]Am[/ch]
+Gravedigger.[/tab]
+
+[Verse 2]
+[tab][ch]Am[/ch]                  [ch]Am/G[/ch]             [ch]F[/ch]                             [ch]Am[/ch]
+ Muriel Stonewall 1903 to 1954, she lost both of her babies in the second great war.[/tab]
+[tab]                [ch]Am[/ch]                                   [ch]Am/G[/ch]
+ Now you should never have to watch as your only children are lowered in the ground, I mean,[/tab]
+[tab][ch]F[/ch]                            [ch]Am[/ch]
+ Never have to bury your own babies.[/tab]
+
+[Chorus]
+[tab]      [ch]Am[/ch]                     [ch]Am/G[/ch]                       [ch]E[/ch]
+Gravedigger, when you dig my grave, could you make it shallow,[/tab]
+[tab]        [ch]Am[/ch]    [ch]Am/G[/ch]     [ch]D/F#[/ch]
+So that I can feel the rain.[/tab]
+[tab]      [ch]Am[/ch]     [ch]Am[/ch]
+Gravedigger.[/tab]
+
+[Bridge]
+[tab][ch]Dm[/ch]              [ch]F[/ch]     [ch]C[/ch]     [ch]G[/ch]  [ch]Bb5[/ch]
+Ring around the rosie,[/tab]
+[tab][ch]Dm[/ch]              [ch]F[/ch]     [ch]C[/ch]     [ch]G[/ch]  [ch]Bb5[/ch]
+Pocket full of posies,[/tab]
+[tab][ch]Dm[/ch]        [ch]F[/ch]           [ch]C[/ch]     [ch]G[/ch]  [ch]Bb5[/ch]
+Ashes to ashes,[/tab]
+[tab][ch]Dm[/ch]        [ch]F[/ch]           [ch]C[/ch]        [ch]G[/ch]
+                  We all fall down.[/tab]
+
+[Chorus]
+[tab]      [ch]Am[/ch]                     [ch]Am/G[/ch]                       [ch]E[/ch]
+Gravedigger, when you dig my grave, could you make it shallow,[/tab]
+[tab]        [ch]Am[/ch]    [ch]Am/G[/ch]     [ch]D/F#[/ch]
+So that I can feel the rain.[/tab]
+[tab]      [ch]Am[/ch]     [ch]Am[/ch]
+Gravedigger.[/tab]
+
+[Verse 3]
+[tab][ch]Am[/ch]                   [ch]Am/G[/ch]                 [ch]F[/ch]                              [ch]Am[/ch]
+ Little Mikie Carson 67 to 75, he rode his bike like the devil until the day he died.[/tab]
+[tab]               [ch]Am[/ch]                                    [ch]Am/G[/ch]                 [ch]F[/ch]          [ch]Am[/ch]
+ When he grows up he wants to be Mister Vertigo on the flying trapeze, oh, 1940 to 1992,[/tab]
+
+[Chorus]
+[tab]      [ch]Am[/ch]                     [ch]Am/G[/ch]                       [ch]E[/ch]
+Gravedigger, when you dig my grave, could you make it shallow,[/tab]
+[tab]        [ch]Am[/ch]    [ch]Am/G[/ch]     [ch]D/F#[/ch]
+So that I can feel the rain.[/tab]
+[tab]      [ch]Am[/ch]                     [ch]Am/G[/ch]                       [ch]E[/ch]
+Gravedigger, when you dig my grave, could you make it shallow,[/tab]
+[tab]        [ch]Am[/ch]                  [ch]Am/G[/ch]                  [ch]D/F#[/ch]
+So that I can feel the rain, I can feel the rain, I can feel the rain,[/tab]
+[tab]      [ch]Am[/ch]                  [ch]Am/G[/ch]                          [ch]E[/ch]   N.C.
+Gravedigger, when you dig my grave, could you make it shallow,[/tab]
+[tab]          [ch]Am[/ch]     [ch]G[/ch]     [ch]D/F#[/ch]
+So that I can feel the rain,[/tab]
+
+[Outro]
+[tab]      [ch]Am[/ch]   [ch]Am/G[/ch]   [ch]F[/ch]   [ch]E[/ch]
+Gravedigger...[/tab]
+[tab][ch]Am[/ch]   [ch]Am/G[/ch]   [ch]F[/ch]   [ch]E[/ch]
+                 Gravedigger...[/tab]
+[ch]Am[/ch]   [ch]Am/G[/ch]   [ch]F[/ch]   [ch]E[/ch]
+
+[ch]Am[/ch]   [ch]Am/G[/ch]   [ch]F[/ch]

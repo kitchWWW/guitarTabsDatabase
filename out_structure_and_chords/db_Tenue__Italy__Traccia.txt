@@ -1,0 +1,84 @@
+{
+    "verse-1": [
+        "Db",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Db",
+        "Dbmaj7",
+        "Ebm7",
+        "Gb",
+        "Dbmaj7",
+        "Db",
+        "Bbm7",
+        "Ebm7",
+        "Gb"
+    ],
+    "verse-2": [
+        "Db",
+        "Dbmaj7",
+        "Gb",
+        "Db",
+        "Dbmaj7",
+        "Gbmaj7"
+    ],
+    "verse-3": [
+        "Dbmaj7",
+        "Db",
+        "Gb",
+        "Db",
+        "Dbmaj7",
+        "Gb",
+        "Db",
+        "Dbmaj7",
+        "Gbmaj7"
+    ],
+    "pre-chorus": [
+        "Ebm7",
+        "Gb",
+        "Gbmaj7"
+    ],
+    "chorus-1": [
+        "Dbmaj7",
+        "Db",
+        "Bbm7",
+        "Ebm7",
+        "Gb",
+        "Ab",
+        "Bbm",
+        "Bbm",
+        "Db",
+        "Ebm7",
+        "Gb",
+        "Ab",
+        "Dbmaj7",
+        "Db",
+        "Gb"
+    ],
+    "chorus-2": [
+        "Dbmaj7",
+        "Db",
+        "Bbm7",
+        "Ebm7",
+        "Gb",
+        "Ab",
+        "Bbm",
+        "Bbm",
+        "Db",
+        "Gb",
+        "Ebm",
+        "Gb"
+    ],
+    "bridge": [
+        "Gbmaj7",
+        "Bbm",
+        "Gbmaj7",
+        "Bbm",
+        "Gbmaj7",
+        "Bbm",
+        "Gbmaj7"
+    ],
+    "outro": [
+        "Ebm",
+        "Gb"
+    ]
+}

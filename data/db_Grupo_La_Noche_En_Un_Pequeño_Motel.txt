@@ -1,0 +1,268 @@
+URL: https://tabs.ultimate-guitar.com/tab/1578603
+Artist: Grupo La Noche
+Song: En Un Pequeño Motel
+Genre: 
+Key: 
+
+
+ _________________________________________________________________
+|                                                                 |
+|                          L E E  E S T O                         |
+|_________________________________________________________________|
+|                                                                 |
+| Antes de copiar esta transcripción a un archivo de texto, debes |
+| seleccionar la fuente tipográfica COURIER NEW o LUCIDA CONSOLE, |
+| así, no se te moverán los acordes ni los punteos de su posición |
+| original y podrás tocar la canción correctamente.               |
+|_________________________________________________________________|
+
+
+        **************************************************
+        ** ···· E N  U N  P E Q U E Ñ O  M O T E L ···· **
+        ** ··············(GRUPO LA NOCHE)·············· **
+        ** ············································ **
+        ** ·········(Tono Original : DO menor )········ **
+        ** ···· (Transcrita por: Rodrigo González) ···· **
+        ** ············································ **
+        **************************************************
+
+[tab]=INTRO=
+    FAm
+E----------------------------------------
+B------9-8-9----9-8-9----9-8-9----9-8-9--
+G---10-------10-------10-------10--------
+D----------------------------------------
+A----------------------------------------
+E----------------------------------------[/tab]
+
+[tab]   DOm
+E-------------------------------------
+B-----8-6-8---8-6-8---8-6-8---8-6-8---
+G---8-------8-------8-------8---------
+D-------------------------------------
+A-------------------------------------
+E-------------------------------------[/tab]
+
+[tab]   FAm                                 DOm  SOL          DOm
+E---8--------8------8---8--------8--------------------10-13-11-11------
+B-----9-8------9----------9-8------9----8-----10-12-13-------------13--
+G---------10-----10-----------10-----10-----12-------------------------
+D----------------------------------------------------------------------
+A----------------------------------------------------------------------
+E----------------------------------------------------------------------[/tab]
+
+=Estrofas=
+DOm             DOm                  DOm
+   ENTRÉGAME TU CUERPO, CON LUJO DE DETALLES,
+                      DOm           LA#          RE#
+   QUE NO QUEDE UN CENTÍMETRO... DE PIEL SIN RECORRER
+                 SOL                    DOm
+   QUIERO BEBERTE TODA LA PIEL DE TUS DELICIAS
+                SOL#          FAm      DOm
+   Y PENETRAR TU TIERNA INTIMIDAD DE MUJER...
+
+DOm              DOm              DOm
+   QUIERO BEBERTE TODA, DEFINITIVAMENTE,
+                     DOm          LA#         RE#
+   QUE NO HAYA MÁS SONIDO, QUE EL DE TU DULCE VOZ
+                  SOL                 DOm
+   DICIÉNDOME `TE QUIERO´, TAN AMOROSAMENTE
+                    SOL#     FAm        SOL
+   Y TU CUERPO Y MI CUERPO BAÑADOS EN SUDOR...
+
+=CORO=
+     DOm           SOL                         DOm
+   EN UN PEQUEÑO MOTEL... DONDE NO EXISTA EL RELOJ...
+                         LA#      SOL#   FAm     SOL
+   JUNTAR TU PIEL CON MI PIEL, QUE TE QUEME MI PASIÓN...
+     DOm           SOL                      DOm
+   EN ÉL, SÓLO PARA MÍ... TUS ENCANTOS DE MUJER...
+                    LA#       SOL#  FAm     SOL
+   AMARNOS SIN CONDICIÓN... EN UN PEQUEÑO MOTEL...
+
+    FAm             DOm      SOL   SOL7    DOm
+   AMARNOS SIN CONDICIÓN...EN UN PEQUEÑO MOTEL...
+
+  ``nos entregamos al amor, con nuestros cuerpos...
+    encendidos en pasión...  te lo dice... La Noche´´
+
+(*Se repite la INTRO*)
+
+=Estrofas=
+DOm              DOm              DOm
+   QUIERO BEBERTE TODA, DEFINITIVAMENTE,
+                     DOm          LA#         RE#
+   QUE NO HAYA MÁS SONIDO, QUE EL DE TU DULCE VOZ
+                  SOL                 DOm
+   DICIÉNDOME `TE QUIERO´, TAN AMOROSAMENTE
+                    SOL#     FAm        SOL
+   Y TU CUERPO Y MI CUERPO BAÑADOS EN SUDOR...
+
+=CORO=
+     DOm           SOL                         DOm
+   EN UN PEQUEÑO MOTEL... DONDE NO EXISTA EL RELOJ...
+                         LA#      SOL#   FAm     SOL
+   JUNTAR TU PIEL CON MI PIEL, QUE TE QUEME MI PASIÓN...
+     DOm           SOL                      DOm
+   EN ÉL, SÓLO PARA MÍ... TUS ENCANTOS DE MUJER...
+                    LA#       SOL#  FAm     SOL
+   AMARNOS SIN CONDICIÓN... EN UN PEQUEÑO MOTEL...
+
+    FAm             DOm      SOL   SOL7    DOm
+   AMARNOS SIN CONDICIÓN...EN UN PEQUEÑO MOTEL...
+
+[tab]=Final=
+   DOm                    FAm                     DOm
+E------------------------------------------------10-8--
+B-----------------------13-13-12-12--------------------
+G-----------10-12-13---------------13-13-12-12---------
+D---10-12-13-------------------------------------------
+A------------------------------------------------------
+E------------------------------------------------------[/tab]
+
+
+===========================  FIN  ===========================
+
+  _______________________________________________________________________
+ |                                                                       |
+ |    Aquí te van algunas indicaciones básicas para tocar la canción:    |
+ |_______________________________________________________________________|
+ |                                                                       |
+ | Para que el tema suene bien, te recomiendo ejecutar los acordes y los |
+ | cambios de acorde  en el mismo momento en que aparecen, por eso logré |
+ | que las ubicaciones de cada acorde  sean precisas,  tal como puse los |
+ | acordes  sobre cada sílaba tonal  de cada verso y sobre cada punteo.  |
+ | Así te será menos difícil ubicar el acento musical y además obtendrás |
+ | melodía y armonía similares a la versión original de La Noche.        |
+ |_______________________________________________________________________|
+ |                       |                              |
+ |       C L A V E       |   CUERDAS de la GUITARRA:    |
+ | Universal - Americana |                              |
+ |                       | E---&gt; es Mi AGUDO (1 cuerda) |
+[tab] | DO  =============== C | B---&gt; es Si       (2 cuerda) |
+ | RE  =============== D | G---&gt; es Sol      (3 cuerda) |
+ | MI  =============== E | D---&gt; es Re       (4 cuerda) |
+ | FA  =============== F | A---&gt; es La       (5 cuerda) |
+ | Sol =============== G | E---&gt; es Mi GRAVE (6 cuerda) |
+ | LA  =============== A |______________________________|
+ | SI  =============== B |
+ |_______________________|[/tab]
+
+ Hay muchas formas de hacer un mismo acorde
+ y aquí anoté las más conocidas.
+ Estos son los acordes usados en la canción:
+
+ (Acorde)     (Cuerdas)
+    |        E A D G B E  Los números corresponden al
+    |        | | | | | |  traste de la guitarra donde
+    |        | | | | | |  se pulsa la cuerda señalada,
+    |        | | | | | |  la letra X significa que no
+    |        | | | | | |  se pulsa la cuerda indicada.
+    |        | | | | | |
+    DOm   :  X 3 5 5 4 3  ( Do menor )
+    DOm   :  81010 8 8 8  ( DO menor )
+             | | | | | |
+    RE#   :  X 6 8 8 8 6  ( Re Mayor Sostenido )
+    RE#   :  X X 5 3 4 3  ( Re Mayor Sostenido )
+             | | | | | |
+    FAm   :  1 3 3 1 1 1  ( Fa menor )
+    FAm   :  X X 6 5 6 4  ( Fa menor )
+             | | | | | |
+    SOL   :  3 2 0 0 0 3  ( Sol Mayor )
+    SOL   :  3 2 0 0 3 3  ( Sol Mayor )
+    SOL   :  3 5 5 4 3 3  ( Sol Mayor )
+    SOL   :  X X 9 7 8 7  ( Sol Mayor )
+             | | | | | |
+    SOL7  :  3 2 0 0 0 1  ( Sol Mayor 7 )
+    SOL7  :  3 2 0 0 3 1  ( Sol Mayor 7 )
+    SOL7  :  3 2 3 0 0 1  ( Sol Mayor 7 )
+    SOL7  :  3 2 3 0 0 3  ( Sol Mayor 7 )
+    SOL7  :  3 5 3 4 3 3  ( Sol Mayor 7 )
+    SOL7  :  X X 5 7 6 7  ( Sol Mayor 7 )
+             | | | | | |
+    SOL#  :  4 6 6 5 4 4  ( Sol Mayor Sostenido )
+    SOL#  :  X X10 8 9 8  ( Sol Mayor Sostenido )
+             | | | | | |
+    LA#   :  X 1 3 3 3 1  ( La Mayor Sostenido )
+    LA#   :  6 8 8 7 8 8  ( La Mayor Sostenido )
+
+  ____________________________________________________
+ |                                                    |
+ | Equivalencia de notas sostenidas con notas bemoles |
+ |____________________________________________________|
+ |                                                    |
+ |  DO# = REb  &lt;----&gt; ( Do  sostenido  =  Re  bemol ) |
+ |  RE# = MIb  &lt;----&gt; ( Re  sostenido  =  Mi  bemol ) |
+ |  FA# = SOLb &lt;----&gt; ( Fa  sostenido  =  Sol bemol ) |
+ | SOL# = LAb  &lt;----&gt; ( Sol sostenido  =  La  bemol ) |
+ |  LA# = SIb  &lt;----&gt; ( La  sostenido  =  Re  bemol ) |
+ |____________________________________________________|
+
+  Espero les haya gustado, un clásico de Gali Galeano, en la voz de los
+  maestros de la cumbia y con todo el sabor del grupo La Noche. Saludos.
+
+
+                     +ANDREITA SUSANA MUÑOZ ALARCÓN+
+                (*Abril 20,1989 - Diciembre 10,2004+)
+           *Que el Señor te tenga en su cielo hermanita mía*
+
+                      *Que el Señor les Bendiga*
+
+AbRIL, 2008                                                  ...RODRIGO
+=======================
+====================baladistacancionero@
+
+
+__________________________________________________________
+                                                          |
+Esta es una versión en acordes más simples,               |
+para no hacer sufrir la voz ni la mano:                   |
+                                                          |
+=Estrofas=                                                |
+LAm             LAm                  LAm                  |
+   ENTRÉGAME TU CUERPO, CON LUJO DE DETALLES,             |
+                      LAm           SOL          DO       |
+   QUE NO QUEDE UN CENTIMETRO... DE PIEL SIN RECORRER     |
+                  MI                   LAm                |
+   QUIERO BEBERTE TODA LA PIEL DE TUS DELICIAS            |
+                 FA           REm      MI                 |
+   Y PENETRAR TU TIERNA INTIMIDAD DE MUJER...             |
+                                                          |
+LAm              LAm              LAm                     |
+   QUIERO BEBERTE TODA, DEFINITIVAMENTE,                  |
+                     LAm          SOL         DO          |
+   QUE NO HAYA MÁS SONIDO, QUE EL DE TU DULCE VOZ         |
+                  MI                  LAm                 |
+   DICIÉNDOME `TE QUIERO´, TAN AMOROSAMENTE               |
+                    FA        REm        MI               |
+   Y TU CUERPO Y MI CUERPO, BAÑADOS EN SUDOR...           |
+                                                          |
+=CORO=                                                    |
+     LAm           MI        MI                LAm        |
+   EN UN PEQUEÑO MOTEL... DONDE NO EXISTA EL RELOJ...     |
+      LAm                SOL       FA   REm      MI       |
+   JUNTAR TU PIEL CON MI PIEL, QUE TE QUEME MI PASIÓN...  |
+     LAm           MI        MI                LAm        |
+   EN ÉL, SÓLO PARA MÍ... TUS ENCANTOS DE MUJER...        |
+      LAm                SOL       FA   REm      MI       |
+   AMARNOS SIN CONDICIÓN... EN UN PEQUEÑO MOTEL...        |
+                                                          |
+    REm             LAm        MI   MI7    LAm            |
+   AMARNOS SIN CONDICIÓN... EN UN PEQUEÑO MOTEL...        |
+                                                          |
+                                                          |
+ [Acorde]     [Cuerdas]                                   |
+    |        E A D G B E                                  |
+    |        | | | | | |                                  |
+    |        | | | | | |                                  |
+    |        | | | | | |                                  |
+    |        | | | | | |                                  |
+    |        | | | | | |                                  |
+    DO    :  X 3 2 0 1 0  ( Do Mayor   )                  |
+    REm   :  X X 0 2 3 1  ( Re menor   )                  |
+    MI    :  0 2 2 1 0 0  ( Mi Mayor   )                  |
+    MI7   :  0 2 0 1 0 0  ( Mi Mayor 7 )                  |
+    FA    :  1 3 3 2 1 1  ( Fa Mayor   )                  |
+    SOL   :  3 2 0 0 0 3  ( Sol Mayor  )                  |
+    LAm   :  X 0 2 2 1 0  ( La menor   )                  |
+__________________________________________________________|

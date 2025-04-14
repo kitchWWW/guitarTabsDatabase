@@ -1,0 +1,73 @@
+URL: https://tabs.ultimate-guitar.com/tab/forth-wanderers/be-my-baby-chords-4042837
+Artist: Forth Wanderers
+Song: Be My Baby
+Genre: 
+Key: D
+
+
+[Chords]
+
+[tab]    [ch]Dmaj7[/ch]      [ch]C5/F#[/ch]    Dmaj7(b9)  [ch]F#dim7[/ch]   [ch]Dmaj7[/ch]*      [ch]F#7[/ch]       [ch]A13[/ch]       [ch]A7[/ch]
+e|----x---------x---------x--------x--------5---------2---------5--------5--------|
+B|----10--------8---------8--------8--------7---------5---------7--------5--------|
+G|----11--------11--------11-------6--------6---------3---------6--------6--------|
+D|----11--------10--------9--------8--------7---------2---------5--------5--------|
+A|----x---------9---------10-------7--------5---------4---------7--------7--------|
+E|----10--------x---------x--------x--------5---------2---------5--------5--------|[/tab]
+
+
+
+[Intro]
+[ch]Dmaj7[/ch] [ch]C5/F#[/ch] Dmaj7(b9) [ch]F#dim7[/ch]
+[ch]Dmaj7[/ch] [ch]C5/F#[/ch] Dmaj7(b9) [ch]F#dim7[/ch]
+
+
+[Verse]
+[tab][ch]Dmaj7[/ch]     [ch]C5/F#[/ch]    Dmaj7(b9)    [ch]F#dim7[/ch]   [ch]Dmaj7[/ch]
+Dont know what I've done but it feels al-right[/tab]
+[tab][ch]Dmaj7[/ch]*   [ch]F#7[/ch]    [ch]A13[/ch]   [ch]A7[/ch]                [ch]Dmaj7[/ch]*
+For once I know I can sleep through the night[/tab]
+
+[tab][ch]Dmaj7[/ch]*   [ch]F#7[/ch]    [ch]A13[/ch]   [ch]A7[/ch]  [ch]Dmaj7[/ch]*
+                       He says...[/tab]
+
+
+[Chorus]
+[tab][ch]Dmaj7[/ch]* [ch]F#7[/ch]  [ch]A13[/ch]         [ch]A7[/ch]
+Be my Baby, Let me love you...[/tab]
+
+[ch]Dmaj7[/ch]*   [ch]F#7[/ch]    [ch]A13[/ch]   [ch]A7[/ch]
+
+[tab][ch]Dmaj7[/ch]     [ch]C5/F#[/ch]              Dmaj7(b9)  [ch]F#dim7[/ch]
+You don't know what you're getting in-to...[/tab]
+
+
+[Verse]
+[tab]     [ch]Dmaj7[/ch]        [ch]C5/F#[/ch]    Dmaj7(b9)    [ch]F#dim7[/ch]
+I'll wait you'll watch you know what I want[/tab]
+[tab]     [ch]Dmaj7[/ch]       [ch]C5/F#[/ch]      Dmaj7(b9)  [ch]F#dim7[/ch]
+I'll fight we'll see can he give it to me[/tab]
+
+[ch]Dmaj7[/ch]*   [ch]F#7[/ch]    [ch]A13[/ch]   [ch]A7[/ch]
+
+
+[Chorus]
+[tab][ch]Dmaj7[/ch]* [ch]F#7[/ch]  [ch]A13[/ch]         [ch]A7[/ch]
+Be my Baby, Let me love you...[/tab]
+
+[ch]Dmaj7[/ch]*   [ch]F#7[/ch]    [ch]A13[/ch]   [ch]A7[/ch]
+
+[tab][ch]Dmaj7[/ch]     [ch]C5/F#[/ch]              Dmaj7(b9)  [ch]F#dim7[/ch]
+You don't know what you're getting in-to...[/tab]
+
+[ch]Dmaj7[/ch]
+
+
+
+[tab][Chorus Lead]
+e|---------------------------------------|
+B|----------7--5-------------------3-----|
+G|-7--------------5-----4-------0-----3--|
+D|----4--7-----------------2--4----------|
+A|---------------------------------------|
+E|---------------------------------------|[/tab]

@@ -1,0 +1,58 @@
+{
+    "intro": [
+        "Fm",
+        "Eb"
+    ],
+    "verse-1": [
+        "Fm",
+        "Cm",
+        "Fm",
+        "Cm",
+        "Fm",
+        "Cm",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Abmaj7"
+    ],
+    "verse-2": [
+        "Fm7",
+        "Cm7",
+        "Fm7",
+        "Cm",
+        "Fm",
+        "Cm",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Abmaj7"
+    ],
+    "verse-3": [
+        "Fm7",
+        "Cm7",
+        "Fm7",
+        "Cm",
+        "Fm7",
+        "Cm7",
+        "Ab",
+        "Bb"
+    ],
+    "bridge": [
+        "G",
+        "Cm",
+        "Gm",
+        "Cm",
+        "Gm",
+        "Cm",
+        "Gm",
+        "Cm7",
+        "Bb"
+    ],
+    "outro": [
+        "Eb",
+        "Abmaj7",
+        "Gm",
+        "Fm",
+        "Eb"
+    ]
+}

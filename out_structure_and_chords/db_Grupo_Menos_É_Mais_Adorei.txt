@@ -1,0 +1,68 @@
+{
+    "verse-1": [
+        "C9",
+        "Am7",
+        "G",
+        "F7M",
+        "C9",
+        "F7M",
+        "F7M",
+        "G7sus4",
+        "C9",
+        "Am7",
+        "G",
+        "F7M",
+        "C9",
+        "F7M",
+        "Bb9",
+        "G7sus4"
+    ],
+    "verse-2": [
+        "C9",
+        "Am7",
+        "G",
+        "F7M",
+        "C9",
+        "F7M",
+        "F7M",
+        "G7sus4",
+        "C9",
+        "Am7",
+        "G",
+        "F7M",
+        "C9",
+        "F7M",
+        "Bb9",
+        "G7sus4"
+    ],
+    "pre-chorus-1": [
+        "Cm7",
+        "Bb9",
+        "G",
+        "G7sus4"
+    ],
+    "pre-chorus-2": [
+        "Cm7",
+        "Bb9",
+        "G",
+        "G7sus4"
+    ],
+    "chorus-1": [
+        "C9",
+        "F7M",
+        "Fm9",
+        "C9",
+        "F7M",
+        "Ab7M",
+        "G7sus4"
+    ],
+    "chorus-2": [
+        "C9",
+        "F7M",
+        "Fm9",
+        "C9",
+        "F7M",
+        "Ab7M",
+        "G7sus4"
+    ]
+}

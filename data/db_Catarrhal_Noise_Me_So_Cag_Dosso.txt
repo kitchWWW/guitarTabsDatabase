@@ -1,0 +1,70 @@
+URL: https://tabs.ultimate-guitar.com/tab/catarrhal-noise/me-so-cag-dosso-tabs-1194479
+Artist: Catarrhal Noise
+Song: Me So Cag Dosso
+Genre: 
+Key: 
+
+
+Titolo: Me So’ Cagà Dosso
+Artista: Catarrhal Noise
+Album: Turbo America
+
+[tab]Intro e Riff
+e|---------------------------------------|-----------------------------|
+B|---------------------------------------|-----------------------------|
+G|---------------------------------------|-----------------------------|
+D|-----------------5h6h7-----------------|-------5h6h7-----------------|
+A|-----------------------0-0--0----------|-------------0-0--5b6-3-5-3--|
+E|-0-0-14\---3h4h5--------------0-0-3-0--|-3h4h5-----------------------|[/tab]
+[tab]   P.M.                  P.M.---------|                P.M.
+                                          (la battuta sottostante va suonata
+                                          soltanto nell'intro. Dopo l'intro
+                                          suonare quella sovrastante al posto di questa)
+e|---------------------------------------|-----------------------------|
+B|---------------------------------------|-----------------------------|
+G|---------------------------------------|-----------------------------|
+D|-----------------5h6h7-----------------|-------5h6h7-----------------|
+A|-----------------------0-0--0----------|-------------0-0--\----------|
+E|-----------3h4h5--------------0-0-3-0--|-3h4h5-----------------------|
+                         P.M.---------|                P.M.[/tab]
+
+Chorus
+
+E|-3h4h5-3h4h5-xx-x-&lt;5>-|
+
+
+Bridge
+
+La ritmica non saprei scrivervela quindi vi metto i nomi degli accordi con i diagrammi
+
+A D A D A D A D (e continua così...)
+
+A:       D:
+
+[tab]e|-5-|---|(5)|
+B|-5-|---|-7-|
+G|-6-|---|-7-|
+D|-7-|---|-7-|
+A|-7-|---|-5-|
+E|-5-|---|---|[/tab]
+
+La canzone chiude con:
+
+[tab]e|----------||
+B|----------||
+G|----------||
+D|-7--------||
+A|-7--------||
+E|-5--------||[/tab]
+
+Legenda:
+P.M. = palm muting
+&lt;5> = armonico
+(5) = nota opzionale
+h = hammer on
+p = pull off
+b = bending fino alla nota indicata subito dopo la "b"
+x = rake
+\ o / = slide
+
+è la mia prima tab seria quindi non siate cattivi

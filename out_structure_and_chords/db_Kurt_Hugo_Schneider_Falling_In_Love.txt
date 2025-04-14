@@ -1,0 +1,102 @@
+{
+    "verse-1": [
+        "G",
+        "Em7",
+        "Cadd9",
+        "G",
+        "G",
+        "Em7",
+        "Cadd9",
+        "G"
+    ],
+    "verse-2": [
+        "G",
+        "Em7",
+        "Cadd9",
+        "G"
+    ],
+    "pre-chorus-1": [
+        "G",
+        "Em7",
+        "C",
+        "G",
+        "G",
+        "Em7",
+        "Cadd9",
+        "D"
+    ],
+    "pre-chorus-2": [
+        "G",
+        "Em7",
+        "C",
+        "G",
+        "G",
+        "Em7",
+        "Cadd9",
+        "D"
+    ],
+    "chorus-1": [
+        "Em7",
+        "Cadd9",
+        "G",
+        "D",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D"
+    ],
+    "chorus-2": [
+        "Em7",
+        "Cadd9",
+        "G",
+        "D",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D",
+        "G",
+        "Em7",
+        "Cadd9",
+        "G",
+        "G",
+        "Em7",
+        "Cadd9",
+        "G"
+    ],
+    "chorus-3": [
+        "Em7",
+        "Cadd9",
+        "G",
+        "D",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D",
+        "Em7",
+        "Cadd9",
+        "G",
+        "D"
+    ],
+    "instrumental-1": [
+        "C",
+        "Cmaj7",
+        "G",
+        "D",
+        "C",
+        "Cmaj7",
+        "D"
+    ],
+    "instrumental-2": [
+        "C",
+        "Cmaj7",
+        "G",
+        "D",
+        "C",
+        "Cmaj7",
+        "D"
+    ]
+}

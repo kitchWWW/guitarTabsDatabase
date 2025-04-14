@@ -1,0 +1,93 @@
+URL: https://tabs.ultimate-guitar.com/tab/devics/you-in-the-glass-chords-1835255
+Artist: Devics
+Song: You In The Glass
+Genre: 
+Key: 
+
+
+[ch]Am[/ch]        x02210
+[ch]B[/ch]         x24442
+[ch]E[/ch]         022100
+[tab][ch]Am[/ch]*       x07540
+Bbadd#11  6887x0 or x13330[/tab]
+[ch]Gm[/ch]        355333
+[ch]Dm[/ch]        xx0231
+[ch]Bb7[/ch]       x13131
+[ch]E7[/ch]        020100
+
+Am* is Am with the addition of a D# note, the #11, but there's not an Am type name that will
+be recognised on UG.  C6#9/A would work but that's not really the intention behind the part.
+
+Suggested picking pattern for verse (two guitars arranged for one):
+
+[tab]e|----0-----------0--|----0-----------0--|----------0--------|----------0--------|
+B|----------4--------|----------4--------|-------------------|-------------------|
+G|-------5-----------|-------5-----------|----7-----------7--|----7--------7-----|
+D|-7-----------------|-7-----------------|-------8-----------|-------8--------8--|
+A|-0-----------------|-0-----------------|-8-----------------|-8-----------------|
+E|-------------------|-------------------|-6-----------------|-6-----------------|[/tab]
+
+
+[Intro]
+| [ch]Am[/ch]   | [ch]Am[/ch]   | [ch]B[/ch]    | [ch]E[/ch]    | x2
+
+[Verse 1]
+[tab][ch]Am[/ch]*
+Deep in the woods[/tab]
+[tab]                 [ch]Bbadd#11[/ch]
+It was grey all around[/tab]
+[tab][ch]Am[/ch]*
+Only one rose[/tab]
+[tab]                           [ch]Bbadd#11[/ch]
+That never was meant to be found[/tab]
+[tab]      [ch]Am[/ch]*                             [ch]Bbadd#11[/ch]
+"This is for my love who is no longer here"[/tab]
+[tab][ch]Am[/ch]*                                        [ch]Bbadd#11[/ch]  [ch]E[/ch]
+Inside these words were written in ink and tears[/tab]
+
+[Chorus 1]
+[tab]                 [ch]Am[/ch]
+First story from you[/tab]
+[tab]         [ch]B[/ch]         [ch]E[/ch]          [ch]Am[/ch]
+Now you awake when I begin to dream[/tab]
+[tab]          [ch]B[/ch]        [ch]E[/ch]              [ch]Am[/ch]
+I open my eyes and you turn off machines[/tab]
+[tab]              [ch]B[/ch] [ch]E[/ch]       [ch]Am[/ch]
+You should be here with me[/tab]
+[tab]               [ch]B[/ch] [ch]E[/ch]
+I know you are near[/tab]
+
+[Verse 2]
+[tab][ch]Am[/ch]*                                       [ch]Bbadd#11[/ch]
+In through my hearts twisting and winding chords[/tab]
+[tab][ch]Am[/ch]*                                          [ch]Bbadd#11[/ch]
+There is a place where love soaks in all its pores[/tab]
+[tab][ch]Am[/ch]*                             [ch]Bbadd#11[/ch]
+Under the sea deep in its water core[/tab]
+[tab][ch]Am[/ch]*                             [ch]Bbadd#11[/ch]
+You will find me weightless and waiting[/tab]
+
+[Bridge]
+[tab]     [ch]Gm[/ch]                 [ch]Dm[/ch]
+In a car at night for a long way home[/tab]
+[tab]    [ch]Bb7[/ch]                 [ch]Am[/ch]
+The saddest song on the radio[/tab]
+[tab][ch]Gm[/ch]                      [ch]Dm[/ch]
+Her in your arms on the seat next to me[/tab]
+[tab]  [ch]Bb7[/ch]               [ch]E7[/ch]
+Reflection in glass wishing she was me[/tab]
+
+[Chorus 2]
+[tab]               [ch]Am[/ch]
+All happy with you[/tab]
+[tab]                    [ch]B[/ch] [ch]E[/ch]       [ch]Am[/ch]
+Cause you should be here with me[/tab]
+[tab]               [ch]B[/ch] [ch]E[/ch]  [ch]Am[/ch]
+I know you are near[/tab]
+[tab]              [ch]B[/ch] [ch]E[/ch]       [ch]Am[/ch]
+You should be here with me[/tab]
+[tab]               [ch]B[/ch] [ch]E[/ch]
+I know you are near[/tab]
+
+[Outro]
+[ch]Am[/ch]*   [ch]Bbadd#11[/ch]  [ch]Am[/ch]

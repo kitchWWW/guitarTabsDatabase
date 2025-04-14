@@ -1,0 +1,86 @@
+{
+    "intro": [
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj"
+    ],
+    "verse-1": [
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G",
+        "Cmaj"
+    ],
+    "verse-2": [
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G",
+        "G",
+        "Cmaj",
+        "Em",
+        "G",
+        "Cmaj",
+        "Em"
+    ],
+    "verse-3": [
+        "G",
+        "Em",
+        "G",
+        "Em",
+        "G",
+        "Em",
+        "G",
+        "Em",
+        "G",
+        "Em",
+        "Cmaj",
+        "G"
+    ],
+    "verse-4": [
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G"
+    ],
+    "verse-5": [
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G"
+    ],
+    "outro": [
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj",
+        "G",
+        "Cmaj",
+        "Em",
+        "Cmaj"
+    ]
+}

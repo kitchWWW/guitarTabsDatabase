@@ -1,0 +1,75 @@
+{
+    "intro": [
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "D7",
+        "Bm/D",
+        "G"
+    ],
+    "verse-1": [
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4"
+    ],
+    "verse-2": [
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4"
+    ],
+    "chorus-1": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "D7",
+        "Bm/D",
+        "G"
+    ],
+    "chorus-2": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+    ],
+    "outro": [
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4",
+        "G",
+        "Dadd4"
+    ]
+}

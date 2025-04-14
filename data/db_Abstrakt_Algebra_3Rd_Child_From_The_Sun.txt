@@ -1,0 +1,39 @@
+URL: https://tabs.ultimate-guitar.com/tab/abstrakt-algebra/3rd-child-from-the-sun-tabs-2986523
+Artist: Abstrakt Algebra
+Song: 3Rd Child From The Sun
+Genre: 
+Key: Am
+
+
+Abstrakt Algebra -- 3rd Child from the Sun
+
+
+
+[Intro, bass arranged for guitar]
+
+[tab]E|--------------------------|
+B|--------------------------|
+G|--------------------------|
+D|--------------------------|
+A|---7/8/7----7/8/7----/8~--|
+E|-0--------0--------0------|[/tab]
+
+[Intro, Clean Guitar]
+
+[tab]E|----------------------|------------------------|
+B|----------------------|-------------10~--------|
+G|----9-9-8--9----------|----9-9-8--9------------|
+D|--------------9---10--|------------------------|
+A|-7--------------------|-7------------------8~--|
+E|-0--------------------|-0----------------0-----|[/tab]
+
+
+Legend:
+
+/ -- slide
+~ -- vibrato
+
+Note: This is an incomplete tab, missing the verse section.
+Because of the lo-fi nature of the recording, I cannot piece out what the guitar is doing
+during the verse, but I feel like it's doing something under a open A-string diminished minor-type scale.
+If you have a suggestion for that section, please post it as a correction.

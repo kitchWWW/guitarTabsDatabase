@@ -1,0 +1,38 @@
+{
+    "instrumental-1": [
+        "Em",
+        "Em",
+        "B7",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "B7",
+        "Em",
+        "Em",
+        "B7",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "B7",
+        "Em",
+        "Em",
+        "B7",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "B7"
+    ],
+    "instrumental-2": [
+        "Em",
+        "Em",
+        "B7",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "B7"
+    ]
+}

@@ -1,0 +1,182 @@
+URL: https://tabs.ultimate-guitar.com/tab/dover/loli-jackson-chords-821564
+Artist: Dover
+Song: Loli Jackson
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------------
+                         LOLI JACKSON (ACOUSTIC) - Dover
+-------------------------------------------------------------------------------
+Tabbed by: dunadar
+Email: kikemarti _at_ gmail _dot_ com
+
+Tuning: Standard - Capo 3rd fret
+
+Additional info: Played live at Barcelona - can be found in DVD "Dover: 1993 - 2003"
+http://www.youtube.com/watch?v=DHJo9CjLmxE)
+
+===================================
+======= CHORDS - ACORDES ==========
+===================================
+These are the positions for each chord:
+Esta es la posición para cada acorde:
+
+[tab]   [ch]Bb[/ch] (fingers like [ch]G[/ch])   [ch]F[/ch] (like [ch]D[/ch])         [ch]Gm[/ch] (like [ch]Em[/ch])        Cm(*)(like [ch]Am[/ch])       [ch]Eb[/ch] (like [ch]C[/ch])
+   Te (dedos como Sol)   Fa (como Re)       Solm (como Mim)     Dom(*)(como Lam)     Me (como Do)[/tab]
+[tab]e ||---|---|-o-|--------||---|-o-|---|------||---|---|---|------||---|---|---|------||---|---|---|-|
+B ||---|---|-o-|--------||---|---|-o-|------||---|---|---|------||-?-|---|---|------||-o-|---|---|-|
+G ||---|---|---|--------||---|-o-|---|------||---|---|---|------||---|-o-|---|------||---|---|---|-|
+D ||---|---|---|--------||---|---|---|------||---|-o-|---|------||---|-o-|---|------||---|-o-|---|-|
+A ||---|-o-|---|--------xx---|---|---|------||---|-o-|---|------||---|---|---|------||---|---|-o-|-|
+E ||---|---|-o-|--------xx---|---|---|------||---|---|---|------xx---|---|---|------xx---|---|---|-|
+  ^   4th 5th 6th[/tab]
+  |
+  this is the capo in the 3rd fret (double pipe)
+  esta es la cejilla en el tercer traste (doble barra)
+
+(*) I have no idea whether this chord is actually a Cm or any other... in fact I'm 
+sure it is any other (any suggestions?)
+(*)  No tengo ni idea de si es este acorde u otro... en realidad tengo bastante claro 
+es otro porque este no suena bien, pero no lo consigo sacar (¿alguna idea?
+
+===================================
+===== ARPEGGIOS - ARPEGIADO =======
+===================================
+Some of the patterns used as arpeggios. They are used mixed during the song.
+Algunos de los patrones de arpegiado que se usan. Los va mezclando a lo largo de la canción
+        x = play that string / tocar esa cuerda
+        ? = it is optional to strike the string / opcional tocar esa cuerda o no
+        o = play just one of the strings / sólo una de las que aparecen
+                                                      x4
+[tab]  1st                   2nd                     3rd /---\       4th---------------|
+e -----x----------------------x---------------------x-----------------x-----------|
+B -------x---x---o----------x---x---x---o---------x---x-----------------x---------|
+G ---------x---x-----------x------x---x----------x------x-------?---------x-------|
+D --x------------o--------x-------------o-------x---------------x---x-------x-----|
+A --x--------------------x--------------------------------------x-x---------------|
+E --?-------------------o---------------------------------------?-----------------|[/tab]
+
+ --> First and second are the basic arpeggios; Cristina plays a lot varying them. //
+     El primero y el segundo son los básicos; Cristina juega mucho con variaciones suyas 
+lo largo de la canción
+ --> Third is used with the F chord (D position) played just before the chorus, and it 
+more or less twice the time of normal arpeggios //
+     El tercero lo usa en el acorde Fa (posición de Re) que se toca antes del 
+y llena más o menos el doble de tiempo que un arpegio normal
+ --> Fourth (and some variations over it) are sometimes used (especially during chorus). 
+have to strike 2 or 3 bass strings of the chord, but without the fingers on its 
+(open strings); then, while they are ringing, you must hammer them with the 
+fingers in the proper chord position. //
+     El cuarto y variaciones sobre él se usan a veces, sobre todo en el estribillo. Se 
+primero las 2-3 cuerdas bajas del acorde al aire (sin colocar los dedos), y cuando están 
+se hace hammer-on en ellas (se colocan los dedos en la posición del acorde)
+
+
+===================================
+========= CANCIÓN - SONG ==========
+===================================
+CHORDS NAMED ACCORDING TO THE FINGERS POSITION - AS THEY WOULD SOUND IF PLAYING WIHOUT CAPO
+CON ACORDES NOMBRADOS SEGÚN LA POSICIÓN DE LOS DEDOS - COMO SONARIAN SI TOCÁSEMOS SIN CEJILLA
+
+[tab][ch]Em[/ch]              [ch]C[/ch]             [ch]G[/ch]          [ch]D[/ch]
+  Tell you my love where to hide me away[/tab]
+[tab][ch]Em[/ch]            [ch]C[/ch]             [ch]G[/ch]           [ch]D[/ch]
+  tell you my love where to find me again[/tab]
+[tab][ch]Em[/ch]    [ch]Am[/ch]         [ch]C[/ch]             [ch]G[/ch]
+  why cry, leggy smile I never had[/tab]
+[tab][ch]Em[/ch]           [ch]Am[/ch]
+  star inner style[/tab]
+[tab]  [ch]C[/ch]                            [ch]D[/ch]
+  golden dreams that passed me by[/tab]
+
+[tab]              [ch]C[/ch]             [ch]G[/ch]             [ch]D[/ch]
+  Tell you my love reckless nights passed away[/tab]
+[tab]       [ch]Em[/ch]           [ch]C[/ch]
+  as I tried not to hate[/tab]
+[tab]          [ch]G[/ch]              [ch]D[/ch]
+  I won't care what they say[/tab]
+[tab]  [ch]Em[/ch]  [ch]Am[/ch]         [ch]C[/ch]             [ch]G[/ch]
+  why cry, leggy smile I never had[/tab]
+[tab]  [ch]Em[/ch]         [ch]Am[/ch]
+  star inner style[/tab]
+[tab]         [ch]C[/ch]                     [ch]G[/ch]
+  golden dreams that passed me by[/tab]
+[tab]       [ch]C[/ch]         [ch]D[/ch]
+  that passed me by...[/tab]
+
+CHORUS:
+[tab]  [ch]G[/ch]       [ch]D[/ch]
+  You said I'm on fire[/tab]
+[tab][ch]Em[/ch]             [ch]C[/ch]                     [ch]G[/ch]
+  well I don't think so and she said fine[/tab]
+[tab]           [ch]D[/ch]
+  you said no lies[/tab]
+[tab][ch]Em[/ch]                  [ch]C[/ch]                [ch]G[/ch]
+  well I don't think so and she said fine[/tab]
+[tab]                [ch]D[/ch]            [ch]Em[/ch] [ch]C[/ch] [ch]G[/ch] [ch]D[/ch]
+  I'll close my eyes and die[/tab]
+[tab]  [ch]Em[/ch]       [ch]C[/ch] [ch]G[/ch] [ch]D[/ch]
+  Just die[/tab]
+
+[ch]Em[/ch] (barre y deja sonar, mientras empieza a cantar otra vez)
+[tab]              [ch]C[/ch]             [ch]G[/ch]       [ch]D[/ch]
+  Tell you my love where to hide me away[/tab]
+[tab][ch]Em[/ch]            [ch]C[/ch]             [ch]G[/ch]       [ch]D[/ch]
+  tell you my love where to find my path again[/tab]
+[tab][ch]Em[/ch]    [ch]Am[/ch]         [ch]C[/ch]             [ch]G[/ch]
+  why cry, leggy smile I never had[/tab]
+[tab][ch]Em[/ch]           [ch]Am[/ch]
+  star inner style[/tab]
+[tab]         [ch]C[/ch]                     [ch]G[/ch]
+  golden dreams that passed me by[/tab]
+[tab]       [ch]C[/ch]         [ch]D[/ch]
+  that passed me by...[/tab]
+
+CHORUS:
+[tab][ch]G[/ch]         [ch]D[/ch]
+  You said I'm on fire[/tab]
+[tab][ch]Em[/ch]             [ch]C[/ch]                     [ch]G[/ch]
+  well I don't think so and she said fine[/tab]
+[tab]           [ch]D[/ch]
+  you said don't cry[/tab]
+[tab][ch]Em[/ch]                  [ch]C[/ch]                [ch]G[/ch]
+  well I don't think so and she said fine[/tab]
+[tab]                [ch]D[/ch]            [ch]Em[/ch] [ch]C[/ch] [ch]G[/ch] [ch]D[/ch]
+  I'll close my eyes and die[/tab]
+[tab]  [ch]Em[/ch]       [ch]C[/ch] [ch]G[/ch] [ch]D[/ch]
+  Just die[/tab]
+
+EXTRA VERSE / ESTROFA EXTRA: x5
+(it starts singing with low volume and using palm mute; it progresively let strings ring 
+sings loudly // empieza cantando bajito y rasgando con palm mute; poco a poco va 
+el muteo y subiendo el volumen de la voz)
+[tab][ch]Em[/ch]         [ch]C[/ch]
+  And if I try to see you[/tab]
+[tab][ch]G[/ch]            [ch]D[/ch]
+  now that I know[/tab]
+                      Em (links with the beginning of each new repetition // enlaza con 
+comienzo de la repetición)
+  that you play every night
+
+FINAL:
+
+[tab][ch]Em[/ch]            [ch]C[/ch]                 \
+  You rather! You rather!       |[/tab]
+[tab][ch]G[/ch]                      [ch]D[/ch]        |
+  I couldn't watch you before    > x4[/tab]
+[tab]                     [ch]Em[/ch]         |
+  now you play every night      |[/tab]
+                                /
+
+[ch]Em[/ch] [ch]C[/ch]                            \
+[tab][ch]G[/ch]                      [ch]D[/ch]        |
+  I couldn't watch you before    > x2[/tab]
+[tab]                     [ch]Em[/ch] (link)  |
+  now you play every night      /[/tab]
+
+[ch]C[/ch] [ch]G[/ch] [ch]D[/ch]
+
+End of the song / Remate:
+Following a pattern similar to // siguiendo un patrón parecido a:
+[ch]C[/ch]   [ch]C[/ch] [ch]C[/ch]   [ch]C[/ch]  [ch]C[/ch] [ch]C[/ch] [ch]C[/ch] [ch]C[/ch]  [ch]G[/ch]

@@ -1,0 +1,116 @@
+{
+    "verse-1": [
+        "F",
+        "Dm",
+        "Bb",
+        "Am",
+        "D7",
+        "Gm",
+        "F7"
+    ],
+    "verse-2": [
+        "F",
+        "Dm",
+        "Bb",
+        "Am",
+        "D7",
+        "Gm",
+        "C"
+    ],
+    "verse-3": [
+        "F",
+        "Dm",
+        "Bb",
+        "C",
+        "Am",
+        "D7",
+        "Gm",
+        "C"
+    ],
+    "bridge-1": [
+        "Dm",
+        "C",
+        "Bb",
+        "Gm",
+        "Dm",
+        "C",
+        "Bb",
+        "Gm",
+        "C"
+    ],
+    "bridge-2": [
+        "Dm",
+        "Bb",
+        "Gm",
+        "Dm",
+        "Bb",
+        "Gm",
+        "C"
+    ],
+    "chorus-1": [
+        "F",
+        "Bb",
+        "Dm",
+        "Dbm",
+        "F",
+        "G",
+        "Gm",
+        "C"
+    ],
+    "chorus-2": [
+        "F",
+        "Bb",
+        "Dm",
+        "Dbm",
+        "F",
+        "G",
+        "Gm",
+        "C",
+        "F",
+        "Bb",
+        "Dm",
+        "Dbm",
+        "F",
+        "G",
+        "Gm",
+        "Bbm"
+    ],
+    "chorus-3": [
+        "F",
+        "Bb",
+        "Dm",
+        "Dbm",
+        "F",
+        "G",
+        "Gm",
+        "C",
+        "F",
+        "Bb",
+        "Dm",
+        "Dbm",
+        "F",
+        "G",
+        "Gm",
+        "Bbm"
+    ],
+    "solo": [
+        "F",
+        "C",
+        "Dm",
+        "Gm",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Dm",
+        "Gm",
+        "F",
+        "Eb",
+        "Bb",
+        "C"
+    ],
+    "outro": [
+        "F",
+        "Fmaj7"
+    ]
+}

@@ -1,0 +1,162 @@
+URL: https://tabs.ultimate-guitar.com/tab/lisa-blackpink/dream-chords-5692460
+Artist: LISA (BLACKPINK)
+Song: Dream
+Genre: 
+Key: Eb
+
+
+It's optional doing the sevenths in the chorus (Cm7 and Fm7) and can just be played normally (Cm and Fm),
+I just think it sounds great!
+
+This is how I play some of the chords since I'm on electric, but by no means the "official" way:
+
+[tab]        [ch]E[/ch]  [ch]A[/ch]  [ch]D[/ch]  [ch]G[/ch]  [ch]B[/ch]  e
+Eb      x  6  8  8  8  x[/tab]
+Eb/D    x  5  8  8  8  x
+Dm7b5   x  5  6  5  6  x
+G7      3  5  3  4  3  3
+Cm      x  3  5  5  4  3
+Ab      4  6  6  5  4  4
+G       3  5  5  4  3  3
+Fm      1  3  3  1  1  1
+Bb7     6  8  6  7  6  6
+Bb/Ab   4  x  3  3  3  x
+Gm      3  5  5  3  3  3
+C/E     x  7  5  5  5  x
+Fm7     x  8  10 8  9  8
+Fdim    x  8  9  10 9  x
+Bdim    x  2  3  4  3  x
+Adim    x  0  1  2  1  x
+
+
+[Intro]
+[ch]Eb[/ch]  [ch]Eb/D[/ch]  [ch]Dm7b5[/ch] [ch]G7[/ch]  [ch]Cm[/ch]
+
+[Verse 1]
+[tab]          [ch]Eb[/ch]
+I've been thinking[/tab]
+[tab]                               [ch]Eb/D[/ch]
+That I got no idea what you're thinking, are you happy? Are you sad?[/tab]
+[tab]        [ch]Dm7b5[/ch]        [ch]G7[/ch]               [ch]Cm[/ch]
+Are you always gonna hate me for that night in Tokyo?[/tab]
+[tab]        [ch]Eb[/ch]                                     [ch]Eb/D[/ch]
+When it ended, I kinda hoped that it'd be open-ended, but you never looked back[/tab]
+[tab]        [ch]Dm7b5[/ch]                [ch]G7[/ch]              [ch]Cm[/ch]
+Well, I guess you can't hold on to something once you let it go[/tab]
+
+[Pre-Chorus]
+[tab]    [ch]Ab[/ch]
+But I know a place where we can be us[/tab]
+[tab]  [ch]G[/ch]
+I know it ain't real, but it's real enough[/tab]
+[tab]     [ch]Fm[/ch]
+From sun going down to sun coming up[/tab]
+[tab]     [ch]Bb7[/ch]
+It's like you're here with me[/tab]
+
+[Chorus]
+[tab][ch]Eb[/ch]
+Whenever I close my eyes[/tab]
+[tab][ch]Eb/D[/ch]
+It's taking me back in time[/tab]
+[tab][ch]Dm7b5[/ch]            [ch]G7[/ch]           [ch]Cm7[/ch]
+Been drowning in dreams lately, like it's 2019, baby[/tab]
+[tab][ch]Eb[/ch]
+Whenever I'm missing you[/tab]
+[tab][ch]Eb/D[/ch]
+Call you up, but I can't get through[/tab]
+[tab][ch]Dm7b5[/ch]                [ch]G7[/ch]
+Don't know where you sleep lately[/tab]
+[tab][ch]Cm7[/ch]
+But I'll see you in my dreams, maybe[/tab]
+[tab][ch]Ab[/ch]                     [ch]Bb/Ab[/ch]
+We can catch up, drive down our old street[/tab]
+[tab]   [ch]Gm[/ch]                  [ch]C/E[/ch]                 [ch]Fm7[/ch]
+If all that we were is all that we'll ever be[/tab]
+[tab]           [ch]Fdim[/ch]
+It's bittersweet[/tab]
+[tab]                     [ch]Eb[/ch]
+At least a girl can dream[/tab]
+
+[Verse 2]
+[tab][ch]Eb[/ch]
+I guess that I'm taking what I can get[/tab]
+[tab]                   [ch]Eb/D[/ch]
+'Cause I don't get nothing new from your friends[/tab]
+[tab]                                  [ch]Dm7b5[/ch]
+If you got the harder side of the break[/tab]
+[tab]               [ch]G7[/ch]
+Then why is it harder for me to take?[/tab]
+[tab]        [ch]Cm[/ch]
+There's so much I might never get to say-ay[/tab]
+
+[Pre-Chorus]
+[tab]    [ch]Ab[/ch]
+But I know a place where we can be us[/tab]
+[tab]  [ch]G[/ch]
+I know it ain't real, but it's real enough[/tab]
+[tab]     [ch]Fm[/ch]
+From sun going down to sun coming up[/tab]
+[tab]     [ch]Bb7[/ch]
+It's like you're here with me[/tab]
+
+[Chorus]
+[tab][ch]Eb[/ch]
+Whenever I close my eyes[/tab]
+[tab][ch]Eb/D[/ch]
+It's taking me back in time[/tab]
+[tab][ch]Dm7b5[/ch]            [ch]G7[/ch]           [ch]Cm7[/ch]
+Been drowning in dreams lately, like it's 2019, baby[/tab]
+[tab][ch]Eb[/ch]
+Whenever I'm missing you[/tab]
+[tab][ch]Eb/D[/ch]
+Call you up, but I can't get through[/tab]
+[tab][ch]Dm7b5[/ch]                [ch]G7[/ch]
+Don't know where you sleep lately[/tab]
+[tab][ch]Cm7[/ch]
+But I'll see you in my dreams, maybe[/tab]
+[tab][ch]Ab[/ch]                     [ch]Bb/Ab[/ch]
+We can catch up, drive down our old street[/tab]
+[tab]   [ch]Gm[/ch]                  [ch]C/E[/ch]                 [ch]Fm7[/ch]
+If all that we were is all that we'll ever be[/tab]
+[tab]           [ch]Fdim[/ch]
+It's bittersweet, at least a girl can dream[/tab]
+
+[Bridge]
+[tab][ch]Cm[/ch] [ch]Bdim[/ch]        [ch]Bb[/ch]         [ch]Adim[/ch]
+I, I know it's only in my mind (Ooh)[/tab]
+[tab]        [ch]Ab[/ch]
+Playin' three nights on the stereo[/tab]
+[tab]       [ch]G[/ch]
+Like a movie scene, DiCaprio[/tab]
+[tab]    [ch]Cm[/ch] [ch]Bdim[/ch]     [ch]Bb[/ch]             [ch]Adim[/ch]     [ch]Fm[/ch]
+Oh, I, I put my makeup on just to fall asleep (Ah)[/tab]
+[tab]     [ch]Bb[/ch]
+It's like you're here with me[/tab]
+
+[Chorus]
+[tab][ch]Eb[/ch]
+Whenever I close my eyes[/tab]
+[tab][ch]Eb/D[/ch]
+It's taking me back in time[/tab]
+[tab][ch]Dm7b5[/ch]            [ch]G7[/ch]           [ch]Cm7[/ch]
+Been drowning in dreams lately, like it's 2019, baby[/tab]
+[tab][ch]Eb[/ch]
+Whenever I'm missing you[/tab]
+[tab][ch]Eb/D[/ch]
+Call you up, but I can't get through[/tab]
+[tab][ch]Dm7b5[/ch]                [ch]G7[/ch]
+Don't know where you sleep lately[/tab]
+[tab][ch]Cm7[/ch]
+But I'll see you in my dreams, maybe[/tab]
+[tab][ch]Ab[/ch]                     [ch]Bb/Ab[/ch]
+We can catch up, drive down our old street[/tab]
+[tab]   [ch]Gm[/ch]                  [ch]C/E[/ch]                 [ch]Fm7[/ch]
+If all that we were is all that we'll ever be[/tab]
+[tab]           [ch]Fdim[/ch]
+It's bittersweet[/tab]
+[tab]                 [ch]Eb[/ch]
+Can we be friends at least?[/tab]
+
+[Outro]
+[ch]Eb[/ch]  [ch]Eb/D[/ch]  [ch]Dm7b5[/ch] [ch]G7[/ch]  [ch]Cm[/ch]

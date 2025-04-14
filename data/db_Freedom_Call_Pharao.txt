@@ -1,0 +1,104 @@
+URL: https://tabs.ultimate-guitar.com/tab/freedom-call/pharao-bass-1247864
+Artist: Freedom Call
+Song: Pharao
+Genre: 
+Key: 
+
+
+Artist: Freedom Call
+Title: Pharao
+Album: Chrystal Empire
+Tab  : Felix Kiesewetter (TheMaster@ironmaiden.com)
+Comments: the numbers in the () are notes you can play with the 7 together, that
+sounds
+          cool, but in fact I think the bassist of Freedom Call plays only the 0
+while
+          the guitars play the high E on the 7.
+
+____________________________________________________________________________________________
+BASS TAB (4-STRING BASS)
+
+Tune down 1/2 step (Eb,Ab,Db,Gb)
+
+[tab]Intro
+Gb|------------------------|
+Db|------------------------|
+Ab|-R---------7*-R---------|
+Eb|------------------------|[/tab]
+
+
+[tab]Chorus                   x2
+Gb|---------------------|  |------|
+Db|---------------------|  |------|
+Ab|(7*)--3*-------------|  |(7*)--|
+Eb|-0*--------3*---5*---|  |-0*---|[/tab]
+
+
+[tab]Verse
+Gb|-----------------------------------------------------------------|
+Db|-----------------------------------------------------------------|
+Ab|(7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7)3-3-3-3-3-3-3-3-2-2-2-2-2-2-2-2-|
+Eb|-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0---------------------------------|[/tab]
+
+
+[tab]Fill
+Gb|----------------------|
+Db|----------------------|
+Ab|---------3--3--3-2*---|
+Eb|-0*-------------------|[/tab]
+
+[tab]Gb|-----------------------|
+Db|-----------------------|
+Ab|---------3--3--3-2-2-2-|
+Eb|-0*--------------------|[/tab]
+
+
+[tab]Pre-Chorus
+Gb|----------------------|
+Db|----------------------|
+Ab|---------3--3--3-2*---|
+Eb|-0*-------------------|[/tab]
+
+[tab]Gb|-------------------------------------------------|
+Db|-------------------------------------------------|
+Ab|---------3--3--3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-|
+Eb|-0*----------------------------------------------|[/tab]
+
+
+[tab]Outro                                                          x2
+Gb|-----------------------------------------------------------|
+Db|-----------------------------------------------------------|
+Ab|-7-7-7-8-7-7-7-5-7-7-7-8-7*--------------------------------|
+Eb|------------------------------7-7-7-8-7-7-7-5-7-7-7-8-7*---|[/tab]
+
+[tab]Gb|------------------------------------------------------------------->
+Db|-2-2-2-2-2-2-2-2--------------------------------------------------->
+Ab|-----------------2-2-2-2-2-2-2-2-5-5-5-5-5-5-5-5-5-----------------> repeat throughout
+Eb|---------------------------------------------------5-5-5-5-5-5-5-5-> solos and fade out[/tab]
+
+***ALL CREDIT GOES TO THE NAME ABOVE, JUST MOVED TO HERE FROM ANOTHER SITE***
+
+structure:
+Intro
+Chorus
+Verse x2
+Fill
+Verse x2
+Pre-Chorus
+Chorus
+Verse x2
+Pre-Chorus
+Chorus
+Outro
+
+
+
+ 4*    = let the note ring
+      = pull down from an higher fret
+ /     = pull up from 0
+ R     = rest
+ 6p5   = pull from the 6th fret to the 5th
+ 5h6   = hammer from the 5th fret to the 6th
+ p.m.  = palm muted
+ ^9    = harmonic
+ s7    = slap

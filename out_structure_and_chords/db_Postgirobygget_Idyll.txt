@@ -1,0 +1,29 @@
+{
+    "chorus-1": [
+        "Em7",
+        "Am",
+        "Dsus4",
+        "G",
+        "D/F",
+        "Em7",
+        "Am",
+        "Dsus4",
+        "G",
+        "Am",
+        "Dsus4",
+        "G",
+        "Cadd9",
+        "Em7",
+        "Dsus4"
+    ],
+    "chorus-2": [],
+    "chorus-3": [],
+    "bridge": [
+        "Am",
+        "Dsus4",
+        "Em7",
+        "Cadd9",
+        "Am",
+        "Dsus4"
+    ]
+}

@@ -1,0 +1,63 @@
+URL: https://tabs.ultimate-guitar.com/tab/claude-nougaro/chanson-pour-marylin-chords-4027348
+Artist: Claude Nougaro
+Song: Chanson Pour Marylin
+Genre: 
+Key: C
+
+
+[Intro]
+[tab][ch]A7b9[/ch]     [ch]Dm7[/ch]     [ch]G7b9[/ch]
+Marilyn, Marilyn[/tab]
+
+[Verse 1]
+[tab][ch]C[/ch]             [ch]E7/B[/ch]          [ch]Am7[/ch] [ch]Ab7+[/ch]
+  Quel est le film, le scénario[/tab]
+[tab][ch]C/G[/ch]               [ch]D/F#[/ch]          [ch]Dm7/F[/ch]  [ch]Ebdim[/ch]
+    Qu’il te faut tourner de nouveau ?[/tab]
+[tab][ch]G7[/ch]                          [ch]Em7[/ch] [ch]Am[/ch]
+   Et dans quel néant s’illumi  ne[/tab]
+[tab]     [ch]Dm[/ch]        [ch]G7[/ch]             [ch]E7#9[/ch] [ch]Eb9[/ch] [ch]D9[/ch] [ch]Db7b9[/ch]
+Le néon de ton nom, Marilyn ?[/tab]
+
+[tab][ch]C[/ch]          [ch]E7/B[/ch]            [ch]Am7[/ch] [ch]Ab7+[/ch]
+  Avais-tu donc le cœur si las[/tab]
+[tab][ch]C/G[/ch]           [ch]Gbdim[/ch]        [ch]Dm7/F[/ch] [ch]A7[/ch]
+    Que tu préfères l’au-delà[/tab]
+[tab]  [ch]Dm7[/ch]            [ch]G7[/ch]    [ch]CM7[/ch]        [ch]A13[/ch]
+À l’eau si bleue    de ta piscine[/tab]
+[tab]  [ch]Dm7[/ch]      [ch]G7b9[/ch]     [ch]C6[/ch]
+Ô Marilyn,      Marilyn ?[/tab]
+
+[Bridge]
+[tab][ch]Fm7[/ch]           [ch]Bb7[/ch]    [ch]EbM7[/ch]
+    Le talent payé à prix d’or[/tab]
+[tab][ch]Fm7[/ch]           [ch]Bb7[/ch]        [ch]EbM7[/ch]
+    La beauté     en technicolor[/tab]
+[tab]   [ch]AbM7[/ch]        [ch]Gm7[/ch]
+Et le soleil californien[/tab]
+[tab]     [ch]Fm7[/ch]          [ch]Gm[/ch]          [ch]D7[/ch]
+Non, tout cela ne sert à rien[/tab]
+[tab]         [ch]Gm[/ch]   [ch]D7b9/F#[/ch]       [ch]Fm7[/ch] [ch]G7[/ch]
+Quand on voit l’envers du décor[/tab]
+
+[Verse 2]
+[tab][ch]C[/ch]               [ch]E7/B[/ch]           [ch]Am7[/ch]   [ch]Ab7+[/ch]
+  Ça tourne mal,     ça tourne court[/tab]
+[tab][ch]C/G[/ch]            [ch]D/F#[/ch]            [ch]Dm7/F[/ch] [ch]Ebdim[/ch]
+    Nos rêves, nos joies, nos amours[/tab]
+[tab][ch]G7[/ch]                [ch]Em7[/ch]          [ch]Am[/ch]
+   L’espoir comme un vieux magazine[/tab]
+[tab]      [ch]Dm[/ch]        [ch]G7[/ch]          [ch]E7#9[/ch] [ch]Eb9[/ch] [ch]D9[/ch] [ch]Db7b9[/ch]
+A glissé de tes doigts, Marilyn[/tab]
+
+[tab][ch]C[/ch]             [ch]E7/B[/ch]                [ch]Am7[/ch] [ch]Ab7+[/ch]
+  Nos vies ne sont qu’un bout d’essai[/tab]
+[tab][ch]C/G[/ch]                [ch]Gbdim[/ch]              [ch]Dm7/F[/ch] [ch]A7[/ch]
+    Pour qui, pour quoi, Dieu seul le sait[/tab]
+[tab]    [ch]Dm7[/ch]         [ch]G7[/ch]    [ch]CM7[/ch]         [ch]A13[/ch]
+Toi qui connais    la fin du film[/tab]
+[tab]    [ch]Dm7[/ch]      [ch]G7[/ch]              [ch]Bbm7b5[/ch] [ch]A7[/ch]
+Dis Marilyn,    est-ce un baiser ?[/tab]
+
+[tab]    [ch]D7[/ch]       [ch]G7b9[/ch]              [ch]C6[/ch]
+Dis Marilyn,      est-ce un baiser ?[/tab]

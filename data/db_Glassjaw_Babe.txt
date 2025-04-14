@@ -1,0 +1,98 @@
+URL: https://tabs.ultimate-guitar.com/tab/glassjaw/babe-tabs-69670
+Artist: Glassjaw
+Song: Babe
+Genre: 
+Key: 
+
+
+Artist - GlassJAw
+Song   - Babe
+Album  - Everything You Ever Wanted To Know About Silence
+Tuning - EADGBE
+Tabbed by David Diuguid (aka bmskate/DEFreak13)
+
+
+pm... = palm mute
+s     = slide
+/\    = hammer on/off
+&lt;>    = harmonic
+
+
+[tab]Intro - Guitar 1 [distortion]
+|---------------------------------|
+|---------------------------------|
+|---------------------------------|
+|---------------------------------|    really fast with tremolo picking
+|-2-2-2-2/3-3-3-3/6-6-6-6\5-5-5-5-|
+|-2-2-2-2/3-3-3-3/6-6-6-6\5-5-5-5-|[/tab]
+
+[tab]Verse - Guitar 2 [distortion/compression]
+|-----------|
+|-----------|
+|-----------|
+|-----------|
+|-2---6---3-|
+|-0---4---1-|[/tab]
+
+
+[tab]Verse - Guitar 1 [distortion]
+|------------------|
+|-------------6----|
+|----------------5-|
+|-2---3---3--------|
+|-1---3---2--------|
+|------------------|[/tab]
+
+
+[tab]Fill - Guitar 2 [distortion/compression]
+|-------------------|
+|-------------------|
+|-------------------|
+|-3-3--3-3-3--3-6-6-|
+|-1-1--1-1-1--1-4-4-|
+|-1-1--1-1-1--1-4-4-|[/tab]
+
+
+[tab]Chorus - Guitar 1 & 2 [distortion]
+|------------------------------|
+|------------------------------|
+|------------------------------|
+|------------------------------|
+|-8/7---8/7---8/7---8/7--------|
+|-6/5-0-6/5-0-6/5-0-6/5--0-0-0-|[/tab]
+
+
+[tab]2nd Chorus - Guitar 2 [distortion/compression]
+|-------|-----------------------------|-&lt;5>---------|2nd guitarist does this
+|-------|-----------------------------|-----&lt;5>-----|repeatedly in 2nd pre-
+|-------|-----------------------------|---------&lt;5>-|chorus very fast
+|-------|-----------------------------|-------------|
+|-2-2-2-|-----------------------------|-------------|
+|-0-0-0-|-&lt;5>-&lt;5>-&lt;5>-&lt;5>-&lt;5>-&lt;5>-&lt;5>-|-------------|[/tab]
+
+
+[tab]Interlude - Guitar 2 [distortion/compression]
+|------------|------|------|---|
+|------------|------|------|-5-|   While guitar 2 hits the 012 chord guitar
+|------------|------|------|---|   1 palm-mutes and scrapes the pick along
+|-2--2--2--2-|-6--5-|-5--4-|-2-|   the strings really fast
+|-1--1--1--1-|-4--3-|-3--2-|-1-|
+|-0--0--0--0-|-4--3-|-3--2-|-0-|[/tab]
+
+Here they still use the 012 chord but guitar 2 hits the chord one time for every 2 times guitar 1 hits it; 
+awesome...it's like
+guitar 1:  * * * * * * *
+guitar 2:  *   *   *   *
+near the end of this part, guitar 2 hits the 5th fret on g string a few times as shown above
+
+
+[tab]Ending - Both Guitars - [distortion/compression]
+|-----------------------------------------------------------------------|
+|--------------------------------------6-6-6-6-6-6-6-6------------------|
+|--------------------------------------9-9-9-9-9-9-9-9------------------|
+|-3-3-3-3-3-3-3-3-2---------------2--------------------2--2--2--2-----2-|
+|-1-1-1-1-1-1-1-1-2---------------2--------------------1--1--1--1-----1-|
+|-1-1-1-1-1-1-1-1-0-(pickscrapes)-0--------------------0--0--0--0-----0-|[/tab]
+
+
+Any questions or comments contact me via e-mail at bmskate@hotmail.com or by Instant Messenger as DEFreak13

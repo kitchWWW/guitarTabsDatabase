@@ -1,0 +1,42 @@
+{
+    "verse-1": [
+        "Am",
+        "Am",
+        "Am",
+        "Em",
+        "Dm",
+        "Gm",
+        "Em",
+        "Dm",
+        "Am",
+        "Gm",
+        "Am",
+        "Am",
+        "Em",
+        "Dm",
+        "Gm",
+        "Em",
+        "Dm",
+        "Am",
+        "Gm"
+    ],
+    "verse-2": [
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Em",
+        "Dm",
+        "Am",
+        "Am",
+        "Am",
+        "Am",
+        "Am",
+        "Am",
+        "Em",
+        "Dm",
+        "Gm",
+        "Em",
+        "Dm"
+    ]
+}

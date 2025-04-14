@@ -1,0 +1,62 @@
+{
+    "verse-1": [
+        "Emadd4",
+        "GM7",
+        "CM7",
+        "E7sus4",
+        "Emadd4",
+        "GM7",
+        "CM7",
+        "E7sus4"
+    ],
+    "verse-2": [
+        "Emadd4",
+        "GM7",
+        "CM7",
+        "E7sus4",
+        "Emadd4",
+        "GM7",
+        "CM7",
+        "E7sus4"
+    ],
+    "chorus-1": [
+        "Emadd4",
+        "GM7",
+        "CM7",
+        "E7sus4",
+        "Emadd4",
+        "Asus4",
+        "GM7",
+        "CM7",
+        "E7sus4"
+    ],
+    "chorus-2": [
+        "Emadd4",
+        "GM7",
+        "CM7",
+        "E7sus4",
+        "Emadd4",
+        "Asus4",
+        "GM7",
+        "CM7",
+        "E7sus4",
+        "CM7",
+        "E7sus4",
+        "Emadd4",
+        "F#",
+        "C#dim",
+        "CM7",
+        "E7sus4",
+        "Emadd4",
+        "F#",
+        "C#dim",
+        "CM7",
+        "E7sus4",
+        "Emadd4",
+        "F#",
+        "C#dim",
+        "CM7",
+        "E7sus4",
+        "Emadd4"
+    ]
+}

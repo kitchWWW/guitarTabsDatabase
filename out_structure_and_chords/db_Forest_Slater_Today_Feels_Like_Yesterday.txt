@@ -1,0 +1,51 @@
+{
+    "intro": [
+        "B",
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/F#",
+        "Bmaj7/F#"
+    ],
+    "verse-1": [
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/F#",
+        "Bmaj7/E",
+        "Bmaj7/E",
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/F#",
+        "Bmaj7/E",
+        "Bmaj7/E"
+    ],
+    "verse-2": [
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/F#",
+        "Bmaj7/E",
+        "Bmaj7/E",
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/F#",
+        "Bmaj7/E",
+        "Bmaj7/E"
+    ],
+    "chorus-1": [
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/F#",
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/E"
+    ],
+    "chorus-2": [
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/F#",
+        "B",
+        "Emaj7/G#",
+        "Bmaj7/E",
+        "Bmaj7/E",
+        "B"
+    ]
+}

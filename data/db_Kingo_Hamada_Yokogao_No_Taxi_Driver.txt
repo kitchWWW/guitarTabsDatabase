@@ -1,0 +1,137 @@
+URL: https://tabs.ultimate-guitar.com/tab/kingo-hamada/yokogao-no-taxi-driver-chords-3283994
+Artist: Kingo Hamada
+Song: Yokogao No Taxi Driver
+Genre: 
+Key: 
+
+
+Largely inspired by Tesshie44手島繁 on Youtube. All credits to him.
+
+
+F#mb6     = x2023x (Actually a D inversion)
+[ch]Dm7[/ch]       = x5056x
+[ch]G7b13[/ch]     = 3x344x
+[ch]C/G[/ch]       = 33201x
+[ch]Csus2[/ch]     = x30030
+[tab][ch]Gm11[/ch]      = 3x336x
+A6sus9    = xx7777 (You can also play D7)[/tab]
+[ch]Cmaj7sus2[/ch] = x3543x
+[ch]Dsus4[/ch]     = xx0233
+[ch]D[/ch]         = xx0232
+[tab][ch]Am7[/ch]       = x0201x
+Am7sus4   = x0203x[/tab]
+[ch]Em7[/ch]*      = x22033
+
+[tab][Intro] 4x
+e|----3--2---------------------------------|
+B|---------3--------------3------1---0-----|
+G|-----------4------2---0------0-----------|
+D|--------------------4------2-----0-------|  
+A|-----------------------------------------|
+E|-----------------------------------------|[/tab]
+
+
+[Verse 1]
+[tab][ch]G[/ch]    F#m(b6)  [ch]Em[/ch]    [ch]Dm7[/ch]   [ch]G7b13[/ch]
+Intāchenji o sugita atari wa[/tab]
+[tab][ch]C/G[/ch]    [ch]Csus2[/ch]    [ch]Am7[/ch]    [ch]Dsus[/ch]   [ch]D[/ch]
+Shingo-machi no kuruma ga fueru[/tab]
+[tab][ch]G[/ch]    F#mb6  [ch]Em[/ch]    [ch]Dm7[/ch]   [ch]G7[/ch]
+Waipā sukashite surechigai zama[/tab]
+C/G    Csus2    Am7  A6sus9  N.C.
+Yokogao dake de omae to wakatta
+
+[tab][Fill]
+e|----------------------|
+B|-----3------1---0-----|
+G|---0------0-----------|
+D|-4------2-----0-------|  
+A|----------------------|
+E|----------------------|[/tab]
+
+[Bridge]
+
+[tab][ch]Am7[/ch]                 [ch]Cm7[/ch]
+Natsu ga kuru tabi, jīpu karite[/tab]
+[tab][ch]Cmaj7sus2[/ch] [ch]Em7[/ch]  [ch]Am7[/ch]  [ch]Dsus[/ch] [ch]D[/ch]
+Umibe tobashita mono sa[/tab]
+
+
+[Chorus]
+[tab][ch]C[/ch]    F#m(b6)    [ch]Am7/G[/ch]   [ch]G[/ch]   [ch]Am7[/ch]  [ch]A7sus4[/ch]
+TAXI DRIVER mado o yokogiru sora wa[/tab]
+[tab][ch]C[/ch]      F#m(b6) [ch]D#dim7[/ch] [ch]Em7[/ch]* [ch]Dm7[/ch] [ch]G7b13[/ch]
+Ima mo aoidarou ka[/tab]
+[tab][ch]C/G[/ch]       [ch]C#dim7[/ch]   [ch]Bm7[/ch]     [ch]Am7[/ch]  [ch]E7[/ch]
+Ore wa mukashi no kasetto, nagashi[/tab]
+C      F#m(b6) Am7 A6sus9 N.C. G
+Sugita tsukihi o kazoeta
+
+
+[tab][Fill] 2x
+e|----------------------|
+B|-----3------1---0-----|
+G|---0------0-----------|
+D|-4------2-----0-------|  
+A|----------------------|
+E|----------------------|[/tab]
+
+[Verse 2]
+[tab][ch]G[/ch]    F#m(b6)  [ch]Em[/ch]    [ch]Dm7[/ch]   [ch]G7b13[/ch]
+Nakama wa hotondo kekkon shitashi[/tab]
+[tab][ch]C/G[/ch]    [ch]Csus2[/ch]    [ch]Am7[/ch]    [ch]Dsus[/ch]   [ch]D[/ch]
+Najimi no mise mo ima wanaikedo[/tab]
+[tab][ch]G[/ch]    F#mb6             [ch]Em[/ch]      [ch]Dm7[/ch]   [ch]G7[/ch]
+Waka-sa ga e ni shita, yume mo itsushika[/tab]
+[tab][ch]C/G[/ch]    [ch]Csus2[/ch]    [ch]Am7[/ch] [ch]D7[/ch]   N.C.  [ch]G[/ch]
+Moetsukitanara hai ni... naru no ka[/tab]
+
+[tab][Fill]1x
+e|----------------------|
+B|-----3------1---0-----|
+G|---0------0-----------|
+D|-4------2-----0-------|  
+A|----------------------|
+E|----------------------|[/tab]
+
+[tab][ch]Am7[/ch]            [ch]Cm7[/ch]
+Gēmu mitai ni, ikite ita yo[/tab]
+[tab][ch]Csus2[/ch]    [ch]Em7[/ch]     [ch]Am7[/ch]  [ch]Dsus[/ch] [ch]D[/ch]
+Furimuku koto mo wasurete[/tab]
+
+
+[Chorus]
+[tab][ch]C[/ch]    F#m(b6)    [ch]Am7/G[/ch]   [ch]G[/ch]   [ch]Am7[/ch]  [ch]A7sus4[/ch]
+TAXI DRIVER, taiya dorifuto sasete[/tab]
+[tab][ch]C[/ch]      F#m(b6) [ch]D#dim7[/ch] [ch]Em7[/ch]* [ch]Dm7[/ch] [ch]G7b13[/ch]
+Ame no kābu o isogu[/tab]
+[tab][ch]C/G[/ch]       [ch]C#dim7[/ch]   [ch]Bm7[/ch]     [ch]Am7[/ch]  [ch]E7[/ch]
+Ore wa kurakushon karuku, narashi[/tab]
+C  F#m(b6) Am7 D7 N.C.
+Bakkumirā de miokuru
+
+
+Ooooh.. yeah... yeah..
+
+[Chorus]
+[tab][ch]C[/ch]    F#m(b6)    [ch]Am7/G[/ch]   [ch]G[/ch]   [ch]Am7[/ch]  [ch]A7sus4[/ch]
+TAXI DRIVER mado o yokogiru sora wa[/tab]
+[tab][ch]C[/ch]      F#m(b6) [ch]D#dim7[/ch] [ch]Em7[/ch]* [ch]Dm7[/ch] [ch]G7b13[/ch]
+Ima mo aoidarou ka[/tab]
+[tab][ch]C/G[/ch]       [ch]C#dim7[/ch]   [ch]Bm7[/ch]     [ch]Am7[/ch]  [ch]E7[/ch]
+Ore wa mukashi no kasetto nagashi[/tab]
+C  F#m(b6) Am7 A6sus9 N.C. G
+Sugita tsukihi o kazoeta
+
+[tab][Intro] 
+e|----3--2---------------------------------|
+B|---------3--------------3------1---0-----|
+G|-----------4------2---0------0-----------|
+D|--------------------4------2-----0-------|  
+A|-----------------------------------------|
+E|-----------------------------------------|[/tab]
+
+[End] (Slowly fingerpick)
+[ch]G[/ch]      = 32003x
+[ch]Gadd11[/ch] = 32001x
+[ch]G[/ch]      = 32000x

@@ -1,0 +1,29 @@
+{
+    "verse-1": [
+        "C",
+        "Am",
+        "F",
+        "G"
+    ],
+    "verse-2": [],
+    "verse-3": [],
+    "bridge-1": [
+        "Eb",
+        "Cm",
+        "Ab"
+    ],
+    "bridge-2": [],
+    "chorus-1": [
+        "Em",
+        "Am",
+        "Dm",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "F",
+        "G",
+        "C"
+    ],
+    "chorus-2": []
+}

@@ -1,0 +1,207 @@
+URL: https://tabs.ultimate-guitar.com/tab/mar-de-copas/entre-los-arboles-tabs-1561547
+Artist: Mar de Copas
+Song: Entre Los Arboles
+Genre: 
+Key: 
+
+
+Se usan dos guitarras; la solista hace los arpegios, la guitarra rítmica 
+deberá tocar las notas que estan sobre la tablatura -excepto en las dos 
+primeras partes del INTRO, ya que ahí estas sólo son referencia al acorde 
+arpegeado. La nota FA del INTRO debe tocarse pisando la cuarta cuerda
+con el anular y sin pisar la quinta cuerda. El meñique debe quedar 
+libre para hacer el toque en la primera cuerda. Este toque Debe ser muy rapido 
+y se debe sacar el dedo inmediatamente para lograr el efecto. 
+En el CORO, la guitarra solista puede tocar las notas en quintas 
+(eléctrica) o tocarlas con fuerza para conseguir los acordes de poder. 
+En las estrofas, la guitarra solista puede arpegear los acordes en 
+las tres primeras cuerdas, especialmente el F y G en los primeros
+dos versos y después arpegear en todos los acordes que siguen a A7. 
+
+   EADGBe
+G  355433
+G7 353433
+G1 320003
+C1 x35553
+E7 022130
+
+INTRO:
+
+[tab]  C                        Am7
+|--------------------------|--------------------------------|
+|-1---1---1---3---3---3----|---1---1---1---3---3---3--------|
+|--0---0---0---0---0---0---|----0---0---0---0---0---0-------|
+|---2---2---2---2---2---2--|-----2---2---2---2---2---2------|
+|-3------------------------|---0----------------------------|
+|--------------------------|--------------------------------|[/tab]
+
+[tab]  F                           G
+|--------------------3----------|--------------------5---------------|
+|--------1---1---1------1---1---|-----3---3---3--------3--3----------|
+|---------2----2---2---2-2------|------4----4--4--4------4-4---------|
+|------3----3---3----------3----|----5---5---5--5------------5-------|
+|-------------------------------|------------------------------------|
+|-------------------------------|------------------------------------|[/tab]
+
+
+[tab](Guitarra rítmica puede intentar este acompañamiento sólo durante la 
+segunda parte, deben escuchar bien la canción)
+|--------------------------------|--------------------------------|
+|---1----------3---------5-------|---1--------3--------5----------|
+|--------------------------------|--------------------------------|
+|--------------------------------|--------------------------------|
+|--------------------------------|--------------------------------|
+|--------------------------------|--------------------------------|[/tab]
+
+
+2da parte
+
+[tab]  C                        Am7
+|--------------------------------|--------------------------------|
+|-1---3---3---1---3---3----------|---1---3---3---1---3---3--------|
+|--0---0---0---0---0---0---------|----0---0---0---0---0---0-------|
+|---2---2---2---2---2---2--------|-----2---2---2---2---2---2------|
+|-3------------------------------|---0----------------------------|
+|--------------------------------|--------------------------------|[/tab]
+
+[tab]  F                           G
+|----------------------3---------|----------------------5-------------|
+|----------1---1---1------1------|----------3--3--3--------3----------|
+|------2----2---2---2------2-----|------4----4--4--4--------4---------|
+|----3---3---3---3---3---3-------|----5---5---5--5--5-----5---5-------|
+|--------------------------------|------------------------------------|
+|--1-----------------------------|--3---------------------------------|[/tab]
+
+
+3ra parte
+
+[tab](Aqui entra la guitarra ritmica, por lo general aqui empieza la canción
+en los conciertos)
+ C                           Am                  
+|--------------------------------|--------------------------------|
+|-5---3----3-----5---3------3----|--5---3-----3-----5--3-----3----|
+|-------5---------------5--------|---------5--------------5-------|
+|--------------------------------|--------------------------------|
+|--------------------------------|--------------------------------|
+|--------------------------------|--------------------------------|[/tab]
+
+F                            G                    G7
+Uhhh.............               Uhh................
+
+(X2)
+
+
+C                                    F
+Por no dejar correr un par de viejas lágrimas
+                 G1                      C      
+por ignorar a un ángel que frente a mi pasó
+
+ 5|---3--2--0---------|       A7               A              Dm
+                          de pronto te vi andar entre los árboles
+E                 E7         Am
+un hechizo me hirió en el corazón.
+
+C                              F      
+Por no dejar pasar la flecha que al azar voló
+            G1                    C        
+por olvidar la magia que un alma en pena me enseñó
+
+5|---3--2--0----------|        A7               A              Dm
+                    de pronto te vi andar entre los árboles
+E               E7           Am
+al vestirse de rosa me encontró.
+
+[tab] C                           Am                  
+|--------------------------------|--------------------------------|
+|-5---3----3-----5---3------3----|--5---3-----3-----5--3-----3----|
+|-------5---------------5--------|---------5--------------5-------|
+|--------------------------------|--------------------------------|
+|--------------------------------|--------------------------------|
+|--------------------------------|--------------------------------|[/tab]
+
+F                            G                        G7
+Uhhh.............               Uhh................
+      
+
+C                             F       
+Por merodear entre la suerte y el lamento
+             G1                  C 5|---3--2--0---------------|
+el juego de las hadas y el embrujo del viento
+A7               A              Dm
+y siempre te vi andar entre los árboles
+E                E7         Am
+una vez mas el juego terminó.
+
+CORO:
+
+     C                F                  G1                    C
+Despierta en vuelo, princesa de sueños, ante esta guerra de honor
+     C                 F              G1           C
+la pócima es el guardián de tu prisión contra mis besos de amor
+     C             F              G1          C
+eres la bruja del mal mas linda tierna del espejo hablador
+   C              F              G1                C
+y has de saber que a tu conjuro respondo con una flor.
+
+
+[tab]     C1             F      G      C1                   
+|---------------------------------------------------------|
+|---------------------------------------------------------|
+|---------------------------------------------------------|
+|-------------3/5/3--3-2-3--3-2-3-2h3----------------5----|
+|---2-3-5-3-2------------------------3------5---5--3------|
+|-----------------------------------------3---3-----------|[/tab]
+
+[tab]  F                              G      
+|---------------------------------------------------------------|
+|-5-------8-6-5-5-6-v--5-6-5-6-5-6-s-88/6-5-6--5-5h6------------|
+|--7-5-555-------------------------------------------7-5--------|
+|---------------------------------------------------------------|
+|---------------------------------------------------------------|
+|---------------------------------------------------------------|[/tab]
+
+C                                F
+Por no dar media vuelta cuando un duende te cruzó
+            G1                          C          
+por no saber a donde, te internaste en el bosque
+
+5|---3--2--0---------------|      A7               A              Dm
+                        y siempre te vi andar entre los árboles
+
+E                E7             Am
+y tu rubor prendió en mi corazón
+G              F          G                        C
+y por creer en cuentos de hadas... tu soledad terminó...
+
+    C                F                G1            C
+Despierta en vuelo, princesa de sueños, ante esta guerra de honor
+     C                 F                G1         C
+la pócima es el guardián de tu prisión contra mis besos de amor
+     C              F             G1          C
+eres la bruja del mal mas linda tierna del espejo hablador
+   C                F           G1                C
+y has de saber que a tu conjuro respondo con una flor
+
+F               G1                    C
+que a tu conjuro respondo con una flor
+
+F               G1                    C
+que a tu conjuro respondo con una flor...
+
+
+FINAL:
+
+[tab]     G1             C
+|--------------------------------|
+|-----5--3-----------------------|
+|-----------4--5-----------------|
+|--------------------------------|
+|--------------------------------|
+|--------------------------------|[/tab]
+
+
+Esta transcripción se la dedico a la 
+chica que a la que debo tanto:
+Marlene, mi bruja del mal
+y princesa en mis sueños.
+Te quiero mucho.

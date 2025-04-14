@@ -1,0 +1,115 @@
+URL: https://tabs.ultimate-guitar.com/tab/j-mascis/end-is-gettin-shaky-chords-5130397
+Artist: J Mascis
+Song: End Is Gettin Shaky
+Genre: 
+Key: A
+
+
+100 BPM
+
+[tab][Intro]
+   [ch]Em[/ch]       [ch]C[/ch] [ch]G[/ch]     [ch]G[/ch]*
+e|-0--0-0-0-0-3----------------|
+B|-0--0-0-0-1-0-----0h3p0------|
+G|-0--0-0-0-0-0-----------2p0--|
+D|-2--2-2-2-2-0----------------| x4
+A|-2--2-2-2-3-2----------------|
+E|-0--0-0-0---3----------------|[/tab]
+
+[Verse 1]
+[tab][ch]G[/ch]*               [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Say the world is crazy[/tab]
+[tab][ch]G[/ch]*                 [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Say it dragged you down[/tab]
+[tab][ch]G[/ch]*               [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Lost her but I'm lazy[/tab]
+[tab][ch]G[/ch]*           [ch]Em[/ch]    [ch]C[/ch] [ch]G[/ch]
+Find another sound[/tab]
+[ch]Em[/ch] [ch]C[/ch] [ch]G[/ch] [ch]G[/ch]*
+[ch]Em[/ch] [ch]C[/ch] [ch]G[/ch] [ch]G[/ch]*
+[ch]Em[/ch] [ch]C[/ch] [ch]G[/ch] [ch]G[/ch]*
+[ch]Em[/ch] [ch]C[/ch] [ch]G[/ch]
+
+[Verse 2]
+[tab][ch]G[/ch]*                    [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+They say the world is crazy[/tab]
+[tab][ch]G[/ch]*              [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Won't leave it alone[/tab]
+[tab][ch]G[/ch]*                    [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Dripped it 'round the edges[/tab]
+[tab][ch]G[/ch]*             [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Really got you going[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]
+I'm alright[/tab]
+[tab][ch]Cmaj7[/ch]
+I'm alright with you[/tab]
+[tab][ch]Am[/ch]
+There's no lie[/tab]
+[tab][ch]Cmaj7[/ch]
+There's no fighting you[/tab]
+[ch]Em[/ch] [ch]C[/ch] [ch]G[/ch]
+
+[Verse 3]
+[tab][ch]G[/ch]*            [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Driving me is crazy[/tab]
+[tab][ch]G[/ch]*                 [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Won't believe your eyes[/tab]
+[tab][ch]G[/ch]*               [ch]Em[/ch]     [ch]C[/ch] [ch]G[/ch]
+Said you can't escape me[/tab]
+[tab][ch]G[/ch]*                  [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+No attempting to disguise[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]
+It's alright[/tab]
+[tab][ch]Cmaj7[/ch]
+It's alright with you[/tab]
+[tab][ch]Am[/ch]
+There's no fight[/tab]
+[tab][ch]Cmaj7[/ch]
+And there's no time to[/tab]
+
+[Bridge]
+[tab][ch]Em[/ch]       [ch]D[/ch]         [ch]Em[/ch]
+Take me away on my own[/tab]
+[tab]           [ch]D[/ch]              [ch]Em[/ch]
+Take me to stay away from home[/tab]
+[tab]         [ch]D[/ch]           [ch]Em[/ch]
+Take me away I'm all gone[/tab]
+[tab]            [ch]D[/ch]           [ch]Em[/ch]
+Watched you die left me cold[/tab]
+
+[Solo]
+[ch]Em[/ch] [ch]Em[/ch] [ch]D[/ch] [ch]D[/ch]
+[ch]Em[/ch] [ch]Em[/ch] [ch]D[/ch] [ch]D[/ch]
+[ch]Em[/ch] [ch]C[/ch] [ch]G[/ch]
+
+[Verse 4]
+[tab][ch]G[/ch]*           [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Tell another story[/tab]
+[tab][ch]G[/ch]*                 [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Won't believe the doubt[/tab]
+[tab][ch]G[/ch]*                 [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+The end is looking shaky[/tab]
+[tab][ch]G[/ch]*              [ch]Em[/ch]   [ch]C[/ch] [ch]G[/ch]
+Let it all play out[/tab]
+
+[Chorus]
+[tab][ch]Am[/ch]
+I'm not right[/tab]
+[tab][ch]Cmaj7[/ch]
+I'm not right with you[/tab]
+[tab][ch]Am[/ch]
+It's too tight[/tab]
+[tab][ch]Cmaj7[/ch]
+I can't fight scripted[/tab]
+[tab][ch]Am[/ch]
+It's alright[/tab]
+[tab][ch]Cmaj7[/ch]
+I won't say I told you[/tab]
+[tab][ch]Am[/ch]
+There's no lie[/tab]
+[tab][ch]Cmaj7[/ch]
+To say to you[/tab]

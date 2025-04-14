@@ -1,0 +1,213 @@
+URL: https://tabs.ultimate-guitar.com/tab/jebediah/please-leave-tabs-10919
+Artist: Jebediah
+Song: Please Leave
+Genre: 
+Key: 
+
+
+name: Paul Owen
+
+artist: Jebediah
+
+SongTitle: Please Leave
+
+Tabs: Standard Tuning (EADGBe)
+
+Played with two guitars, noted here as Guitar #1 and Guitar #2
+
+Key:
+h - hammer on
+p - pull off
+\ - slide down
+
+
+[tab]Intro:
+Guitar #1                        (4x)
+e|----------------------------------|
+B|--7-7-5-5-7-5-7--8-8-7-7h8p7-5-7--|
+G|----------------------------------|
+D|----------------------------------|
+A|----------------------------------|
+E|----------------------------------|[/tab]
+
+[tab]Guitar #2                      (4x)
+e|--2-2-2-2-2-2-2-----------------|
+B|--4-4-4-4-4-4-4-----------------|
+G|--4-4-4-4-4-4-4--7-7-6-7-6-7-6--|
+D|--4-4-2-2-4-2-4--5-5-5-5-5-5-5--|
+A|--2-2-2-2-2-2-2--5-5-5-5-5-5-5--|
+E|--x-x-x-x-x-x-x--x-x-x-x-x-x-x--|[/tab]
+
+
+Verse 1:
+
+[tab]Guitar #1         (3x)       then     (1x)
+e|-------------------|-------------------|
+B|--4-2-4-5-4-2-4----|--4-2---5-4-2-4----|
+G|----------------4--|------4---------4--|
+D|-------------------|-------------------|
+A|-------------------|-------------------|
+E|-------------------|-------------------|
+(Once finished, play nothing whilst Guitar #2 finishes off remaining 
+4x)[/tab]
+
+[tab]Guitar #2               (8x)
+e|-------------------------|
+B|-------------------------|
+G|-------------------------|
+D|--9\6--2-2-2--9\6-6-6-6--|
+A|--9\6--2-2-2--9\6-6-6-6--|
+E|--7\4--0-0-0--7\4-4-4-4--|[/tab]
+
+Lyrics begin after (4x):
+"Those things you said are getting to me
+I closed my eyes so I couldn't see
+I'm used to all the crap you dish out
+I know exactly what it's about..."
+
+
+Chorus 1:
+
+[tab]Guitar #1           (4x)
+e|--2-2--0-0--4-4-4-4--|
+B|--2-2--0-0--4-4-4-4--|
+G|--3-3--1-1--5-5-5-5--|
+D|--4-4--2-2--6-6-6-6--|
+A|--4-4--2-2--6-6-6-6--|
+E|--2-2--0-0--4-4-4-4--|[/tab]
+
+[tab]Guitar #2           (4x)
+e|---------------------|
+B|---------------------|
+G|---------------------|
+D|--4-4--2-2--6-6-6-6--|
+A|--4-4--2-2--6-6-6-6--|
+E|--2-2--0-0--4-4-4-4--|[/tab]
+
+"You didn't want to come across the sea
+Dragged by your hair, it got worse you got me
+Now everything is cool up until when
+Accidently screw up your life again..."
+
+
+Verse 2:
+
+[tab]Guitar #1         (3x)       then     (1x)
+e|-------------------|-------------------|
+B|--4-2-4-5-4-2-4----|--4-2---5-4-2-4----|
+G|----------------4--|------4---------4--|
+D|-------------------|-------------------|
+A|-------------------|-------------------|
+E|-------------------|-------------------|[/tab]
+
+"Screw up your life again..." - (3x)
+
+[tab]Guitar #2               (8x)
+e|-------------------------|
+B|-------------------------|
+G|-------------------------|
+D|--9\6--2-2-2--9\6-6-6-6--|
+A|--9\6--2-2-2--9\6-6-6-6--|
+E|--7\4--0-0-0--7\4-4-4-4--|[/tab]
+
+"It's not that I don't want you around
+But you act as if we're bringing you down
+Maybe you don't have the guts to go
+Maybe you just don't want me to know..."
+
+
+Chorus 1:
+
+[tab]Guitar #1           (4x)
+e|--2-2--0-0--4-4-4-4--|
+B|--2-2--0-0--4-4-4-4--|
+G|--3-3--1-1--5-5-5-5--|
+D|--4-4--2-2--6-6-6-6--|
+A|--4-4--2-2--6-6-6-6--|
+E|--2-2--0-0--4-4-4-4--|[/tab]
+
+[tab]Guitar #2           (4x)
+e|---------------------|-----------|
+B|---------------------|-----------|
+G|---------------------|--4--6b-4--| &lt;-   Interlude played over first [/tab]
+[tab]lyric line (4x)
+D|--4-4--2-2--6-6-6-6--|-----------|
+A|--4-4--2-2--6-6-6-6--|-----------|
+E|--2-2--0-0--4-4-4-4--|-----------|[/tab]
+
+"You didn't want to come across the sea
+Dragged by your hair, it got worse you got me
+Now everything is cool up until when
+Accidently screw up your life again..."
+
+
+Verse 3:
+
+[tab]Guitar #1         (3x)       then     (1x)
+e|-------------------|-------------------|
+B|--4-2-4-5-4-2-4----|--4-2---5-4-2-4----|
+G|----------------4--|------4---------4--|
+D|-------------------|-------------------|
+A|-------------------|-------------------|
+E|-------------------|-------------------|[/tab]
+
+"Screw up your life again..." - (3x)
+
+[tab]Guitar #2               (4x)
+e|-------------------------|
+B|-------------------------|
+G|-------------------------|
+D|--9\6--2-2-2--9\6-6-6-6--|
+A|--9\6--2-2-2--9\6-6-6-6--|
+E|--7\4--0-0-0--7\4-4-4-4--|[/tab]
+
+
+Chorus 2:
+
+[tab]Guitar #1           (4x)
+e|--2-2--0-0--4-4-4-4--|
+B|--2-2--0-0--4-4-4-4--|
+G|--3-3--1-1--5-5-5-5--|
+D|--4-4--2-2--6-6-6-6--|
+A|--4-4--2-2--6-6-6-6--|
+E|--2-2--0-0--4-4-4-4--|[/tab]
+
+[tab]Guitar #2           (4x)
+e|---------------------|
+B|---------------------|
+G|---------------------|
+D|--4-4--2-2--6-6-6-6--|
+A|--4-4--2-2--6-6-6-6--|
+E|--2-2--0-0--4-4-4-4--|[/tab]
+
+
+Verse 4:
+
+"Screw up your life again..."
+
+[tab]Guitar #1         (3x)       then     (1x)
+e|-------------------|-------------------|
+B|--4-2-4-5-4-2-4----|--4-2---5-4-2-4----|
+G|----------------4--|------4---------4--|      Repeat whole section 3x
+D|-------------------|-------------------|
+A|-------------------|-------------------|
+E|-------------------|-------------------|[/tab]
+
+"Screw up your life again..." - (3x)
+
+[tab]Guitar #2               (12x)
+e|-------------------------|
+B|-------------------------|
+G|-------------------------|
+D|--9\6--2-2-2--9\6-6-6-6--|
+A|--9\6--2-2-2--9\6-6-6-6--|
+E|--7\4--0-0-0--7\4-4-4-4--|[/tab]
+
+"You can't blame us for everything 
+When lives come down you'll probably leave 
+So pack your bags and take your time 
+To leave, to leave, to leave 
+And someday when you think of me 
+Remember how I was happy 
+Until the day I learned to see 
+Please leave, please leave, please leave..."

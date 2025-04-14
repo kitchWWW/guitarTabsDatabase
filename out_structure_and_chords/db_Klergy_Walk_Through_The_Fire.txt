@@ -1,0 +1,68 @@
+{
+    "verse-1": [
+        "Em",
+        "D",
+        "C",
+        "Em",
+        "D",
+        "C"
+    ],
+    "verse-2": [
+        "Em",
+        "D",
+        "C",
+        "Em",
+        "D",
+        "C"
+    ],
+    "pre-chorus-1": [
+        "Em",
+        "D",
+        "C",
+        "Em",
+        "D",
+        "C"
+    ],
+    "pre-chorus-2": [
+        "Em",
+        "D",
+        "C",
+        "Em",
+        "D",
+        "C"
+    ],
+    "chorus-1": [
+        "Em",
+        "G",
+        "G",
+        "Dsus",
+        "C",
+        "Em",
+        "G",
+        "G",
+        "Dsus",
+        "C"
+    ],
+    "chorus-2": [
+        "Em",
+        "G",
+        "G",
+        "Dsus",
+        "C",
+        "Em",
+        "G",
+        "G",
+        "Dsus",
+        "C"
+    ],
+    "outro": [
+        "Em",
+        "G",
+        "Dsus",
+        "C",
+        "Em",
+        "G",
+        "Dsus",
+        "C"
+    ]
+}

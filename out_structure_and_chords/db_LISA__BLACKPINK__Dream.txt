@@ -1,0 +1,117 @@
+{
+    "intro": [
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm"
+    ],
+    "verse-1": [
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm",
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm"
+    ],
+    "verse-2": [
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm"
+    ],
+    "pre-chorus-1": [
+        "Ab",
+        "G",
+        "Fm",
+        "Bb7"
+    ],
+    "pre-chorus-2": [
+        "Ab",
+        "G",
+        "Fm",
+        "Bb7"
+    ],
+    "chorus-1": [
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm7",
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm7",
+        "Ab",
+        "Bb/Ab",
+        "Gm",
+        "C/E",
+        "Fm7",
+        "Fdim",
+        "Eb"
+    ],
+    "chorus-2": [
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm7",
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm7",
+        "Ab",
+        "Bb/Ab",
+        "Gm",
+        "C/E",
+        "Fm7",
+        "Fdim"
+    ],
+    "chorus-3": [
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm7",
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm7",
+        "Ab",
+        "Bb/Ab",
+        "Gm",
+        "C/E",
+        "Fm7",
+        "Fdim",
+        "Eb"
+    ],
+    "bridge": [
+        "Cm",
+        "Bdim",
+        "Bb",
+        "Adim",
+        "Ab",
+        "G",
+        "Cm",
+        "Bdim",
+        "Bb",
+        "Adim",
+        "Fm",
+        "Bb"
+    ],
+    "outro": [
+        "Eb",
+        "Eb/D",
+        "Dm7b5",
+        "G7",
+        "Cm"
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "verse-1": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "A"
+    ],
+    "verse-2": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "A"
+    ],
+    "verse-3": [
+        "A",
+        "A",
+        "A",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "A"
+    ],
+    "verse-4": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "A"
+    ],
+    "verse-5": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B"
+    ],
+    "verse-6": [
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "D",
+        "A/C#",
+        "Esus/B",
+        "A"
+    ],
+    "pre-chorus-1": [
+        "D",
+        "Esus",
+        "A",
+        "D",
+        "Esus",
+        "A"
+    ],
+    "pre-chorus-2": [
+        "D",
+        "Esus",
+        "A",
+        "D",
+        "Esus",
+        "A"
+    ],
+    "pre-chorus-3": [
+        "D",
+        "Esus",
+        "A",
+        "D",
+        "Esus",
+        "A"
+    ],
+    "chorus-1": [
+        "Bm7",
+        "Esus",
+        "Bm7",
+        "Esus",
+        "A"
+    ],
+    "chorus-2": [
+        "Bm7",
+        "Esus",
+        "Bm7",
+        "Esus",
+        "A"
+    ],
+    "chorus-3": [
+        "Bm7",
+        "Esus",
+        "Bm7",
+        "Esus",
+        "A"
+    ]
+}

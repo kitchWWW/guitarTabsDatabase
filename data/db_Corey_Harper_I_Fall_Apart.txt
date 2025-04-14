@@ -1,0 +1,68 @@
+URL: https://tabs.ultimate-guitar.com/tab/corey-harper/i-fall-apart-tabs-2393773
+Artist: Corey Harper
+Song: I Fall Apart
+Genre: 
+Key: 
+
+
+This sounds reasonable with the original Post Malone audio version too. 
+I tabbed the three basic styles used throughout: 1) simple picking, 2) general picking pattern & 3)strumming. 
+You could choose to play one of the three styles throughout or use a combination of the strumming and 
+picking as he does in the song. 
+He does add the bottom open e string here and there, and does hammer on and off on the B string at times 
+(at the end of some bars). Tabbing exactly what he does is challenging, as each bar starts off the same 
+but almost always ends with just a slight difference in picking pattern.  
+
+[tab]1. SIMPLIE PICKING 
+e|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|-2~----------2~----------------2~------------2~------------------|
+D|-------------------------------0~------------2~------------------|
+A|-------------0~--------------------------------------------------|
+E|-2~--------------------------------------------------------------|[/tab]
+
+[tab]2. PICKING PATTERN
+e|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|---2---2---2---2---2---2---2---2---2---2---2---2---2---2---2---2-|
+D|---------------------------------0---0---0---2---2---2---2---2---|
+A|-------------0---0---0---0---0-----------------------------------|
+E|-2---2---2-------------------------------------------------------|[/tab]
+
+[tab]3. STRUMMING PATTERN 
+    F#m7        A                   E7sus4       Esus4  
+    (DUU)       (DUU DUDU)         (DUU)        (DUU DUDU)
+e|-0------------0------------------x------------0------------------|
+B|-0------------2------------------0------------0------------------|
+G|-2------------2------------------2 -----------2------------------|
+D|-2------------2------------------0------------2------------------|
+A|-0------------0------------------0------------x------------------|
+E|-2------------x------------------x------------x------------------|[/tab]
+
+
+
+ALTERNATIVE 
+It is pretty obvious that he is moving up and down the fret board, as you can hear his fingers 
+moving between the 1st and 2nd, and again between 3rd and 4th chord. If you want the same effect 
+when picking play A and E7sus4 (2nd and 3rd chords) as shown below: 
+
+        EADGBe
+F#m7:   202200  (same as above) 
+A:      507600  
+E7sus4: x57700
+Esus4:  xx2200  (same as above) 
+
+[tab]Therefore the simple picking changes to
+e|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|---2---2---2-----------------------------------2---2---2---2---2-|
+D|---------------7---7---7---7---7---7---7---7-2---2---2---2---2---|
+A|---------------------------------5---5---5-----------------------|
+E|-2---2---2---5---5---5---5---5-----------------------------------|   [/tab]
+
+
+
+******************************************************************
+| ~  let ring 
+| x  muted
+******************************************************************

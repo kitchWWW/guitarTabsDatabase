@@ -1,0 +1,19 @@
+{
+    "intro": [],
+    "verse-1": [],
+    "verse-2": [],
+    "verse-3": [],
+    "verse-4": [],
+    "verse-5": [],
+    "verse-6": [],
+    "bridge-1": [],
+    "bridge-2": [],
+    "bridge-3": [],
+    "bridge-4": [],
+    "bridge-5": [],
+    "bridge-6": [],
+    "instrumental-1": [],
+    "instrumental-2": [],
+    "instrumental-3": [],
+    "outro": []
+}

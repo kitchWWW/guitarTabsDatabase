@@ -1,0 +1,159 @@
+URL: https://tabs.ultimate-guitar.com/tab/nancy-sinatra/call-me-chords-4878371
+Artist: Nancy Sinatra
+Song: Call Me
+Genre: 
+Key: Ebm
+
+
+***Big thanks to martink12au for his input into creating this Tab.***
+Tabbed by Robert Da Prato 17th July, 2023
+
+Define:       Playing Tips for quick chord changes 
+[tab][ch]G6[/ch]     320000
+G6 ^   320030 Just add your finger to the 3rd fret B string as you play the standard G6[/tab]
+[tab][ch]CM7[/ch]    X32000
+Cadd9  X32030 Just add your finger to the 3rd fret B string as you play the standard CM7[/tab]
+[ch]DM7[/ch]    XX0222
+[ch]D[/ch]      XX0232
+[ch]D6[/ch]     XX0202
+[ch]Dm7[/ch]    XX0211
+[tab][ch]BbM7[/ch]   X13231
+F/A#   X13211 Just take your finger off the BbM7 3rd fret B string[/tab]
+[tab][ch]F7[/ch]     131211
+F7/C   X31211 Just don't strum the top E string as you play the F7 [/tab]
+
+Note: The end of end of the chorus sections are played like the Intro picking as the chords indicate.
+
+*******************************************************
+
+[tab][Intro]
+  N.C.     [ch]DM7[/ch]      [ch]D[/ch]        [ch]D6[/ch]       [ch]D[/ch]        [ch]DM7[/ch]      [ch]D[/ch]        [ch]D6[/ch]       [ch]D[/ch]
+e|10\-----|2-------|2-------|2-------|2-------|2-------|2-------|2-------|2-------|
+B|--------|--2-----|--3-----|--0-----|--3-----|--2-----|--3-----|--0-----|--3-----|
+G|--------|----2---|----2---|----2---|----2---|----2---|----2---|----2---|----2---|
+D|--------|0-----0-|0-----0-|0-----0-|0-----0-|0-----0-|0-----0-|0-----0-|0-----0-|
+A|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+E|--------|--------|--------|--------|--------|--------|--------|--------|--------|[/tab]
+
+[Verse 1]
+[tab][ch]DM7[/ch]                  [ch]D[/ch]        [ch]DM7[/ch]
+   If you're feeling sad and  lonely[/tab]
+[tab][ch]Dm7[/ch]                  [ch]G6[/ch]    [ch]G6[/ch] ^
+   There's a service I can render[/tab]
+[tab][ch]CM7[/ch]                 [ch]Cadd9[/ch]     [ch]CM7[/ch]
+   Tell the one who loves you only[/tab]
+[tab][ch]Cm7[/ch]           [ch]F7[/ch]       [ch]F7/C[/ch]
+  I can be so warm and tender[/tab]
+
+[Chorus]
+[tab][ch]BbM7[/ch] [ch]F/A#[/ch]
+Call me[/tab]
+[tab][ch]Gm[/ch]        [ch]Gm7[/ch]
+Don't be afraid[/tab]
+[tab]        [ch]BbM7[/ch] [ch]F/A#[/ch]
+You can call me[/tab]
+[tab][ch]Gm[/ch]         [ch]Gm7[/ch]
+Maybe it's late, but[/tab]
+[tab]     [ch]BbM7[/ch] [ch]F/A#[/ch]
+Just call me[/tab]
+[tab][ch]Gm[/ch]          [ch]Gm7[/ch]      [ch]DM7[/ch]   [ch]D[/ch]    [ch]D6[/ch]   [ch]D[/ch]
+Tell me and I'll be around[/tab]
+
+[Verse 2]
+[tab][ch]DM7[/ch]                   [ch]D[/ch]       [ch]DM7[/ch]
+   When it seems your friends desert you[/tab]
+[tab][ch]Dm7[/ch]                 [ch]G7[/ch]          [ch]G7/B[/ch]
+   There's somebody thinking of you[/tab]
+[tab][ch]CM7[/ch]                   [ch]Cadd9[/ch] [ch]CM7[/ch]
+   I'm the one who'll never hurt you[/tab]
+[tab][ch]Cm7[/ch]               [ch]F7[/ch]      [ch]F7/C[/ch]
+   Maybe that's because I love you[/tab]
+
+[Chorus]
+[tab][ch]BbM7[/ch] [ch]F/A#[/ch]
+Call me[/tab]
+[tab][ch]Gm[/ch]        [ch]Gm7[/ch]
+Don't be afraid[/tab]
+[tab]        [ch]BbM7[/ch] [ch]F/A#[/ch]
+You can call me[/tab]
+[tab][ch]Gm[/ch]         [ch]Gm7[/ch]
+Maybe it's late, but[/tab]
+[tab]     [ch]BbM7[/ch] [ch]F/A#[/ch]
+Just call me[/tab]
+[tab][ch]Gm[/ch]          [ch]Gm7[/ch]      [ch]DM7[/ch]   [ch]D[/ch]    [ch]D6[/ch]   [ch]D[/ch]
+Tell me and I'll be around[/tab]
+
+[Bridge]
+[tab][ch]G6/B[/ch]         [ch]A[/ch]   [ch]A6[/ch]
+Now don't forget me[/tab]
+[tab][ch]A7[/ch]
+'Cause if you let me[/tab]
+[tab][ch]D[/ch]        [ch]DM7[/ch]    [ch]D6[/ch]      [ch]DM7[/ch]
+  I will always stay by you[/tab]
+[tab]          [ch]A[/ch]     [ch]A6[/ch]
+You gotta trust me[/tab]
+[tab][ch]G6/B[/ch]          [ch]A[/ch]    [ch]A6[/ch]
+That's how it must be[/tab]
+[tab][ch]D[/ch]         [ch]DM7[/ch]          [ch]E7[/ch]        [ch]A7[/ch]
+  There's so much that I can do[/tab]
+
+[Instrumental]
+[tab]   [ch]DM7[/ch]            [ch]Dm7[/ch]            [ch]G6[/ch]    [ch]CM7[/ch]      [ch]Cm7[/ch]   [ch]F7[/ch]
+|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |[/tab]
+
+[Chorus]
+[tab][ch]BbM7[/ch] [ch]F/A#[/ch]
+Call me[/tab]
+[tab][ch]Gm[/ch]        [ch]Gm7[/ch]
+Don't be afraid[/tab]
+[tab]        [ch]BbM7[/ch] [ch]F/A#[/ch]
+You can call me[/tab]
+[tab][ch]Gm[/ch]         [ch]Gm7[/ch]
+Maybe it's late, but[/tab]
+[tab]     [ch]BbM7[/ch] [ch]F/A#[/ch]
+Just call me[/tab]
+[tab][ch]Gm[/ch]          [ch]Gm7[/ch]      [ch]DM7[/ch]   [ch]D[/ch]    [ch]D6[/ch]   [ch]D[/ch]
+Tell me and I'll be around[/tab]
+
+[Verse 3]
+[tab][ch]DM7[/ch]             [ch]D[/ch]       [ch]DM7[/ch]
+   If you call, I'll be right with you[/tab]
+[tab][ch]Dm7[/ch]                 [ch]G6[/ch]
+   You and I should be together[/tab]
+[tab][ch]CM7[/ch]                 [ch]Cadd9[/ch]   [ch]CM7[/ch]
+   Take this love I long to give you[/tab]
+[tab][ch]Cm7[/ch]                [ch]F7[/ch]      [ch]F7/C[/ch]
+   I'll be at your side forever[/tab]
+
+[Chorus]
+[tab][ch]BbM7[/ch] [ch]F/A#[/ch]
+Call me[/tab]
+[tab][ch]Gm[/ch]        [ch]Gm7[/ch]
+Don't be afraid[/tab]
+[tab]        [ch]BbM7[/ch] [ch]F/A#[/ch]
+You can call me[/tab]
+[tab][ch]Gm[/ch]         [ch]Gm7[/ch]
+Maybe it's late, but[/tab]
+[tab]     [ch]BbM7[/ch] [ch]F/A#[/ch]
+Just call me[/tab]
+[tab][ch]Gm[/ch]          [ch]Gm7[/ch]      [ch]DM7[/ch]   [ch]D[/ch]    [ch]D6[/ch]   [ch]D[/ch]
+Tell me and I'll be around[/tab]
+
+[Outro]
+[ch]DM7[/ch]    [ch]D[/ch]    [ch]D6[/ch]    [ch]D[/ch]
+
+[tab][ch]DM7[/ch]    [ch]D[/ch]    [ch]D6[/ch]    [ch]D[/ch]
+    Do do do     dooo[/tab]
+[ch]DM7[/ch]    [ch]D[/ch]    [ch]D6[/ch]    [ch]D[/ch]
+
+[tab][ch]DM7[/ch]    [ch]D[/ch]    [ch]D6[/ch]    [ch]D[/ch]
+    Do do do     dooo[/tab]
+(To fade............)
+
+
+
+************************************
+
+| \  Slide down
+
+************************************

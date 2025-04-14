@@ -1,0 +1,110 @@
+{
+    "intro": [
+        "Bbm"
+    ],
+    "verse-1": [
+        "Bbm",
+        "F7",
+        "Bbm",
+        "F7",
+        "Bbm",
+        "Gb",
+        "Ab",
+        "Bbm",
+        "F",
+        "F7"
+    ],
+    "verse-2": [
+        "Bbm",
+        "F7",
+        "Bbm",
+        "F7",
+        "Bbm",
+        "Gb",
+        "Ab",
+        "Bbm",
+        "F",
+        "F7"
+    ],
+    "verse-3": [
+        "Bbm",
+        "F7",
+        "Bbm",
+        "F7",
+        "Bbm",
+        "Gb",
+        "Ab",
+        "Bbm",
+        "F",
+        "F7"
+    ],
+    "verse-4": [
+        "Bbm",
+        "F7",
+        "Bbm",
+        "F7",
+        "Bbm",
+        "Gb",
+        "Ab",
+        "Bbm",
+        "F",
+        "F7"
+    ],
+    "verse-5": [
+        "Bbm",
+        "F7",
+        "Bbm",
+        "F7",
+        "Bbm",
+        "Gb",
+        "Ab",
+        "Bbm",
+        "F",
+        "F7"
+    ],
+    "chorus-1": [
+        "F7",
+        "Bbm",
+        "Gb",
+        "Db",
+        "Ebm",
+        "F7",
+        "Bbm"
+    ],
+    "chorus-2": [
+        "F7",
+        "Bbm",
+        "Gb",
+        "Db",
+        "Ebm",
+        "F7",
+        "Bbm"
+    ],
+    "chorus-3": [
+        "F7",
+        "Bbm",
+        "Gb",
+        "Db",
+        "Ebm",
+        "F7",
+        "Bbm"
+    ],
+    "chorus-4": [
+        "F7",
+        "Bbm",
+        "Gb",
+        "Db",
+        "Ebm",
+        "F7",
+        "Bbm"
+    ],
+    "chorus-5": [
+        "F7",
+        "Bbm",
+        "Gb",
+        "Db",
+        "Ebm",
+        "F7",
+        "Bbm"
+    ]
+}

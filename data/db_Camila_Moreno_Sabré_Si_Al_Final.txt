@@ -1,0 +1,132 @@
+URL: https://tabs.ultimate-guitar.com/tab/1653791
+Artist: Camila Moreno
+Song: Sabré Si Al Final
+Genre: 
+Key: 
+
+
+Acordes utilizados
+
+[tab]DO
+E--0
+B--1
+G--0
+D--2
+A--3
+E--x[/tab]
+
+[tab]DOmaj7
+E--0
+B--0
+G--0
+D--2
+A--3
+E--x[/tab]
+
+[tab]LAm
+E--0
+B--1
+G--2
+D--2
+A--0
+E--x[/tab]
+
+[tab]LA*
+E--0
+B--0
+G--2
+D--2
+A--0
+E--x[/tab]
+
+
+[tab]INTRO
+e ----0-----0------0-----0-----0-----0-----0-----0-------|
+B -------------------------------------------------------|
+G --5---5-5---5--4---4-4---4--2--2-2---2--4--4-4---4-----| fig. 1
+D -------------------------------------------------------|
+A -------------------------------------------------------|
+E -------------------------------------------------------|[/tab]
+
+[tab]e ----0-----0------0-----0--------3-----3-----3-----3----|
+B -------------------------------------------------------|
+G --5---5-5---5--4---4-4---4--2-2----2-2---2-2---2-2---2-| fig. 2
+D -------------------------------------------------------|
+A -------------------------------------------------------|
+E -------------------------------------------------------|[/tab]
+
+VERSO
+fig. 1
+Yo tenía mis balas contadas
+fig. 2
+te disparé en la sien la final
+fig. 1
+en el río corrió la manada
+fig. 2
+en el cuerpo la sangre enmudeció
+
+PRECORO
+fig. 1
+oh  oh  oh oh oh
+fig. 2
+oh  oh  oh oh oh
+
+[tab]CORO
+   DO      DOmaj7  LAm     LA*
+e|--0---3-----0---3----0---3----0---3----|
+B|--1---1-----0---0----1---1----0---0----|
+G|--0---0-----0---0----2---2----2---2----|
+D|--2---2-----2---2----2---2----2---2----|
+A|--3---3-----3---3----0---0----0---0----|
+E|--x---x-----x---x----x---x----x---x----|[/tab]
+
+
+DO                DOmaj7      LAm   LA*
+Solo los muertos irán a mi entierro
+DO             DOmaj7     LAm  LA*
+luego se devolverán sin mirar
+DO             DOmaj7     LAm   LA*
+en los huesos tendré un encierro
+DO             DOmaj7      LAm      LA*
+y sabré si al final soy el maaaaaaaal
+fig. 1
+y sabré si al final....
+
+
+[tab]PUENTE
+e ----3-----3------3-----3-----3-----3-----3-----3-------|
+B -------------------------------------------------------|
+G --5---5-5---5--4---4-4---4--2--2-2---2--4--4-4---4-----| fig. 3
+D -------------------------------------------------------|
+A -------------------------------------------------------|
+E -------------------------------------------------------|[/tab]
+
+fig. 3
+Oh oh oh oh oh ohhhhhhmmmm
+fig. 3
+oh oh oh oh oh ohhhhhhmmmm
+
+CORO
+DO                DOmaj7      LAm   LA*
+Solo los muertos irán a mi entierro
+DO             DOmaj7     LAm  LA*
+luego se devolverán sin mirar
+DO             DOmaj7     LAm   LA*
+en los huesos tendré un encierro
+DO             DOmaj7      LAm      LA*
+y sabré si al final soy el maaaaaaaal
+DO             DOmaj7      LAm      LA*
+y sabré si al final voy al maaaaaaaar
+DO             DOmaj7      LAm    LA*
+y sabré si al final voy a amaaaaaar
+fig. 1
+y sabré si al final....
+
+
+[tab]FINAL
+E--0
+B---
+G--5
+D---
+A---
+E---[/tab]

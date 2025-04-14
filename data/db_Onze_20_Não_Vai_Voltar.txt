@@ -1,0 +1,155 @@
+URL: https://tabs.ultimate-guitar.com/tab/4826456
+Artist: Onze:20
+Song: Não Vai Voltar
+Genre: 
+Key: A
+
+
+(afinação 1/2 tom abaixo)
+
+[Intro]
+
+[ch]Dmaj7[/ch] [ch]Amaj7[/ch] [ch]F#m[/ch]  [ch]E[/ch]
+
+Solo Intro:
+
+[tab]   [ch]Dmaj7[/ch] 
+e|-------0-------0-------0-------0----------|
+B|---3-------3-------3-------3--------------|
+G|-----6-------6-------6-------6------------|
+D|-0----------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|[/tab]
+
+[tab]   [ch]Amaj7[/ch]
+e|-------0-------0-------0-------0----------|
+B|---2-------2-------2-------2--------------|
+G|-----1-------1-------1-------1------------|
+D|------------------------------------------|
+A|-0----------------------------------------|
+E|------------------------------------------|[/tab]
+
+[tab]   [ch]F#m7[/ch]    
+e|-------0-------0-------0-------0----------|
+B|---0-------0-------0-------0--------------|
+G|-----2-------2-------2-------2------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|-2----------------------------------------|[/tab]
+
+[tab]   [ch]E11[/ch]
+e|-------0-------0-------0-------0----------|
+B|------------------------------------------|
+G|---2-------2-------2-------2--------------|
+D|-----6-------6-------6-------6------------|
+A|------------------------------------------|
+E|-0----------------------------------------|[/tab]
+
+
+[Verse]
+
+[tab][ch]F#m[/ch]
+    Abro os meus olhos[/tab]
+[tab]         [ch]E[/ch]
+Hoje percebo que nada foi em vão[/tab]
+[tab][ch]F#m[/ch]
+    O sol que arde[/tab]
+[tab]             [ch]E[/ch]
+Invade as janelas do coração[/tab]
+[tab]           [ch]Dmaj7[/ch]
+E bate no peito e deixa sem jeito[/tab]
+[tab]              [ch]C#m7[/ch]
+E te faz lembrar uma bela canção[/tab]
+[tab]        [ch]Bm7[/ch]
+Porque hoje você faz doce[/tab]
+[tab]              [ch]E7[/ch]     
+E nem muda a cara pra pedir perdão[/tab]
+
+[tab][ch]F#m[/ch]
+    Sei que por dentro[/tab]
+[tab]         [ch]E[/ch]
+Leva no peito toda desilusão[/tab]
+[tab][ch]F#m[/ch]
+    Chora em segredo[/tab]
+[tab]            [ch]E[/ch]
+Sofre em silêncio, eu sei[/tab]
+[tab]       [ch]Dmaj7[/ch]
+Que a vida vai ser bonita[/tab]
+[tab]         [ch]C#m7[/ch]
+E com o tempo eu volto a sorrir[/tab]
+[tab]     [ch]Bm7[/ch]
+E se ontem você fez doce[/tab]
+[tab]             [ch]E7[/ch]     
+Sei que amanhã não vai viver sem mim[/tab]
+
+
+[Chorus]
+
+[tab]                         [ch]Dmaj7[/ch]
+Não sei por que você já pôs[/tab]
+[tab]                       [ch]Amaj7[/ch]
+Outra pessoa em meu lugar[/tab]
+[tab]                       [ch]F#m[/ch]
+Eu sinto que assim já foi[/tab]
+[tab]                   [ch]E[/ch]
+Mais fácil de aceitar[/tab]
+[tab]                   [ch]Dmaj7[/ch]
+E mesmo se você mudar[/tab]
+[tab]                      [ch]Amaj7[/ch]
+Querer voltar, não adianta mais[/tab]
+[tab]                    [ch]F#m[/ch]
+Agora que você quebrou[/tab]
+[tab]                       [ch]E[/ch]
+Aquilo que não vai voltar[/tab]
+
+
+[Intro]
+
+[ch]Dmaj7[/ch] [ch]Amaj7[/ch] [ch]F#m[/ch]  [ch]E[/ch]
+
+
+[Verse]
+
+[tab][ch]F#m[/ch]
+    Abro os meus olhos[/tab]
+[tab]         [ch]E[/ch]
+Hoje percebo que nada foi em vão[/tab]
+[tab][ch]F#m[/ch]
+    O sol que arde[/tab]
+[tab]             [ch]E[/ch]
+Invade as janelas do coração[/tab]
+[tab]              [ch]Dmaj7[/ch]
+Eu sei que a vida vai ser bonita[/tab]
+[tab]         [ch]C#m7[/ch]
+E com o tempo eu volto a sorrir[/tab]
+[tab]     [ch]Bm7[/ch]
+E se ontem você fez doce[/tab]
+[tab]             [ch]E7[/ch]     
+Sei que amanhã não vai viver sem mim[/tab]
+
+
+[Chorus]
+
+[tab]                         [ch]Dmaj7[/ch]
+Não sei por que você já pôs[/tab]
+[tab]                       [ch]Amaj7[/ch]
+Outra pessoa em meu lugar[/tab]
+[tab]                       [ch]F#m[/ch]
+Eu sinto que assim já foi[/tab]
+[tab]                   [ch]E[/ch]
+Mais fácil de aceitar[/tab]
+[tab]                   [ch]Dmaj7[/ch]
+E mesmo se você mudar[/tab]
+[tab]                      [ch]Amaj7[/ch]
+Querer voltar, não adianta mais[/tab]
+[tab]                    [ch]F#m[/ch]
+Agora que você quebrou[/tab]
+[tab]                       [ch]E[/ch]
+Aquilo que não vai voltar[/tab]
+
+
+[Outro]
+
+[ch]Dmaj7[/ch] [ch]Amaj7[/ch] [ch]F#m[/ch]  [ch]E[/ch]
+
+(termina com fade out)

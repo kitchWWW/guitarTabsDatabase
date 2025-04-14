@@ -1,0 +1,8 @@
+{
+    "verse-1": [],
+    "verse-2": [],
+    "chorus-1": [],
+    "chorus-2": [],
+    "bridge": [],
+    "outro": []
+}

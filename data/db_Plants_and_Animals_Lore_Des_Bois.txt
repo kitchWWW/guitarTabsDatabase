@@ -1,0 +1,36 @@
+URL: https://tabs.ultimate-guitar.com/tab/plants-and-animals/lore-des-bois-ukulele-1355891
+Artist: Plants and Animals
+Song: Lore Des Bois
+Genre: 
+Key: 
+
+
+À L'orée Des Bois by Plants and Animals
+-tabbed by b561248
+
+The whole song (minus the outro which is piano) is this progression. You figure 
+out the fingerpicking, it's easy.
+
+CAPO 7
+chords are relative to capo (the names might not be right so ignore them)
+
+[ch]G[/ch]:          x32010
+[ch]Dm6[/ch]:        x10030
+[ch]Cmaj7[/ch]:      x03210
+[ch]D6[/ch]:         3x0030
+[ch]Aadd9[/ch]:      2x0230
+[ch]Csus2[/ch](maj7):1x3010
+[ch]G[/ch]*:         x32010  -  xx0010  -  xx2010
+
+Here's the progression:
+
+[ch]G[/ch]  [ch]Dm6[/ch]  [ch]Cmaj7[/ch]  [ch]D6[/ch]  
+
+[ch]Aadd9[/ch] x4
+
+[ch]Csus2[/ch](maj7)x2 [ch]G[/ch]*
+
+[ch]Aadd9[/ch] x4
+
+
+That's it.

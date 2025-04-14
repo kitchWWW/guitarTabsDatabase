@@ -1,0 +1,107 @@
+{
+    "intro": [
+        "Eb",
+        "Bbm7",
+        "Ab"
+    ],
+    "verse-1": [
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Eb",
+        "Bbm7",
+        "Ab"
+    ],
+    "verse-2": [
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Eb",
+        "Bbm7",
+        "Ab"
+    ],
+    "bridge-1": [
+        "Ab7",
+        "Eb",
+        "Ab7",
+        "Eb",
+        "Ab7",
+        "Cm",
+        "Bb",
+        "Am7b5",
+        "Ab",
+        "Abm"
+    ],
+    "bridge-2": [
+        "Ab7",
+        "Eb",
+        "Ab7",
+        "Eb",
+        "Ab7",
+        "Cm",
+        "Bb",
+        "Am7b5",
+        "Ab",
+        "Abm"
+    ],
+    "chorus-1": [
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Abm"
+    ],
+    "chorus-2": [
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Abm",
+        "Gm",
+        "Ab",
+        "Gm",
+        "Csus4",
+        "C",
+        "Fm",
+        "Bbsus4",
+        "Bb7"
+    ],
+    "chorus-3": [
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Abm",
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Abm"
+    ],
+    "outro": [
+        "Eb",
+        "Bbm7",
+        "Ab",
+        "Abm"
+    ]
+}

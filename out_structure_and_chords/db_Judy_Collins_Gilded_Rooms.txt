@@ -1,0 +1,140 @@
+{
+    "intro": [
+        "Em",
+        "Em",
+        "Em",
+        "Em"
+    ],
+    "verse-1": [
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "D",
+        "Asus2",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "D",
+        "A",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "D",
+        "A"
+    ],
+    "verse-2": [
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "D",
+        "A",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "D",
+        "A"
+    ],
+    "verse-3": [
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "D",
+        "A",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "D",
+        "A"
+    ],
+    "verse-4": [
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "Em",
+        "C",
+        "D",
+        "A",
+        "A"
+    ],
+    "chorus-1": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "D",
+        "C",
+        "D",
+        "A",
+        "A"
+    ],
+    "chorus-2": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "D",
+        "C",
+        "D",
+        "A",
+        "A"
+    ],
+    "chorus-3": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "D",
+        "C",
+        "D",
+        "A",
+        "A"
+    ],
+    "chorus-4": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "D",
+        "C",
+        "D",
+        "A",
+        "A"
+    ],
+    "instrumental-1": [
+        "Em",
+        "Em"
+    ],
+    "instrumental-2": [
+        "Em",
+        "Em"
+    ],
+    "instrumental-3": [
+        "Em",
+        "Em"
+    ],
+    "outro": [
+        "A"
+    ]
+}

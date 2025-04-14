@@ -1,0 +1,98 @@
+URL: https://tabs.ultimate-guitar.com/tab/matthew-thornton/decisions-i-didnt-make-chords-2859044
+Artist: Matthew Thornton
+Song: Decisions I Didnt Make
+Genre: 
+Key: 
+
+
+[tab]Melody, over C         Melody, over G
+e|---3-0---0----|       e|--------------|
+B|-------3------|       B|--3-0---0-----|
+G|--------------|       G|------2-------|
+D|--------------|       D|--------------|
+A|--------------|       A|--------------|
+E|--------------|       E|--------------|[/tab]
+
+voicings:
+
+[tab]   [ch]D7[/ch]  [ch]G7[/ch]   [ch]Cmaj7[/ch]   [ch]Gmaj7[/ch]
+e|-0---0------0--------0---|
+B|-3---0------0--------0---|
+G|-0---0------0--------0---|
+D|-4---3------2--------4---|
+A|-5---2------3--------2---|
+E|-----3------3--------3---|[/tab]
+
+
+[Intro]
+[ch]C[/ch]      [ch]G[/ch]      [ch]C[/ch]      [ch]G[/ch]  [ch]Am[/ch]  [ch]B7[/ch] [ch]C[/ch]
+
+[Verse 1]
+[tab][ch]B7[/ch]                  [ch]C[/ch]         [ch]D7[/ch]                        [ch]Em[/ch]
+The road that forks before me yes it's crunch time once again[/tab]
+[tab][ch]B7[/ch]                                  [ch]C[/ch]           [ch]G[/ch]
+If I pull over and pause maybe I'll put off the pain[/tab]
+[tab][ch]B7[/ch]              [ch]C[/ch]            [ch]D7[/ch]             [ch]G7[/ch]
+Benovolent self sabatage the freezing of my brain[/tab]
+[tab][ch]Cmaj7[/ch]                                 [ch]G7[/ch]
+Hands still on the wheel, foot on the break[/tab]
+[tab][ch]Cmaj7[/ch]                                [ch]G7[/ch]
+as I think of all the risks I didn't  take[/tab]
+
+[Chorus]
+[tab][ch]D/F#[/ch]           [ch]G[/ch]                       [ch]C[/ch]
+I sit with the decisions that I didn't make[/tab]
+[ch]C[/ch]      [ch]G[/ch]      [ch]C[/ch]      [ch]G[/ch]  [ch]Am[/ch]  [ch]B7[/ch] [ch]C[/ch]
+
+[Verse 2]
+[tab][ch]B7[/ch]                   [ch]C[/ch]        [ch]D7[/ch]                  [ch]Em[/ch]
+I know that I should seize my situation with both hands[/tab]
+[tab][ch]B7[/ch]                                    [ch]C[/ch]              [ch]G[/ch]
+Try to stay on top of everything this restless world demands[/tab]
+[tab][ch]B7[/ch]              [ch]C[/ch]         [ch]D7[/ch]         [ch]G7[/ch]
+Create a system or be slave by other men[/tab]
+[tab][ch]Cmaj7[/ch]                             [ch]G7[/ch]
+At least if you believe ol' Billy Blake[/tab]
+[tab][ch]Cmaj7[/ch]                           [ch]G7[/ch]
+the sentament's the icing on the cake[/tab]
+
+[Chorus]
+[tab][ch]D/F#[/ch]           [ch]G[/ch]                       [ch]C[/ch]
+I sit with the decisions that I didn't make[/tab]
+[ch]C[/ch]      [ch]G[/ch]      [ch]C[/ch]      [ch]G[/ch]  [ch]Am[/ch]  [ch]B7[/ch] [ch]C[/ch]
+
+[Bridge]
+[tab][ch]B7[/ch]          [ch]C[/ch]
+    Freedom, Sweet Freedom[/tab]
+[tab][ch]B7[/ch]                    [ch]C[/ch]
+    I'll go do what I like[/tab]
+[tab][ch]D7[/ch]                [ch]G[/ch]    [ch]D/F#[/ch] [ch]Em[/ch]   [ch]D7[/ch]   [ch]C[/ch]
+    Maybe I'll go play sad   songs at an open mic[/tab]
+[tab][ch]B7[/ch]         [ch]C[/ch]
+    So many choices[/tab]
+[tab][ch]B7[/ch]                      [ch]C[/ch]
+    What movie should I see?[/tab]
+[tab][ch]D7[/ch]                       [ch]G[/ch]     [ch]D/F#[/ch]  [ch]Em[/ch]   [ch]D7[/ch]    [ch]C[/ch]
+    Not knowing what the fuck  to    do    what a luxury[/tab]
+
+[Interlude]
+[ch]C[/ch]      [ch]G[/ch]      [ch]C[/ch]      [ch]G[/ch]  [ch]Am[/ch]  [ch]B7[/ch] [ch]C[/ch]
+
+[Verse 3]
+[tab][ch]B7[/ch]                   [ch]C[/ch]          [ch]D7[/ch]             [ch]Em[/ch]
+Couldn't make the call, couldn't quell the crushing fear[/tab]
+[tab][ch]B7[/ch]                                    [ch]C[/ch]              [ch]G[/ch]
+She's moving on with out me, I guess I'll wait right here[/tab]
+[tab][ch]B7[/ch]              [ch]C[/ch]         [ch]D7[/ch]         [ch]G7[/ch]
+Hopefully whatever I've been waiting for is near[/tab]
+[tab][ch]Cmaj7[/ch]                      [ch]G7[/ch]
+Just something to sooth my ache[/tab]
+[tab][ch]Cmaj7[/ch]                          [ch]G7[/ch]
+To look over and smile when I'm awake[/tab]
+
+[Chorus]
+[tab][ch]D/F#[/ch]           [ch]G[/ch]                       [ch]C[/ch]
+I sit with the decisions that I didn't make[/tab]
+
+[Outro]
+[ch]C[/ch]      [ch]G[/ch]      [ch]C[/ch]      [ch]G[/ch]  [ch]Am[/ch]  [ch]B7[/ch]  [ch]C[/ch]  [ch]B7[/ch]

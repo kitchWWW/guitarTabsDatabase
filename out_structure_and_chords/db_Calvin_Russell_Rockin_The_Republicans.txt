@@ -1,0 +1,48 @@
+{
+    "intro": [],
+    "verse-1": [
+        "Am",
+        "Fmaj7",
+        "E",
+        "Am",
+        "Am",
+        "Fmaj7",
+        "E",
+        "Am"
+    ],
+    "verse-2": [
+        "Am",
+        "Fmaj7",
+        "E",
+        "Am"
+    ],
+    "chorus-1": [
+        "Am",
+        "Fmaj7",
+        "E",
+        "Am"
+    ],
+    "chorus-2": [],
+    "chorus-3": [
+        "Am",
+        "Fmaj7",
+        "E",
+        "Am"
+    ],
+    "chorus-4": [
+        "Am",
+        "Fmaj7",
+        "E",
+        "Am"
+    ],
+    "outro": [
+        "Am",
+        "Am",
+        "Fmaj7",
+        "Fmaj7",
+        "E",
+        "E",
+        "Am",
+        "Am"
+    ]
+}

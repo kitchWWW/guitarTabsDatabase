@@ -1,0 +1,88 @@
+URL: https://tabs.ultimate-guitar.com/tab/natalie-imbruglia/come-september-tabs-38167
+Artist: Natalie Imbruglia
+Song: Come September
+Genre: 
+Key: 
+
+
+#-----------------------------PLEASE NOTE-------------------------------------#
+#     This file is the author's own work and represents their interpretation  #
+#of the song. You may only use this file for private study, scholarship, or   #
+#research. Remember to view this file in Courier, or some other monospaced    #
+#font.                                                                        #
+#-----------------------------------------------------------------------------#
+
+"Come September" by Natalie Imbruglia
+From the album "White Lilies Island"
+Tabbed by Dado2 (dado2_714@yahoo.it)
+Added by Mikhailo
+
+p = pull off
+h = hammer on
+
+Intro:
+
+[tab]   C                                   F
+e|---0-3-0-----0---|---0-3-----------|---0-3-------0---|-17----17--------|
+B|-3---------3-----|-3-----3h5-------|-3-----3h5-3-----|-----------------|
+G|-----------------|-----------------|-----------------|-----------------|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+                                      if you prefer, play 5 instead of 17[/tab]
+
+Verse:
+
+| C | C | Dm | G | x2
+| Dm | G | Dm | G |
+
+Repeat twice; play
+| C |
+after the first time
+
+Guitar solo:
+
+[tab]   C       F             C       F
+e|-----5---------------|-----5---------------|
+B|-5-------5h6p5-5h6p5-|-5-------5h6h8-5h6h8-|
+G|---5-----------------|---5-----------------|
+D|---------------------|---------------------|
+A|---------------------|---------------------|
+E|---------------------|---------------------|
+   repeat twice[/tab]
+
+Repeat verse and intro.
+
+Bridge:
+
+| F | C | F | Dm |
+| Eb | Bb |
+
+Verse (up one tone and a half):
+
+| Eb | Eb | Fm | Bb | x2
+| Fm | Bb | x4
+| Eb Bb | Eb Bb |
+
+If you're interested, here is a guitar tab of the strings played by keyboard at
+the end of each verse (+3 for the last verse)
+
+[tab]e-13-13-13---12-12-12---10-10-10------------
+B----------------------------------13-12-10-
+G-------------------------------------------
+D-------------------------------------------
+A-------------------------------------------
+E-------------------------------------------[/tab]
+
+Chords needed:
+
+[tab]  C  F  Dm G  Eb Bb Fm 
+e-0--1--1--3--3--1--1---
+B-1--1--3--0--4--3--1---
+G-0--2--2--0--3--3--1---
+D-2--3--0--0--5--3--3---
+A-3--3--x--2--6--1--3---
+E-x--1--x--3--x--x--1---[/tab]
+
+Tab made with Guitar Tabmaker.
+For information see it.geocities.com/dado2_714/

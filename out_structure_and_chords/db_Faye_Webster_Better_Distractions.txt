@@ -1,0 +1,47 @@
+{
+    "intro": [
+        "C#maj7",
+        "Bmaj7"
+    ],
+    "verse-1": [
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7"
+    ],
+    "verse-2": [
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7"
+    ],
+    "chorus-1": [
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7"
+    ],
+    "chorus-2": [
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7",
+        "Bmaj7"
+    ],
+    "solo": [
+        "C#maj7",
+        "Bmaj7",
+        "C#maj7"
+    ]
+}

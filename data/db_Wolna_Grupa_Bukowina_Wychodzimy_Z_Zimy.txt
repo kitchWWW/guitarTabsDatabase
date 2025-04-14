@@ -1,0 +1,68 @@
+URL: https://tabs.ultimate-guitar.com/tab/wolna-grupa-bukowina/wychodzimy-z-zimy-chords-3312287
+Artist: Wolna Grupa Bukowina
+Song: Wychodzimy Z Zimy
+Genre: 
+Key: 
+
+
+[tab]e|-3/5-3-|
+B|-3/5-3-|
+G|-------|  L
+D|-------|
+A|-------|
+E|-------|[/tab]
+
+
+
+[Chords]
+D5        X X 0 2 3 5
+Cadd9     X 3 0 0 3 0
+Cadd9/G   3 3 0 0 3 0
+A7/C#     X 4 X X 5 5
+Gmadd9    3 5 5 3 3 5 
+C7b9      X 3 2 3 2 X
+
+
+
+
+[Intro]
+[ch]D5[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]Cadd9[/ch] [ch]Cadd9/G[/ch] [ch]D[/ch]
+
+
+[Verse 1]
+[tab]          [ch]A7/C#[/ch]          [ch]G[/ch]     [ch]Gsus4[/ch] [ch]G[/ch]
+Wychodzimy z zimy trochę bladzi (L)[/tab]
+[tab][ch]Bm7[/ch]         [ch]Bb7[/ch]          [ch]A7sus4[/ch]  [ch]A7[/ch]
+trochę jakby z zaspy zamyślenia[/tab]
+[tab][ch]D[/ch]            [ch]A7/C#[/ch]     [ch]G[/ch]     [ch]Gsus4[/ch] [ch]G[/ch]
+ Uczymy się chodzić po trawie (L)[/tab]
+[tab][ch]Bm7[/ch]         [ch]Bb7[/ch]           [ch]A7sus4[/ch] [ch]A7[/ch]   [ch]A7sus4[/ch] [ch]A7[/ch]
+kaczeńcom patrzymy prosto   w    oczy[/tab]
+
+[Verse 2]
+[tab][ch]Gmadd9[/ch]         [ch]C9[/ch]          [ch]Fmaj7[/ch]
+      Jabłko z zimy co nam zostało[/tab]
+[tab][ch]Gm[/ch]   [ch]C7b9[/ch]   [ch]Fmaj7[/ch] [ch]Fadd9[/ch] [ch]Fmaj7[/ch]
+dzielimy na dwoje[/tab]
+[tab][ch]Gmadd9[/ch]   [ch]C9[/ch]   [ch]C7b9[/ch]   [ch]Fmaj7[/ch]  [ch]Fadd9[/ch] [ch]Fmaj7[/ch]
+Jabłko z zimy co nam zostało[/tab]
+[tab][ch]Gmadd9[/ch] [ch]Gm[/ch]     [ch]A7sus4[/ch] [ch]A7[/ch] [ch]A7sus4[/ch] [ch]A7[/ch]
+dzieli--my na dwo----je[/tab]
+
+[Interlude]
+[ch]D5[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]Cadd9[/ch] [ch]Cadd9/G[/ch] [ch]D[/ch]
+
+[Verse 3]
+[tab]                 [ch]A7/C#[/ch]           [ch]G[/ch]     [ch]Gsus4[/ch] [ch]G[/ch]
+Może przejdziemy razem do lata i dalej (L)[/tab]
+[tab][ch]Bm7[/ch]       [ch]Bb7[/ch]            [ch]A7sus4[/ch] [ch]A7[/ch]
+może jest nam dzisiaj to pisa---ne[/tab]
+[tab][ch]D[/ch]           [ch]A7/C#[/ch]        [ch]G[/ch]    [ch]Gsus4[/ch] [ch]G[/ch]
+ A może po prostu nasza miłość (L)[/tab]
+[tab]  [ch]Bm7[/ch] [ch]Bb7[/ch]        [ch]A7sus4[/ch]  [ch]A7[/ch]
+w wodę   rzucony kamień[/tab]
+[tab][ch]A7sus4[/ch] [ch]A7[/ch]
+kamień...[/tab]
+
+[Outro]
+[ch]D5[/ch] [ch]D[/ch] [ch]Dsus2[/ch] [ch]Cadd9[/ch] [ch]Cadd9/G[/ch] [ch]D[/ch]

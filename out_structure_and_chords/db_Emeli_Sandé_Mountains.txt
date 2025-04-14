@@ -1,0 +1,24 @@
+{
+    "intro": [
+        "Aadd9",
+        "Amaj7",
+        "Bsus4",
+        "B",
+        "C#m",
+        "Aadd9",
+        "B",
+        "C#m",
+        "Aadd9",
+        "B",
+        "C#m",
+        "Aadd9",
+        "B",
+        "C#m",
+        "Aadd9",
+        "B",
+        "C#m",
+        "Aadd9",
+        "B",
+        "C#m"
+    ]
+}

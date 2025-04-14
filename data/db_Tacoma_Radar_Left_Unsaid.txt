@@ -1,0 +1,55 @@
+URL: https://tabs.ultimate-guitar.com/tab/tacoma-radar/left-unsaid-chords-4189309
+Artist: Tacoma Radar
+Song: Left Unsaid
+Genre: 
+Key: 
+
+
+D tuning (DGCFAd)
+
+[ch]G[/ch]     320033
+[ch]C[/ch]     x32010
+[ch]A5[/ch]    x022x0
+[ch]Dsus2[/ch] xx0230
+[ch]Am[/ch]    x02210
+
+[tab]verse riff:
+   [ch]G[/ch]                 [ch]C[/ch]                 [ch]A5[/ch]                [ch]C[/ch]
+d|-----------------|-----------------|-----------------|-----------------|
+A|-----------------|-----------------|-----------------|-----------------|
+F|-----------------|-----------------|-----------------|(0)--------------|
+C|---------------0-|-------2-----2---|-2-----2-----2---|-2-----2-----2---|
+G|-------2-----2---|-3---3-----3---0-|-----0-----0---0-|(3)--3-----3---0-|
+D|-3---3-----3-----|-----------------|-----------------|-----------------|[/tab]
+
+[Intro]
+[ch]G[/ch]   [ch]C[/ch]   [ch]A5[/ch]  [ch]C[/ch] (x2)
+
+[Verse]
+[tab][ch]G[/ch]            [ch]C[/ch]         [ch]A5[/ch]           [ch]C[/ch]                 [ch]G[/ch]
+   Tried to lift you up but you'd still collapse and cave in[/tab]
+[tab]    [ch]C[/ch]            [ch]A5[/ch]                    [ch]C[/ch]
+And every time we spoke you'd say "I'm not cut out for this"[/tab]
+[tab][ch]G[/ch]          [ch]C[/ch]            [ch]A5[/ch]     [ch]C[/ch]              [ch]G[/ch]
+   And it made me wonder how I never gave up on you[/tab]
+[tab]  [ch]C[/ch]              [ch]A5[/ch]    [ch]C[/ch]
+I never gave up on you[/tab]
+
+[Chorus]
+[tab]               [ch]G[/ch]           [ch]C[/ch]  [ch]Dsus2[/ch]  [ch]Am[/ch] [ch]C[/ch]
+Cause it's so hard to find   a   friend[/tab]
+[tab]               [ch]G[/ch]            [ch]C[/ch]        [ch]Dsus2[/ch] [ch]Am[/ch] [ch]C[/ch]
+When all the good things go   left un  - said[/tab]
+
+[Instrumental]
+[ch]G[/ch]             [ch]C[/ch]             [ch]Dsus2[/ch] [ch]Am[/ch]      [ch]C[/ch]             (x2)
+
+[Chorus]
+[tab]               [ch]G[/ch]           [ch]C[/ch]  [ch]Dsus2[/ch]  [ch]Am[/ch] [ch]C[/ch]
+Cause it's so hard to find   a   friend[/tab]
+[tab]               [ch]G[/ch]            [ch]C[/ch]        [ch]Dsus2[/ch] [ch]Am[/ch] [ch]C[/ch]
+When all the good things go   left un  - said[/tab]
+
+[Outro]
+[ch]G[/ch]             [ch]C[/ch]             [ch]Dsus2[/ch] [ch]Am[/ch]      [ch]C[/ch]
+[ch]G[/ch]

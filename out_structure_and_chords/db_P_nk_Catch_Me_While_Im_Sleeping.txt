@@ -1,0 +1,69 @@
+{
+    "verse-1": [
+        "Abmaj7",
+        "Gm7",
+        "Abmaj7",
+        "Gm7",
+        "C7",
+        "Abmaj7",
+        "Gm7",
+        "Fm7",
+        "Abmaj7",
+        "Gm7",
+        "Abmaj7",
+        "Gm7",
+        "C7",
+        "Abmaj7",
+        "Gm7",
+        "Fm",
+        "Fm"
+    ],
+    "verse-2": [
+        "Abmaj7",
+        "Gm7",
+        "Abmaj7",
+        "Gm7",
+        "C7",
+        "Abmaj7",
+        "Gm7",
+        "Fm7",
+        "Fm7"
+    ],
+    "chorus-1": [
+        "Abmaj7",
+        "Cm7",
+        "Bb",
+        "Abmaj7",
+        "Abmaj7",
+        "Cm7",
+        "Bb",
+        "Abmaj7"
+    ],
+    "chorus-2": [
+        "Abmaj7",
+        "Cm7",
+        "Bb",
+        "Abmaj7",
+        "Abmaj7",
+        "Cm7",
+        "Bb",
+        "Abmaj7",
+        "Abmaj7",
+        "Gm7",
+        "Abmaj7",
+        "Gm7",
+        "Abmaj7",
+        "Gm7",
+        "C7"
+    ],
+    "chorus-3": [
+        "Abmaj7",
+        "Cm7",
+        "Bb",
+        "Abmaj7",
+        "Abmaj7",
+        "Cm7",
+        "Bb",
+        "Abmaj7"
+    ]
+}

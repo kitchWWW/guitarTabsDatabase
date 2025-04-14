@@ -1,0 +1,74 @@
+URL: https://tabs.ultimate-guitar.com/tab/martha-and-the-vandellas/heat-wave-bass-7040
+Artist: Martha and The Vandellas
+Song: Heat Wave
+Genre: 
+Key: 
+
+
+From: mike@honet7.att.com
+
+==========================================================================
+HEAT WAVE
+
+Artist			James Jamerson (Martha and the Vandellas)
+Orginal Music		Holland, Dozier and Holland
+Performance On		Heat Wave
+Bass Performance	James Jamerson
+
+
+==========================================================================
+
+[tab]INTRODUCTION:
+    e e e e e e   
++---------------+
+|4:-----R-------|
+|4:-1-3---1-----|
++-----------3-0-+[/tab]
+
+
+[tab]VERSE:
+  q q q q   q q q q   q q q q   q q e e q   
++---------+---------+---------+-----------+
+|---------|---------|---------|-----------|
+|---------|-------2-|-3-3-3-3-|-3-3-3-1---|
++-1-0-1-2-+-3-2-3---+---------+---------3-+[/tab]
+
+[tab]  q q q q   q q q q   q q q q   q q e e q   
++---------+---------+---------+-----------+
+|---------|---------|---------|-----------|
+|---------|-----1-2-|-3-3-3-3-|-3-3-3-1---|
++-1-1-1-2-+-3-3-----+---------+---------3-+[/tab]
+
+[tab]  q q q q   q q e q e   q q e q e   Q q q e  
++---------+-----------+-----------+---------+
+|---------|-------0-R-|-------1-R-|---------|
+|---------|-----------|-----------|-1-1-1-1-|
++-1-1-1-2-+-3-3-3-----+-4-4-4-----+---------+[/tab]
+
+
+[tab]CHORUS:
+   q q q q 7  q e e e e e e  
++-----------+---------------+
+|*-1-------*|-1-----R-------|
+|*---3-1---*|---1-3---1-----|
++--------3--+-----------3-0-+[/tab]
+
+
+==========================================================================
+
+     __         Created using the Bass Tab Creator
+   +|oo|+       by Mario D'Alessio (motcid!marble!dalessio)
+   +|oo|+
+     ||         NOTES:
+     ||
+     ||         Capital durations are dotted notes
+     ||           (equal to 1.5 times the duration value)
+     ||
+     ||         +----+                   +----+
+[tab]  _  ||  _      |*--*+  = MEASURE        |4:--|  = TIME
+  \\_||_//      |*--*+    REPEATS        |4:--|    SIGNATURES
+   | [] |       +----+                   +----+
+   | || |
+  /  []  \      + = TIE         ^  = TRIPLET           > = BEND
+  \______/      H = HAMMER ON   \  = SLIDE TO FRET     R = Rest
+                P = PULL OFF    \X = SLIDE TO NOWHERE  ~ = Trill[/tab]

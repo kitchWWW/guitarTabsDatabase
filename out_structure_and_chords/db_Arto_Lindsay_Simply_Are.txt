@@ -1,0 +1,102 @@
+{
+    "intro-1": [
+        "F5",
+        "G5",
+        "Bbmaj7",
+        "F5",
+        "G5",
+        "Bbmaj7"
+    ],
+    "intro-2": [
+        "F5",
+        "G5",
+        "Bbmaj7",
+        "F5",
+        "G5",
+        "Bbmaj7",
+        "F5",
+        "G5",
+        "Bbmaj7",
+        "F5",
+        "G5",
+        "Bbmaj7"
+    ],
+    "verse-1": [
+        "Cm",
+        "Gm",
+        "Cm",
+        "Bb",
+        "Bbaug",
+        "Cm",
+        "Gm",
+        "Cm"
+    ],
+    "verse-2": [
+        "Cm",
+        "Gm",
+        "Cm",
+        "Bb",
+        "Bbaug",
+        "Cm",
+        "Gm",
+        "Cm"
+    ],
+    "verse-3": [
+        "Cm",
+        "Gm",
+        "Cm",
+        "Bb",
+        "Bbaug",
+        "Cm",
+        "Gm",
+        "Cm"
+    ],
+    "chorus-1": [
+        "Bb",
+        "Bbaug",
+        "Dm",
+        "Gm",
+        "Dm",
+        "Gm",
+        "Dm",
+        "Bb",
+        "Bbaug"
+    ],
+    "chorus-2": [
+        "Bb",
+        "Bbaug",
+        "Dm",
+        "Gm",
+        "Dm",
+        "Gm",
+        "Dm",
+        "Bb",
+        "Bbaug"
+    ],
+    "chorus-3": [
+        "Bb",
+        "Bbaug",
+        "Dm",
+        "Gm",
+        "Dm",
+        "Gm",
+        "Dm",
+        "Bb",
+        "Bbaug"
+    ],
+    "chorus-4": [
+        "Dm",
+        "Gm",
+        "Dm",
+        "Bb",
+        "Bbaug"
+    ],
+    "outro": [
+        "F5",
+        "G5",
+        "Bbmaj7",
+        "F5",
+        "G5",
+        "Bbmaj7"
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "intro-1": [
+        "Eb",
+        "Eb"
+    ],
+    "intro-2": [
+        "E",
+        "E"
+    ],
+    "verse-1": [
+        "Eb",
+        "Bb",
+        "Fm",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Fm",
+        "Ab"
+    ],
+    "verse-2": [
+        "Eb",
+        "Bb",
+        "Fm",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Fm",
+        "Ab"
+    ],
+    "verse-3": [
+        "E",
+        "B",
+        "F#m",
+        "A",
+        "E",
+        "B",
+        "F#m",
+        "A"
+    ],
+    "verse-4": [
+        "E",
+        "B",
+        "F#m",
+        "A",
+        "E",
+        "B",
+        "F#m",
+        "A"
+    ],
+    "pre-chorus-1": [
+        "Bb",
+        "Cm",
+        "Ab",
+        "Bb",
+        "Cm",
+        "Bb"
+    ],
+    "pre-chorus-2": [
+        "B",
+        "C#m",
+        "A",
+        "B",
+        "C#m",
+        "B"
+    ],
+    "chorus-1": [
+        "Eb",
+        "Fm",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Fm",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Ab",
+        "Eb"
+    ],
+    "chorus-2": [
+        "Eb",
+        "Fm",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Fm",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Ab",
+        "Fm"
+    ],
+    "chorus-3": [
+        "Eb",
+        "Fm",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Fm",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb"
+    ],
+    "chorus-4": [
+        "E",
+        "F#m",
+        "A",
+        "E",
+        "B",
+        "F#m",
+        "A",
+        "C#m",
+        "B",
+        "A",
+        "C#m",
+        "B",
+        "A",
+        "E"
+    ],
+    "chorus-5": [
+        "E",
+        "F#m",
+        "A",
+        "E",
+        "B",
+        "F#m",
+        "A",
+        "C#m",
+        "B",
+        "A",
+        "C#m",
+        "B",
+        "A",
+        "F#m"
+    ],
+    "chorus-6": [
+        "E",
+        "F#m",
+        "A",
+        "E",
+        "B",
+        "F#m",
+        "A",
+        "C#m",
+        "B",
+        "A",
+        "C#m",
+        "B",
+        "A",
+        "E",
+        "B"
+    ],
+    "bridge-1": [
+        "Ab",
+        "Fm",
+        "Ab",
+        "Fm",
+        "Ab",
+        "Bb"
+    ],
+    "bridge-2": [
+        "A",
+        "F#m",
+        "A",
+        "F#m",
+        "A",
+        "B"
+    ],
+    "outro-1": [
+        "Fm",
+        "Ab",
+        "Eb"
+    ],
+    "outro-2": [
+        "F#m",
+        "A",
+        "E"
+    ]
+}

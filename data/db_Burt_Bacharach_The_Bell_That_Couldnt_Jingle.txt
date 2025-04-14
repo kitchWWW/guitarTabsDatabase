@@ -1,0 +1,52 @@
+URL: https://tabs.ultimate-guitar.com/tab/burt-bacharach/the-bell-that-couldnt-jingle-chords-2542737
+Artist: Burt Bacharach
+Song: The Bell That Couldnt Jingle
+Genre: 
+Key: G
+
+
+[Verse]
+[tab][ch]Gmaj7[/ch]                [ch]F#m7[/ch]         [ch]Em7[/ch]             [ch]A7[/ch]
+A Christmas bell was crying, then Santa heard it say:[/tab]
+[tab]              [ch]F#m7[/ch]    [ch]F[/ch]     [ch]Em7[/ch]             [ch]A7[/ch]     [ch]Dmaj7[/ch]  [ch]D6[/ch]  [ch]Dmaj7[/ch]
+"I just can't seem to jingle and I can't go on the sleigh!"[/tab]
+[tab]     [ch]Gmaj7[/ch]        [ch]F#m7[/ch]         [ch]Em7[/ch]            [ch]A7[/ch]
+Then Santa soon discovered the reason that it cried â[/tab]
+[tab]              [ch]F#m7[/ch]     [ch]F[/ch]              [ch]Em7[/ch]     [ch]Em7/A[/ch]  [ch]Dmaj7[/ch] [ch]D6[/ch]
+The bell that couldn't jingle, it had nothing there inside![/tab]
+
+[Chorus]
+[tab]     [ch]G[/ch]                 [ch]Gmaj7[/ch]                [ch]C[/ch]                [ch]F[/ch]
+Then Santa said: "Jack Frost will bring my Christmas gift to you[/tab]
+[tab]       [ch]Bb[/ch]                   [ch]Gm7[/ch]          [ch]Em7[/ch]                 [ch]A7[/ch]
+And on Christmas Eve you'll jingle, just like you were brand new!"[/tab]
+
+[Verse]
+[tab]     [ch]Gmaj7[/ch]              [ch]F#m7[/ch]         [ch]Em7[/ch]                [ch]A7[/ch]
+Then Jack Frost froze a teardrop, so each time that it swayed[/tab]
+[tab]              [ch]F#m7[/ch]     [ch]F[/ch]               [ch]Em7[/ch]              [ch]Em7/A[/ch]   [ch]D[/ch]    [ch]D7[/ch]
+The bell that couldn't jingle, jingle, it went jingling all the way![/tab]
+
+[Bridge]
+[tab][ch]G[/ch]            [ch]G+[/ch]           [ch]G6[/ch]             [ch]G+[/ch]
+Jingle bell, jingle bell, jingle all the way![/tab]
+[tab]    [ch]A[/ch]                  [ch]F[/ch]       [ch]Em[/ch]                    [ch]A7[/ch] [ch]D[/ch]        [ch]D#[/ch]
+The bell that couldn't jingle, it went jingling all the way![/tab]
+
+[Chorus]
+[tab]     [ch]G#[/ch]                 [ch]G#maj7[/ch]             [ch]C#[/ch]                [ch]F#[/ch]
+Then Santa said: "Jack Frost will bring my Christmas gift to you[/tab]
+[tab]       [ch]B[/ch]                   [ch]G#m7[/ch]          [ch]Fm7[/ch]                 [ch]A#7[/ch]
+And on Christmas Eve you'll jingle, just like you were brand new!"[/tab]
+
+[Verse]
+[tab]     [ch]G#maj7[/ch]             [ch]Gm7[/ch]          [ch]Fm7[/ch]                [ch]A#7[/ch]
+Then Jack Frost froze a teardrop, so each time that it swayed[/tab]
+[tab]              [ch]Gm7[/ch]      [ch]F#[/ch]             [ch]Fm7[/ch]              [ch]Fm7/Ab[/ch]   [ch]D#[/ch]    [ch]D#7[/ch]
+The Bell That Couldn't Jingle, jingle, it went jingling all the way![/tab]
+
+[Bridge]
+[tab][ch]G#[/ch]           [ch]G#+[/ch]           [ch]G#6[/ch]           [ch]G#+[/ch]
+Jingle bell, jingle bell, jingle all the way![/tab]
+[tab]    [ch]A#[/ch]                 [ch]F#[/ch]       [ch]F[/ch]                    [ch]A#7[/ch] [ch]D#[/ch]
+The bell that couldn't jingle, it went jingling all the way![/tab]

@@ -1,0 +1,78 @@
+{
+    "verse-1": [
+        "D5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5",
+        "Gadd2"
+    ],
+    "verse-2": [
+        "D5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5",
+        "Gadd2"
+    ],
+    "pre-chorus-1": [
+        "Aadd4",
+        "Gadd2",
+        "Aadd4",
+        "Gadd2",
+        "Aadd4"
+    ],
+    "pre-chorus-2": [
+        "Aadd4",
+        "Gadd2",
+        "Aadd4",
+        "Gadd2",
+        "Aadd4"
+    ],
+    "chorus-1": [
+        "Gadd2",
+        "D5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5",
+        "A5",
+        "A5"
+    ],
+    "chorus-2": [
+        "Gadd2",
+        "D5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5",
+        "A5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5"
+    ],
+    "chorus-3": [
+        "Gadd2",
+        "D5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5"
+    ],
+    "outro": [
+        "Gadd2",
+        "D5",
+        "A5",
+        "Gadd2",
+        "D5",
+        "A5"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "chorus-1": [
+        "E",
+        "B",
+        "C#m",
+        "Asus2",
+        "E",
+        "B",
+        "C#m",
+        "Asus2",
+        "E",
+        "B",
+        "C#m",
+        "Asus2"
+    ],
+    "chorus-2": [
+        "E",
+        "B",
+        "C#m",
+        "Asus2",
+        "E",
+        "B",
+        "C#m",
+        "Asus2",
+        "Asus2"
+    ],
+    "chorus-3": [
+        "E",
+        "B",
+        "C#m",
+        "Asus2",
+        "E",
+        "B",
+        "C#m",
+        "Asus2",
+        "E"
+    ],
+    "bridge": [
+        "E",
+        "B",
+        "C#m",
+        "Asus2"
+    ]
+}

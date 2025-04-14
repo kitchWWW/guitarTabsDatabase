@@ -1,0 +1,158 @@
+URL: https://tabs.ultimate-guitar.com/tab/the-kinks/autumn-almanac-chords-1879093
+Artist: The Kinks
+Song: Autumn Almanac
+Genre: 
+Key: 
+
+
+Song: Autumn almanac  (Live acoustic version)
+Artist: Ray Davies / The Kinks
+Composer: Ray Davies
+
+Tabbed by DJ  29th Sept 2016
+
+NOTE:  If you want to play this song in the original Kinks key
+of Bm, use a capo at the 2nd fret, or for my more comprehensive
+tab see this link:
+tabs.ultimate-guitar.com/t/the_kinks/autumn_almanac_ver2_crd.htm
+
+Based on one of Ray's later live performances where he performs 
+the song a whole tone lower than the original track. He plays a
+simplified version of the song, without the addition of the
+original descending bass note progressions.
+
+Link to Ray's live video performance:
+https://www.youtube.com/watch?v=UFT4fyKFOp0
+
+[ch]E[/ch]    = 022100    [ch]F#[/ch]  = 244322    [ch]Fm[/ch]     = 133111
+[ch]A[/ch]    = x02220    [ch]G#7[/ch] = 464544    [ch]G7[/ch]     = 320001
+[ch]B[/ch]    = x24442    [ch]D7[/ch]  = xx0212    [ch]Cm[/ch]     = x35543
+[ch]Am[/ch]   = x02210    [ch]Gm[/ch]  = 355333    [ch]E7[/ch]     = 022130
+[ch]D[/ch]    = xx0232    [ch]Bb[/ch]  = x13331    [ch]A7[/ch]     = x02020
+[ch]G[/ch]    = 320033    [ch]Eb[/ch]  = xx6454    [ch]B7[/ch]     = x21202
+[ch]C[/ch]    = x32010    [ch]F[/ch]   = 133211    [ch]Em[/ch]     = 022000
+[ch]C#m[/ch]  = x46654    [ch]F7[/ch]  = 131211    [ch]D#aug[/ch]  = xx1003
+[ch]Caug[/ch] = xx6554    [ch]Dm[/ch]  = xx0231    [ch]Em7[/ch]    = 020000
+[tab]                                 [ch]C#m7b5[/ch] = x42000
+h = hammer-on note[/tab]
+
+Please take a second to scroll down to the bottom of the page
+and select a star rating for this tab
+===============================================================
+
+[tab][Intro]
+    [ch]E[/ch]             [ch]A[/ch]     [ch]B[/ch]        [ch]E[/ch]
+e |------------|--0--0--2--2--|--0--0------------|
+B |------------|--2--2--4--4--|--0--0------------|
+G |------------|--2--2--4--4--|--1--1------------|
+D |------2-h4--|--2--2--4--4--|--2--2------2-h4--|
+A |--2-h4------|--0--0--2--2--|--2--2--2-h4------|
+E |------------|--------------|--0--0------------|[/tab]
+
+[tab]     [ch]A[/ch]     [ch]B[/ch]        [ch]E[/ch]
+e |--0--0--2--2--|--0--0---------|
+B |--2--2--4--4--|--0--0---------|
+G |--2--2--4--4--|--1--1---------|
+D |--2--2--4--4--|--2--2---------|
+A |--0--0--2--2--|--2--2---------|
+E |--------------|--0--0---------|[/tab]
+
+[Verse 1]
+[tab]         [ch]Am[/ch]                        [ch]D[/ch]
+From the dew soaked hedge creeps a crawly caterpillar,[/tab]
+[tab][ch]G[/ch]            [ch]D[/ch]
+    When the dawn begins to crack,[/tab]
+[tab][ch]C[/ch]    [ch]D[/ch]   [ch]G[/ch]    [ch]D7[/ch]    [ch]G[/ch]             [ch]D[/ch]
+It's all part of my autumn alma - nac,[/tab]
+[tab]    [ch]Am[/ch]                       [ch]D[/ch]
+The breeze blows leaves of a musty coloured yellow,[/tab]
+[tab][ch]G[/ch]           [ch]D[/ch]
+   So---- I sweep them in m' sack,[/tab]
+[tab][ch]C[/ch]    [ch]D[/ch]    [ch]G[/ch]    [ch]D7[/ch]      [ch]G[/ch]             [ch]D[/ch]
+Yes, yes, yes, it's my autumn alma - nac[/tab]
+
+[Verse 2]
+[tab][ch]E[/ch]                   [ch]A[/ch]  [ch]B[/ch]               [ch]E[/ch]
+Friday evening peo-------ple  get to - gether,[/tab]
+[tab]    [ch]A[/ch]  [ch]B[/ch]                [ch]E[/ch]
+Hi--------ding from the weather,[/tab]
+[tab][ch]C#m[/ch]     [ch]Caug[/ch]                     [ch]E[/ch]
+Tea and toasted buttered currant buns,[/tab]
+[tab]      [ch]F#[/ch]                     [ch]A[/ch]
+Can't compensate for lack of sun,[/tab]
+[tab]            [ch]G#7[/ch]
+Because the summer's all gone[/tab]
+
+[Verse 3]
+[tab]            [ch]Am[/ch]
+La, la-la!  La, la, la, la-la![/tab]
+[tab][ch]D[/ch]
+La -la, la, la, la-la![/tab]
+[tab][ch]G[/ch]              [ch]D[/ch]
+    Oh----, my poor rheumatic back,[/tab]
+[tab][ch]C[/ch]    [ch]D[/ch]    [ch]G[/ch]    [ch]D7[/ch]      [ch]G[/ch]             [ch]D[/ch]
+Yes, yes, yes, it's my autumn alma - nac,[/tab]
+[tab][ch]Am[/ch]                  [ch]D[/ch]
+La, la, la, la-la!  La-la, la, la, la-la![/tab]
+[tab][ch]G[/ch]              [ch]D[/ch]
+    Oh----, my autumn almanac,[/tab]
+[tab][ch]C[/ch]    [ch]D[/ch]    [ch]G[/ch]    [ch]D7[/ch]      [ch]G[/ch]             [ch]D[/ch]     [ch]D7[/ch]
+Yes, yes, yes, it's my autumn alma - nac[/tab]
+
+[Verse 4]
+[tab][ch]G[/ch]         [ch]D[/ch]         [ch]C[/ch]       [ch]G[/ch]
+I like my football  ...on a Saturday,[/tab]
+[tab][ch]G[/ch]             [ch]D[/ch]        [ch]C[/ch]     [ch]D7[/ch]   [ch]G[/ch]
+Roast beef on Sundays,    ...al - right,[/tab]
+[tab][ch]G[/ch]       [ch]D[/ch]         [ch]C[/ch]          [ch]G[/ch]
+I go to Blackpool  ...for my holidays,[/tab]
+[tab][ch]G[/ch]          [ch]D[/ch]    [ch]C[/ch]    [ch]D7[/ch]    [ch]G[/ch]
+Sit in the open   ...sun - light[/tab]
+
+[Verse 5]
+[tab][ch]Gm[/ch]                [ch]Bb[/ch]                      [ch]Eb[/ch]
+This is my street,   and I'm never gonna leave it,[/tab]
+[tab][ch]F[/ch]           [ch]F7[/ch]           [ch]Bb[/ch]
+    And I'm always gonna stay here,[/tab]
+[tab][ch]Dm[/ch]                  [ch]Fm[/ch]      [ch]G[/ch]
+    If I live to be ninety -nine,[/tab]
+[tab]               [ch]G7[/ch]       [ch]C[/ch]
+'Cause all the people I meet...[/tab]
+[tab][ch]Cm[/ch]                        [ch]G[/ch]
+  ...Seem to come from my street,[/tab]
+[tab][ch]E7[/ch]                      [ch]A7[/ch]
+    And I can't get a - way,[/tab]
+[tab][ch]B7[/ch]                           [ch]Em[/ch]     [ch]D#aug[/ch]
+    Because it's calling me, come on home,[/tab]
+[tab]                       [ch]Em7[/ch]     [ch]C#m7b5[/ch]
+Hear it calling me, so come on home[/tab]
+
+[Verse 6]
+[tab]            [ch]Am[/ch]
+La, la-la!  La, la, la, la-la![/tab]
+[tab][ch]D[/ch]
+La -la, la, la, la-la![/tab]
+[tab][ch]G[/ch]                [ch]D[/ch]
+   Oh-------, my autumn Armagnac,[/tab]
+[tab][ch]C[/ch]    [ch]D[/ch]    [ch]G[/ch]    [ch]D7[/ch]      [ch]G[/ch]             [ch]D[/ch]
+Yes, yes, yes, it's my autumn alma - nac,[/tab]
+[tab][ch]Am[/ch]                      [ch]D[/ch]
+La, la, la, la, la-la!  La-la, la, la, la-la![/tab]
+[tab][ch]G[/ch]                  [ch]D[/ch]
+    Woh-------, my autumn almanac,[/tab]
+[tab][ch]C[/ch]    [ch]D[/ch]    [ch]C[/ch]    [ch]D7[/ch]    [ch]G[/ch]    [ch]D7[/ch]   [ch]G[/ch]    [ch]C[/ch]
+Yes, yes, yes, yes!  Yes, yes, yes, yes![/tab]
+
+[Coda]
+[tab]   [ch]C[/ch]     [ch]D7[/ch]      [ch]G[/ch]
+|  /  /  /  / |  /  /  |[/tab]
+
+[tab]    [ch]C[/ch]          [ch]D7[/ch]            [ch]G[/ch]
+||: Bah - bah, bah-b, bah-b, bah, ...woh! :||[x4][/tab]
+
+[tab]    [ch]C[/ch]          [ch]D7[/ch]            [ch]G[/ch]
+||: Bah - bah, bah-b, bah-b, bah, ...woh! :||[x3]
+   (Yes!)[/tab]
+
+[tab]   [ch]C[/ch]     [ch]D7[/ch]      [ch]G[/ch]        [ch]C[/ch]     [ch]D7[/ch]      [ch]G[/ch]
+|  /  /  /  / |  /  /  |  /  /  /  / |  /  ||[/tab]

@@ -1,0 +1,50 @@
+{
+    "intro": [
+        "Em",
+        "Am",
+        "B7",
+        "Em"
+    ],
+    "verse": [
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Em",
+        "F#",
+        "B7"
+    ],
+    "chorus-1": [
+        "Em",
+        "Am",
+        "B",
+        "Em",
+        "B7",
+        "Em",
+        "Am",
+        "B7",
+        "Em"
+    ],
+    "chorus-2": [
+        "Em",
+        "Am",
+        "B",
+        "Em",
+        "B7",
+        "Em",
+        "Am",
+        "B",
+        "Em"
+    ],
+    "instrumental": [
+        "Em",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "Am",
+        "Em",
+        "F#",
+        "B7"
+    ]
+}

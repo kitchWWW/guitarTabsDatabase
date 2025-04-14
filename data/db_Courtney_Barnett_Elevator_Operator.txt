@@ -1,0 +1,45 @@
+URL: https://tabs.ultimate-guitar.com/tab/courtney-barnett/elevator-operator-tabs-4426625
+Artist: Courtney Barnett
+Song: Elevator Operator
+Genre: 
+Key: 
+
+
+Courtney plays with Pick and cappo on the 4th fret. Also, she ofter only used the top 3 strings of the chords,
+but sometimes hits that 4th string for some extra expression. It's rhythm guitar and often people advise using
+palm muting, but I think it is more fun to just play around with when you mute, this is certainly the way 
+to reach the loose playing style Courtney is known for. 
+
+The basic chords are E    (without the middlefinger or the fourth) and A   , and once in a while the pinky is 
+used to add the minor 6th to the mix.
+
+(Partial) Strumming pattern = Down strokes on the whole beat and up strokes on the last two half beats. 
+(So down - down - down up down up) - but ofcourse this isn't kept up the whole time.
+
+[tab]E                                     A                 (8th notes only)
+e|-----------------|-----------------|-----------------|------------------------|
+B|-----------------|-----------------|-------------6---|------------------------|
+G|---------------4-|---------------4-|-6---6---6-6-6-6-|-11-11-11-11-10-10-10---|
+D|-4---4---4-4-4-4-|-4---4---4-4-4-4-|-6---6---6-8-6-6-|-13-13-13-13-11-11-11---|
+A|-6---6---6-8-6-6-|-6---6---6-8-6-6-|-4---4---4-4---4-|-4- 4- 4- 4- 4 -4 -4----|
+E|-4---4---4-4-4---|-4---4---4-4-4---|-----------------|------------------------|[/tab]
+
+Remember this can be played extremely loose. You don't have to do 3 strings and can choose when to mute and 
+when to let it ring
+
+
+[tab]Break (2x slower tempo)                             A   
+E                                  G             [    3     ]
+e|----------------------------------------------------------------|
+B|----------------------------------------------------------------|
+G|-4----4--4-------4----4--4--------------------------------------|
+D|-6----6--6-------6----6--6-------4----4--4-------4--4--4--------|
+A|-6----6--6-------4----4--4-------6----6--6-------8--8--8--------|
+E|-4----4--4-------6----6--6-------7----7--7-------9--9--9--------|
+   1       &       2       &       3       &       4     &[/tab]
+
+I think the fast up down strokes are triplets, but you'll get the rythm by listning to the song or my sources
+
+
+Based on information gotten from https://www.youtube.com/watch?v=fSRogF94r8E
+But also found some additional parts in her interview https://www.youtube.com/watch?v=_CYxbqFCggQ&t=281s

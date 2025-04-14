@@ -1,0 +1,91 @@
+URL: https://tabs.ultimate-guitar.com/tab/2350017
+Artist: Lisandro Aristimuño
+Song: Tu Corazón
+Genre: 
+Key: G
+
+
+Capo 3
+
+[ch]Cmaj7/E[/ch]  022010
+[ch]Em7[/ch]
+
+[Intro]
+[tab][ch]G[/ch]           [ch]Gsus4[/ch]      [ch]G[/ch]           [ch]Gsus4[/ch]        |
+1     +     2    +     3     +     4        +   |[/tab]
+[tab][ch]Em[/ch]          [ch]Cmaj7/E[/ch]    [ch]Em[/ch]    [ch]Em7[/ch]   [ch]Cmaj7/E[/ch]  [ch]Em[/ch]  |
+1     +     2    +     3     +     4        +   |    x4[/tab]
+
+
+[tab][ch]Am[/ch]                     [ch]C[/ch]                        |
+1     +     2    +     3     +     4        +   |[/tab]
+[tab][ch]Em[/ch]                     [ch]D[/ch]                        |
+1     +     2    +     3     +     4        +   |    x2[/tab]
+
+[Verse]
+[tab] [ch]G[/ch]        [ch]Gsus4[/ch]  [ch]G[/ch]       [ch]Gsus4[/ch]       [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Cada vez mas    todo te da igual[/tab]
+[tab]  [ch]G[/ch]    [ch]Gsus4[/ch]      [ch]G[/ch]         [ch]Gsus4[/ch]    [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Y te fugas a la orilla del rio[/tab]
+[tab] [ch]G[/ch]    [ch]Gsus4[/ch]    [ch]G[/ch]         [ch]Gsus4[/ch]       [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Sin pensar te pusiste a llenar[/tab]
+[tab] [ch]G[/ch]      [ch]Gsus4[/ch]  [ch]G[/ch]       [ch]Gsus4[/ch]         [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Tu corazon repleto de vino[/tab]
+[tab] [ch]G[/ch]      [ch]Gsus4[/ch]      [ch]G[/ch]        [ch]Gsus4[/ch]    [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Te encontraste en la mañana en un revolver[/tab]
+[tab] [ch]G[/ch]      [ch]Gsus4[/ch]  [ch]G[/ch]       [ch]Gsus4[/ch]         [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Y sin pensar  todo te da igual[/tab]
+
+[Chorus]
+[tab]  [ch]Am[/ch]          [ch]C[/ch]        [ch]Em[/ch]    [ch]D[/ch]   [ch]Dsus4[/ch]  [ch]D[/ch]
+Quise estar, pude estar[/tab]
+[tab]  [ch]Am[/ch]              [ch]C[/ch]    [ch]Em[/ch]    [ch]D[/ch]
+Quise estar y salvar…[/tab]
+[tab]        [ch]G[/ch]
+Tu corazon.[/tab]
+
+[Interlude]
+[tab]([ch]G[/ch])         [ch]Gsus4[/ch]      [ch]G[/ch]           [ch]Gsus4[/ch]        |
+1     +     2    +     3     +     4        +   |[/tab]
+[tab][ch]Em[/ch]          [ch]Cmaj7/E[/ch]    [ch]Em[/ch]    [ch]Em7[/ch]   [ch]Cmaj7/E[/ch]  [ch]Em[/ch]  |
+1     +     2    +     3     +     4        +   |    x2[/tab]
+
+[Verse]
+[tab] [ch]G[/ch]      [ch]Gsus4[/ch]     [ch]G[/ch]         [ch]Gsus4[/ch]        [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Pudiste haber crecido y amarrarte a tus cosas,[/tab]
+[tab]   [ch]G[/ch]        [ch]Gsus4[/ch]     [ch]G[/ch]    [ch]Gsus4[/ch]      [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Creiste haber podido defenderte otra vez…[/tab]
+[tab] [ch]G[/ch]        [ch]Gsus4[/ch]        [ch]G[/ch]          [ch]Gsus4[/ch]    [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Viniste convencida que este mundo es para vos[/tab]
+[tab] [ch]G[/ch]  [ch]Gsus4[/ch]    [ch]G[/ch]  [ch]Gsus4[/ch]     [ch]Em[/ch] [ch]Cmaj7/E[/ch] [ch]Em[/ch]      [ch]Em7[/ch]  [ch]Cmaj7/E[/ch]  [ch]Em[/ch]
+Y sin dolor tampoco hay amor…[/tab]
+
+[Chorus]
+[tab]  [ch]Am[/ch]          [ch]C[/ch]        [ch]Em[/ch]    [ch]D[/ch]   [ch]Dsus4[/ch]  [ch]D[/ch]
+Quise estar, pude estar[/tab]
+[tab]  [ch]Am[/ch]        [ch]C[/ch]        [ch]Em[/ch]    [ch]D[/ch]
+Quise estar y salvar…[/tab]
+[tab]        [ch]G[/ch]    [ch]Em[/ch]
+Tu corazon.[/tab]
+
+[Bridge]
+[tab]             [ch]G[/ch]      [ch]Em[/ch]
+      Uuuuhh love[/tab]
+[tab]             [ch]G[/ch]      [ch]Em[/ch]
+      Uuuuhh love[/tab]
+[tab]             [ch]G[/ch]      [ch]Em[/ch]
+      Uuuuhh love[/tab]
+
+[Interlude]
+[tab]([ch]G[/ch])         [ch]Gsus4[/ch]      [ch]G[/ch]           [ch]Gsus4[/ch]        |
+1     +     2    +     3     +     4        +   |[/tab]
+[tab][ch]Em[/ch]          [ch]Cmaj7/E[/ch]    [ch]Em[/ch]    [ch]Em7[/ch]   [ch]Cmaj7/E[/ch]  [ch]Em[/ch]  |
+1     +     2    +     3     +     4        +   |    x2[/tab]
+
+[Outro]
+[tab]  [ch]Am[/ch]          [ch]C[/ch]        [ch]Em[/ch]    [ch]D[/ch]   [ch]Dsus4[/ch]  [ch]D[/ch]
+Quise estar, pude estar[/tab]
+[tab]  [ch]Am[/ch]              [ch]C[/ch]    [ch]Em[/ch]    [ch]D[/ch]
+Quise estar y salvar…[/tab]
+[tab]        [ch]G[/ch]
+Tu corazon.[/tab]

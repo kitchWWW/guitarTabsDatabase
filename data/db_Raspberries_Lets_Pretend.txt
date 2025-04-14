@@ -1,0 +1,77 @@
+URL: https://tabs.ultimate-guitar.com/tab/raspberries/lets-pretend-ukulele-1267176
+Artist: Raspberries
+Song: Lets Pretend
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#
+
+Date: Thu, 14 Nov 1996 14:50:07 -0500
+From: Andrew Rogers &lt;rogers@hi.com>
+Subject: ./r/raspberries/lets_pretend.crd
+
+                            "Let's Pretend"
+                             (Eric Carmen)
+
+Verse 1:
+
+[tab]	[ch]G[/ch]       [ch]F/G[/ch]
+	I can't sleep nights[/tab]
+[tab]	[ch]Am[/ch]                [ch]Bm[/ch]     [ch]C[/ch]  CaddD/[ch]A[/ch]
+	Wishing you were here beside me[/tab]
+[tab]	 [ch]G[/ch]         [ch]F/G[/ch]
+	Can't help feelin'[/tab]
+[tab]	[ch]Am7[/ch]                [ch]D7[/ch]      [ch]G[/ch]
+	That's the way it ought to be[/tab]
+
+[tab]	                 [ch]B7[/ch]/[ch]D#[/ch]           [ch]Em[/ch]
+	You know we could run (run, run away)[/tab]
+[tab]	               [ch]D7/F#[/ch]    [ch]G[/ch]        /[ch]B[/ch]            [ch]C[/ch]    [ch]Am7[/ch]  [ch]Am7/D[/ch]
+	But I couldn't bear to hear the things they'd say,  oh no[/tab]
+
+Chorus:
+
+[tab]	       [ch]G[/ch]                  [ch]Bm[/ch]                   [ch]C[/ch]     /[ch]B[/ch]  [ch]Am7[/ch]
+	Baby, let's pretend that tonight could live forever[/tab]
+[tab]	      FaddG                [ch]Am7/D[/ch]     [ch]D7[/ch]         [ch]G[/ch]    CaddD  /[ch]D[/ch]
+	If we close our eyes and believe it might come true[/tab]
+[tab]	       [ch]G[/ch]                     [ch]Bm[/ch]                          [ch]C[/ch]    /[ch]B[/ch] [ch]Am7[/ch]
+	Baby, let's pretend we could always [1,4: be 2,3: live] together[/tab]
+[tab]	       FaddG            [ch]Am7/D[/ch]      [ch]D7[/ch]        [ch]B7[/ch]
+	But for now just let me spend the night with you[/tab]
+
+	  [1:  CaddD /D; to verse 2]
+	  [2:  to bridge]
+	  [3, 4:  CaddD /D; repeat]
+
+Verse 2:
+
+	Somehow, someday
+	Things are gonna be so different
+	Don't cry, some way
+	I promise it'll be all right
+	So now that we're all alone
+	I couldn't bear to leave to take you home, oh no
+
+	[repeat chorus]
+
+Bridge:
+
+[tab]	            [ch]C[/ch]                [ch]B7sus4[/ch] [ch]B7[/ch]
+	So take me now, my love can't wait[/tab]
+[tab]	              [ch]Em[/ch]        [ch]G7[/ch]/[ch]D[/ch]
+	We're almost there now, darlin', darlin'[/tab]
+[tab]	 [ch]C[/ch]                  [ch]Am[/ch]
+	Hold me (hold me), hold me (hold me)[/tab]
+[tab]	FaddG   [ch]D7sus4[/ch]
+	Ho-oh-old me[/tab]
+
+[repeat chorus to end; start to fade 2nd time]
+
+
+-- another ace 70's tab from Andrew Rogers

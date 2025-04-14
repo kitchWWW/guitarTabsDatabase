@@ -1,0 +1,98 @@
+URL: https://tabs.ultimate-guitar.com/tab/mary-chapin-carpenter/john-doe-no-2-chords-64426
+Artist: Mary Chapin Carpenter
+Song: John Doe No 2
+Genre: 
+Key: 
+
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+
+JOHN DOE NO. 24 (Mary Chapin Carpenter)
+---------------------------------------
+
+This song is in the key of E, but Mary Chapin plays it in G with a
+capo at the 9th fret, in open D tuning (DADF#AD).  But the highest
+string is never used, so you don't have to tune that one down; since
+high E's often break, you may as well tune to DADF#AE.
+
+The guitar part repeats one pattern through the entire song, with some
+slight variations.  This tablature is for the first four measures of
+the song, and it shows two ways to play the end of the pattern; through
+most of the song, she uses the second way, especially while she's
+singing.  (Note that the "131" in the tab is a hammer-on followed by a
+pull-off, and the "13" is a hammer-on from 1 to 3, not thirteen!)
+
+[tab]D  ----------------|----------------|----------------|----------------|
+A  ------0---------|----------------|------0---------|----------------|
+F# 1-------1-----1-|------1-131---0-|1-------1-----1-|------1-13----0-|
+D  ----0-------0---|----0-------0---|----0-------0---|----0-------0---|
+A  --2-------3-----|--3-------------|--2-------3-----|--3-------0-----|
+D  0-------2-------|0-------0-------|0-------2-------|0-------0-------|
+   ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .[/tab]
+
+MCC doesn't use her thumb to fret the low E (she uses her middle finger),
+but you can use your thumb if it's easier that way.  Notice that I didn't
+put chord names; that's because they don't really matter.  I guess you
+could say the chords are: [ch]G(9)[/ch], C(9)/E, [ch]Gsus4[/ch]/[ch]D[/ch], [ch]D[/ch](4).
+
+
+LYRICS (each line is two measures):
+
+I was standing on the sidewalk in 1945
+In Jacksonville, Illinois
+When asked what my name was there came no reply
+They said I was a deaf and sightless half-wit boy
+But Louis was my name, though I could not say it
+I was born and raised in New Orleans
+My spirit was wild, so I let the river take it
+On a barge and a prayer upstream
+
+Well they searched for a mother and they searched for a father
+And they searched till they searched no more
+The doctors put to rest their scientific tests
+And they named me "John Doe No. 24"
+And they all shook their heads in pity
+For a world so silent and dark
+Well there's no doubt that life's a mystery
+But so too is the human heart
+
+And it was my heart's own perfume when the crepe jasmine bloomed
+On St. Charles Avenue
+Though I couldn't hear the bells of the streetcars coming
+By toeing the track I knew
+And if I were an old man returning
+With my satchel and porkpie hat
+I'd hit every jazz joint on Bourbon
+And I'd hit everyone on Basin after that
+
+[sixteen-bar saxophone solo]
+
+The years kept passing as they passed me around
+From one state ward to another
+Like I was an orphan shoe from the lost and found
+Always missing the other
+And they gave me a harp last Christmas
+And all the nurses took a dance
+But lately I've been growing listless
+I've been dreaming again of the past
+
+I'm wandering down to the banks of the great Big Muddy
+Where the shotgun houses stand
+I am seven years old and I feel my dad
+Reach out for my hand
+While I drew breath no one missed me
+So they won't on the day that I cease
+Put a sprig of crepe jasmine with me
+To remind me of New Orleans
+
+I was standing on the sidewalk in 1945
+In Jacksonville, Illinois
+[pause on A note (open 2nd string)]
+
+[repeat and fade with saxophone solo]
+
+
+- Adam Schneider, schneider@pobox.com

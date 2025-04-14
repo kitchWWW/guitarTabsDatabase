@@ -1,0 +1,31 @@
+{
+    "intro": [
+        "Fmaj",
+        "Fsus2",
+        "E",
+        "Fmaj",
+        "Fsus2",
+        "E"
+    ],
+    "verse-1": [
+        "Fmaj",
+        "G",
+        "Am",
+        "Fmaj",
+        "G",
+        "Am",
+        "Fmaj",
+        "G",
+        "Am",
+        "Fmaj",
+        "G",
+        "Am",
+        "Am/B",
+        "G",
+        "Fmaj",
+        "Am/B",
+        "G",
+        "Fmaj"
+    ],
+    "verse-2": []
+}

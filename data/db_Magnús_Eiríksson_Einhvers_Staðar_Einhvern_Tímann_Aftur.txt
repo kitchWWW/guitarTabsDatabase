@@ -1,0 +1,92 @@
+URL: https://tabs.ultimate-guitar.com/tab/5648994
+Artist: Magnús Eiríksson
+Song: Einhvers Staðar Einhvern Tímann Aftur
+Genre: 
+Key: E
+
+
+[Intro]
+ [ch]G#m7[/ch]    [ch]Amaj7[/ch]
+[ch]E[/ch]    [ch]G#m7[/ch]    [ch]Amaj7[/ch]
+
+[Verse]
+[tab][ch]E[/ch]              [ch]G#m7[/ch]           [ch]Amaj7[/ch]
+Einhversstaðar einhvern tíman aftur[/tab]
+[tab]       [ch]G#m7[/ch]        [ch]C#7[/ch]        [ch]F#[/ch]
+liggur leið þín um veginn til mín[/tab]
+[tab]      [ch]B7[/ch]             [ch]Bb[/ch] [ch]A[/ch]
+og þú segir: Ég saknaði þín.[/tab]
+[tab]              [ch]E[/ch]   [ch]A[/ch]   [ch]E[/ch]    [ch]A[/ch]
+Ég saknaði þín.[/tab]
+
+
+[Verse]
+[tab][ch]E[/ch]                [ch]G#m7[/ch]        [ch]Amaj7[/ch]
+Kyrrlátt kvöldið hvíslar ástarorðum[/tab]
+[tab]     [ch]G#m7[/ch]          [ch]C#7[/ch]        [ch]F#[/ch]
+út í buskann, hver heyrir þau nú.[/tab]
+[tab]      [ch]B7[/ch]              [ch]A#[/ch] [ch]A[/ch]
+Út úr lífi mínu labbaðir þú.[/tab]
+[tab]         [ch]E[/ch]   [ch]E7[/ch]
+Labbaðir þú.[/tab]
+
+
+[Chorus]
+[tab]      [ch]A[/ch]             [ch]Am[/ch]
+En ég nenni ekki að hanga hér,[/tab]
+[tab]     [ch]E[/ch]            [ch]G#m7[/ch]    [ch]Gm[/ch]
+þótt hugur dvelji oft hjá þér.[/tab]
+[tab][ch]F#m[/ch]         [ch]B7[/ch]         [ch]E[/ch]    [ch]E7[/ch]
+Lífið bíður líka eftir mér.[/tab]
+[tab]       [ch]A[/ch]            [ch]Am[/ch]
+Það er alveg nóg af sorg og sút,[/tab]
+[tab][ch]E[/ch]           [ch]G#m7[/ch]     [ch]Gm[/ch]
+svo ég ætla eitthvað út.[/tab]
+[tab]   [ch]F#m[/ch]
+Að finna einhvern félagsskap,[/tab]
+[tab]    [ch]B7[/ch]              [ch]Baug[/ch]
+því hik þú veist er sama og tap.[/tab]
+
+
+[Verse]
+[tab][ch]E[/ch]            [ch]G#m7[/ch]        [ch]Amaj7[/ch]
+Nú er bráðum tími til að þegja,[/tab]
+[tab]       [ch]G#m7[/ch]     [ch]C#7[/ch]      [ch]F#[/ch]
+því að ósagt nú á ég svo fátt.[/tab]
+[tab]      [ch]B7[/ch]               [ch]A#[/ch]  [ch]A[/ch]
+En ég sendi þér kveðju í   sátt.[/tab]
+[tab]       [ch]E[/ch]      [ch]E7[/ch]
+Kveðju í sátt.[/tab]
+
+
+[Chorus]
+[tab]      [ch]A[/ch]             [ch]Am[/ch]
+En ég nenni ekki að hanga hér,[/tab]
+[tab]     [ch]E[/ch]            [ch]G#m7[/ch]    [ch]Gm[/ch]
+þótt hugur dvelji oft hjá þér.[/tab]
+[tab][ch]F#m[/ch]         [ch]B7[/ch]         [ch]E[/ch]    [ch]E7[/ch]
+Lífið bíður líka eftir mér.[/tab]
+[tab]       [ch]A[/ch]            [ch]Am[/ch]
+Það er alveg nóg af sorg og sút,[/tab]
+[tab][ch]E[/ch]           [ch]G#m7[/ch]     [ch]Gm[/ch]
+svo ég ætla eitthvað út.[/tab]
+[tab]   [ch]F#m[/ch]
+Að finna einhvern félagsskap,[/tab]
+[tab]    [ch]B7[/ch]              [ch]Baug[/ch]
+því hik þú veist er sama og tap.[/tab]
+
+[outro]
+[tab][ch]E[/ch]              [ch]G#m7[/ch]           [ch]Amaj7[/ch]
+Einhversstaðar einhvern tíman aftur[/tab]
+[tab]       [ch]G#m7[/ch]        [ch]C#7[/ch]        [ch]F#[/ch]
+liggur leið þín um veginn til mín[/tab]
+[tab]      [ch]B7[/ch]             [ch]A#[/ch]    [ch]A[/ch]
+og þú segir: Ég saknaði    þín.[/tab]
+[tab]           [ch]E[/ch]    [ch]A[/ch]
+Ég saknaði þín.[/tab]
+[tab]           [ch]E[/ch]    [ch]A[/ch]
+Ég saknaði þín.[/tab]
+[tab]           [ch]E[/ch]    [ch]A[/ch]
+Ég saknaði þín.[/tab]
+[tab]           [ch]E[/ch]    [ch]A[/ch]
+Ég saknaði þín.[/tab]

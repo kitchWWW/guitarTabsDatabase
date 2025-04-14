@@ -1,0 +1,85 @@
+URL: https://tabs.ultimate-guitar.com/tab/ennio-morricone/for-a-few-dollars-more-tabs-935676
+Artist: Ennio Morricone
+Song: For A Few Dollars More
+Genre: 
+Key: Dm
+
+
+FOR A FEW DOLLARS MORE
+                         As recorded by Ennio Morricone
+
+
+Gtr I (E A D G B E) - 'Untitled'
+
+[tab]  4/4
+   Gtr I
+   E H.    Q H.    E H.    Q H.
+e|---------------------------------|
+B|---3-----1-----------------------|
+G|-2---------2-----0-2-----0-------|
+D|---------------------------0-----|
+A|---------------------------------|
+E|---------------------------------|[/tab]
+
+
+[tab]   E Q S S S S E E   E     E Q S S S S E   E E
+e|-----------------|---------------------|--------|
+B|---3-3-5-3-1-3-5-|-6-------3-3-5-3-1-3-|-1------|
+G|-2---------------|-------2-------------|---2----|
+D|-----------------|---------------------|--------|
+A|-----------------|---------------------|--------|
+E|-----------------|---------------------|--------|[/tab]
+
+
+[tab]                                               Fine
+   E Q S S S S E E   E E E E H  E E Q H.   E H W
+e|-----------------|------------------------------||----|
+B|---3-3-5-3-1-3-5-|-6-3-1-0-1-------------------o||----|
+G|-2---------------|------------2-0-0----------2--||----|
+D|-----------------|------------------2----0-0----||----|
+A|-----------------|-----------------------------o||----|
+E|-----------------|------------------------------||----|[/tab]
+
+
+[tab]     E S S S S E E W            E S S S S E E H.      E E Q   E E Q
+e||----------------5-------||---------------5-8-------5-----------5---|
+B||o---3-3-5-3-3-6--------o||-----6-6-8-6-6-------------6-------6-----|
+G||--2---------------------||---5-------------------------7---7-------|
+D||------------------------||-----------------------------------------|
+A||o----------------------o||-----------------------------------------|
+E||------------------------||-----------------------------------------|[/tab]
+
+
+[tab]                                                  D.C. al Fine
+   E E Q   E E W               W               S S W
+e|-1-----------1---------------3---------------1-0-----------------|
+B|---3-------3-------------------------------------3---------------|
+G|-----3---3-------------------------------------------------------|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|[/tab]
+
+
+Duration Legend
+---------------
+W - whole; H - half; Q - quarter; E - 8th; S - 16th; T - 32nd; X - 64th; a - acciaccatura
++ - note tied to previous; . - note dotted; .. - note double dotted
+Uncapitalized letters represent notes that are staccato (1/2 duration)
+Irregular groupings are notated above the duration line
+Duration letters will always appear directly above the note/fret number it represents the
+duration for.  Duration letters with no fret number below them represent rests.  Multi-
+bar rests are notated in the form Wxn, where n is the number of bars to rest for.  Low
+melody durations appear below the staff
+
+
+Misc Legend
+-----------
+ |  - bar
+||  - double bar
+||o - repeat start
+o|| - repeat end
+*|  - double bar (ending)
+ :  - bar (freetime)
+ $  - Segno
+ &  - Coda
+Tempo markers -  = BPM(8/16=s8/s16), where s8 = swing 8ths, s16 = swing 16ths

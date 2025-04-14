@@ -1,0 +1,122 @@
+URL: https://tabs.ultimate-guitar.com/tab/cibo-matto/birthday-cake-bass-1860667
+Artist: Cibo Matto
+Song: Birthday Cake
+Genre: 
+Key: 
+
+
+-------------------------------------------------------------------------------
+                          BIRTHDAY CAKE - CIBO MATTO
+-------------------------------------------------------------------------------
+Tabbed by:lucbuzz 
+E-mail: lucbuzz@gmail.com
+Tuning: E A D G
+
+This song is played with an octave pedal and some fuzz. The bass is played one octave down with the pedal.
+
+
+
+[Intro]
+
+[tab]G|--------------------------------------------|
+D|--------------------------------------------|
+A|-7-6-5--------7-6-5--------7-6-5------------|
+E|-------6--5-4-------6--5-4-------6--5-4-0---|[/tab]
+
+
+[Verse]
+
+[tab]G|-----|
+D|-----|
+A|-----|
+E|--0--| (I'm not kidding. It's actually that easy.)[/tab]
+
+
+[Chorus]
+
+[tab]G|--------------|
+D|--------------|
+A|-7-6-5--------|
+E|-------6--5-4-| x8[/tab]
+
+[Breakdown 1]
+
+("Beat it!, Beat it up!")
+
+[tab]G|------------|
+D|-5-7--5-7---|
+A|------------|
+E|------------|x4[/tab]
+
+[Bridge]
+
+("Extra Sugar!, Extra Salt!, Extra Oil and MSG!")
+
+[tab]G|------------------------------------|
+D|-------5--5---5-7--7-5-7-9--9-8-7-5-|
+A|-7-5-7------7-----------------------|
+E|------------------------------------| x2[/tab]
+
+
+
+[Chorus]
+
+[tab]G|--------------|
+D|--------------|
+A|-7-6-5--------|
+E|-------6--5-4-| x8[/tab]
+
+[Breakdown 2]
+
+*It's a bit hard to hear the bass in this part but when played on Viva Variety 
+it is clear this is what Sean Lennon Plays
+
+("You were born in the 60s")
+
+[tab]G|-------|
+D|-------|
+A|---7-6-|
+E|-0-----| x26[/tab]
+
+[Bridge]
+
+("Extra Sugar!, Extra Salt!, Extra Oil and MSG!")
+
+[tab]G|------------------------------------|
+D|-------5--5---5-7--7-5-7-9--9-8-7-5-|
+A|-7-5-7------7-----------------------|
+E|------------------------------------| x2[/tab]
+
+[Chorus/Outro]
+
+[tab]G|--------------|
+D|--------------|
+A|-7-6-5--------|
+E|-------6--5-4-| x8[/tab]
+
+
+
+************************************
+
+| x   Dead note
+| g   Grace note
+| (n) Ghost note
+| h   Hammer-on
+| p   Pull-off
+| r   Release
+| &gt;   Accented note
+| t   Tapping
+| b   Bend
+| br  Bend release
+| pb  Pre-bend
+| pbr Pre-bend release
+| /   Slide up
+| \   Slide down
+| ~   Vibrato
+| s   Slap
+| P   Pop
+| PM  Palm mute
+| TR  Trill
+| N   Tremolo
+
+************************************

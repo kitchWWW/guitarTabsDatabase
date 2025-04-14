@@ -1,0 +1,69 @@
+{
+    "intro": [
+        "A",
+        "Asus4",
+        "FM7"
+    ],
+    "verse": [
+        "A",
+        "Asus4",
+        "FM7",
+        "A",
+        "Asus4",
+        "FM7",
+        "A",
+        "Asus4",
+        "FM7",
+        "A",
+        "Asus4",
+        "FM7",
+        "A",
+        "Asus4",
+        "FM7",
+        "A",
+        "Asus4",
+        "FM7",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4"
+    ],
+    "pre-chorus": [
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "FM7",
+        "Dsus4"
+    ],
+    "chorus": [
+        "A",
+        "Asus4",
+        "FM7",
+        "Dsus4",
+        "A",
+        "Asus4",
+        "FM7",
+        "Dsus4",
+        "A",
+        "Asus4",
+        "FM7",
+        "Dsus4",
+        "A",
+        "Asus4",
+        "FM7",
+        "Dsus4",
+        "A",
+        "Asus4",
+        "FM7",
+        "Dsus4"
+    ],
+    "outro": [
+        "A",
+        "Asus4"
+    ]
+}

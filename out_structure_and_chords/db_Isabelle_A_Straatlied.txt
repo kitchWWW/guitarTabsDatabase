@@ -1,0 +1,104 @@
+{
+    "intro": [
+        "E",
+        "A",
+        "Asus4",
+        "E",
+        "A",
+        "Asus4",
+        "E",
+        "A",
+        "Asus4",
+        "E",
+        "A",
+        "Asus4"
+    ],
+    "verse-1": [
+        "E",
+        "A",
+        "Asus4",
+        "E",
+        "A",
+        "Asus4",
+        "Bm",
+        "Bm",
+        "A",
+        "Asus4"
+    ],
+    "verse-2": [
+        "E",
+        "A",
+        "Asus4",
+        "E",
+        "A",
+        "Asus4",
+        "Bm",
+        "Bm",
+        "Bm",
+        "A",
+        "Asus4"
+    ],
+    "verse-3": [
+        "E",
+        "A",
+        "Asus4",
+        "E",
+        "A",
+        "Asus4",
+        "Bm",
+        "Bm",
+        "A",
+        "Asus4"
+    ],
+    "chorus-1": [
+        "E",
+        "Bm",
+        "A",
+        "Asus4",
+        "A"
+    ],
+    "chorus-2": [
+        "E",
+        "Bm",
+        "A",
+        "Asus4",
+        "A"
+    ],
+    "chorus-3": [
+        "E",
+        "Bm",
+        "A/C#",
+        "E"
+    ],
+    "chorus-4": [
+        "E",
+        "Bm",
+        "A",
+        "Asus4",
+        "A"
+    ],
+    "chorus-5": [
+        "E",
+        "Bm",
+        "A/C#",
+        "E"
+    ],
+    "bridge": [
+        "A",
+        "A",
+        "Bm",
+        "Bm",
+        "A",
+        "Asus4"
+    ],
+    "outro": [
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "Bm",
+        "Bm",
+        "Bm",
+        "A"
+    ]
+}

@@ -1,0 +1,112 @@
+URL: https://tabs.ultimate-guitar.com/tab/1873083
+Artist: Doktor Kosmos
+Song: Jag Låg Med Henne I Tjeckoslovakien
+Genre: 
+Key: 
+
+
+[Chords]
+G:  320033
+Am: x02210
+Bm: x24432
+C:  x32010
+D:  xx0232
+
+
+[Intro/mellanspel]
+
+[[ch]G[/ch] - [ch]Am[/ch] x2]
+
+[tab]e|----10---12------------------------10---12--------|
+B|-~8----8-----8-10-12-10-8h10p8---8----8----8~10---|
+G|--------------------------------------------------|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|[/tab]
+
+[[ch]G[/ch] - [ch]Am[/ch] - [ch]Bm[/ch] - [ch]C[/ch]]
+
+[tab]e|----10---12------------------10----7-0------|
+B|-~8----8-----8-10-12-10-8-10----------------|
+G|--------------------------------------------|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|[/tab]
+
+[tab][ch]G[/ch]        [ch]Am[/ch]
+Ett möte på något kansli[/tab]
+[tab][ch]G[/ch]           [ch]Am[/ch]
+Med prat om hur allting ska bli[/tab]
+[tab][ch]G[/ch]        [ch]Am[/ch]            [ch]Bm[/ch]        [ch]C[/ch]
+Omgärdat av ett ganska rödkindat hemlighetsmakeri[/tab]
+
+[tab][ch]G[/ch]         [ch]Am[/ch]
+En bok om planekonomi[/tab]
+[tab][ch]G[/ch]          [ch]Am[/ch]
+Som ska ge arbetaren fri[/tab]
+[tab][ch]G[/ch]            [ch]Am[/ch]        [ch]Bm[/ch]          [ch]C[/ch]
+Ett flygblad utdelat i lunchrummet på någon industri[/tab]
+
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Sundsvall och Gävle[/tab]
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Malmö och Umeå[/tab]
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Tjeckoslovakien[/tab]
+
+[tab][ch]G[/ch]          [ch]Am[/ch]
+En text om nån klassteori[/tab]
+[tab][ch]G[/ch]         [ch]Am[/ch]
+Hämtad ur Ches biografi[/tab]
+[tab][ch]G[/ch]       [ch]Am[/ch]                [ch]Bm[/ch]           [ch]C[/ch]
+En film utav Ken Loach om kärlek i ett kommunistparti[/tab]
+
+[tab][ch]G[/ch]           [ch]Am[/ch]
+Ett angrepp på vår monarki[/tab]
+[tab][ch]G[/ch]            [ch]Am[/ch]
+En grundkurs i sociologi[/tab]
+[tab][ch]G[/ch]            [ch]Am[/ch]                 [ch]Bm[/ch]            [ch]C[/ch]
+En tidskrift med Subcommandante Marcos vackra poesi[/tab]
+
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Sundsvall och Gävle[/tab]
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Malmö och Umeå[/tab]
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Tjeckoslovakien[/tab]
+
+[ch]G[/ch] - [ch]Am[/ch] x2
+[ch]G[/ch] - [ch]Am[/ch] - [ch]Bm[/ch] - [ch]C[/ch]
+
+[ch]G[/ch] - [ch]Am[/ch] x2
+[ch]G[/ch] - [ch]Am[/ch] - [ch]Bm[/ch] - [ch]C[/ch]
+
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Sundsvall och Gävle[/tab]
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Malmö och Umeå[/tab]
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Tjeckoslovakien[/tab]
+
+[tab][ch]G[/ch]         [ch]Am[/ch]
+En tes om u-landsslaveri[/tab]
+[tab][ch]G[/ch]          [ch]Am[/ch]
+Ett samtal om börsbarbari[/tab]
+[tab][ch]G[/ch]           [ch]Am[/ch]             [ch]Bm[/ch]               [ch]C[/ch]
+Och svenska proletariatets armod fritt från ironi[/tab]
+
+[tab][ch]G[/ch]            [ch]Am[/ch]
+Ett föredrag om anarki[/tab]
+[tab][ch]G[/ch]         [ch]Am[/ch]
+En ganska fräsig utopi[/tab]
+[tab][ch]G[/ch]         [ch]Am[/ch]          [ch]Bm[/ch]      [ch]C[/ch]               [ch]D[/ch]      [ch]C[/ch]     [ch]Am[/ch]
+En kompis fotobok med bild på Majakovskij och Lili[/tab]
+[tab][ch]C[/ch]          [ch]D[/ch]
+Det kan va vi![/tab]
+
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Sundsvall och Gävle[/tab]
+[tab][ch]D[/ch]                   [ch]C[/ch]
+Jag låg med henne i Malmö och Umeå[/tab]
+[tab][ch]D[/ch]                   [ch]C[/ch]             [ch]G[/ch]
+Jag låg med henne i Tjeckoslovakien[/tab]

@@ -1,0 +1,156 @@
+URL: https://tabs.ultimate-guitar.com/tab/annie-lennox/a-whiter-shade-of-pale-chords-3140579
+Artist: Annie Lennox
+Song: A Whiter Shade Of Pale
+Genre: 
+Key: C
+
+
+Annie Lennox - A Whiter Shade Of Pale
+
+Key  C   BPM 80     You Tube Link: https://www.youtube.com/watch?v=VZqPoriYXho
+
+[ch]Dm7[/ch]    xx0211     [ch]Em/B[/ch]  x22003
+[ch]G/F[/ch]    xx343x     [ch]C/G[/ch]   3x2010
+[ch]G/D[/ch]    xx000x     [ch]G/C[/ch]   x30003
+[ch]F/A[/ch]    x0321x     [ch]Fmaj7[/ch] 103210
+[ch]G/B[/ch]    x2003x
+
+[tab]   [Intro]
+    [ch]C[/ch]   [ch]Em[/ch]   [ch]Am[/ch]          [ch]C[/ch]            [ch]F[/ch]      [ch]Am[/ch]    [ch]Dm[/ch]             [ch]Dm7[/ch]
+e|---------------------------------|----------------------------------
+B|---------------------------------|---------0--1---------------------
+G|---------------------------------|--2-------------------------------
+D|--2--------2--0-----------0--2---|---------------3--2--3---------0--
+A|-----------------3--2--3--------3|----------------------------------
+E|---------------------------------|----------------------------------[/tab]
+
+[tab]    [ch]G[/ch]    [ch]G/F[/ch]   [ch]Em[/ch]        [ch]G/D[/ch]       [ch]C[/ch]          [ch]F[/ch]     [ch]G[/ch]    [ch]F/A[/ch]      [ch]G/B[/ch]
+e|-------------------------------|------------------------------------
+B|--0----1--3--------------------|------------------------------------
+G|-------------0-----0-----------|------------2--2--0-----------------
+D|----------------3------3--2--3-|-3--2--0-------------2--3--2--3--0-0
+A|-------------------------------|----------3-------------------------
+E|-------------------------------|------------------------------------[/tab]
+
+
+   [Verse 1]
+[tab][ch]C[/ch]   [ch]Em[/ch]                  [ch]Am[/ch]      [ch]C[/ch]
+We skipped the light fandango[/tab]
+[tab][ch]F[/ch]      [ch]Am[/ch]                    [ch]Dm[/ch]     [ch]Dm7[/ch]
+Turned cartwheels 'cross the floor[/tab]
+[tab][ch]G[/ch]     [ch]G/F[/ch]           [ch]Em[/ch]      [ch]G/D[/ch]
+I was feeling kinda seasick[/tab]
+[tab][ch]C[/ch]       [ch]Em[/ch]                   [ch]Am[/ch]    [ch]C[/ch]
+But the crowd called out for more[/tab]
+[tab][ch]F[/ch]   [ch]Am[/ch]               [ch]Dm[/ch]     [ch]Dm7[/ch]
+The room was humming harder[/tab]
+[tab][ch]G[/ch]      [ch]G/F[/ch]          [ch]Em[/ch]   [ch]G/D[/ch]
+As the ceiling flew away[/tab]
+[tab][ch]C[/ch]       [ch]Em[/ch]             [ch]Am[/ch]      [ch]C[/ch]
+When we called out for another drink[/tab]
+[tab][ch]F[/ch]      [ch]Am[/ch]             [ch]Dm[/ch]
+The waiter brought a tray[/tab]
+
+
+   [Chorus]
+[tab][ch]G[/ch]         [ch]C[/ch]   [ch]Em[/ch]     [ch]Am[/ch]    [ch]C/G[/ch]
+And so it was that later[/tab]
+[tab][ch]F[/ch]      [ch]Am[/ch]              [ch]Dm[/ch]   [ch]Dm7[/ch]
+As the miller told his tale[/tab]
+[tab][ch]G[/ch]        [ch]G/F[/ch]                 [ch]Em[/ch]      [ch]Em/B[/ch]
+That her face, at first just ghostly[/tab]
+[tab]         [ch]C[/ch]      [ch]F[/ch]        [ch]C[/ch]     [ch]G[/ch]   [ch]G/C[/ch]
+Turned a whiter shade of pale[/tab]
+
+
+[tab]   [Instrumental]
+    [ch]C[/ch]   [ch]Em[/ch]   [ch]Am[/ch]          [ch]C[/ch]             [ch]F[/ch]      [ch]Am[/ch]    [ch]Dm[/ch]             [ch]Dm7[/ch]
+e|---------------------------------|--------------------------------------
+B|---------------------------------|----------0--1------------------------
+G|---------------------------------|---2----------------------------------
+D|--2--------2--0-----------0--2---|----------------3--2--3---------0-----
+A|-----------------3--2--3--------3|--------------------------------------
+E|---------------------------------|--------------------------------------[/tab]
+
+[tab]    [ch]G[/ch]    [ch]G/F[/ch]   [ch]Em[/ch]        [ch]G/D[/ch]       [ch]C[/ch]          [ch]F[/ch]     [ch]G[/ch]    [ch]F/A[/ch]      [ch]G/B[/ch]   [ch]C[/ch]
+e|-------------------------------|----------------------------------------
+B|--0----1--3--------------------|----------------------------------------
+G|-------------0-----0-----------|------------2--2--0---------------------
+D|----------------3------3--2--3-|-3--2--0-------------2--3--2--3--0-0----
+A|-------------------------------|----------3---------------------------3-
+E|-------------------------------|----------------------------------------[/tab]
+
+
+[Verse 2]
+[tab][ch]C[/ch]   [ch]Em[/ch]                [ch]Am[/ch]     [ch]C[/ch]
+She said, there is no reason[/tab]
+[tab][ch]F[/ch]       [ch]Am[/ch]                [ch]Dm[/ch]    [ch]Dm7[/ch]
+And the truth is plain to see[/tab]
+[tab][ch]G[/ch]     [ch]G/F[/ch]                 [ch]Em[/ch]           [ch]G/D[/ch]
+But I wandered through my playing cards[/tab]
+[tab][ch]C[/ch]         [ch]Em[/ch]          [ch]Am[/ch]   [ch]C[/ch]
+And would not let her be[/tab]
+[tab][ch]F[/ch]   [ch]Am[/ch]                [ch]Dm[/ch]     [ch]Dm7[/ch]
+One of sixteen vestal virgins[/tab]
+[tab][ch]G[/ch]        [ch]G/F[/ch]             [ch]Em[/ch]    [ch]G/D[/ch]
+Who were leaving for the coast[/tab]
+[tab][ch]C[/ch]     [ch]Em[/ch]        [ch]Am[/ch]        [ch]C[/ch]
+And although my eyes were open[/tab]
+[tab][ch]F[/ch]          [ch]Am[/ch]                        [ch]Dm[/ch]
+They might have just as well've been closed[/tab]
+
+
+   [Chorus]
+[tab][ch]G[/ch]         [ch]C[/ch]   [ch]Em[/ch]     [ch]Am[/ch]    [ch]C/G[/ch]
+And so it was that later[/tab]
+[tab][ch]F[/ch]      [ch]Am[/ch]              [ch]Dm[/ch]   [ch]Dm7[/ch]
+As the miller told his tale[/tab]
+[tab][ch]G[/ch]        [ch]G/F[/ch]                 [ch]Em[/ch]      [ch]Em/B[/ch]
+That her face, at first just ghostly[/tab]
+[tab]         [ch]C[/ch]      [ch]F[/ch]        [ch]C[/ch]     [ch]G[/ch]  [ch]G/C[/ch]
+Turned a whiter shade of pale[/tab]
+
+
+[tab]   [Instrumental]
+    [ch]C[/ch]   [ch]Em[/ch]   [ch]Am[/ch]          [ch]C[/ch]             [ch]F[/ch]      [ch]Am[/ch]    [ch]Dm[/ch]             [ch]Dm7[/ch]
+e|---------------------------------|--------------------------------------
+B|---------------------------------|----------0--1------------------------
+G|---------------------------------|---2----------------------------------
+D|--2--------2--0-----------0--2---|----------------3--2--3---------0-----
+A|-----------------3--2--3--------3|--------------------------------------
+E|---------------------------------|--------------------------------------[/tab]
+
+[tab]    [ch]G[/ch]    [ch]G/F[/ch]   [ch]Em[/ch]        [ch]G/D[/ch]       [ch]C[/ch]          [ch]F[/ch]     [ch]G[/ch]    [ch]F/A[/ch]      [ch]G/B[/ch]   [ch]C[/ch]
+e|-------------------------------|----------------------------------------
+B|--0----1--3--------------------|----------------------------------------
+G|-------------0-----0-----------|------------2--2--0---------------------
+D|----------------3------3--2--3-|-3--2--0-------------2--3--2--3--0-0----
+A|-------------------------------|----------3---------------------------3-
+E|-------------------------------|----------------------------------------[/tab]
+
+
+   [Chorus]
+[tab][ch]G[/ch]         [ch]C[/ch]   [ch]Em[/ch]     [ch]Am[/ch]    [ch]C/G[/ch]
+And so it was that later[/tab]
+[tab][ch]F[/ch]      [ch]Am[/ch]              [ch]Dm[/ch]   [ch]Dm7[/ch]
+As the miller told his tale[/tab]
+[tab][ch]G[/ch]        [ch]G/F[/ch]                 [ch]Em[/ch]      [ch]Em/B[/ch]
+That her face, at first just ghostly[/tab]
+[tab]         [ch]C[/ch]      [ch]F[/ch]        [ch]C[/ch]     [ch]G[/ch]
+Turned a whiter shade of pale.[/tab]
+
+
+   [Outro]
+[tab]         [ch]C[/ch]      [ch]F[/ch]        [ch]C[/ch]     [ch]G[/ch]
+Turned a whiter shade of pale.[/tab]
+[tab]         [ch]C[/ch]      [ch]F[/ch]        [ch]C[/ch]     [ch]G[/ch]
+Turned a whiter shade of pale.[/tab]
+[tab]         [ch]C[/ch]      [ch]F[/ch]        [ch]C[/ch]     [ch]G[/ch]
+Turned a whiter shade of pale.[/tab]
+
+
+   [Fade Out]
+[ch]C[/ch]    [ch]F[/ch]    [ch]Fmaj7[/ch]   [ch]F[/ch]    [ch]Fmaj7[/ch]
+[ch]C[/ch]    [ch]F[/ch]    [ch]Fmaj7[/ch]   [ch]F[/ch]    [ch]Fmaj7[/ch]
+
+Mark W

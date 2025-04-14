@@ -1,0 +1,128 @@
+URL: https://tabs.ultimate-guitar.com/tab/anuv-jain/mazaak-chords-4351532
+Artist: Anuv Jain
+Song: Mazaak
+Genre: 
+Key: D
+
+
+Single released on September 16, 2022
+Youtube link: https://youtu.be/zx0YGEi32r0
+Spotify link: https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0?si=c2a11414afb94160
+
+Chords (with capo 7):
+
+[ch]Cadd9[/ch]    : x32033
+[ch]G/B[/ch]      : x20033
+[ch]G[/ch]        : 320033
+[ch]Dsus4/F#[/ch] : 2x0033
+[ch]Em7[/ch]      : 020033
+[ch]D/F#[/ch]     : 200232
+
+
+[Intro]
+| [ch]Cadd9[/ch]   [ch]G/B[/ch] | [ch]G[/ch]           | [ch]Cadd9[/ch]   [ch]G/B[/ch] | [ch]Dsus4/F#[/ch]  [ch]G[/ch] |
+| [ch]Cadd9[/ch]   [ch]G/B[/ch] | [ch]G[/ch]           | [ch]Cadd9[/ch]   [ch]G/B[/ch] | [ch]Dsus4/F#[/ch]  [ch]G[/ch] |
+| [ch]Dsus4/F#[/ch]  [ch]G[/ch] | [ch]G[/ch]           |
+
+
+[Verse 1]
+[tab][ch]Cadd9[/ch]                 [ch]G[/ch]    [ch]Dsus4/F#[/ch]
+ Ye bhi mazaak hi toh hai[/tab]
+[tab][ch]Cadd9[/ch]                   [ch]G[/ch]      [ch]Dsus4/F#[/ch]  [ch]G[/ch]   [ch]Dsus4/F#[/ch]
+ Saalon se sadko pe sambhal ke chal rha  tha yu[/tab]
+[tab][ch]Cadd9[/ch]                  [ch]G[/ch]    [ch]Dsus4/F#[/ch]
+ Gaalon ke gaddon me tere[/tab]
+[tab][ch]Cadd9[/ch]               [ch]G[/ch]       [ch]Dsus4/F#[/ch]  [ch]G[/ch]  [ch]Dsus4/F#[/ch]
+ Na jane kyu me ladkhada ke gir     gaya hun[/tab]
+
+
+[Chorus 1]
+[tab]     [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Muskurao[/tab]
+[tab]     [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]Dsus4/F#[/ch]
+Arre aise      hason[/tab]
+[tab][ch]G[/ch]    [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Meri baaton pe[/tab]
+[tab][ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]Dsus4/F#[/ch]
+Girta     rahoon[/tab]
+[tab][ch]G[/ch]    [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Teri raahon me[/tab]
+[tab]   [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]Dsus4/F#[/ch]  [ch]G[/ch]   [ch]Dsus4/F#[/ch]
+Or inme        kho       jaunga[/tab]
+
+
+[Verse 2]
+[tab][ch]Cadd9[/ch]                 [ch]G[/ch]    [ch]Dsus4/F#[/ch]
+ Ye bhi mazaak hi toh hai[/tab]
+[tab][ch]Cadd9[/ch]                [ch]G[/ch]      [ch]Dsus4/F#[/ch]  [ch]G[/ch]    [ch]Dsus4/F#[/ch]
+ Kaise ye raaton ke iraadon me     andhera tha yun[/tab]
+[tab][ch]Cadd9[/ch]                 [ch]G[/ch]    [ch]Dsus4/F#[/ch]
+ Aadhe se chand si hassen[/tab]
+[tab][ch]Cadd9[/ch]                 [ch]G[/ch]    [ch]Dsus4/F#[/ch]  [ch]G[/ch]  [ch]Dsus4/F#[/ch]
+ Aadheri raaton me ab noor ban      gyi kyu[/tab]
+
+
+[Chorus 2]
+[tab]    [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Aye chand[/tab]
+[tab]   [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]Dsus4/F#[/ch]
+Ab chandani    ban[/tab]
+[tab][ch]G[/ch]    [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Ke giro   zara[/tab]
+[tab][ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]Dsus4/F#[/ch]
+Girte     raho[/tab]
+[tab][ch]G[/ch]    [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Mere aas    pass[/tab]
+[tab]   [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]Dsus4/F#[/ch]  [ch]G[/ch]   [ch]Dsus4/F#[/ch]
+To tera     hi ho    jaunga[/tab]
+
+
+[Bridge]
+[tab]       [ch]Em7[/ch]  [ch]Cadd9[/ch]
+Ho jaunga tera[/tab]
+[tab]  [ch]G[/ch]    [ch]D/F#[/ch]
+Ahsaas hai[/tab]
+[tab]             [ch]Em7[/ch]       [ch]Cadd9[/ch]
+Saansein hai jab tak yaha[/tab]
+[tab]   [ch]G[/ch]         [ch]Dsus4/F#[/ch]
+Ho jaun me tera[/tab]
+[tab][ch]Em7[/ch]     [ch]Cadd9[/ch]
+Ye na mera[/tab]
+[tab]  [ch]G[/ch]   [ch]Dsus4/F#[/ch]
+Andaz hai[/tab]
+[tab]         [ch]Em7[/ch]        [ch]Cadd9[/ch]
+Dekho me khud has raha[/tab]
+[tab]     [ch]G[/ch]           [ch]D/F#[/ch]
+Apni baaton pe yaha[/tab]
+
+
+[Chorus 3]
+[tab][ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Aise[/tab]
+[tab][ch]Cadd9[/ch]  [ch]G/B[/ch]   [ch]Dsus4/F#[/ch]
+Tum    bhi hason[/tab]
+[tab][ch]G[/ch]    [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Meri baaton pe[/tab]
+[tab]   [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]Dsus4/F#[/ch]  [ch]G[/ch]
+Na jane      kya         ho[/tab]
+[tab]  [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Raha   mujhe[/tab]
+[tab]     [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]Dsus4/F#[/ch]  [ch]G[/ch]   [ch]Dsus4/F#[/ch]
+Main tera     hi ho        jaunga[/tab]
+[tab]       [ch]Cadd9[/ch]  [ch]G/B[/ch]  [ch]G[/ch]
+Ho jaunga[/tab]
+
+
+[Instrumental]
+| [ch]Cadd9[/ch]   [ch]G/B[/ch] | [ch]Dsus4/F#[/ch]  [ch]G[/ch] | [ch]Cadd9[/ch]   [ch]G/B[/ch] | [ch]G[/ch]           | [ch]Cadd9[/ch]   [ch]G/B[/ch] | [ch]Dsus4/F#[/ch]  [ch]G[/ch] |
+
+
+[Outro]
+[tab][ch]Cadd9[/ch]                 [ch]G[/ch]    [ch]Dsus4/F#[/ch]
+ Ye bhi mazaak hi toh hai[/tab]
+[tab][ch]Cadd9[/ch]               [ch]G[/ch]      [ch]Dsus4/F#[/ch]  [ch]G[/ch]     [ch]Dsus4/F#[/ch]
+ Meri nakal hai ya asar me gir     rahe ho tumbhi[/tab]
+[tab][ch]Cadd9[/ch]           [ch]G[/ch]    [ch]Dsus4/F#[/ch]
+ Hota nahi ab yakeen[/tab]
+[tab][ch]Cadd9[/ch]              [ch]G[/ch]    [ch]Dsus4/F#[/ch]    [ch]G[/ch]
+ Kya ye majak to nahi[/tab]

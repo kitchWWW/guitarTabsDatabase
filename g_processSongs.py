@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 import urllib.error
 from urllib.parse import urlparse
+import sys  # Needed to exit the script
 
 # Adjustable sleep time between requests (in seconds)
 SLEEP_TIME = 0.2
@@ -41,6 +42,10 @@ def extract_filename_from_url(site):
         file_tag = site
     return safe_filename(file_tag)
 
+# Initialize error tracking variables for HTTP errors.
+error_streak = 0
+last_error_code = None
+
 # Open the file containing the list of URLs.
 with open('g_files/songsToDo.txt', 'r') as fd:
     allLines = fd.readlines()
@@ -48,20 +53,20 @@ with open('g_files/songsToDo.txt', 'r') as fd:
     for site in allLines:
         site = site.strip()
         if not site:
-            print("skipping "+site)
+            print("skipping " + site)
             continue
 
-        if("guitar-pro" in site):
-            print("skipping "+site)
-            #they parse different
+        if ("guitar-pro" in site):
+            print("skipping " + site)
+            # they parse different
             continue
-        if("/pro/" in site):
-            print("skipping "+site)
-            #they parse different
+        if ("/pro/" in site):
+            print("skipping " + site)
+            # they parse different
             continue
-        if("-official-" in site):
-            print("skipping "+site)
-            #they parse different
+        if ("-official-" in site):
+            print("skipping " + site)
+            # they parse different
             continue
 
         # Infer the filename early using the URL structure.
@@ -83,16 +88,33 @@ with open('g_files/songsToDo.txt', 'r') as fd:
             'Accept-Language': 'en-US,en;q=0.8',
             'Connection': 'keep-alive'
         }
-        print("requesting "+site)
+        print("requesting " + site)
         req = urllib.request.Request(site, headers=hdr)
         # Fetch the URL.
         try:
             page = urllib.request.urlopen(req)
+            # Reset the error tracking variables on success.
+            error_streak = 0
+            last_error_code = None
         except urllib.error.HTTPError as e:
+            error_code = getattr(e, 'code', None)
+            # Check if this error code is the same as the previous one.
+            if last_error_code is not None and error_code == last_error_code:
+                error_streak += 1
+            else:
+                error_streak = 1
+                last_error_code = error_code
+
             print(f"HTTP error for {site}: {e.read()}")
             time.sleep(2)
-            print("\a")
+            # If the last three consecutive HTTP errors have the same error code:
+            if error_streak >= 3:
+                print("\a" * 10)  # Print 10 beeps
+                sys.exit()  # Exit the program
+            else:
+                print("\a")
             continue
+
         print("got it")
 
         page_content = page.read()

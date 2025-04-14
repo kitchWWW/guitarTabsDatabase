@@ -1,0 +1,109 @@
+URL: https://tabs.ultimate-guitar.com/tab/1565515
+Artist: Mecánica Popular
+Song: Hablar De Tí
+Genre: 
+Key: 
+
+
+ARPEGIOS
+
+[ch]A[/ch]
+
+[tab]e:---9----------------9--------------------|[/tab]
+[tab][ch]B[/ch]:-------------0----------------0----------|
+G:-----------------------------------------|[/tab]
+[tab][ch]D[/ch]:--------7---------------7--------7-------|
+A:---0----------------0--------------------|[/tab]
+[ch]E[/ch]:-----------------------------------------|
+
+
+[tab][ch]Em9[/ch]
+e:---2------------------------2------------|[/tab]
+[tab][ch]B[/ch]:-----------------0-------------------0---|
+G:-------------0------0-------------0----0-|[/tab]
+[tab][ch]D[/ch]:-------2---------------2------2----------|
+A:-----------------------------------------|[/tab]
+[ch]E[/ch]:---0------------------------0------------|
+
+[ch]A*[/ch]
+
+[tab]e:-------------------------------|[/tab]
+[tab][ch]B[/ch]:-------------------------------|
+G:--------2--0------2--0---------|[/tab]
+[tab][ch]D[/ch]:-------------------------------|
+A:---0----------0----------------|[/tab]
+[ch]E[/ch]:-------------------------------|
+
+[tab][ch]D[/ch]
+e:--------------2-------5---------2------0---------2---2|[/tab]
+[tab][ch]B[/ch]:-----------3----3------------3----3------------3--3---|
+G:--------2--------2---------2-------2---------2-----2--|[/tab]
+[tab][ch]D[/ch]:---0--------------------0------------------0----------|
+A:------------------------------------------------------|[/tab]
+[ch]E[/ch]:------------------------------------------------------|
+
+
+[tab][ch]D*[/ch]
+e:--------------2----------------2------0---------2---|[/tab]
+[tab][ch]B[/ch]:-----------3----3------------3----3---------3-----3-|
+G:--------2-----------------2---------------2---------|[/tab]
+[tab][ch]D[/ch]:---0-----------------4---------------2--------------|
+A:----------------------------------------------------|[/tab]
+[ch]E[/ch]:----------------------------------------------------|
+
+
+*RIFF (Acordes durante el RIFF Sol y La)
+lo que esta enre /* */ se repite 2 veces
+
+[tab]e:-----------------------------------------------------------------------|[/tab]
+[tab][ch]B[/ch]:-----------------------------------------------------------------------|
+G:-----------------------------------------------------------------------|[/tab]
+[tab][ch]D[/ch]:---------------0------------------0-----------------------------------5|
+A:-------2---4--------------2---4------0-----/*0-3-4-0-3-4-0-3-4-0*/-----|[/tab]
+[ch]E[/ch]:3---3--------------3---3------------------------------------------3-3--|
+
+
+Intro
+[ch]A[/ch]
+
+Primer Verso TODO con arpegio:
+
+
+[tab][ch]A[/ch]                                                   [ch]Em9[/ch]
+Subiendo el cerro el frío se adueño de mi actitud y mi gesto[/tab]
+[tab][ch]A*[/ch]                                                         [ch]D[/ch]
+cruzando mis brazos contra el pecho en la noche como un niño enfermo[/tab]
+[tab][ch]D*[/ch]                                        [ch]Em[/ch]
+despeinaba el viento tu salud y nos ladraba un perro[/tab]
+[tab]           [ch]A[/ch]
+y todos los barcos con su luz alumbraban[/tab]
+
+
+Coro:
+
+[tab][ch]G5a(SOL)[/ch]     [ch]A5a(LA)[/ch]         [ch]B5a(SIm)[/ch]
+tu pelo Yo sólo quiero que recuerdes eso[/tab]
+[tab]           [ch]G5a(SOL)[/ch]              [ch]A5a(LA)[/ch]            Riff*
+que fui un pasajero alla entre tus sueños que fui un pasajero.[/tab]
+
+
+Segundo Verso Rasgeado:
+
+[tab][ch]A[/ch]                                              [ch]Em[/ch](a veces lo haces 9a)
+Porque hablar de ti es desterrarse a los paisajes que me acuerdo,[/tab]
+[tab][ch]A[/ch]                                          [ch]D[/ch](a veces lo haces 4a,3aM,2aM)
+como intentar hallar la llave de tu voz en los dominios de un secreto,[/tab]
+[tab][ch]D[/ch]                                          [ch]Em[/ch](a veces lo haces 9a)
+me esta dando pena esta canción que sólo era un recuerdo[/tab]
+[tab]   [ch]A[/ch]
+de todas maneras me gustó[/tab]
+
+
+Coro:
+[tab]            [ch]G5a(SOL)[/ch]     [ch]A5a(LA)[/ch]          [ch]B5a(SIm)[/ch]
+Rondar el cementerio Te hablo de eso te hablo de aquello[/tab]
+[tab]           [ch]G5a(SOL)[/ch]              [ch]A5a(LA)[/ch]       RIFF*
+te hablo por eso que fui un pasajero alla entre tus sueños.[/tab]
+
+
+Saludo para toda la gente que escucha este buen grupo

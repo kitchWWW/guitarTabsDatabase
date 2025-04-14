@@ -1,0 +1,41 @@
+URL: https://tabs.ultimate-guitar.com/tab/aqua-timez/sen-no-yoru-wo-koete-tabs-1218572
+Artist: Aqua Timez
+Song: Sen No Yoru Wo Koete
+Genre: 
+Key: 
+
+
+Tuning: Standard (EADGBe)
+Capo on the 1st
+
+
+
+Chord Progressions (Relative to capo):
+
+       (Intro)
+F  G  C  Am  F  E  Am  A
+F  G  Am7  Am  F  G  C
+
+       (Verse)
+F  G  Am7  Am  F  G  C
+F  G  Am7  Am  F  G  G
+
+      (Chorus)
+     F  G  C  Am
+     F  G  C
+     F  G  C  Am
+     F  E  C  A
+
+      (Bridge)
+   F  G  Asus2  E7
+
+
+
+Tab (Relative to capo):
+
+[tab]e|----------------------------------------------------------------|
+B|-----------------------1---------3------------------------------|
+G|-----2-------4-------2---2-----4---4-----2-------4-----5--------|
+D|---3---3---5---5---2---------5---------3---3---5---5---5--------|
+A|-----------------0-------------------------------------3--------|
+E|-1-------3-----------------3---------1-------3------------------|[/tab]

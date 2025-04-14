@@ -1,0 +1,136 @@
+URL: https://tabs.ultimate-guitar.com/tab/slashs-snakepit/just-like-anything-bass-661900
+Artist: Slash's Snakepit
+Song: Just Like Anything
+Genre: 
+Key: 
+
+
+Slashs Snakepit
+Just Like Anything
+Ain't Life Grand
+
+ Played by J.Griparic
+ Tuning : Eb,Ab,Db,Gb
+ Tempo : 95 Bpm 
+
+Intro - Quiet
+
+[tab]|---------------|
+|---------------| x3
+|---------------|
+|33333-xx33x3-xx|
+>SSSSE SSSSSE SS[/tab]
+
+[tab]|--------------------|
+|--------------------| (Threes and fifteens)
+|--------------------|
+|33333-xx3-3/15-1515\|
+>SSSSE SSE S S  E E  [/tab]
+
+[tab]|---------------|
+|---------------| x3
+|---------------|
+|33333-xx33x3-xx|
+>SSSSE SSSSSE SS[/tab]
+
+[tab]|---------------|
+|--------55x5-xx| 
+|---------------|
+|33333-xx-------|
+>SSSSE SSSSSE SS[/tab]
+
+[tab]|---------------|
+|---------------| x3
+|---------------|
+|33333-xx33x3-xx|
+>SSSSE SSSSSE SS[/tab]
+
+[tab]|--------------||
+|--------------||
+|--------1-123\||
+|33333-3-------||
+>SSSSE E E SSQ[/tab]
+
+Heavier Intro/main riff
+
+
+[tab]Verse   Part 1 
+|----------------|
+|----------------| X8
+|-------123-2-123|
+|3-3123----------|
+>E SSSE SSE E SSS  [/tab]
+
+[tab]|--------------|----------|
+|--------------|----------| X2
+|--------------|-----x3-32| 
+|3-3123\-------|----------|
+>E SSSE.____pause____SE SE  [/tab]
+
+[tab]Part 2
+|----------------|
+|----------------| X4
+|--------1112-32-|
+|3-123-33--------| 
+>E SSE SSSSSE SE [/tab]
+
+ Now play four bars of the heavy intro
+then repeat verse part one then three bars
+of part 2, then play this;
+
+[tab]Part 2 Alteration
+|------3h4h5~~~||
+|--------------||
+|--------------||
+|3-123---------||
+>E SSE S S H[/tab]
+
+[tab]Chorus
+|---------------|
+|---------------| x3
+|---------------|
+|33333-xx33x3-xx|
+>SSSSE SSSSSE SS[/tab]
+
+[tab]|--------------------|
+|--------------------| (Threes and fifteens)
+|--------------------|
+|33333-xx3-3/15-1515\|
+>SSSSE SSE S S  E E  [/tab]
+
+[tab]|---------------|
+|---------------| x3
+|---------------|
+|33333-xx33x3-xx|
+>SSSSE SSSSSE SS[/tab]
+ 
+[tab]|---------||
+|---------||
+|3~~------||
+|---------||
+>W[/tab]
+
+[tab]Pre-Verse
+|----------------|
+|----------------| X8
+|-------123-2-123|
+|3-3123----------|
+>E SSSE SSE E SSS  [/tab]
+
+Verse and Chorus
+are the same as before.
+Outro is the main riff
+repeated until the end.
+
+Key
+~ - Slight Vibrato
+X - Muted Note
+H - Hammer On
+P - Pull Off
+/ - Slide Down
+\ - Slide Up
+W - Whole Note-------> These are all Rhythm markings and  
+H - Half Note--------> they dictate how long the note they 
+Q - Quatre Note------> are placed underneath is held for.
+E - Eighth Note------> E.G. A Half note is held for half
+S - Sixteenth Note---> of a bar and so on. Same as PowerTab.

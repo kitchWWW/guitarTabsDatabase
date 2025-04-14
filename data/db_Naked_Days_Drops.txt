@@ -1,0 +1,163 @@
+URL: https://tabs.ultimate-guitar.com/tab/naked-days/drops-chords-3557795
+Artist: Naked Days
+Song: Drops
+Genre: 
+Key: D
+
+
+[tab][Intro]
+   [ch]Dsus2[/ch]       [ch]Dsus2/C#[/ch]          [ch]B7sus4[/ch]      [ch]A5[/ch]
+e|-------------------------------------------------------------|
+B|-------------------------------------------------------------|
+G|----2----2-------2-----2-----2----2----2-------2---2-4p2-----|
+D|----2----2---------2-----2--------2----2-------2---2-----4p2-|
+A|-5-----5---5-4-------4-----4---2-----2---2-0-----0-----------|
+E|-------------------------------------------------------------|[/tab]
+
+[tab][ch]Dsus2[/ch]           [ch]Dsus2/C#[/ch]
+      I must've lost[/tab]
+[tab][ch]B7sus4[/ch]           [ch]A5[/ch]            [ch]Dsus2[/ch]
+       All of my friends yesterday[/tab]
+[tab]         [ch]Dsus2/C#[/ch]
+I danced like shit[/tab]
+[tab]    [ch]B7sus4[/ch]        [ch]A5[/ch]
+And now I'm gonna pay for it tonight[/tab]
+[ch]Dsus2[/ch] [ch]Dsus2/C#[/ch] [ch]B7sus4[/ch] [ch]A5[/ch] [ch]Dsus2[/ch] [ch]Dsus2/C#[/ch] [ch]B7sus4[/ch] [ch]A5[/ch]
+
+[tab]   [ch]D[/ch]           [ch]Bm[/ch]               [ch]G[/ch]               [ch]Asus2[/ch]     [ch]A[/ch] [ch]Asus4[/ch]
+e|---5-3-2--0------------------------------------2-0--------------|
+B|-------------3--0-0--0-0-2-3----0-0--0-0-2-3-------3--2-3-----3-|
+G|----------------------------------------------------------------|
+D|----------------------------------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|[/tab]
+
+[tab]   [ch]D[/ch]          [ch]Bm[/ch]            [ch]G[/ch]            [ch]Asus2[/ch] [ch]A[/ch]         [ch]Asus4[/ch]
+e|-2-2--0--------------------------------------0-2-2-0-2-2--0--|
+B|--------3---3-2-2-2h3----------------------------------------|
+G|-----------------------2-------------------------------------|
+D|--------------------------7-7-7--\2--------------------------|
+A|--------------------------5-5-5--\0--------------------------|
+E|-------------------------------------------------------------|[/tab]
+
+
+[Verse 1]
+[ch]Bm[/ch] [ch]G[/ch] [ch]Bm[/ch] [ch]A[/ch] [ch]Bm[/ch] [ch]G[/ch] [ch]Bm[/ch] [ch]A[/ch]
+
+[tab][ch]Bm[/ch]               [ch]G[/ch]
+   I wrote a theme song[/tab]
+[tab]                [ch]Bm[/ch]
+To a date I overheard[/tab]
+[tab]     [ch]A[/ch]
+In Seattle[/tab]
+[tab][ch]Bm[/ch] [ch]G[/ch] [ch]Bm[/ch] [ch]A[/ch]                    [ch]Bm[/ch]
+          And this is how it goes[/tab]
+
+
+[tab][Chorus 1]
+   [ch]Bm[/ch]       [ch]G[/ch]    [ch]A[/ch]               [ch]Bm[/ch]      [ch]G[/ch]    [ch]A[/ch]                 [ch]Bm[/ch]      [ch]G[/ch]    [ch]A[/ch]           [ch]Bm[/ch]      [ch]G[/ch]    [ch]A[/ch]
+e|--------5-3--2-0---------------------5-3--2-0-----------------------0------------------------5-3--2-0-----------------|
+B|------3-----------3-2--5-5-5-5-----3-----------3-2--3p2p0---------3---3--2-0-------2h3-----3-----------3-2--3p2p0-----|
+G|-2h4---------------------------2h4------------------------2---2h4--------------2h4-----2h4------------------------2---|
+D|----------------------------------------------------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------------------------------|[/tab]
+
+
+[Verse 2]
+[tab][ch]Bm[/ch]
+He's uninteresting[/tab]
+[tab][ch]G[/ch]                                 [ch]Bm[/ch]
+She's carrying most of the conversation[/tab]
+[tab]      [ch]A[/ch]
+Conversation[/tab]
+[tab][ch]Bm[/ch]
+   Now he's talking about his ex[/tab]
+[tab]                   [ch]G[/ch]
+And his shitty old band that didn't quite work out[/tab]
+[tab]                      [ch]Bm[/ch]
+That didn't quite work out[/tab]
+[tab]                                   [ch]A[/ch]
+And she's pretending to be interested[/tab]
+
+
+[Pre Chorus]
+[tab][ch]Bm[/ch]
+   She's pretending to be interested[/tab]
+[tab][ch]G[/ch]
+  She's pretending to be interested[/tab]
+[tab][ch]Bm[/ch]
+   She's pretending to be interested[/tab]
+[tab][ch]A[/ch]
+  She's pretending to be interested[/tab]
+
+[tab][ch]Bm[/ch]
+   She's pretending to be interested[/tab]
+[tab][ch]G[/ch]
+  She's pretending to be interested[/tab]
+[tab][ch]Bm[/ch]
+   She's pretending to be interested[/tab]
+[tab][ch]A[/ch]
+  She's pretending to be interested[/tab]
+
+
+[tab][Chorus 2]
+   [ch]Bm[/ch]       [ch]G[/ch]    [ch]A[/ch]               [ch]Bm[/ch]      [ch]G[/ch]    [ch]A[/ch]                 [ch]Bm[/ch]      [ch]G[/ch]    [ch]A[/ch]           [ch]Bm[/ch]      [ch]G[/ch]    [ch]A[/ch]
+e|--------5-3--2-0---------------------5-3--2-0-----------------------0------------------------5-3--2-0-----------------|
+B|------3-----------3-2--5-5-5-5-----3-----------3-2--3p2p0---------3---3--2-0-------2h3-----3-----------3-2--3p2p0-----|
+G|-2h4---------------------------2h4------------------------2---2h4--------------2h4-----2h4------------------------2---|
+D|----------------------------------------------------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------------------------------|[/tab]
+
+[Bridge 1]
+[tab][ch]D[/ch]
+These are the conversations[/tab]
+[tab][ch]Bm[/ch]
+   I have to live with[/tab]
+[tab][ch]G[/ch]
+   No one cares about your band[/tab]
+[tab][ch]A[/ch]
+Or your thoughts at all[/tab]
+[tab]      [ch]Bm[/ch]    [ch]G[/ch] [ch]Bm[/ch] [ch]A[/ch]
+And I worry[/tab]
+[ch]Bm[/ch] [ch]G[/ch] [ch]Bm[/ch] [ch]A[/ch]
+
+
+[tab][Chorus 3]
+   [ch]Bm[/ch]   [ch]G[/ch]    [ch]A[/ch]    [ch]Bm[/ch]   [ch]G[/ch]   [ch]A[/ch]        [ch]Bm[/ch]   [ch]G[/ch]    [ch]A[/ch]    [ch]Bm[/ch]   [ch]G[/ch]   [ch]A[/ch]  [ch]D[/ch]
+e|-12-12-12-12-12-12-12-12-10-10-10-12-12-10-10-10-9-9-9-9-9-9-10---|
+B|------------------------------------------------------------------|
+G|------------------------------------------------------------------|
+D|------------------------------------------------------------------|
+A|------------------------------------------------------------------|
+E|------------------------------------------------------------------|[/tab]
+
+
+[Bridge 2]
+[tab][ch]D[/ch]
+This is a situation[/tab]
+[tab][ch]Bm[/ch]
+   I am familiar with[/tab]
+[tab][ch]G[/ch]
+  This is not the time or place[/tab]
+[tab][ch]A[/ch]
+For these thoughts at all[/tab]
+[tab]     [ch]D[/ch]
+And I worry[/tab]
+[tab][ch]Bm[/ch]
+   That I am a human who[/tab]
+[tab][ch]G[/ch]
+  Can't hold on to[/tab]
+[tab][ch]A[/ch]
+  Much of anything at all[/tab]
+
+
+[tab][Outro] (Capo on 12)
+   [ch]Dsus2[/ch]       [ch]Dsus2/C#[/ch]          [ch]B7sus4[/ch]      [ch]A5[/ch]
+e|-------------------------------------------------------------|
+B|-------------------------------------------------------------|
+G|----2----2-------2-----2-----2----2----2-------2---2-4p2-----|
+D|----2----2---------2-----2--------2----2-------2---2-----4p2-|
+A|-5-----5---5-4-------4-----4---2-----2---2-0-----0-----------|
+E|-------------------------------------------------------------|[/tab]

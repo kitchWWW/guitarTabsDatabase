@@ -1,0 +1,111 @@
+URL: https://tabs.ultimate-guitar.com/tab/5223123
+Artist: Tata Bojs
+Song: Vlasní Brácha
+Genre: 
+Key: 
+
+
+Recommended chords for chorus:
+G#:     445664
+Emaj7:  444674
+F#6:    224342
+C#sus2: 446644
+
+An easier (but a bit less precise) option is to put a capo on the 4th fret and adjust chords accordingly.
+E.g. chorus would be:
+G#:     001220
+Emaj7:  000230
+F#6:    002000
+C#sus2: 002200
+
+---
+
+
+[Intro]
+[ch]G#5[/ch]
+
+[Verse 1]
+[tab][ch]G#5[/ch]
+   Napadá mě, když se česám[/tab]
+[tab][ch]G#5[/ch]
+   že jsem tady pořád tak sám[/tab]
+[tab][ch]G#5[/ch]
+   Jak to vlastně se mnou vypadá[/tab]
+[tab][ch]G#5[/ch]
+   když pár vlasů mi vypadá[/tab]
+
+[tab][ch]G#[/ch]             [ch]E[/ch]
+   Vlasy nesou mé DNA[/tab]
+[tab][ch]F#[/ch]                 [ch]C#[/ch]
+kód, který mám jen já[/tab]
+[tab][ch]G#[/ch]             [ch]E[/ch]
+   Inženýrství genetické[/tab]
+[tab][ch]F#[/ch]           [ch]C#[/ch]             [ch]G#[/ch]  [ch]E[/ch]  [ch]G#[/ch]  N.C.
+mění všechno co je lidské[/tab]
+
+[Chorus]
+[tab][ch]G#[/ch]           [ch]Emaj7[/ch]         [ch]F#6[/ch]          [ch]C#sus2[/ch]
+   Vemte ten vlas a vyrobte   mi bráchu[/tab]
+[tab][ch]G#[/ch]          [ch]Emaj7[/ch]         [ch]F#6[/ch]           [ch]C#sus2[/ch]
+   Dvojníka do zálohy bez vad a strachů[/tab]
+[tab][ch]G#[/ch]         [ch]Emaj7[/ch]      [ch]F#6[/ch]               [ch]C#sus2[/ch]
+   Bude to můj brácha navlas stejný[/tab]
+[tab][ch]G#[/ch]          [ch]Emaj7[/ch]           [ch]F#6[/ch]         [ch]C#sus2[/ch]
+   Život už nikdy nebude obyčejný[/tab]
+
+[Instrumental]
+[ch]G#[/ch] [ch]Emaj7[/ch] [ch]F#6[/ch] [ch]C#sus2[/ch] x2
+
+[Interlude]
+[ch]G#5[/ch]
+
+[Verse 2]
+[tab][ch]G#5[/ch]
+   Kdyby lidi uměli dělat lidi umělý[/tab]
+[tab][ch]G#5[/ch]
+   měl bych bráchu vlasního[/tab]
+[tab][ch]G#5[/ch]
+   Kdyby lidi uměli dělat lidi umělý[/tab]
+[tab][ch]G#5[/ch]
+   mělo by to spoustu výhod[/tab]
+
+[tab][ch]G#[/ch]           [ch]E[/ch]          [ch]F#[/ch]        [ch]C#[/ch]
+    Nad námi by každý žasl trochu jako Ron[/tab]
+[tab]       [ch]G#[/ch]
+a Russell[/tab]
+[tab]             [ch]E[/ch]           [ch]F#[/ch]          N.C.
+Snad všechno půjde podle plánu a nebude to klon...[/tab]
+[tab][ch]G#[/ch]   [ch]Emaj7[/ch]    [ch]F#6[/ch]    [ch]C#sus2[/ch]   [ch]G#[/ch]   [ch]Emaj7[/ch]   [ch]F#6[/ch]   [ch]C#sus2[/ch]
+           ...v porcelánu[/tab]
+
+[Bridge]
+[tab][ch]G#[/ch]           [ch]Emaj7[/ch]         [ch]F#6[/ch]          [ch]C#sus2[/ch]
+   Vemte ten vlas a vyrobte   mi bráchu[/tab]
+[tab][ch]G#[/ch]          [ch]Emaj7[/ch]         [ch]F#6[/ch]           [ch]C#sus2[/ch]
+   Dvojníka do zálohy bez vad a strachů[/tab]
+[tab][ch]G#[/ch]         [ch]Emaj7[/ch]      [ch]F#6[/ch]               [ch]C#sus2[/ch]
+   Bude to můj brácha navlas stejný     (navlas stejný)[/tab]
+[tab][ch]G#[/ch]          [ch]Emaj7[/ch]           [ch]F#6[/ch]         [ch]C#sus2[/ch]
+   Život už nikdy nebude obyčejný    (nebude obyčejný)[/tab]
+
+[Instrumental]
+[ch]G#[/ch] [ch]Emaj7[/ch] [ch]F#6[/ch] [ch]C#sus2[/ch] x2
+
+[Chorus]
+[tab][ch]G#[/ch]           [ch]Emaj7[/ch]         [ch]F#6[/ch]          [ch]C#sus2[/ch]
+   Vemte ten vlas a vyrobte   mi bráchu[/tab]
+[tab][ch]G#[/ch]          [ch]Emaj7[/ch]         [ch]F#6[/ch]           [ch]C#sus2[/ch]
+   Dvojníka do zálohy bez vad a strachů[/tab]
+[tab][ch]G#[/ch]         [ch]Emaj7[/ch]      [ch]F#6[/ch]               [ch]C#sus2[/ch]
+   Bude to můj brácha navlas stejný     (navlas stejný)[/tab]
+[tab][ch]G#[/ch]          [ch]Emaj7[/ch]           [ch]F#6[/ch]         [ch]C#sus2[/ch]
+   Život už nikdy nebude obyčejný    (nebude obyčejný)[/tab]
+
+[tab][ch]G#[/ch]           [ch]Emaj7[/ch]         [ch]F#6[/ch]          [ch]C#sus2[/ch]
+   Vemte ten vlas a vyrobte   mi bráchu (já budu já, on bude klon)[/tab]
+[tab][ch]G#[/ch]          [ch]Emaj7[/ch]         [ch]F#6[/ch]           [ch]C#sus2[/ch]
+   Dvojníka do zálohy bez vad a strachů (já budu off, on bude on)[/tab]
+[tab][ch]G#[/ch]         [ch]Emaj7[/ch]      [ch]F#6[/ch]               [ch]C#sus2[/ch]
+   Bude to můj brácha navlas stejný     (já budu on, on bude off)[/tab]
+[tab][ch]G#[/ch]          [ch]Emaj7[/ch]           [ch]F#6[/ch]         [ch]C#sus2[/ch]
+   Život už nikdy nebude obyčejný       (já budu off, on bude on)[/tab]

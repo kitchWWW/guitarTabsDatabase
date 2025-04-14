@@ -1,0 +1,5 @@
+{
+    "pre-chorus-1": [],
+    "pre-chorus-2": [],
+    "solo": []
+}

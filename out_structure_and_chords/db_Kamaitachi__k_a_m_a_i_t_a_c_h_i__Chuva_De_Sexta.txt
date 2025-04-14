@@ -1,0 +1,31 @@
+{
+    "verse-1": [
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B"
+    ],
+    "verse-2": [
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B"
+    ],
+    "outro": [
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7"
+    ]
+}

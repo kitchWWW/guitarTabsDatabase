@@ -1,0 +1,118 @@
+URL: https://tabs.ultimate-guitar.com/tab/julien-baker/relative-fiction-chords-3589628
+Artist: Julien Baker
+Song: Relative Fiction
+Genre: 
+Key: 
+
+
+I think this sounds best in Drop D, but if you don't feel like retuning you can just use standard chords.
+[Chords]
+In Drop D:
+A   x02220 or 777xxx
+D   0xx232 or 0577xx
+F#m 444222 or 444xxx
+
+[tab]There are three similar riffs
+Riff #1
+  [ch]A[/ch]                                   [ch]D[/ch]
+e|-----------------|-----------------|-----------------|-----------------|
+B|-----------------|-----------------|-----------------|-----------------|
+G|-----------------|-----------------|-----------------|-----------------|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-0-4---0-------0-|---2---0---------|---4---0-------0-|---2---0---------|
+D|-----------6-----|-----------6-----|-0---------6-----|-----------6-----|[/tab]
+
+[tab]Riff #2
+  [ch]A[/ch]                                   [ch]D[/ch]
+e|-----------------|-----------------|-----------------|-----------------|
+B|-----------------|-----------------|-----------------|-----------------|
+G|-----------------|-----------------|-----------------|-----------------|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-0-4---0-------0-|---4---0---------|---4---0-------0-|---4---0---------|
+D|-----------6-----|-----------6-----|-0---------6-----|-----------6-----|[/tab]
+
+[tab]Riff #3
+  [ch]A[/ch]                                   [ch]D[/ch]
+e|-----------------|-----------------|-----------------|-----------------|
+B|-----------------|-----------------|-----------------|-----------------|
+G|-----------------|-----------------|-----------------|-----------------|
+D|-----------------|-----------------|-----------------|-----------------|
+A|-0-4---0-------0-|---2---0---------|---4---0-------0-|---4---0---------|
+D|-----------6-----|-----------6-----|-0---------6-----|-----------6-----|[/tab]
+
+
+[Intro]
+(Riff #1)
+[ch]A[/ch] [ch]D[/ch] [ch]A[/ch] [ch]D[/ch]
+
+[Verse 1]
+(Riff #2 + variations)
+[tab][ch]A[/ch]
+Midnight, you could see me dangling[/tab]
+[tab][ch]D[/ch]                                      [ch]A[/ch]
+Glow like a cherry falling, now it's a downpour[/tab]
+[tab]                                        [ch]D[/ch]
+You could see me racing the rain to the ground floor[/tab]
+[tab]                                 [ch]A[/ch]
+You're the only thing I'll wait around for[/tab]
+[tab]                                          [ch]D[/ch]
+Maybe when you get off of work, could you meet me?[/tab]
+[tab]                                  [ch]A[/ch]
+We could go barreling down on the main street[/tab]
+[tab]                                               [ch]D[/ch]
+You could try watching while I run through the high-beams[/tab]
+
+(Riff #3)
+[ch]A[/ch] [ch]D[/ch] [ch]A[/ch] [ch]D[/ch]
+
+[Bridge]
+[tab]            [ch]F#m[/ch]           [ch]A[/ch]               [ch]D[/ch]
+'Cause if I didn't have a mean bone in my body[/tab]
+[tab]     [ch]F#m[/ch]                [ch]A[/ch]            [ch]D[/ch]
+I'd find some other way to cause you pain[/tab]
+[tab]   [ch]F#m[/ch]         [ch]A[/ch]               [ch]D[/ch]
+I won't bother telling you I'm sorry[/tab]
+[tab][ch]F#m[/ch]                    [ch]A[/ch]         [ch]D[/ch]
+For something that I'm gonna do again[/tab]
+
+[Verse 2]
+[tab]                       [ch]A[/ch]
+When I could spend the weekend out on a bender[/tab]
+[tab]         [ch]D[/ch]
+Do I get callous or do I stay tender?[/tab]
+[tab]                  [ch]A[/ch]
+Which of these is worse and which is better?[/tab]
+[tab]           [ch]D[/ch]
+Dying to myself, virtually a massacre[/tab]
+
+[tab]  [ch]F#m[/ch]          [ch]A[/ch]          [ch]D[/ch]
+A character of somebody's invention[/tab]
+[tab]  [ch]F#m[/ch]          [ch]A[/ch]            [ch]D[/ch]
+A martyr in another passion play[/tab]
+[tab]  [ch]F#m[/ch]                [ch]A[/ch]            [ch]D[/ch]
+I guess I don't mind losing my conviction[/tab]
+[tab]        [ch]F#m[/ch]          [ch]A[/ch]              [ch]D[/ch]
+If it's all relative fiction anyway[/tab]
+
+[Verse 3]
+[tab]                      [ch]A[/ch]                             [ch]D[/ch]
+'Cause I don't need a savior, I need you to take me home[/tab]
+[tab]                  [ch]A[/ch]                              [ch]D[/ch]
+I don't need your help, I need you to leave me alone[/tab]
+[tab]                  [ch]A[/ch]
+I'm out where the drunks at the bar talk over the band[/tab]
+[tab]  [ch]D[/ch]
+I try to express, I can't understand[/tab]
+[tab]  [ch]A[/ch]
+I beat at the keys, I bloody my hands[/tab]
+[tab]        [ch]D[/ch]
+'Til you hear me[/tab]
+[tab]     [ch]F#m[/ch]             [ch]A[/ch]
+I've got no business praying[/tab]
+[tab]    [ch]D[/ch]
+I'm finished being good[/tab]
+[tab]          [ch]F#m[/ch]        [ch]A[/ch]            [ch]D[/ch]
+Now I can finally be okay and not the way I thought I should[/tab]
+
+(Riff #2)
+[ch]A[/ch] [ch]D[/ch] [ch]A[/ch] [ch]D[/ch]

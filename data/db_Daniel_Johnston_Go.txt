@@ -1,0 +1,96 @@
+URL: https://tabs.ultimate-guitar.com/tab/daniel-johnston/go-chords-3368300
+Artist: Daniel Johnston
+Song: Go
+Genre: 
+Key: Ab
+
+
+[Legend]
+[ch]G[/ch]      : 320033
+[ch]C6[/ch]     : x3x210
+[ch]C[/ch]      : x3x010
+[ch]D[/ch]      : xx0232
+[ch]Em[/ch]     : 022000
+[tab][ch]G5[/ch]     : 3x003x
+Gadd#4 : 3x002x[/tab]
+[ch]G/A[/ch]    : 5x040x
+[ch]Am7[/ch]    : x02010
+[ch]A7[/ch]     : x02020
+
+[Intro]
+[ch]G[/ch]  [ch]C6[/ch] [ch]C[/ch]
+[ch]G[/ch]  [ch]C6[/ch] [ch]C[/ch]
+[ch]D[/ch] [ch]C[/ch] [ch]Em[/ch] [ch]G[/ch]
+
+[Verse 1]
+[tab][ch]G[/ch]                             [ch]C[/ch]
+So you think you've found the one[/tab]
+[tab][ch]G[/ch]                          [ch]C6[/ch] [ch]C[/ch]
+And she knows just how you fe-el[/tab]
+[tab][ch]G[/ch]                          [ch]C[/ch]              [ch]D[/ch]   [ch]C[/ch]  [ch]Em[/ch]  [ch]G[/ch]
+And you say that she's for real and she's fun[/tab]
+[tab][ch]G[/ch]                         [ch]C[/ch]
+Well, that's all well and good[/tab]
+[tab][ch]G[/ch]                      [ch]C6[/ch]     [ch]C[/ch]
+That's just the way it should be[/tab]
+[tab][ch]G[/ch]                         [ch]C[/ch]              [ch]D[/ch]   [ch]C[/ch]  [ch]Em[/ch]  [ch]G[/ch]
+To understand and be understood is to be free[/tab]
+[tab][ch]G[/ch]                          [ch]C[/ch]
+So I think that you should go[/tab]
+[tab][ch]G[/ch]      [ch]C6[/ch] [ch]C[/ch]
+Go on ahead[/tab]
+[tab][ch]G[/ch]                [ch]C[/ch]           [ch]D[/ch]  [ch]C[/ch]  [ch]Em[/ch]  [ch]G[/ch]
+Take her in your arms and be wed[/tab]
+
+[Chorus]
+[tab][ch]G5[/ch]    Gadd#4 [ch]G/A[/ch]     [ch]Em[/ch]                             [ch]D[/ch]
+Go go go go  go  you restless soul, you're going to find it[/tab]
+[tab][ch]G5[/ch]    Gadd#4 [ch]G/A[/ch]    [ch]Em[/ch]                             [ch]D[/ch]        [ch]Am7[/ch]
+Go go go go  go you restless soul, you're going to find it, Yes[/tab]
+
+[Instrumental}
+[ch]G[/ch]  [ch]C6[/ch] [ch]C[/ch]
+[ch]G[/ch]  [ch]C6[/ch] [ch]C[/ch]
+[ch]D[/ch] [ch]C[/ch] [ch]Em[/ch] [ch]G[/ch]
+
+[Verse 2]
+[tab][ch]G[/ch]                 [ch]C[/ch]
+Life's a bowl of cherries[/tab]
+[tab][ch]G[/ch]                               [ch]C6[/ch] [ch]C[/ch]
+You can have as many as you can carry[/tab]
+[tab][ch]G[/ch]                                         [ch]C[/ch]
+And someone once said that life is like a cow[/tab]
+[tab]                 [ch]D[/ch]  [ch]C[/ch]       [ch]Em[/ch]    [ch]G[/ch]
+But I don't know how that applies[/tab]
+[tab][ch]G[/ch]                                  [ch]C[/ch]
+But anyhow here we are all on this planet[/tab]
+[tab][ch]G[/ch]                     [ch]C6[/ch]  [ch]C[/ch]
+Taking everything for granted[/tab]
+[tab][ch]G[/ch]                               [ch]C[/ch]
+But I think you've caught on to something[/tab]
+[tab]          [ch]D[/ch]  [ch]C[/ch] [ch]Em[/ch] [ch]G[/ch]
+Don't let go[/tab]
+
+[Chorus]
+[tab][ch]G5[/ch]    Gadd#4 [ch]G/A[/ch]     [ch]Em[/ch]                             [ch]D[/ch]
+Go go go go  go  you restless soul, you're going to find it[/tab]
+[tab][ch]G5[/ch]    Gadd#4 [ch]G/A[/ch]     [ch]Em[/ch]                             [ch]D[/ch]
+Go go go go  go  you restless soul, you're going to find it[/tab]
+
+[Coda]
+[tab][ch]C6[/ch] [ch]C[/ch]                     [ch]G[/ch]
+   Oh, yes you will, you found it[/tab]
+[tab][ch]C6[/ch] [ch]C[/ch]                    [ch]G[/ch]
+   Oh, yes you did, you found it[/tab]
+[tab][ch]C6[/ch] [ch]C[/ch]                    [ch]G[/ch]
+   Oh, yes you did, you found it[/tab]
+
+{Outro]
+[ch]Em[/ch] [ch]A7[/ch]
+[ch]Em[/ch] [ch]A7[/ch]
+[ch]Em[/ch] [ch]A7[/ch]
+[ch]Em[/ch] [ch]A7[/ch]
+[ch]Em[/ch] [ch]A7[/ch]
+[ch]Em[/ch] [ch]A7[/ch]
+[ch]Em[/ch] [ch]A7[/ch]
+[ch]Em[/ch] [ch]A7[/ch]

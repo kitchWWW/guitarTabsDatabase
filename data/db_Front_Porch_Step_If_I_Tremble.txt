@@ -1,0 +1,30 @@
+URL: https://tabs.ultimate-guitar.com/tab/front-porch-step/if-i-tremble-tabs-1453869
+Artist: Front Porch Step
+Song: If I Tremble
+Genre: 
+Key: 
+
+
+Standard Tuning
+Capo 1st Fret
+My First tab ever. Sounds about right.
+
+
+[tab]Intro/verse
+E|--------------------------|
+B|--------------------------|
+G|--------------------------|
+D|--------------------------|
+A|----------------9(x5)8(x2)|
+E|9(x8)8(x8)6(x9)-----------|x4[/tab]
+
+Chorus
+
+[tab]E|---------------------------------------|
+B|---------------------------------------|
+G|------------------------(11)----(10)---|
+D|(11)---(10)-----8-------9-------8------|
+A|9-------8-------6-------9--(x5)-8--(x2)|
+E|9--(x8)-8--(x8)-6--(x9)----------------|x4[/tab]
+
+Repeat as necessary

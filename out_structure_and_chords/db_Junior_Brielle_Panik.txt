@@ -1,0 +1,32 @@
+{
+    "chorus-1": [
+        "Bm",
+        "E",
+        "Amaj7",
+        "F#m",
+        "Bm",
+        "E",
+        "Amaj7",
+        "F#m"
+    ],
+    "chorus-2": [
+        "Bm",
+        "E",
+        "Amaj7",
+        "F#m",
+        "Bm",
+        "E",
+        "Amaj7",
+        "F#m"
+    ],
+    "verse": [
+        "Bm",
+        "E",
+        "Amaj7",
+        "F#m",
+        "Bm",
+        "E",
+        "Amaj7",
+        "F#m"
+    ]
+}

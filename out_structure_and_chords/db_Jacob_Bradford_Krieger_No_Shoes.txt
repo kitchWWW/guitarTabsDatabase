@@ -1,0 +1,88 @@
+{
+    "intro": [
+        "AM7/E",
+        "AM7sus2/E",
+        "AM7/E",
+        "AM7sus2/E",
+        "AM7/E",
+        "AM7sus2/E",
+        "AM7/E",
+        "AM7sus2/E",
+        "E",
+        "E6",
+        "E",
+        "E6",
+        "E",
+        "E6",
+        "E",
+        "AM7/E",
+        "AM7sus2/E",
+        "AM7/E",
+        "AM7sus2/E",
+        "AM7/E",
+        "AM7sus2/E",
+        "AM7/E",
+        "AM7sus2/E",
+        "E",
+        "E6",
+        "E",
+        "E6",
+        "E",
+        "E6",
+        "E"
+    ],
+    "verse-1": [
+        "AM7/E",
+        "E",
+        "AM7/E",
+        "E",
+        "AM7/E",
+        "E"
+    ],
+    "verse-2": [
+        "AM7/E",
+        "E",
+        "AM7/E",
+        "E",
+        "AM7/E",
+        "E",
+        "AM7/E",
+        "E",
+        "AM7/E",
+        "E"
+    ],
+    "verse-3": [
+        "AM13/E",
+        "E6add4",
+        "E",
+        "AM7/E",
+        "E",
+        "AM7/E",
+        "E"
+    ],
+    "chorus-1": [
+        "C",
+        "Em7#5",
+        "AM7/E"
+    ],
+    "chorus-2": [
+        "C",
+        "Em7#5",
+        "AM7/E",
+        "C",
+        "C7/E",
+        "AM7/E",
+        "E",
+        "AM7/E"
+    ],
+    "chorus-3": [
+        "C",
+        "Em7#5",
+        "AM7/E",
+        "C",
+        "C7/E",
+        "AM7/E",
+        "E",
+        "AM7/E"
+    ]
+}

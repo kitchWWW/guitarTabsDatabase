@@ -1,0 +1,57 @@
+URL: https://tabs.ultimate-guitar.com/tab/fairport-convention/autopsy-ukulele-1284612
+Artist: Fairport Convention
+Song: Autopsy
+Genre: 
+Key: 
+
+
+This song has a very complex rhythm structure: The first part is set into a jazzy 5/4 time signature,
+into 4/4 and then back again into a 5/4 timing. The beautiful Richard-Thompson-solo 
+is set into 4/4 time and then changes into a 6/4 timing, as soon the dulcimer comes in.
+
+
+(5/4)
+[Intro]
+[ch]Dm[/ch]   [ch]Gm[/ch]
+
+[tab]     [ch]Dm[/ch]                       [ch]Gm[/ch]
+You must philosophise,[/tab]
+[tab]      [ch]Bb[/ch]                   [ch]Am[/ch]             [ch]Gm[/ch]
+But why must you bore my to tears?[/tab]
+[tab]            [ch]Dm[/ch]                        [ch]Gm[/ch]
+You´re red around the eyes,[/tab]
+[tab]       [ch]Bb[/ch]                  [ch]Am[/ch]             [ch]Gm[/ch]
+You tell me things no one else hears[/tab]
+[tab]       [ch]Dm[/ch]                          [ch]Gm[/ch]
+You spend all your time crying,[/tab]
+[tab][ch]Bb[/ch]             [ch]Am[/ch]           [ch]Gm[/ch]
+Crying the hours into tears,[/tab]
+[tab][ch]Bb[/ch]              [ch]Am[/ch]          [ch]Gm[/ch]
+Crying the hours into tears[/tab]
+
+[tab][ch]Bb[/ch]  [ch]Cm[/ch]  [ch]F[/ch]
+(do some picking)[/tab]
+
+(4/4)
+[tab]        [ch]Gm[/ch]
+Come lend your time to me,[/tab]
+[tab]                    [ch]Cm[/ch]               [ch]F[/ch]
+And you will know that you are free[/tab]
+[tab]       [ch]Gm[/ch]
+And when you look at me[/tab]
+[tab]                               [ch]Cm[/ch]        [ch]F[/ch]
+Don´t think you´re owning what you see,[/tab]
+[tab]       [ch]Gm[/ch]
+For remember that you´re free,[/tab]
+[tab]                         [ch]Cm[/ch]
+And that´s what you want to be,[/tab]
+[tab]     [ch]Gm[/ch]
+So just lend your time to me[/tab]
+
+[Solo]
+[ch]Bb[/ch]  [ch]Dm[/ch]  [ch]Gm[/ch]  [ch]Dm[/ch]  [ch]Gm[/ch]
+
+[tab](6/4) [ch]Bb[/ch]  [ch]Am[/ch]  [ch]Gm[/ch]   [ch]Bb[/ch]  [ch]Am[/ch]  [ch]Gm[/ch]
+(accompanied by dulcimer)[/tab]
+
+Then play the first part (without the Intro) again, until the first change of timing.

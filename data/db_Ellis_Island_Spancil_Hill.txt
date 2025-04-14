@@ -1,0 +1,94 @@
+URL: https://tabs.ultimate-guitar.com/tab/ellis-island/spancil-hill-chords-4982512
+Artist: Ellis Island
+Song: Spancil Hill
+Genre: 
+Key: 
+
+
+[tab]   [ch]Am[/ch]
+e|-------0-0-0------0-0-0-0-0---------------------------------------0-0--|
+B|--1----1-1-1-0----0-0-0-0-1---------------------------------------0-1--|
+G|--2----2-2-2-2----2-2-2-2-2---------------------------------------0-2--|
+D|--2----2-2-2-2----2-2-2-2-2---------------------------------------0-2--|
+A|--0----------0----------------------------------------------------0-0--|
+E|------------------------------------------------------------------0-0--|[/tab]
+
+    Am        A(add11)          G         G(add11)       G(add9)  &lt;- u can use this instead if its easier :)
+e|  0  |      e|  0  |      e|  3  |      e|  3  |      e|  3  |
+B|  1  |      B|  0  |      B|  0  |      B|  1  |      B|  3  |
+G|  2  |      G|  2  |      G|  0  |      G|  0  |      G|  0  |
+D|  2  |      D|  2  |      D|  0  |      D|  0  |      D|  0  |
+A|  x  |      A|  x  |      A|  2  |      A|  2  |      A|  2  |
+E|  x  |      E|  x  |      E|  3  |      E|  3  |      E|  3  |
+
+Am and G will alternate between having the first fret pressed down on the B string, and having the B string
+be open- A(add11) and G(add11). I put "*" where I'd reccommend starting to alternate that string just to give
+you an idea, but he really does it throughout most of the song, so try stuff out and do what sounds good!
+
+Also! For me at least, it feels a bit odd keeping my index finger on the first fret of B when switching from
+Am to G to prep for G(add11), so I also included an easier version, G(add9) that captures the same effect.
+
+I started tabbing it out the actual strumming as well but I got lazy :/
+Play around with strumming once with all the strings open fast before going back to Am c:
+
+[Verse 1]
+
+[tab][ch]Am[/ch]                  [ch]G[/ch]       *                       [ch]Am[/ch] *
+Last night as I lay dreaming, of pleasant days gone by,[/tab]
+[tab]                                   [ch]C[/ch]             [ch]G[/ch]      [ch]Em7[/ch]
+Me mind being bent on rambling, to Ireland I did fly,[/tab]
+[tab]  [ch]Am[/ch]      *                    [ch]C[/ch]               [ch]G[/ch]
+I stepped aboard a vision, and followed with a will,[/tab]
+[tab]      [ch]Am[/ch]              [ch]G[/ch]     *                          [ch]Am[/ch] *
+Till next, I came to anchor at, the cross near Spancil Hill.[/tab]
+
+[Verse 2]
+
+[tab][ch]Am[/ch]               [ch]G[/ch]                           [ch]Am[/ch]
+Delghted, by the novelty, enchanted with the scene,[/tab]
+[tab]                                  [ch]C[/ch]           [ch]G[/ch]       [ch]Em7[/ch]
+Where in, my early boyhood, where often I had been[/tab]
+[tab]  [ch]Am[/ch]                              [ch]C[/ch]               [ch]G[/ch]
+I thought I heard a murmur, and I think I hear it still,[/tab]
+[tab]       [ch]Am[/ch]                [ch]G[/ch]                              [ch]Am[/ch]
+It's a little, stream of water, that flows down Spancil Hill.[/tab]
+
+[tab]                     [ch]G[/ch]                                  [ch]Am[/ch]
+It was on the twenty-fourth of June, the day before the fair,[/tab]
+[tab]                                       [ch]C[/ch]                 [ch]G[/ch]
+When Irelands' sons and daughters, and freinds assembled there,[/tab]
+[tab]    [ch]Am[/ch]                                                    [ch]C[/ch]          [ch]G[/ch]      [ch]Em7[/ch]
+The young and the old, the brave and the bold, made their duty to fulfill,[/tab]
+[tab]       [ch]Am[/ch]                  [ch]G[/ch]                            [ch]Am[/ch]
+At the parish, church near Clooney, a mile from Spancil Hill.[/tab]
+
+[Verse 3]
+
+[tab]  [ch]Am[/ch]            [ch]G[/ch]                          [ch]Am[/ch]
+I paid a flying visit to my first and only love,[/tab]
+[tab]                                 [ch]C[/ch]           [ch]G[/ch]
+She's as fair as any lily and as gentle as a dove,[/tab]
+[tab]    [ch]Am[/ch]                               [ch]C[/ch]                 [ch]G[/ch]
+She threw her arms around me, crying Johnny I love you still,[/tab]
+[tab]                   [ch]G[/ch]                              [ch]Am[/ch]
+She was a farmer's daughter, the pride of Spancil Hill.[/tab]
+
+[Verse 4]
+
+[tab]  [ch]Am[/ch]                  [ch]G[/ch]                             [ch]Am[/ch]
+I dreamt I hugged and kissed her, as in the days of yore,[/tab]
+[tab]                                       [ch]C[/ch]               [ch]G[/ch]    [ch]Em7[/ch]
+She said Johnny you're only joking, as many the time before,[/tab]
+[tab]    [ch]Am[/ch]                        [ch]C[/ch]                  [ch]G[/ch]
+The cock crew the morning, he crew both loud and shrill,[/tab]
+[tab]      [ch]Am[/ch]          [ch]G[/ch]                               [ch]Am[/ch]
+And I woke in California, many miles from Spancil Hill.[/tab]
+
+[tab][ch]Am[/ch]                  [ch]G[/ch]                               [ch]Am[/ch]
+Last night as I lay dreaming, of pleasant days gone by,[/tab]
+[tab]                                   [ch]C[/ch]             [ch]G[/ch]
+Me mind being bent on rambling, to Ireland I did fly,[/tab]
+[tab]  [ch]Am[/ch]                           [ch]C[/ch]               [ch]G[/ch]
+I stepped aboard a vision, and followed with a will,[/tab]
+[tab]     [ch]Am[/ch]              [ch]G[/ch]                                 [ch]Am[/ch]
+Till next, I came to anchor at, the cross near Spancil Hill.[/tab]

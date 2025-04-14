@@ -1,0 +1,80 @@
+{
+    "intro": [
+        "Gmaj7",
+        "Gmaj7",
+        "C",
+        "C",
+        "Gmaj7",
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C"
+    ],
+    "chorus-1": [
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C"
+    ],
+    "chorus-2": [
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C"
+    ],
+    "solo": [
+        "Gmaj7",
+        "Gmaj7",
+        "C",
+        "C",
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C"
+    ],
+    "bridge": [
+        "D",
+        "Em",
+        "C",
+        "D",
+        "Em",
+        "C",
+        "D",
+        "Em",
+        "C",
+        "C",
+        "Bm",
+        "Am",
+        "G",
+        "Eb",
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C",
+        "Gmaj7",
+        "C"
+    ],
+    "outro": [
+        "Gmaj7",
+        "Gmaj7",
+        "C",
+        "C",
+        "Gmaj7"
+    ]
+}

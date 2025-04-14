@@ -1,0 +1,75 @@
+URL: https://tabs.ultimate-guitar.com/tab/2978927
+Artist: O-Pavee
+Song: พยายาม
+Genre: 
+Key: 
+
+
+[Intro]
+
+ [ch]Amaj7[/ch] / [ch]C#m7[/ch] / [ch]B#m7[/ch]
+
+[Verse 1]
+
+[tab]       [ch]Amaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch]         [ch]Amaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch]
+เตรียมดอกไม้         ที่สวยที่สุด    ที่คิดว่าจะหาได้[/tab]
+[tab]       [ch]Amaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch]               [ch]Amaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch]
+เตรียมขนม         ที่เธอชอบ    เสาะหามาจากทุกๆแห่งหน[/tab]
+[tab]       [ch]Amaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch]                [ch]Amaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch]
+เตรียมคำร้อง         ท่วงทำนอง   อยากจะร้องงให้เธอฟัง[/tab]
+[tab]       [ch]Amaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch]              [ch]Amaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch]
+แหวนวงนั้น         ที่เธอใฝ่ฝัน    ฉันจะหามาให้เธอ[/tab]
+
+[Pre-Chorus]
+
+[tab] [ch]Bm7[/ch]    [ch]C#m7[/ch]           [ch]Bm7[/ch]  [ch]C#m7[/ch]     [ch]Bm7[/ch]
+*ไม่เคย จะทำอะไรแบบนี้มาก่อน เพราะไม่เคยรู้สึกแบบนี้มาก่อน[/tab]
+[tab]      [ch]C#m7[/ch]     [ch]Fmaj7[/ch]    [ch]E7[/ch]
+แต่เพราะเธอ แต่เพราะเธอ ฉันจึงยอม[/tab]
+
+[Chorus]
+
+[tab]             [ch]A[/ch]         [ch]C#m7[/ch]       [ch]F#m7[/ch]
+**เธอกลับบอกว่า อย่าพยายาม  อย่าพยายามอีกเลย[/tab]
+[tab] [ch]Em7[/ch] [ch]A7[/ch]  [ch]Dmaj7[/ch] [ch]C#m7[/ch] [ch]Bm7[/ch] [ch]E[/ch]
+ให้ฉันโยนทิ้งทุกอย่าง  พอสักทีได้ไหม[/tab]
+
+[Bridge]
+
+[tab]             [ch]Amaj7[/ch]         [ch]G#m7[/ch] [ch]C#7[/ch]    [ch]F#m7[/ch] [ch]Fm7[/ch]
+***(เธอกลับบอกว่า)อย่าพยายาม  แม้ฉันจะ   พยายามเท่าไหร่[/tab]
+[tab]   [ch]Em7[/ch] [ch]A7[/ch]  [ch]Dmaj7[/ch]  [ch]C#m7[/ch]      [ch]Bm7[/ch]         [ch]E7[/ch]
+ทุกอย่างนั้นคือความฝัน ที่ฉันฝันไป แต่สุดท้ายเธอมองไม่เห็น ฉันเลย[/tab]
+
+[Instrumental]
+
+[tab] [ch]Amaj7[/ch]  [ch]C#m7[/ch]  [ch]Bm7[/ch]
+(* / ** / ***)[/tab]
+
+[tab][ch]Bm7[/ch]      [ch]C#m7[/ch]       [ch]Dmaj7[/ch]     [ch]E[/ch]
+ ฉันคงต้องเข้าใจว่าที่ผ่านมา ทุกอย่างที่ฉันทำก็แค่ความฝัน[/tab]
+[tab][ch]Bm7[/ch]         [ch]C#m7[/ch]    [ch]Dmaj7[/ch]  [ch]E[/ch]
+ฉันแค่คิดไปเอง  ฉันแค่คิดไปเอง  เท่านั้น[/tab]
+
+ [Solo] 
+
+[ch]F#m7[/ch] / [ch]C#m7[/ch] [ch]Bm7[/ch] / [ch]E[/ch] / [ch]F#m7[/ch] / [ch]C#m7[/ch] [ch]Bm[/ch] / [ch]E7[/ch]
+
+
+[Pre-Chorus]
+
+[tab]            [ch]F#[/ch]        [ch]Bbm7[/ch]    [ch]Ebm7[/ch]
+เธอกลับบอกว่า อย่าพยายาม  อย่าพยายามอีกเลย[/tab]
+[tab][ch]C#m7[/ch] [ch]F#7[/ch] [ch]Bmaj7[/ch] [ch]Bbm7[/ch] [ch]G#m7[/ch] [ch]C#7[/ch]
+ให้ฉันโยนทิ้งทุกอย่าง     พอสักทีได้ไหม[/tab]
+
+[Chorus]
+
+[tab]               [ch]F#7[/ch]         [ch]Fm7b5[/ch]   [ch]Bb7[/ch]    [ch]Ebm7[/ch] [ch]Dm7[/ch]
+***(เธอกลับบอกว่า)อย่าพยายาม  แม้ฉันจะ พยายามเท่าไหร่[/tab]
+[tab]   [ch]C#m7[/ch] [ch]F#7[/ch]  [ch]Bmaj7[/ch]  [ch]Bbm7[/ch]      [ch]G#m7[/ch]     [ch]C#7[/ch]
+ทุกอย่างนั้นคือความฝัน ที่ฉันฝันไป แต่สุดท้ายเธอมองไม่เห็นฉันเลย[/tab]
+
+[Outro]
+
+ [ch]Amaj7[/ch] / [ch]C#m7[/ch] / [ch]B#m7[/ch]

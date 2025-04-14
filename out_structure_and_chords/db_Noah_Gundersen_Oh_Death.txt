@@ -1,0 +1,40 @@
+{
+    "intro": [
+        "Am",
+        "G",
+        "Am",
+        "G"
+    ],
+    "verse": [
+        "Am",
+        "G",
+        "Am",
+        "G",
+        "F",
+        "G",
+        "Am",
+        "G",
+        "F"
+    ],
+    "instrumental": [
+        "Am",
+        "G",
+        "Am",
+        "G"
+    ],
+    "chorus": [
+        "Am",
+        "G"
+    ],
+    "bridge": [
+        "Am",
+        "G"
+    ],
+    "outro": [
+        "F",
+        "G",
+        "Am",
+        "G",
+        "F"
+    ]
+}

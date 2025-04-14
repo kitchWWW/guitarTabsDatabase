@@ -1,0 +1,77 @@
+{
+    "verse-1": [
+        "Emaj",
+        "F#m9",
+        "Amaj9",
+        "Emaj",
+        "F#m9",
+        "Amaj9",
+        "Emaj9",
+        "F#m9",
+        "Amaj9",
+        "Emaj",
+        "F#m9",
+        "Amaj9"
+    ],
+    "verse-2": [
+        "Emaj",
+        "F#m9",
+        "Amaj9",
+        "Emaj",
+        "F#m9",
+        "Amaj9",
+        "Emaj9",
+        "F#m9",
+        "Amaj9",
+        "Emaj",
+        "F#m9",
+        "Amaj9",
+        "Emaj",
+        "F#m9",
+        "Amaj9",
+        "Emaj",
+        "F#m9",
+        "Amaj9"
+    ],
+    "pre-chorus": [
+        "Emaj",
+        "F#m9",
+        "Bmaj",
+        "Amaj9",
+        "Emaj",
+        "F#m9",
+        "Bmaj",
+        "Amaj9"
+    ],
+    "chorus": [
+        "Emaj",
+        "F#m9",
+        "Bmaj",
+        "Amaj9",
+        "Emaj",
+        "F#m9",
+        "Bmaj",
+        "Amaj9"
+    ],
+    "bridge": [
+        "Emaj",
+        "F#m9",
+        "Emaj",
+        "F#m9",
+        "Emaj",
+        "F#m9",
+        "Emaj",
+        "F#m9",
+        "Emaj",
+        "F#m9",
+        "Emaj",
+        "F#m9",
+        "Emaj",
+        "F#m9",
+        "Emaj",
+        "F#m9"
+    ],
+    "outro": [
+        "F#m9"
+    ]
+}

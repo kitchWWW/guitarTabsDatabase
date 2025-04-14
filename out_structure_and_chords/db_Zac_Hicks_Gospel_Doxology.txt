@@ -1,0 +1,58 @@
+{
+    "intro": [
+        "Dm7",
+        "C/D",
+        "Dm7",
+        "C/D"
+    ],
+    "verse-1": [
+        "Dm7",
+        "C/D",
+        "Bbmaj7/D",
+        "Dm7",
+        "Bbsus2",
+        "Csus",
+        "C",
+        "Dm7",
+        "Bbsus2",
+        "Gm7",
+        "Dm7",
+        "Bb2",
+        "Ebmaj9"
+    ],
+    "verse-2": [
+        "G",
+        "Csus",
+        "Dsus",
+        "D",
+        "Em7",
+        "Em7/D",
+        "Csus2",
+        "Dsus",
+        "G"
+    ],
+    "verse-3": [
+        "Esus",
+        "A",
+        "E/A",
+        "A",
+        "A/C#",
+        "D",
+        "A",
+        "Esus",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A",
+        "A",
+        "D",
+        "Esus",
+        "A"
+    ],
+    "outro": [
+        "Bm7",
+        "Esus",
+        "A"
+    ]
+}

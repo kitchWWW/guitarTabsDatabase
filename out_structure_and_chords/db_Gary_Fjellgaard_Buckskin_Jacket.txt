@@ -1,0 +1,113 @@
+{
+    "intro": [
+        "F",
+        "Bb",
+        "F",
+        "Bb"
+    ],
+    "verse-1": [
+        "Bb",
+        "F",
+        "F",
+        "Bb",
+        "Bb",
+        "F",
+        "F",
+        "Bb",
+        "B"
+    ],
+    "verse-2": [
+        "Bb",
+        "F",
+        "F",
+        "Bb",
+        "Bb",
+        "F",
+        "F",
+        "Bb",
+        "B"
+    ],
+    "verse-3": [
+        "Bb",
+        "F",
+        "F",
+        "Bb",
+        "Bb",
+        "F",
+        "F",
+        "Bb",
+        "B"
+    ],
+    "chorus-1": [
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+    ],
+    "chorus-2": [
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+    ],
+    "chorus-3": [
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+    ],
+    "instrumental-1": [
+        "F",
+        "Bb",
+        "F",
+        "Bb"
+    ],
+    "instrumental-2": [
+        "F",
+        "Bb",
+        "F",
+        "Bb"
+    ],
+    "instrumental-3": [
+        "F",
+        "Bb",
+        "F",
+        "Bb"
+    ]
+}

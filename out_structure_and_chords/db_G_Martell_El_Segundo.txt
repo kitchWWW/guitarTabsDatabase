@@ -1,0 +1,42 @@
+{
+    "intro": [
+        "BbMaj7",
+        "Am7",
+        "Dm7",
+        "Dm7",
+        "Gm7",
+        "Gm7",
+        "Am7",
+        "Am7"
+    ],
+    "chorus-1": [
+        "BbMaj7",
+        "Am7",
+        "Dm7",
+        "Dm7",
+        "Gm7",
+        "Gm7",
+        "Am7",
+        "Am7"
+    ],
+    "chorus-2": [
+        "BbMaj7",
+        "Am7",
+        "Dm7",
+        "Dm7"
+    ],
+    "solo": [
+        "BbMaj7",
+        "Am7",
+        "Dm7",
+        "Dm7",
+        "Dm7",
+        "Am7",
+        "BbMaj7",
+        "BbMaj7",
+        "BbMaj7",
+        "Am7",
+        "Dm7",
+        "Dm7"
+    ]
+}

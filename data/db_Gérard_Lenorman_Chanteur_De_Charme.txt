@@ -1,0 +1,90 @@
+URL: https://tabs.ultimate-guitar.com/tab/3740858
+Artist: Gérard Lenorman
+Song: Chanteur De Charme
+Genre: 
+Key: D
+
+
+[Intro]
+| [ch]D[/ch] | [ch]G[/ch] | [ch]F#m[/ch] | [ch]Em7[/ch] [ch]A[/ch] |
+
+[Verse 1]
+[tab][ch]D[/ch]
+  Besoin d'entendre des chansons tendres, comme des romances d'écolier[/tab]
+[tab]             [ch]Bm[/ch]               [ch]Em7[/ch]
+Des mots qui dansent sur du papier[/tab]
+[tab]                                                  [ch]A[/ch]
+Besoin de croire toutes ces histoires, tous ces refrains de trois fois rien[/tab]
+[tab]                            [ch]D[/ch]
+Qui riment mal, qui font du bien[/tab]
+
+[Verse 2]
+[tab][ch]Gmaj7[/ch] [ch]G[/ch]                                           [ch]Em[/ch]
+Rie - ien n'a jamais empêché qu'on les mette en musique[/tab]
+[tab][ch]A[/ch]                                      [ch]Dmaj7[/ch]
+ Ces sentiments legers, rabâchés, romantiques[/tab]
+[tab][ch]Gmaj7[/ch]                                      [ch]F#m7[/ch]
+ Comme des cartes postales, des clichés nostalgiques[/tab]
+[tab][ch]Em7[/ch]                                         [ch]A[/ch]
+ Ces parfums qui reviennent avec des mots magiques[/tab]
+
+[Chorus]
+[tab]            [ch]D[/ch]                                      [ch]C#m7[/ch]
+Chanteur de charme, c'est beau, c'est grand, c'est merveilleux[/tab]
+[tab][ch]F#7[/ch]       [ch]Bm[/ch]
+ Chanteur de charme[/tab]
+[tab][ch]Em7[/ch]            [ch]G[/ch]           [ch]A[/ch]
+  Qui fait s'aimer les amoureux[/tab]
+[tab]          [ch]D[/ch]              [ch]C#m7[/ch]           [ch]F#7[/ch]
+Dans le vacarme de nos cités je rêve un peu[/tab]
+[tab]            [ch]Bm[/ch]
+Chanteur de charme[/tab]
+[tab][ch]Em7[/ch]          [ch]A[/ch]       [ch]D[/ch]
+ Chanteur de cha-a-arme..[/tab]
+
+[Break]
+| [ch]G[/ch] | [ch]F#m[/ch] | [ch]Em7[/ch] [ch]A[/ch] |
+
+[Verse 3]
+[tab][ch]D[/ch]
+  Chemin d'automne, cœurs qui frissonnent, passions d'été, couleurs du temps[/tab]
+[tab]           [ch]Bm[/ch]                [ch]Em7[/ch]
+Soleil d'hiver, pluie de printemps[/tab]
+[tab]                                                         [ch]A[/ch]
+L'histoire des hommes, de tous les hommes, les rois, les fous, les conquérants[/tab]
+[tab]                                [ch]D[/ch]
+Cherchaient la belle au bois dormant[/tab]
+
+[Verse 4]
+[tab][ch]Gmaj7[/ch]  [ch]G[/ch]                                                [ch]Em7[/ch]
+Tiens, y'a du nouveau dans l'air, quelque part, quelque chose[/tab]
+[tab][ch]A[/ch]                                        [ch]Dmaj7[/ch]
+ Des pianos limonaires qui jouent la vie en rose[/tab]
+[tab][ch]Gmaj7[/ch]                                              [ch]F#m[/ch]    [ch]F#m7[/ch]
+ Des p'tits mots clair de lune, qui se baladent en rose[/tab]
+[tab][ch]Em7[/ch]                                      [ch]A[/ch]
+ Et mon cœur à la une qui bêt'ment se propose[/tab]
+
+[Chorus]
+[tab]            [ch]D[/ch]                                [ch]C#m7[/ch]
+Chanteur de charme, c'est beau, c'est grand, c'est merveilleux[/tab]
+[tab][ch]F#[/ch]           [ch]Bm[/ch]
+ Chanteur de charme[/tab]
+[tab][ch]Em7[/ch]            [ch]G[/ch]           [ch]A[/ch]
+  Qui fait pleurer les amoureux[/tab]
+[tab]          [ch]D[/ch]              [ch]C#m7[/ch]           [ch]F#7[/ch]
+Dans le vacarme de nos cités je fais un vœu[/tab]
+[tab]            [ch]Bm[/ch]
+Chanteur de charme,[/tab]
+[tab][ch]Em7[/ch]           [ch]A[/ch]       [ch]D[/ch]
+  Chanteur de cha-a-arme..[/tab]
+
+[Break]
+| [ch]C/G[/ch] [ch]C[/ch] | [ch]F[/ch] | [ch]F[/ch] | [ch]Em7[/ch] |
+
+[Coda]
+[tab]A7…           [ch]Dm[/ch]     [ch]Gm7[/ch]          [ch]C[/ch]   [ch]C7[/ch] [ch]F[/ch]
+  Chanteur de charme, chanteur de cha-ar-me[/tab]
+
+[Outro]
+| [ch]C#[/ch] | [ch]A#m[/ch] | [ch]C#[/ch] [ch]D#[/ch] | [ch]F[/ch] |

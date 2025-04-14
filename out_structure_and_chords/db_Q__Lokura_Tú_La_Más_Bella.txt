@@ -1,0 +1,57 @@
+{
+    "intro": [
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D",
+        "Gm"
+    ],
+    "verse-1": [
+        "Cm",
+        "F",
+        "Bb",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Gm"
+    ],
+    "verse-2": [
+        "Cm",
+        "F",
+        "Bb",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Gm",
+        "Cm",
+        "F",
+        "Bb",
+        "Gm"
+    ],
+    "instrumental": [
+        "Cm",
+        "F",
+        "Bb",
+        "Eb",
+        "Cm",
+        "D",
+        "Gm"
+    ]
+}

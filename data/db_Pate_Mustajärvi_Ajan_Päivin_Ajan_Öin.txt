@@ -1,0 +1,45 @@
+URL: https://tabs.ultimate-guitar.com/tab/1519102
+Artist: Pate Mustajärvi
+Song: Ajan Päivin Ajan Öin
+Genre: 
+Key: 
+
+
+[Intro]
+[ch]Am[/ch]  [ch]F[/ch]  [ch]Dm[/ch]  [ch]E[/ch]  [ch]F[/ch]  [ch]C[/ch]  [ch]Dm[/ch]  [ch]E[/ch] 
+[ch]Am[/ch]  [ch]F[/ch]  [ch]Dm[/ch]  [ch]E[/ch]  [ch]F[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]Am[/ch]
+
+[Verse]
+[tab][ch]Am[/ch]                     [ch]Dm[/ch]         [ch]Am[/ch]        [ch]E[/ch]     [ch]Dm[/ch]          [ch]G7[/ch]       [ch]C[/ch]         | [ch]C[/ch]
+Kassal- la sen kahvi- on   aina pitkä jono on   ja kiltisti me ootel- laan.[/tab]
+[tab]       [ch]E7[/ch]          [ch]E7[/ch]               [ch]Am[/ch]         [ch]Dm[/ch]
+Meistä kukin vuorol- laan hertai- simman hymyn saa[/tab]
+[tab]        [ch]Am[/ch]         [ch]E7[/ch]            [ch]Am[/ch]      [ch]Am[/ch]
+ja se taipaleella auttaa jaksa-maan.[/tab]
+[tab]  [ch]Am[/ch]               [ch]Dm[/ch]         [ch]Am[/ch]            [ch]E[/ch]          [ch]Dm[/ch]          [ch]G7[/ch]      [ch]C[/ch]     | [ch]C[/ch]
+Kahvi- a ja sämpy-lää,   niistä hyvä mieli jää,   kun tyylikkäästi tarjoil- laan.[/tab]
+[tab]         [ch]E[/ch]         [ch]E7[/ch]           [ch]Am[/ch]         [ch]Dm[/ch]
+Hilpe- yttä haihtu- maan ei saa koiranilma-kaan,[/tab]
+[tab]         [ch]Am[/ch]         [ch]E7[/ch]           [ch]Am[/ch]    [ch]Am[/ch]
+toisil- ta se sujuu ihan luonnos-taan.[/tab]
+[tab]                [ch]F[/ch]          [ch]G[/ch]         [ch]E7[/ch]       [ch]Am[/ch]
+        Ajan päivin, ajan öin.   Mä ketä ikä-vöin,[/tab]
+[tab]    [ch]Dm[/ch]            [ch]E7[/ch]        [ch]Am[/ch]   [ch]Am[/ch]
+sä tiedät, vaikken kertoisi-kaan.[/tab]
+[tab]   [ch]F[/ch]              [ch]E7[/ch]         [ch]Am[/ch]            [ch]Dm[/ch]
+On paljon helpom- paa lähtee reissuu jatka-maan,[/tab]
+[tab]       [ch]F7[/ch]          [ch]E7[/ch]           [ch]Am[/ch]     [ch]Am[/ch]
+kun mä kahvin kera hymyn sulta saan.[/tab]
+
+[Solo]
+[ch]Am[/ch]  [ch]F[/ch]  [ch]Dm[/ch]  [ch]E[/ch]  [ch]F[/ch]  [ch]C[/ch]  [ch]Dm[/ch]  [ch]E[/ch] 
+[ch]Am[/ch]  [ch]F[/ch]  [ch]Dm[/ch]  [ch]E[/ch]  [ch]F[/ch]  [ch]G[/ch]  [ch]Am[/ch]  [ch]Am[/ch]
+
+[Verse]
+[tab]           [ch]Am[/ch]        [ch]Dm[/ch]         [ch]Am[/ch]          [ch]E[/ch]         [ch]Dm[/ch]           [ch]G7[/ch]         [ch]C[/ch] | [ch]C[/ch]
+Tuumin silloin aikoi- naan: tää yksi keikka vaan. Mut loppuuko se milloin-kaan?[/tab]
+[tab]      [ch]E7[/ch]        [ch]E[/ch]             [ch]Am[/ch]           [ch]Dm[/ch]
+Pokan purettua saan   ja käyn uutta lastaa-maan -[/tab]
+[tab]        [ch]Am[/ch]         [ch]E7[/ch]          [ch]Am[/ch]    [ch]Am[/ch]
+tietä loppumaan ei ajamalla saa.[/tab]
+jne......

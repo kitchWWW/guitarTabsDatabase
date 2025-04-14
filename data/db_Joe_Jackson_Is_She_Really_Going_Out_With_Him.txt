@@ -1,0 +1,182 @@
+URL: https://tabs.ultimate-guitar.com/tab/joe-jackson/is-she-really-going-out-with-him-chords-1735971
+Artist: Joe Jackson
+Song: Is She Really Going Out With Him
+Genre: 
+Key: Bb
+
+
+Song: Is she really going out with him?
+Artist: Joe Jackson
+Composer: Joe Jackson
+Album: Look sharp
+
+Tabbed by DJ 8th May 2015
+
+CAPO: 1st fret
+(Will then sound in the recorded key of Bb)
+
+[tab]   (Riff)
+e|--9--7------7--|
+B|--7-----10-----|
+G|--7------------|
+D|--7------------|
+A|--7------------|
+E|-(0)-----------|[/tab]
+
+IGNORE THE CHORD BOX DIAGRAMS that the website
+displays, they are generated automatically from a
+generic database and often don't show the best
+options for a particular chord progression. Just use
+the voicings suggested in the text column numbers.
+
+Palm mute the A-E-G-D progression chords
+
+Chord names & fret positions are relative to the capo
+[ch]C#m7[/ch]    = x46600 or x46454   [ch]F#m[/ch]  = 244222
+[ch]D5[/ch]      = x577xx             [ch]A[/ch]    = x02220 or 577655
+[ch]E9sus4[/ch]  = x77777             [ch]E[/ch]    = 022100 or x79997
+[ch]F#9sus4[/ch] = x99999             [ch]D[/ch]    = xx0232 or x57775
+[tab][ch]E/A[/ch]     = x02100             [ch]G[/ch]    = 320033 or 355433
+E/F#    = 222100             N.C. = No chords[/tab]
+
+^ = Emphasise the beats
+
+See bottom of page for a couple of suggested bass
+note progressions instead of the Esus9 riff
+
+Please take a second to scroll down to the bottom of
+the page and select a star rating for my tab, thanks
+=====================================================
+[Intro]
+[tab]  [ch]C#m7[/ch]         [ch]D5[/ch]           [ch]E9sus4[/ch]       (Riff)
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |[/tab]
+[tab]  [ch]A[/ch]     [ch]E[/ch]      [ch]G[/ch]     [ch]D[/ch]      [ch]A[/ch]     [ch]E[/ch]      [ch]G[/ch]     [ch]D[/ch]
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |[/tab]
+
+[Verse 1]
+[tab][ch]A[/ch]          [ch]E[/ch]         [ch]G[/ch]                  [ch]D[/ch]
+    Pretty women out walking with gor - illas,[/tab]
+[tab]     [ch]A[/ch]         [ch]E[/ch]   [ch]G[/ch]   [ch]D[/ch]
+Down my street,[/tab]
+[tab][ch]A[/ch]          [ch]E[/ch]          [ch]G[/ch]
+   From my window I'm staring,[/tab]
+[tab]         [ch]D[/ch]           [ch]A[/ch]    [ch]E[/ch]   [ch]G[/ch]   [ch]D[/ch]
+While my coffee goes cold,[/tab]
+[tab][ch]A[/ch]            [ch]E[/ch]                 [ch]G[/ch]
+   Look over there! (Where?)  There![/tab]
+[tab]          [ch]D[/ch]           [ch]A[/ch]       [ch]E[/ch]     [ch]G[/ch]    [ch]D[/ch]
+There's a lady that I used to know,[/tab]
+[tab][ch]A[/ch]                [ch]E[/ch]            [ch]G[/ch]
+   She's married now, or en - gaged or something,[/tab]
+[tab][ch]D[/ch]      [ch]A[/ch]    [ch]E[/ch]   [ch]G[/ch]   [ch]D[/ch]
+So I'm told[/tab]
+
+[Chorus]
+[tab][ch]D[/ch]                      [ch]E/A[/ch]  [ch]A[/ch]    [ch]A[/ch]
+   Is she really going out  with him?[/tab]
+                       ^    ^    ^
+[tab][ch]D[/ch]                      [ch]C#m7[/ch]     [ch]F#m[/ch]  [ch]E[/ch]    [ch]D[/ch]
+   Is she really gonna take him home to - night?[/tab]
+                       ^             ^    ^
+[tab][ch]D[/ch]                      [ch]E/F#[/ch] [ch]F#m[/ch]  [ch]F#m[/ch]
+   Is she really going out  with him?[/tab]
+                       ^    ^    ^
+[tab]              [ch]D[/ch]    N.C.
+'Cause, if my eyes don't deceive me,[/tab]
+[tab]        [ch]E[/ch]         N.C.               [ch]A[/ch]   [ch]E[/ch]   [ch]G[/ch]   [ch]D[/ch]
+There's something going wrong around here[/tab]
+[tab]   [ch]A[/ch]     [ch]E[/ch]        [ch]G[/ch]     [ch]D[/ch]
+|  /  /  /  /  |  /  /  /  /  |[/tab]
+
+[Verse 2]
+[tab][ch]A[/ch]                  [ch]E[/ch]
+     Tonight's the night,[/tab]
+[tab]       [ch]G[/ch]             [ch]D[/ch]            [ch]A[/ch]        [ch]E[/ch]  [ch]G[/ch]  [ch]D[/ch]
+When I go to all the parties down my street,[/tab]
+[tab][ch]A[/ch]             [ch]E[/ch]
+    I wash my hair,[/tab]
+[tab]      [ch]G[/ch]            [ch]D[/ch]          [ch]A[/ch]     [ch]E[/ch]    [ch]G[/ch]    [ch]D[/ch]
+And I kid myself I look real smooth,[/tab]
+[tab][ch]A[/ch]            [ch]E[/ch]               [ch]G[/ch]
+   Look over there! (Where?) There![/tab]
+[tab]           [ch]D[/ch]                [ch]A[/ch]         [ch]E[/ch]      [ch]G[/ch]  [ch]D[/ch]
+Here comes Jeannie with her new boy - friend,[/tab]
+[tab][ch]A[/ch]                [ch]E[/ch]                     [ch]G[/ch]
+   They say that looks don't count for much,[/tab]
+[tab]             [ch]D[/ch]         [ch]A[/ch]    [ch]E[/ch]    [ch]G[/ch]    [ch]D[/ch]
+If so, there goes your proof[/tab]
+
+[Chorus]
+[tab][ch]D[/ch]                      [ch]E/A[/ch]  [ch]A[/ch]    [ch]A[/ch]
+   Is she really going out  with him?[/tab]
+                       ^    ^    ^
+[tab][ch]D[/ch]                      [ch]C#m7[/ch]     [ch]F#m[/ch]  [ch]E[/ch]    [ch]D[/ch]
+   Is she really gonna take him home to - night?[/tab]
+                        ^            ^    ^
+[tab][ch]D[/ch]                      [ch]E/F#[/ch] [ch]F#m[/ch]  [ch]F#m[/ch]
+   Is she really going out  with him?[/tab]
+                       ^    ^    ^
+[tab]        [ch]F#m[/ch]   [ch]D[/ch]    N.C.
+'Cause, if my eyes don't deceive me,[/tab]
+[tab]        [ch]E[/ch]         N.C.               [ch]A[/ch]   [ch]E[/ch]  [ch]G[/ch]  [ch]D[/ch]
+There's something going wrong around here,[/tab]
+[tab]       [ch]A[/ch]    [ch]E[/ch]   [ch]G[/ch]    [ch]D[/ch]
+Around here[/tab]
+
+[Bridge]
+[tab][ch]C#m7[/ch]                      [ch]D5[/ch]
+      But, if looks could kill,[/tab]
+[tab]          [ch]E9sus4[/ch]          [ch]F#9sus4[/ch]        [ch]C#m7[/ch]
+There's a man there who's marked down as dead,[/tab]
+[tab]                   [ch]D5[/ch]
+'Cause I've had my fill,[/tab]
+[tab]        [ch]E9sus4[/ch]           [ch]F#9sus4[/ch]        [ch]C#m7[/ch]
+"Listen you!   Take your hands from her head!"[/tab]
+[tab]         [ch]D5[/ch]               [ch]E9sus4[/ch]
+I get so mean around that scene,[/tab]
+[tab][ch]F#9sus4[/ch]            [ch]E9sus4[/ch]   [ch]F#9sus4[/ch] 
+         Hey, hey, hey![/tab]
+[tab]  [ch]E9sus4[/ch]       (Riff)        [ch]A[/ch]     [ch]E[/ch]      [ch]G[/ch]     [ch]D[/ch]
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |[/tab]
+[tab]  [ch]A[/ch]     [ch]E[/ch]       [ch]G[/ch]    [ch]D[/ch]
+| /  /  /  / | /  /  /_/  /_/ |[/tab]
+                     ^ ^  ^ ^
+[Chorus]
+[tab][ch]D[/ch]                      [ch]E/A[/ch]  [ch]A[/ch]    [ch]A[/ch]
+   Is she really going out  with him?[/tab]
+                       ^    ^    ^
+[tab][ch]D[/ch]                      [ch]C#m7[/ch]     [ch]F#m[/ch]  [ch]E[/ch]    [ch]D[/ch]
+   Is she really gonna take him home to - night?[/tab]
+                       ^        ^    ^    ^
+[tab][ch]D[/ch]                      [ch]E/F#[/ch] [ch]F#m[/ch]  [ch]F#m[/ch]
+   Is she really going out  with him?[/tab]
+                       ^    ^    ^
+[tab]        [ch]F#m[/ch]   [ch]D[/ch]    N.C.
+'Cause, if my eyes don't deceive me,[/tab]
+[tab]        [ch]E[/ch]         N.C.               [ch]A[/ch]   [ch]E[/ch]  [ch]G[/ch]  [ch]D[/ch]
+There's something going wrong around here,[/tab]
+[tab]       [ch]A[/ch]      [ch]E[/ch]
+Around here[/tab]
+
+[Coda]
+[tab][ch]G[/ch]               [ch]D[/ch]            [ch]A[/ch]      [ch]E[/ch]
+Something going wrong around here,[/tab]
+[tab][ch]G[/ch]               [ch]D[/ch]            [ch]A[/ch]      [ch]E[/ch]
+Something going wrong around here,[/tab]
+[tab][ch]G[/ch]               [ch]D[/ch]            [ch]A[/ch]      [ch]E[/ch]
+Something going wrong around here,[/tab]
+[tab][ch]G[/ch]               [ch]D[/ch]            N.C.   [ch]A[/ch]
+Something going wrong around...![/tab]
+====================================================
+Here's a couple of options using a bass note
+progression in place of the chord Riff
+
+/ = Slide note up   h = hammer-on note
+
+[tab]   Actual bass riff      Simplified bass riff
+e|-------------------|    e|---------------|
+B|-------------------|    B|---------------|
+G|-------------------|    G|---------------|
+D|-------------------|    D|---------------|
+A|--/4--2-------0----|    A|--/4--2--0--2--|
+E|---------0-h2---2--|    E|---------------|[/tab]

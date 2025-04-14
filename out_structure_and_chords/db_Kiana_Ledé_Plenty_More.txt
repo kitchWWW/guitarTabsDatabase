@@ -1,0 +1,44 @@
+{
+    "verse-1": [
+        "F#maj7",
+        "D#m",
+        "F#maj7",
+        "D#m"
+    ],
+    "verse-2": [
+        "F#maj7",
+        "D#m",
+        "F#maj7",
+        "D#m"
+    ],
+    "pre-chorus-1": [
+        "G#m7",
+        "A#m",
+        "D#m",
+        "C#"
+    ],
+    "pre-chorus-2": [
+        "G#m7",
+        "A#m",
+        "D#m",
+        "C#"
+    ],
+    "chorus-1": [
+        "B",
+        "F#maj7",
+        "B",
+        "G#m",
+        "A#m",
+        "D#m"
+    ],
+    "chorus-2": [
+        "B",
+        "F#maj7",
+        "B",
+        "G#m"
+    ],
+    "outro": [
+        "B",
+        "F#"
+    ]
+}

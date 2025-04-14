@@ -1,0 +1,6 @@
+{
+    "intro": [],
+    "verse": [],
+    "pre-chorus": [],
+    "chorus": []
+}

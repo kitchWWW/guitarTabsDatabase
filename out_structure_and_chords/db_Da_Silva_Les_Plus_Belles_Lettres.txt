@@ -1,0 +1,83 @@
+{
+    "intro": [
+        "Gsus2",
+        "Gsus2",
+        "Gsus2",
+        "Gsus2",
+        "Ebmaj7",
+        "Ebmaj7",
+        "Cm",
+        "Cm"
+    ],
+    "verse-1": [
+        "Gsus2",
+        "Gsus2",
+        "Ebmaj7",
+        "Cm",
+        "Gsus2",
+        "Gsus2",
+        "Ebmaj7",
+        "Cm"
+    ],
+    "verse-2": [
+        "Gsus2",
+        "Gsus2",
+        "Ebmaj7",
+        "Cm",
+        "Gsus2",
+        "Gsus2",
+        "Ebmaj7",
+        "Cm"
+    ],
+    "chorus-1": [
+        "Gm",
+        "Gm",
+        "Bb",
+        "Cm",
+        "Gm",
+        "Gm",
+        "Bb",
+        "Cm",
+        "Cm"
+    ],
+    "chorus-2": [
+        "Gm",
+        "Gm",
+        "Bb",
+        "Cm",
+        "Gm",
+        "Gm",
+        "Bb",
+        "Cm",
+        "Cm"
+    ],
+    "instrumental": [
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Bb",
+        "Bb",
+        "Cm",
+        "Cm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Bb",
+        "Bb",
+        "Cm",
+        "Cm"
+    ],
+    "outro": [
+        "Gm",
+        "Gm",
+        "Bb",
+        "Cm",
+        "Gm",
+        "Gm",
+        "Bb",
+        "Cm",
+        "Gm"
+    ]
+}

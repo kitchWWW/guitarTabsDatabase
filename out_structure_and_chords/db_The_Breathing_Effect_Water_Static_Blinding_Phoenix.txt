@@ -1,0 +1,103 @@
+{
+    "intro": [
+        "D#7sus4",
+        "Emaj7",
+        "D#7sus4",
+        "D#7b9",
+        "Emaj7",
+        "D#"
+    ],
+    "verse-1": [
+        "Emaj7",
+        "D#7",
+        "Emaj7",
+        "D#7",
+        "D#7b9",
+        "Emaj7",
+        "Amaj9#11",
+        "Gmaj7",
+        "Emaj7"
+    ],
+    "verse-2": [
+        "D#7",
+        "Emaj7",
+        "D#7",
+        "Emaj7",
+        "D#7",
+        "F#6",
+        "Emaj7",
+        "D#7",
+        "Emaj7",
+        "Amaj9",
+        "Gmaj7"
+    ],
+    "chorus-1": [
+        "D#",
+        "Emaj7",
+        "F#6",
+        "Emaj7",
+        "D#",
+        "Emaj7",
+        "F#6",
+        "Emaj7"
+    ],
+    "chorus-2": [
+        "D#7",
+        "Emaj7",
+        "F#6",
+        "Emaj7",
+        "D#7",
+        "Emaj7",
+        "F#6",
+        "Emaj7"
+    ],
+    "instrumental-1": [
+        "D#7",
+        "Emaj7",
+        "G#7",
+        "F#m9",
+        "G#7",
+        "F#m9",
+        "Em9"
+    ],
+    "instrumental-2": [
+        "Bmaj7/C#",
+        "G#m7/C#",
+        "F#m9",
+        "G#7",
+        "F#m9",
+        "G#7",
+        "F#m9",
+        "Em9"
+    ],
+    "bridge": [
+        "Emaj7",
+        "Fm7",
+        "F#6",
+        "Emaj7",
+        "C#m9",
+        "D#m9",
+        "Em9",
+        "F#m9"
+    ],
+    "outro": [
+        "G#m/C#",
+        "Am7/D",
+        "G#m/C#",
+        "Emaj7",
+        "Amaj7",
+        "Emaj9",
+        "F#m9",
+        "C#m9",
+        "D#7",
+        "C#m9",
+        "D#7b9",
+        "G#m",
+        "G#m",
+        "C#m9",
+        "C#m9/F#",
+        "C#m9",
+        "F#m9",
+        "C#m9"
+    ]
+}

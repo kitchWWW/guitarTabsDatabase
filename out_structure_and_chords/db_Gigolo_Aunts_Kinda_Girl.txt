@@ -1,0 +1,20 @@
+{
+    "intro": [
+        "C",
+        "C",
+        "Bb(VI)",
+        "EbMaj9",
+        "C",
+        "Bb",
+        "C",
+        "C",
+        "C"
+    ],
+    "verse-1": [],
+    "verse-2": [],
+    "chorus": [],
+    "bridge": [
+        "Dm",
+        "C"
+    ]
+}

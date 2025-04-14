@@ -1,0 +1,26 @@
+URL: https://tabs.ultimate-guitar.com/tab/blackout-problems/rome-tabs-5346705
+Artist: Blackout Problems
+Song: Rome
+Genre: 
+Key: 
+
+
+
+
+[tab][Verse] Main Riff
+E|------5------------5---  |
+B|-6-5------------6-5-----|
+G|--------7-9-5/7-------7--|    x2
+D|----------------------   |
+A|----------------------   |
+E|-----------------------|[/tab]
+
+
+
+[tab][Verse] Second Riff (starts after fiirst time Main Riff is completed)
+E|6-5------5-------------  |
+B|---8-6-8----------------|
+G|----------7-5-7---------|     x2
+D|----------------------   |
+A|----------------------   |
+E|-----------------------|[/tab]

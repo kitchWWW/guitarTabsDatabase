@@ -1,0 +1,19 @@
+Loaded 9072 files.
+Full-song: kept 9072 sequences.
+Saved chord_transitions_full.csv
+Intro: kept 3122 sequences.
+Saved csv/chord_transitions_intro.csv
+Verse: kept 8765 sequences.
+Saved csv/chord_transitions_verse.csv
+Chorus: kept 8872 sequences.
+Saved csv/chord_transitions_chorus.csv
+Bridge: kept 3281 sequences.
+Saved csv/chord_transitions_bridge.csv
+Pre-Chorus: kept 1353 sequences.
+Saved csv/chord_transitions_pre_chorus.csv
+Instrumental: kept 902 sequences.
+Saved csv/chord_transitions_instrumental.csv
+Solo: kept 549 sequences.
+Saved csv/chord_transitions_solo.csv
+Outro: kept 2906 sequences.
+Saved csv/chord_transitions_outro.csv

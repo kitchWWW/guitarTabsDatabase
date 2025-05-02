@@ -1,3 +1,4 @@
+import os
 import glob
 import json
 import csv
@@ -60,9 +61,20 @@ def transpose_chord_roots(chord_list, old_key, new_key):
 
 if __name__ == "__main__":
     # Locate JSON files
-    file_paths = glob.glob("out_structure3/db_*.json")
+    with open("kept_songs.txt", "r") as f:
+        files_kept = set(json.load(f))      # e.g. ["db_123.json", "db_456.json", ...]
+
+    print(files_kept)
+    # 2. Find all JSONs in out_structure3
+    all_paths = glob.glob("out_structure/db_*.json")
+    print(all_paths)
+    # 3. Filter to only those whose basename is in files_kept
+    file_paths = [p for p in all_paths if p in files_kept]
+
+    # 4. Now count (and/or use) only the filtered list
     loaded_count = len(file_paths)
     print(f"Loaded {loaded_count} files.")
+
 
     # ---- Full-song analysis ----
     sequences_all = []
@@ -71,7 +83,7 @@ if __name__ == "__main__":
             with open(path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             chords_c = data.get("all-chords-in-c", [])
-            if len(chords_c) > 4:
+            if len(chords_c) >= 2:
                 sequences_all.append(chords_c)
         except (json.JSONDecodeError, IOError) as e:
             print(f"Skipping {path}: file error ({e})")
@@ -86,8 +98,8 @@ if __name__ == "__main__":
 
     probs_all = compute_transition_probabilities(sequences_all, include_start=True)
     chromatic_roots = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B']
-    ordered_roots_all = [r for r in chromatic_roots if r in valid_chords_all]
-    desired_order_all = ['START'] + ordered_roots_all + ['END']
+    # ordered_roots_all = [r for r in chromatic_roots if r in valid_chords_all]
+    desired_order_all = ['START'] + chromatic_roots + ['END']
 
     with open('csv/chord_transitions_full.csv', 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
@@ -112,11 +124,11 @@ if __name__ == "__main__":
                         sequences_sec.append(transposed)
                         break  # only first matching section per file
             except NoteFormatError as e:
-                print(f"Skipping {path}: invalid chord ({e})")
-                break  # skip entire file for this section
+                # print(f"Skipping {path}: invalid chord ({e})")
+                continue  # skip entire file for this section
             except (json.JSONDecodeError, IOError) as e:
-                print(f"Skipping {path}: file error ({e})")
-                break
+                # print(f"Skipping {path}: file error ({e})")
+                continue
         kept_sec = len(sequences_sec)
         print(f"{sec.title()}: kept {kept_sec} sequences.")
 
@@ -125,7 +137,7 @@ if __name__ == "__main__":
         for seq in sequences_sec:
             for chord in seq:
                 freq_sec[chord] += 1
-        valid_chords_sec = [r for r in chromatic_roots if r in freq_sec and freq_sec[r] > 500]
+        valid_chords_sec = [r for r in chromatic_roots if r in freq_sec and freq_sec[r] > 0]
 
         probs_sec = compute_transition_probabilities(sequences_sec, include_start=True)
         desired_order_sec = ['START'] + valid_chords_sec + ['END']

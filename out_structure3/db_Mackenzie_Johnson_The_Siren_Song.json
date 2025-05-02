@@ -1,0 +1,116 @@
+{
+    "order": [
+        "verse-1",
+        "verse-2",
+        "verse-3",
+        "verse-4",
+        "verse-5",
+        "verse-6",
+        "verse-7"
+    ],
+    "components": {
+        "verse-1": [
+            "Em",
+            "B",
+            "Am",
+            "B"
+        ],
+        "verse-2": [
+            "Em",
+            "B",
+            "Am",
+            "B"
+        ],
+        "verse-3": [
+            "Em",
+            "B",
+            "Am",
+            "B"
+        ],
+        "verse-4": [
+            "Em",
+            "B",
+            "Am",
+            "B"
+        ],
+        "verse-5": [
+            "Em",
+            "B",
+            "Am",
+            "B"
+        ],
+        "verse-6": [
+            "Em",
+            "B",
+            "Am",
+            "B"
+        ],
+        "verse-7": [
+            "Em",
+            "B",
+            "Am",
+            "Em"
+        ]
+    },
+    "all-chords": [
+        "Em",
+        "B",
+        "Am",
+        "B",
+        "Em",
+        "B",
+        "Am",
+        "B",
+        "Em",
+        "B",
+        "Am",
+        "B",
+        "Em",
+        "B",
+        "Am",
+        "B",
+        "Em",
+        "B",
+        "Am",
+        "B",
+        "Em",
+        "B",
+        "Am",
+        "B",
+        "Em",
+        "B",
+        "Am",
+        "Em"
+    ],
+    "key": "G",
+    "all-chords-in-c": [
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+    ]
+}

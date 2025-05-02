@@ -1,0 +1,53 @@
+{
+    "order": [
+        "intro",
+        "instrumental"
+    ],
+    "components": {
+        "intro": [
+            "G",
+            "D",
+            "A",
+            "D",
+            "A",
+            "G",
+            "D",
+            "A",
+            "D",
+            "A"
+        ],
+        "instrumental": [
+            "D",
+            "A"
+        ]
+    },
+    "all-chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+    ]
+}

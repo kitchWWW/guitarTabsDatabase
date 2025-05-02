@@ -1,0 +1,17 @@
+{
+    "order": [
+        "verse-1",
+        "bridge-1",
+        "verse-2",
+        "bridge-2"
+    ],
+    "components": {
+        "verse-1": [],
+        "verse-2": [],
+        "bridge-1": [],
+        "bridge-2": []
+    },
+    "all-chords": [],
+    "key": "C",
+    "all-chords-in-c": []
+}

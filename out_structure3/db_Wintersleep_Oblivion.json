@@ -1,0 +1,71 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "G",
+            "G",
+            "Cadd9",
+            "G",
+            "Cadd9",
+            "G",
+            "Em7",
+            "C",
+            "G",
+            "G",
+            "Cadd9",
+            "G",
+            "Cadd9",
+            "G",
+            "Em7",
+            "C",
+            "Em7",
+            "C",
+            "G"
+        ]
+    },
+    "all-chords": [
+        "G",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Em7",
+        "C",
+        "G",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Em7",
+        "C",
+        "Em7",
+        "C",
+        "G"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "G",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "C",
+        "E",
+        "C",
+        "G"
+    ]
+}

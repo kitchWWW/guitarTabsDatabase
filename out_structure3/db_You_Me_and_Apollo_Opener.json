@@ -1,0 +1,35 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "Emaj7",
+            "E7",
+            "A7",
+            "E",
+            "Emaj7",
+            "E7",
+            "A7"
+        ]
+    },
+    "all-chords": [
+        "Emaj7",
+        "E7",
+        "A7",
+        "E",
+        "Emaj7",
+        "E7",
+        "A7"
+    ],
+    "key": "E",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "F",
+        "C",
+        "C",
+        "C",
+        "F"
+    ]
+}

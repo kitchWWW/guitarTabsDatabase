@@ -1,0 +1,26 @@
+{
+    "order": [
+        "outro"
+    ],
+    "components": {
+        "outro": [
+            "Esus2",
+            "Em",
+            "Em",
+            "G"
+        ]
+    },
+    "all-chords": [
+        "Esus2",
+        "Em",
+        "Em",
+        "G"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "D",
+        "D",
+        "D",
+        "F"
+    ]
+}

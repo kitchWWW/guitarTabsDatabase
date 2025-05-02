@@ -1,0 +1,59 @@
+{
+    "order": [
+        "instrumental"
+    ],
+    "components": {
+        "instrumental": [
+            "A",
+            "D",
+            "G",
+            "D",
+            "A",
+            "A",
+            "D",
+            "G",
+            "D",
+            "A",
+            "A",
+            "D",
+            "G",
+            "D",
+            "A"
+        ]
+    },
+    "all-chords": [
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G"
+    ]
+}

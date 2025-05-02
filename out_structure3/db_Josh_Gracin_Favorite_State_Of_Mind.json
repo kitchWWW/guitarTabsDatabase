@@ -1,0 +1,67 @@
+{
+    "order": [
+        "chorus",
+        "instrumental"
+    ],
+    "components": {
+        "chorus": [
+            "C",
+            "Fadd9",
+            "Dm",
+            "C",
+            "C",
+            "Fadd9",
+            "Dm",
+            "C",
+            "Fadd9",
+            "C",
+            "C",
+            "C",
+            "Em",
+            "C",
+            "Am7",
+            "Fadd9",
+            "D"
+        ],
+        "instrumental": []
+    },
+    "all-chords": [
+        "C",
+        "Fadd9",
+        "Dm",
+        "C",
+        "C",
+        "Fadd9",
+        "Dm",
+        "C",
+        "Fadd9",
+        "C",
+        "C",
+        "C",
+        "Em",
+        "C",
+        "Am7",
+        "Fadd9",
+        "D"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "C",
+        "F",
+        "D",
+        "C",
+        "C",
+        "F",
+        "D",
+        "C",
+        "F",
+        "C",
+        "C",
+        "C",
+        "E",
+        "C",
+        "A",
+        "F",
+        "D"
+    ]
+}

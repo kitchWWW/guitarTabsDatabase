@@ -1,0 +1,74 @@
+{
+    "order": [
+        "intro",
+        "outro"
+    ],
+    "components": {
+        "intro": [
+            "G",
+            "C",
+            "G",
+            "C",
+            "E",
+            "Am",
+            "F",
+            "C",
+            "Em",
+            "F",
+            "Em",
+            "F",
+            "Em",
+            "F",
+            "Em",
+            "F",
+            "C"
+        ],
+        "outro": [
+            "C",
+            "Csus2"
+        ]
+    },
+    "all-chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "E",
+        "Am",
+        "F",
+        "C",
+        "Em",
+        "F",
+        "Em",
+        "F",
+        "Em",
+        "F",
+        "Em",
+        "F",
+        "C",
+        "C",
+        "Csus2"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "E",
+        "A",
+        "F",
+        "C",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "C",
+        "C",
+        "C"
+    ]
+}

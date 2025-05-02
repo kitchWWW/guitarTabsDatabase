@@ -1,0 +1,68 @@
+{
+    "order": [
+        "verse"
+    ],
+    "components": {
+        "verse": [
+            "Gm",
+            "Cm",
+            "D",
+            "Gm",
+            "Cm",
+            "D",
+            "Gm",
+            "Cm",
+            "D",
+            "Gm",
+            "Cm",
+            "D",
+            "Gm",
+            "Cm",
+            "D",
+            "Gm",
+            "Cm",
+            "D"
+        ]
+    },
+    "all-chords": [
+        "Gm",
+        "Cm",
+        "D",
+        "Gm",
+        "Cm",
+        "D",
+        "Gm",
+        "Cm",
+        "D",
+        "Gm",
+        "Cm",
+        "D",
+        "Gm",
+        "Cm",
+        "D",
+        "Gm",
+        "Cm",
+        "D"
+    ],
+    "key": "Bb",
+    "all-chords-in-c": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E"
+    ]
+}

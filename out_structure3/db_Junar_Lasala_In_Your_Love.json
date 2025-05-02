@@ -1,0 +1,68 @@
+{
+    "order": [
+        "chorus",
+        "outro"
+    ],
+    "components": {
+        "chorus": [
+            "A2",
+            "Asus",
+            "D",
+            "D2",
+            "A2",
+            "A",
+            "Dmaj7",
+            "G",
+            "D",
+            "E",
+            "D",
+            "Amaj7",
+            "Dmaj7"
+        ],
+        "outro": [
+            "Amaj7",
+            "Dmaj7",
+            "Amaj7",
+            "Dmaj7"
+        ]
+    },
+    "all-chords": [
+        "A2",
+        "Asus",
+        "D",
+        "D2",
+        "A2",
+        "A",
+        "Dmaj7",
+        "G",
+        "D",
+        "E",
+        "D",
+        "Amaj7",
+        "Dmaj7",
+        "Amaj7",
+        "Dmaj7",
+        "Amaj7",
+        "Dmaj7"
+    ],
+    "key": "A",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "F",
+        "F",
+        "C",
+        "C",
+        "F",
+        "A#",
+        "F",
+        "G",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+    ]
+}

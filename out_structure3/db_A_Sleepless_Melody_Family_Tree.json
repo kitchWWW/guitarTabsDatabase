@@ -1,0 +1,62 @@
+{
+    "order": [
+        "chorus"
+    ],
+    "components": {
+        "chorus": [
+            "Em7",
+            "Em7",
+            "G",
+            "G",
+            "A7sus4",
+            "A7sus4",
+            "Cadd9",
+            "Cadd9",
+            "Em7",
+            "Em7",
+            "G",
+            "G",
+            "A7sus4",
+            "A7sus4",
+            "Cadd9",
+            "Cadd9"
+        ]
+    },
+    "all-chords": [
+        "Em7",
+        "Em7",
+        "G",
+        "G",
+        "A7sus4",
+        "A7sus4",
+        "Cadd9",
+        "Cadd9",
+        "Em7",
+        "Em7",
+        "G",
+        "G",
+        "A7sus4",
+        "A7sus4",
+        "Cadd9",
+        "Cadd9"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "E",
+        "E",
+        "G",
+        "G",
+        "A",
+        "A",
+        "C",
+        "C",
+        "E",
+        "E",
+        "G",
+        "G",
+        "A",
+        "A",
+        "C",
+        "C"
+    ]
+}

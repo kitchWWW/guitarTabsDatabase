@@ -1,0 +1,13 @@
+{
+    "order": [
+        "verse",
+        "solo"
+    ],
+    "components": {
+        "verse": [],
+        "solo": []
+    },
+    "all-chords": [],
+    "key": "C",
+    "all-chords-in-c": []
+}

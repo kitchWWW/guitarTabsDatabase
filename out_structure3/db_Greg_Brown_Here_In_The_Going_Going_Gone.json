@@ -1,0 +1,71 @@
+{
+    "order": [
+        "intro",
+        "verse"
+    ],
+    "components": {
+        "intro": [
+            "G6",
+            "Em",
+            "D",
+            "C",
+            "G"
+        ],
+        "verse": [
+            "G6",
+            "Em",
+            "Cmaj7",
+            "D",
+            "C",
+            "G",
+            "D/F#",
+            "G6",
+            "Em",
+            "Cmaj7",
+            "D",
+            "C",
+            "G"
+        ]
+    },
+    "all-chords": [
+        "G6",
+        "Em",
+        "D",
+        "C",
+        "G",
+        "G6",
+        "Em",
+        "Cmaj7",
+        "D",
+        "C",
+        "G",
+        "D/F#",
+        "G6",
+        "Em",
+        "Cmaj7",
+        "D",
+        "C",
+        "G"
+    ],
+    "key": "G",
+    "all-chords-in-c": [
+        "C",
+        "A",
+        "G",
+        "F",
+        "C",
+        "C",
+        "A",
+        "F",
+        "G",
+        "F",
+        "C",
+        "G",
+        "C",
+        "A",
+        "F",
+        "G",
+        "F",
+        "C"
+    ]
+}

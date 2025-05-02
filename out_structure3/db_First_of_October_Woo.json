@@ -1,0 +1,35 @@
+{
+    "order": [
+        "bridge",
+        "outro"
+    ],
+    "components": {
+        "bridge": [
+            "Gmaj7",
+            "Cmaj7",
+            "Dsus4",
+            "Am7"
+        ],
+        "outro": [
+            "G",
+            "F"
+        ]
+    },
+    "all-chords": [
+        "Gmaj7",
+        "Cmaj7",
+        "Dsus4",
+        "Am7",
+        "G",
+        "F"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "G",
+        "C",
+        "D",
+        "A",
+        "G",
+        "F"
+    ]
+}

@@ -1,6 +1,0 @@
-{
-    "instrumental": [
-        "Bm",
-        "Dm"
-    ]
-}

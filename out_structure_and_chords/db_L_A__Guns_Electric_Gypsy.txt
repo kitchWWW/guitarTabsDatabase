@@ -1,7 +1,0 @@
-{
-    "intro": [],
-    "verse": [],
-    "chorus": [],
-    "bridge": [],
-    "solo": []
-}

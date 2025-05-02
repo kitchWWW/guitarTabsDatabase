@@ -1,0 +1,233 @@
+{
+    "order": [
+        "intro-1",
+        "verse-1",
+        "chorus-1",
+        "verse-2",
+        "chorus-2",
+        "bridge-1",
+        "verse-3",
+        "chorus-3",
+        "bridge-2",
+        "outro-1",
+        "intro-2",
+        "verse-4",
+        "chorus-4",
+        "verse-5",
+        "chorus-5",
+        "bridge-3",
+        "verse-6",
+        "chorus-6",
+        "bridge-4",
+        "outro-2"
+    ],
+    "components": {
+        "intro-1": [
+            "Dm"
+        ],
+        "intro-2": [
+            "Dm"
+        ],
+        "verse-1": [
+            "Dm",
+            "Dm"
+        ],
+        "verse-2": [
+            "Dm",
+            "Dm"
+        ],
+        "verse-3": [
+            "Dm",
+            "Dm"
+        ],
+        "verse-4": [
+            "Dm",
+            "Dm"
+        ],
+        "verse-5": [
+            "Dm",
+            "Dm"
+        ],
+        "verse-6": [
+            "Dm",
+            "Dm"
+        ],
+        "chorus-1": [
+            "Bbm",
+            "Bbm",
+            "Gm",
+            "Gm"
+        ],
+        "chorus-2": [
+            "Bbm",
+            "Bbm",
+            "Gm",
+            "Gm"
+        ],
+        "chorus-3": [
+            "Bbm",
+            "Bbm",
+            "Gm",
+            "Gm"
+        ],
+        "chorus-4": [
+            "Bbm",
+            "Bbm",
+            "Gm",
+            "Gm"
+        ],
+        "chorus-5": [
+            "Bbm",
+            "Bbm",
+            "Gm",
+            "Gm"
+        ],
+        "chorus-6": [
+            "Bbm",
+            "Bbm",
+            "Gm",
+            "Gm"
+        ],
+        "bridge-1": [
+            "A",
+            "A",
+            "Am",
+            "Dm"
+        ],
+        "bridge-2": [
+            "A",
+            "A"
+        ],
+        "bridge-3": [
+            "A",
+            "A",
+            "Am",
+            "Dm"
+        ],
+        "bridge-4": [
+            "A",
+            "A",
+            "A",
+            "A"
+        ],
+        "outro-1": [
+            "Am"
+        ],
+        "outro-2": [
+            "Am"
+        ]
+    },
+    "all-chords": [
+        "Dm",
+        "Dm",
+        "Dm",
+        "Bbm",
+        "Bbm",
+        "Gm",
+        "Gm",
+        "Dm",
+        "Dm",
+        "Bbm",
+        "Bbm",
+        "Gm",
+        "Gm",
+        "A",
+        "A",
+        "Am",
+        "Dm",
+        "Dm",
+        "Dm",
+        "Bbm",
+        "Bbm",
+        "Gm",
+        "Gm",
+        "A",
+        "A",
+        "Am",
+        "Dm",
+        "Dm",
+        "Dm",
+        "Bbm",
+        "Bbm",
+        "Gm",
+        "Gm",
+        "Dm",
+        "Dm",
+        "Bbm",
+        "Bbm",
+        "Gm",
+        "Gm",
+        "A",
+        "A",
+        "Am",
+        "Dm",
+        "Dm",
+        "Dm",
+        "Bbm",
+        "Bbm",
+        "Gm",
+        "Gm",
+        "A",
+        "A",
+        "A",
+        "A",
+        "Am"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "A",
+        "A",
+        "A",
+        "F",
+        "F",
+        "D",
+        "D",
+        "A",
+        "A",
+        "F",
+        "F",
+        "D",
+        "D",
+        "E",
+        "E",
+        "E",
+        "A",
+        "A",
+        "A",
+        "F",
+        "F",
+        "D",
+        "D",
+        "E",
+        "E",
+        "E",
+        "A",
+        "A",
+        "A",
+        "F",
+        "F",
+        "D",
+        "D",
+        "A",
+        "A",
+        "F",
+        "F",
+        "D",
+        "D",
+        "E",
+        "E",
+        "E",
+        "A",
+        "A",
+        "A",
+        "F",
+        "F",
+        "D",
+        "D",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "Cmaj7",
+            "Em7",
+            "G",
+            "Bm",
+            "C",
+            "Cmaj7",
+            "Em7",
+            "G",
+            "Bm",
+            "C",
+            "Em7",
+            "G",
+            "Bm",
+            "C",
+            "Cmaj7"
+        ]
+    },
+    "all-chords": [
+        "Cmaj7",
+        "Em7",
+        "G",
+        "Bm",
+        "C",
+        "Cmaj7",
+        "Em7",
+        "G",
+        "Bm",
+        "C",
+        "Em7",
+        "G",
+        "Bm",
+        "C",
+        "Cmaj7"
+    ],
+    "key": "G",
+    "all-chords-in-c": [
+        "F",
+        "A",
+        "C",
+        "E",
+        "F",
+        "F",
+        "A",
+        "C",
+        "E",
+        "F",
+        "A",
+        "C",
+        "E",
+        "F",
+        "F"
+    ]
+}

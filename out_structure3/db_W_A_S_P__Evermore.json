@@ -1,0 +1,50 @@
+{
+    "order": [
+        "chorus",
+        "bridge"
+    ],
+    "components": {
+        "chorus": [
+            "F",
+            "F",
+            "G",
+            "F",
+            "F",
+            "G",
+            "Am",
+            "F",
+            "G"
+        ],
+        "bridge": [
+            "Am",
+            "F"
+        ]
+    },
+    "all-chords": [
+        "F",
+        "F",
+        "G",
+        "F",
+        "F",
+        "G",
+        "Am",
+        "F",
+        "G",
+        "Am",
+        "F"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "F",
+        "F",
+        "G",
+        "F",
+        "F",
+        "G",
+        "A",
+        "F",
+        "G",
+        "A",
+        "F"
+    ]
+}

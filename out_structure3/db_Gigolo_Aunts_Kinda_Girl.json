@@ -1,0 +1,56 @@
+{
+    "order": [
+        "intro",
+        "verse-1",
+        "chorus",
+        "verse-2",
+        "bridge"
+    ],
+    "components": {
+        "intro": [
+            "C",
+            "C",
+            "Bb(VI)",
+            "EbMaj9",
+            "C",
+            "Bb",
+            "C",
+            "C",
+            "C"
+        ],
+        "verse-1": [],
+        "verse-2": [],
+        "chorus": [],
+        "bridge": [
+            "Dm",
+            "C"
+        ]
+    },
+    "all-chords": [
+        "C",
+        "C",
+        "Bb(VI)",
+        "EbMaj9",
+        "C",
+        "Bb",
+        "C",
+        "C",
+        "C",
+        "Dm",
+        "C"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "G",
+        "G",
+        "F",
+        "A#",
+        "G",
+        "F",
+        "G",
+        "G",
+        "G",
+        "A",
+        "G"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "order": [
+        "intro",
+        "verse",
+        "chorus",
+        "outro"
+    ],
+    "components": {
+        "intro": [
+            "Gbmaj7",
+            "Dbmaj7"
+        ],
+        "verse": [
+            "Gbmaj7",
+            "Dbmaj7",
+            "Gbmaj7",
+            "Dbmaj7",
+            "Gbmaj7",
+            "Dbmaj7",
+            "Gbmaj7",
+            "Dbmaj7"
+        ],
+        "chorus": [
+            "Gbmaj7",
+            "Dbmaj7",
+            "Gbmaj7",
+            "Dbmaj7",
+            "Gbmaj7",
+            "Dbmaj7",
+            "Bb",
+            "Ebm7",
+            "Ab7",
+            "Dbmaj7"
+        ],
+        "outro": [
+            "Gbmaj7",
+            "Dbmaj7",
+            "Gb7",
+            "Ab7",
+            "Db"
+        ]
+    },
+    "all-chords": [
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Bb",
+        "Ebm7",
+        "Ab7",
+        "Dbmaj7",
+        "Gbmaj7",
+        "Dbmaj7",
+        "Gb7",
+        "Ab7",
+        "Db"
+    ],
+    "key": "Ab",
+    "all-chords-in-c": [
+        "A#",
+        "F",
+        "A#",
+        "F",
+        "A#",
+        "F",
+        "A#",
+        "F",
+        "A#",
+        "F",
+        "A#",
+        "F",
+        "A#",
+        "F",
+        "A#",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F",
+        "A#",
+        "F",
+        "A#",
+        "C",
+        "F"
+    ]
+}

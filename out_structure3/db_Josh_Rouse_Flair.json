@@ -1,0 +1,23 @@
+{
+    "order": [
+        "bridge"
+    ],
+    "components": {
+        "bridge": [
+            "G",
+            "Fsus",
+            "Fsus"
+        ]
+    },
+    "all-chords": [
+        "G",
+        "Fsus",
+        "Fsus"
+    ],
+    "key": "Eb",
+    "all-chords-in-c": [
+        "E",
+        "D",
+        "D"
+    ]
+}

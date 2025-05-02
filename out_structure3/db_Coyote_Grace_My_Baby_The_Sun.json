@@ -1,0 +1,45 @@
+{
+    "order": [
+        "chorus-1",
+        "chorus-2",
+        "chorus-3"
+    ],
+    "components": {
+        "chorus-1": [
+            "E",
+            "G",
+            "C",
+            "D",
+            "E",
+            "G",
+            "D",
+            "C",
+            "Am"
+        ],
+        "chorus-2": [],
+        "chorus-3": []
+    },
+    "all-chords": [
+        "E",
+        "G",
+        "C",
+        "D",
+        "E",
+        "G",
+        "D",
+        "C",
+        "Am"
+    ],
+    "key": "G",
+    "all-chords-in-c": [
+        "A",
+        "C",
+        "F",
+        "G",
+        "A",
+        "C",
+        "G",
+        "F",
+        "D"
+    ]
+}

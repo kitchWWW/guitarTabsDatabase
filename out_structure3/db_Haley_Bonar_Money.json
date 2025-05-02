@@ -1,0 +1,38 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "Em",
+            "C",
+            "G",
+            "Gsus2",
+            "Em",
+            "C",
+            "G",
+            "Gsus2"
+        ]
+    },
+    "all-chords": [
+        "Em",
+        "C",
+        "G",
+        "Gsus2",
+        "Em",
+        "C",
+        "G",
+        "Gsus2"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "E",
+        "C",
+        "G",
+        "G",
+        "E",
+        "C",
+        "G",
+        "G"
+    ]
+}

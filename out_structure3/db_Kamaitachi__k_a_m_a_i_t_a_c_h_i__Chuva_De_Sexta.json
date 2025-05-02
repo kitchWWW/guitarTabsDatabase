@@ -1,0 +1,89 @@
+{
+    "order": [
+        "verse-1",
+        "verse-2",
+        "outro"
+    ],
+    "components": {
+        "verse-1": [
+            "Emaj7",
+            "B",
+            "Emaj7",
+            "B",
+            "Emaj7",
+            "B",
+            "Emaj7",
+            "B",
+            "Emaj7",
+            "B"
+        ],
+        "verse-2": [
+            "Emaj7",
+            "B",
+            "Emaj7",
+            "B",
+            "Emaj7",
+            "B",
+            "Emaj7",
+            "B"
+        ],
+        "outro": [
+            "Emaj7",
+            "B",
+            "Emaj7",
+            "B",
+            "Emaj7"
+        ]
+    },
+    "all-chords": [
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "B",
+        "Emaj7"
+    ],
+    "key": "E",
+    "all-chords-in-c": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C"
+    ]
+}

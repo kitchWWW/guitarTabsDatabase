@@ -1,0 +1,65 @@
+{
+    "order": [
+        "intro",
+        "verse"
+    ],
+    "components": {
+        "intro": [
+            "A",
+            "Asus4",
+            "A",
+            "A",
+            "Asus4",
+            "A"
+        ],
+        "verse": [
+            "A",
+            "A",
+            "E",
+            "A",
+            "D",
+            "E",
+            "A",
+            "E",
+            "C",
+            "D"
+        ]
+    },
+    "all-chords": [
+        "A",
+        "Asus4",
+        "A",
+        "A",
+        "Asus4",
+        "A",
+        "A",
+        "A",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A",
+        "E",
+        "C",
+        "D"
+    ],
+    "key": "A",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "G",
+        "D#",
+        "F"
+    ]
+}

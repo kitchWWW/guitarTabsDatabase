@@ -1,0 +1,50 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "Gm",
+            "D#",
+            "Cm",
+            "D",
+            "Gm",
+            "D#",
+            "Cm",
+            "D",
+            "D#",
+            "Gm",
+            "D#",
+            "D"
+        ]
+    },
+    "all-chords": [
+        "Gm",
+        "D#",
+        "Cm",
+        "D",
+        "Gm",
+        "D#",
+        "Cm",
+        "D",
+        "D#",
+        "Gm",
+        "D#",
+        "D"
+    ],
+    "key": "Bb",
+    "all-chords-in-c": [
+        "A",
+        "F",
+        "D",
+        "E",
+        "A",
+        "F",
+        "D",
+        "E",
+        "F",
+        "A",
+        "F",
+        "E"
+    ]
+}

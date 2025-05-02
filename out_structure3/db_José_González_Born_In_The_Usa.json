@@ -1,0 +1,44 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "C",
+            "C",
+            "C/F",
+            "C/F",
+            "C",
+            "C",
+            "C",
+            "C/F",
+            "C/F",
+            "C"
+        ]
+    },
+    "all-chords": [
+        "C",
+        "C",
+        "C/F",
+        "C/F",
+        "C",
+        "C",
+        "C",
+        "C/F",
+        "C/F",
+        "C"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C"
+    ]
+}

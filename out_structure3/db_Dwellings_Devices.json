@@ -1,0 +1,27 @@
+{
+    "order": [
+        "intro",
+        "chorus",
+        "bridge-1",
+        "verse-1",
+        "bridge-2",
+        "verse-2",
+        "verse-3",
+        "solo",
+        "outro"
+    ],
+    "components": {
+        "intro": [],
+        "chorus": [],
+        "bridge-1": [],
+        "bridge-2": [],
+        "verse-1": [],
+        "verse-2": [],
+        "verse-3": [],
+        "solo": [],
+        "outro": []
+    },
+    "all-chords": [],
+    "key": "C",
+    "all-chords-in-c": []
+}

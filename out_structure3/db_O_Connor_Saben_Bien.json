@@ -1,0 +1,26 @@
+{
+    "order": [
+        "solo"
+    ],
+    "components": {
+        "solo": [
+            "A5",
+            "A5",
+            "A5",
+            "E5"
+        ]
+    },
+    "all-chords": [
+        "A5",
+        "A5",
+        "A5",
+        "E5"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "A",
+        "A",
+        "A",
+        "E"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "order": [
+        "verse-1",
+        "chorus-1",
+        "verse-2",
+        "chorus-2",
+        "outro"
+    ],
+    "components": {
+        "verse-1": [
+            "Fm",
+            "A#m",
+            "D",
+            "F#"
+        ],
+        "verse-2": [
+            "Fm",
+            "A#m",
+            "D",
+            "F#"
+        ],
+        "chorus-1": [
+            "G",
+            "Bm",
+            "F#"
+        ],
+        "chorus-2": [
+            "G",
+            "Bm",
+            "F#"
+        ],
+        "outro": [
+            "G",
+            "F#",
+            "Bm",
+            "F#",
+            "G",
+            "F#"
+        ]
+    },
+    "all-chords": [
+        "Fm",
+        "A#m",
+        "D",
+        "F#",
+        "G",
+        "Bm",
+        "F#",
+        "Fm",
+        "A#m",
+        "D",
+        "F#",
+        "G",
+        "Bm",
+        "F#",
+        "G",
+        "F#",
+        "Bm",
+        "F#",
+        "G",
+        "F#"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "D#",
+        "G#",
+        "C",
+        "E",
+        "F",
+        "A",
+        "E",
+        "D#",
+        "G#",
+        "C",
+        "E",
+        "F",
+        "A",
+        "E",
+        "F",
+        "E",
+        "A",
+        "E",
+        "F",
+        "E"
+    ]
+}

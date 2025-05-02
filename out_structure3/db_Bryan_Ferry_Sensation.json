@@ -1,0 +1,26 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "Fm",
+            "Fm",
+            "C#",
+            "Bbm"
+        ]
+    },
+    "all-chords": [
+        "Fm",
+        "Fm",
+        "C#",
+        "Bbm"
+    ],
+    "key": "Ab",
+    "all-chords-in-c": [
+        "A",
+        "A",
+        "F",
+        "D"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "order": [
+        "outro"
+    ],
+    "components": {
+        "outro": [
+            "Bbm",
+            "Bb",
+            "Dm",
+            "Cm",
+            "Gm",
+            "Bb",
+            "Dm",
+            "Dbm",
+            "Cm",
+            "Gm",
+            "Bb",
+            "Dm",
+            "Dbm7",
+            "Cm",
+            "Eb",
+            "Gm",
+            "Bb",
+            "G"
+        ]
+    },
+    "all-chords": [
+        "Bbm",
+        "Bb",
+        "Dm",
+        "Cm",
+        "Gm",
+        "Bb",
+        "Dm",
+        "Dbm",
+        "Cm",
+        "Gm",
+        "Bb",
+        "Dm",
+        "Dbm7",
+        "Cm",
+        "Eb",
+        "Gm",
+        "Bb",
+        "G"
+    ],
+    "key": "Bb",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "E",
+        "D",
+        "A",
+        "C",
+        "E",
+        "D#",
+        "D",
+        "A",
+        "C",
+        "E",
+        "D#",
+        "D",
+        "F",
+        "A",
+        "C",
+        "A"
+    ]
+}

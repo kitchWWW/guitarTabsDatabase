@@ -1,0 +1,35 @@
+{
+    "order": [
+        "verse"
+    ],
+    "components": {
+        "verse": [
+            "C",
+            "Em",
+            "Am",
+            "G",
+            "F",
+            "G",
+            "C"
+        ]
+    },
+    "all-chords": [
+        "C",
+        "Em",
+        "Am",
+        "G",
+        "F",
+        "G",
+        "C"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "C",
+        "E",
+        "A",
+        "G",
+        "F",
+        "G",
+        "C"
+    ]
+}

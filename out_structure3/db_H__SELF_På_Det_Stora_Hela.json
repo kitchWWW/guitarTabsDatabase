@@ -1,0 +1,23 @@
+{
+    "order": [
+        "outro"
+    ],
+    "components": {
+        "outro": [
+            "D",
+            "G",
+            "A"
+        ]
+    },
+    "all-chords": [
+        "D",
+        "G",
+        "A"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "C",
+        "F",
+        "G"
+    ]
+}

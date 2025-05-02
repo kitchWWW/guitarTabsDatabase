@@ -1,0 +1,13 @@
+{
+    "order": [
+        "instrumental-1",
+        "instrumental-2"
+    ],
+    "components": {
+        "instrumental-1": [],
+        "instrumental-2": []
+    },
+    "all-chords": [],
+    "key": "C",
+    "all-chords-in-c": []
+}

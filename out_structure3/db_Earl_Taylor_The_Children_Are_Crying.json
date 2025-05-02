@@ -1,0 +1,119 @@
+{
+    "order": [
+        "intro",
+        "chorus-1",
+        "verse-1",
+        "chorus-2",
+        "instrumental",
+        "verse-2",
+        "outro"
+    ],
+    "components": {
+        "intro": [
+            "C",
+            "F"
+        ],
+        "chorus-1": [
+            "C",
+            "F"
+        ],
+        "chorus-2": [
+            "C",
+            "F"
+        ],
+        "verse-1": [
+            "C",
+            "F",
+            "Bb",
+            "F",
+            "C",
+            "F"
+        ],
+        "verse-2": [
+            "C",
+            "F",
+            "Bb",
+            "F",
+            "C",
+            "F"
+        ],
+        "instrumental": [
+            "F",
+            "C",
+            "F",
+            "F",
+            "Bb",
+            "F",
+            "C",
+            "F"
+        ],
+        "outro": [
+            "C",
+            "Bb",
+            "F"
+        ]
+    },
+    "all-chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "F",
+        "C",
+        "F",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Bb",
+        "F"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "C",
+        "G",
+        "C",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "C"
+    ]
+}

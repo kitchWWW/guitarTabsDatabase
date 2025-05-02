@@ -1,0 +1,20 @@
+{
+    "order": [
+        "instrumental"
+    ],
+    "components": {
+        "instrumental": [
+            "Bm",
+            "Dm"
+        ]
+    },
+    "all-chords": [
+        "Bm",
+        "Dm"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "B",
+        "D"
+    ]
+}

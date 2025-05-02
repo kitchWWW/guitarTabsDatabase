@@ -1,0 +1,35 @@
+{
+    "order": [
+        "chorus"
+    ],
+    "components": {
+        "chorus": [
+            "C",
+            "C7",
+            "C",
+            "G7",
+            "G",
+            "G7",
+            "C"
+        ]
+    },
+    "all-chords": [
+        "C",
+        "C7",
+        "C",
+        "G7",
+        "G",
+        "G7",
+        "C"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "C",
+        "G",
+        "G",
+        "G",
+        "C"
+    ]
+}

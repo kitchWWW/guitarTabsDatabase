@@ -1,0 +1,83 @@
+{
+    "order": [
+        "instrumental-1",
+        "instrumental-2"
+    ],
+    "components": {
+        "instrumental-1": [
+            "Eb",
+            "Ab",
+            "Cm",
+            "Bb",
+            "Eb",
+            "Ab",
+            "Cm",
+            "Bb",
+            "Eb",
+            "Ab",
+            "Cm",
+            "Bb"
+        ],
+        "instrumental-2": [
+            "Eb",
+            "Ab",
+            "Cm",
+            "Bb",
+            "Eb",
+            "Bb",
+            "Ab",
+            "G",
+            "Eb",
+            "G"
+        ]
+    },
+    "all-chords": [
+        "Eb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cm",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Ab",
+        "G",
+        "Eb",
+        "G"
+    ],
+    "key": "Eb",
+    "all-chords-in-c": [
+        "C",
+        "F",
+        "A",
+        "G",
+        "C",
+        "F",
+        "A",
+        "G",
+        "C",
+        "F",
+        "A",
+        "G",
+        "C",
+        "F",
+        "A",
+        "G",
+        "C",
+        "G",
+        "F",
+        "E",
+        "C",
+        "E"
+    ]
+}

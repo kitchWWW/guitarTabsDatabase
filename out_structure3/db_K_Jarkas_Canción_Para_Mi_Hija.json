@@ -1,0 +1,55 @@
+{
+    "order": [
+        "chorus-1",
+        "chorus-2"
+    ],
+    "components": {
+        "chorus-1": [
+            "E",
+            "F#m",
+            "A",
+            "B",
+            "E",
+            "F#m",
+            "A",
+            "B",
+            "E",
+            "F#m",
+            "A",
+            "B",
+            "E"
+        ],
+        "chorus-2": []
+    },
+    "all-chords": [
+        "E",
+        "F#m",
+        "A",
+        "B",
+        "E",
+        "F#m",
+        "A",
+        "B",
+        "E",
+        "F#m",
+        "A",
+        "B",
+        "E"
+    ],
+    "key": "E",
+    "all-chords-in-c": [
+        "C",
+        "D",
+        "F",
+        "G",
+        "C",
+        "D",
+        "F",
+        "G",
+        "C",
+        "D",
+        "F",
+        "G",
+        "C"
+    ]
+}

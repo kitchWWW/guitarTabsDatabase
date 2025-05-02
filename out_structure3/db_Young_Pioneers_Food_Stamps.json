@@ -1,0 +1,17 @@
+{
+    "order": [
+        "intro",
+        "verse",
+        "chorus",
+        "outro"
+    ],
+    "components": {
+        "intro": [],
+        "verse": [],
+        "chorus": [],
+        "outro": []
+    },
+    "all-chords": [],
+    "key": "C",
+    "all-chords-in-c": []
+}

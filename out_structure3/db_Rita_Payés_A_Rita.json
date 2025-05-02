@@ -1,0 +1,37 @@
+{
+    "order": [
+        "intro",
+        "verse"
+    ],
+    "components": {
+        "intro": [],
+        "verse": [
+            "G7M",
+            "G6",
+            "Bm7",
+            "G7M",
+            "G6",
+            "Cm7",
+            "Cm6"
+        ]
+    },
+    "all-chords": [
+        "G7M",
+        "G6",
+        "Bm7",
+        "G7M",
+        "G6",
+        "Cm7",
+        "Cm6"
+    ],
+    "key": "G",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "E",
+        "C",
+        "C",
+        "F",
+        "F"
+    ]
+}

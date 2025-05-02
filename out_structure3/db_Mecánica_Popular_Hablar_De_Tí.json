@@ -1,0 +1,68 @@
+{
+    "order": [
+        "chorus-1",
+        "chorus-2"
+    ],
+    "components": {
+        "chorus-1": [
+            "G5a(SOL)",
+            "A5a(LA)",
+            "B5a(SIm)",
+            "G5a(SOL)",
+            "A5a(LA)",
+            "A",
+            "Em",
+            "A",
+            "D",
+            "D",
+            "Em",
+            "A"
+        ],
+        "chorus-2": [
+            "G5a(SOL)",
+            "A5a(LA)",
+            "B5a(SIm)",
+            "G5a(SOL)",
+            "A5a(LA)"
+        ]
+    },
+    "all-chords": [
+        "G5a(SOL)",
+        "A5a(LA)",
+        "B5a(SIm)",
+        "G5a(SOL)",
+        "A5a(LA)",
+        "A",
+        "Em",
+        "A",
+        "D",
+        "D",
+        "Em",
+        "A",
+        "G5a(SOL)",
+        "A5a(LA)",
+        "B5a(SIm)",
+        "G5a(SOL)",
+        "A5a(LA)"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "F",
+        "G",
+        "A",
+        "F",
+        "G",
+        "G",
+        "D",
+        "G",
+        "C",
+        "C",
+        "D",
+        "G",
+        "F",
+        "G",
+        "A",
+        "F",
+        "G"
+    ]
+}

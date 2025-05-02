@@ -1,0 +1,77 @@
+{
+    "order": [
+        "chorus",
+        "verse-1",
+        "verse-2"
+    ],
+    "components": {
+        "chorus": [
+            "G",
+            "Am7",
+            "C",
+            "D",
+            "Dsus4"
+        ],
+        "verse-1": [
+            "Em",
+            "D/F#",
+            "G",
+            "Em",
+            "D/F#",
+            "C9",
+            "Dsus4"
+        ],
+        "verse-2": [
+            "Em",
+            "D/F#",
+            "G",
+            "Em",
+            "D/F#",
+            "C9",
+            "Dsus4"
+        ]
+    },
+    "all-chords": [
+        "G",
+        "Am7",
+        "C",
+        "D",
+        "Dsus4",
+        "Em",
+        "D/F#",
+        "G",
+        "Em",
+        "D/F#",
+        "C9",
+        "Dsus4",
+        "Em",
+        "D/F#",
+        "G",
+        "Em",
+        "D/F#",
+        "C9",
+        "Dsus4"
+    ],
+    "key": "G",
+    "all-chords-in-c": [
+        "C",
+        "D",
+        "F",
+        "G",
+        "G",
+        "A",
+        "G",
+        "C",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "G",
+        "C",
+        "A",
+        "G",
+        "F",
+        "G"
+    ]
+}

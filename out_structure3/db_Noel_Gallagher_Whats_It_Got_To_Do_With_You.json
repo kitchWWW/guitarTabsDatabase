@@ -1,0 +1,20 @@
+{
+    "order": [
+        "outro"
+    ],
+    "components": {
+        "outro": [
+            "Fadd9",
+            "Am7"
+        ]
+    },
+    "all-chords": [
+        "Fadd9",
+        "Am7"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "F",
+        "A"
+    ]
+}

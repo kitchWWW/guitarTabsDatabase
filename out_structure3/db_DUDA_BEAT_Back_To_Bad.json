@@ -1,0 +1,38 @@
+{
+    "order": [
+        "outro"
+    ],
+    "components": {
+        "outro": [
+            "Gm",
+            "Dm7",
+            "Gm",
+            "Dm7",
+            "Eb7M",
+            "Dm7",
+            "Cm",
+            "C9/D"
+        ]
+    },
+    "all-chords": [
+        "Gm",
+        "Dm7",
+        "Gm",
+        "Dm7",
+        "Eb7M",
+        "Dm7",
+        "Cm",
+        "C9/D"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "A#",
+        "A",
+        "G",
+        "G"
+    ]
+}

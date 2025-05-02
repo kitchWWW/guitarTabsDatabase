@@ -1,0 +1,47 @@
+{
+    "order": [
+        "bridge"
+    ],
+    "components": {
+        "bridge": [
+            "C#m",
+            "F#m7",
+            "Bm",
+            "GM7",
+            "F#m7",
+            "C#m",
+            "E7sus",
+            "F#sus",
+            "A7(sus)",
+            "D",
+            "E7sus"
+        ]
+    },
+    "all-chords": [
+        "C#m",
+        "F#m7",
+        "Bm",
+        "GM7",
+        "F#m7",
+        "C#m",
+        "E7sus",
+        "F#sus",
+        "A7(sus)",
+        "D",
+        "E7sus"
+    ],
+    "key": "A",
+    "all-chords-in-c": [
+        "E",
+        "A",
+        "D",
+        "A#",
+        "A",
+        "E",
+        "G",
+        "A",
+        "C",
+        "F",
+        "G"
+    ]
+}

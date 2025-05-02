@@ -1,0 +1,38 @@
+{
+    "order": [
+        "solo"
+    ],
+    "components": {
+        "solo": [
+            "D",
+            "E",
+            "A",
+            "D",
+            "E",
+            "D",
+            "E",
+            "A"
+        ]
+    },
+    "all-chords": [
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "D",
+        "E",
+        "A"
+    ],
+    "key": "A",
+    "all-chords-in-c": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C"
+    ]
+}

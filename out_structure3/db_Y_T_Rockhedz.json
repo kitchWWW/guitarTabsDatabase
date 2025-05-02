@@ -1,0 +1,15 @@
+{
+    "order": [
+        "intro",
+        "solo-1",
+        "solo-2"
+    ],
+    "components": {
+        "intro": [],
+        "solo-1": [],
+        "solo-2": []
+    },
+    "all-chords": [],
+    "key": "C",
+    "all-chords-in-c": []
+}

@@ -1,0 +1,113 @@
+{
+    "order": [
+        "verse",
+        "pre-chorus",
+        "chorus",
+        "bridge-1",
+        "bridge-2"
+    ],
+    "components": {
+        "verse": [
+            "D",
+            "A",
+            "Bm",
+            "G"
+        ],
+        "pre-chorus": [
+            "D",
+            "A",
+            "Bm",
+            "A",
+            "G"
+        ],
+        "chorus": [
+            "D",
+            "A",
+            "D/F#",
+            "G",
+            "Bm",
+            "A",
+            "D/F#",
+            "G"
+        ],
+        "bridge-1": [
+            "D",
+            "A",
+            "D/F#",
+            "G",
+            "Bm",
+            "A",
+            "D/F#",
+            "G"
+        ],
+        "bridge-2": [
+            "Em",
+            "D/F#",
+            "G",
+            "A"
+        ]
+    },
+    "all-chords": [
+        "D",
+        "A",
+        "Bm",
+        "G",
+        "D",
+        "A",
+        "Bm",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D/F#",
+        "G",
+        "Bm",
+        "A",
+        "D/F#",
+        "G",
+        "D",
+        "A",
+        "D/F#",
+        "G",
+        "Bm",
+        "A",
+        "D/F#",
+        "G",
+        "Em",
+        "D/F#",
+        "G",
+        "A"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "C",
+        "G",
+        "A",
+        "F",
+        "C",
+        "G",
+        "A",
+        "G",
+        "F",
+        "C",
+        "G",
+        "C",
+        "F",
+        "A",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "F",
+        "A",
+        "G",
+        "C",
+        "F",
+        "D",
+        "C",
+        "F",
+        "G"
+    ]
+}

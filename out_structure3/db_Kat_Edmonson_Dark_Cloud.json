@@ -1,0 +1,62 @@
+{
+    "order": [
+        "bridge"
+    ],
+    "components": {
+        "bridge": [
+            "Dm",
+            "Am",
+            "Bb",
+            "F",
+            "C7",
+            "F",
+            "A7",
+            "Dm",
+            "Dm7/C",
+            "G7/B",
+            "F",
+            "Am/E",
+            "Dm7",
+            "C7",
+            "C7",
+            "F"
+        ]
+    },
+    "all-chords": [
+        "Dm",
+        "Am",
+        "Bb",
+        "F",
+        "C7",
+        "F",
+        "A7",
+        "Dm",
+        "Dm7/C",
+        "G7/B",
+        "F",
+        "Am/E",
+        "Dm7",
+        "C7",
+        "C7",
+        "F"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "A",
+        "E",
+        "F",
+        "C",
+        "G",
+        "C",
+        "E",
+        "A",
+        "A",
+        "D",
+        "C",
+        "E",
+        "A",
+        "G",
+        "G",
+        "C"
+    ]
+}

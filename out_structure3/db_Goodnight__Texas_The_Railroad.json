@@ -1,0 +1,71 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm",
+            "Gm"
+        ]
+    },
+    "all-chords": [
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm",
+        "Gm"
+    ],
+    "key": "Eb",
+    "all-chords-in-c": [
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E",
+        "E"
+    ]
+}

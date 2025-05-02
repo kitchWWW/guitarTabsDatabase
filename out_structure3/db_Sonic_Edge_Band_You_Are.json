@@ -1,0 +1,92 @@
+{
+    "order": [
+        "intro",
+        "verse",
+        "pre-chorus",
+        "chorus"
+    ],
+    "components": {
+        "intro": [
+            "D",
+            "D",
+            "G",
+            "Gadd9",
+            "B5",
+            "C#5",
+            "D5",
+            "G"
+        ],
+        "verse": [
+            "D",
+            "G",
+            "D"
+        ],
+        "pre-chorus": [
+            "A",
+            "G",
+            "A",
+            "G"
+        ],
+        "chorus": [
+            "D",
+            "D",
+            "G",
+            "Gadd9",
+            "B5",
+            "C#5",
+            "D5",
+            "G"
+        ]
+    },
+    "all-chords": [
+        "D",
+        "D",
+        "G",
+        "Gadd9",
+        "B5",
+        "C#5",
+        "D5",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "G",
+        "D",
+        "D",
+        "G",
+        "Gadd9",
+        "B5",
+        "C#5",
+        "D5",
+        "G"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "F",
+        "F",
+        "A",
+        "B",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "C",
+        "C",
+        "F",
+        "F",
+        "A",
+        "B",
+        "C",
+        "F"
+    ]
+}

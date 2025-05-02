@@ -1,0 +1,56 @@
+{
+    "order": [
+        "verse",
+        "chorus"
+    ],
+    "components": {
+        "verse": [
+            "E",
+            "Esus4",
+            "E",
+            "Bm"
+        ],
+        "chorus": [
+            "B",
+            "A",
+            "G",
+            "A",
+            "B",
+            "A",
+            "G",
+            "A",
+            "B"
+        ]
+    },
+    "all-chords": [
+        "E",
+        "Esus4",
+        "E",
+        "Bm",
+        "B",
+        "A",
+        "G",
+        "A",
+        "B",
+        "A",
+        "G",
+        "A",
+        "B"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "D",
+        "D",
+        "D",
+        "A",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A"
+    ]
+}

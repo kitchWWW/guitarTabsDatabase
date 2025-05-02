@@ -1,0 +1,137 @@
+{
+    "order": [
+        "intro",
+        "verse-1",
+        "pre-chorus-1",
+        "chorus-1",
+        "verse-2",
+        "pre-chorus-2",
+        "chorus-2",
+        "outro"
+    ],
+    "components": {
+        "intro": [
+            "Am",
+            "Gm"
+        ],
+        "verse-1": [
+            "Am",
+            "Gm",
+            "Am",
+            "Gm"
+        ],
+        "verse-2": [
+            "Am",
+            "Gm"
+        ],
+        "pre-chorus-1": [
+            "Am",
+            "Am",
+            "Gm",
+            "Gm"
+        ],
+        "pre-chorus-2": [
+            "Am",
+            "Am",
+            "Gm",
+            "Gm"
+        ],
+        "chorus-1": [
+            "Am",
+            "Gm",
+            "Am",
+            "Gm",
+            "Am",
+            "Gm"
+        ],
+        "chorus-2": [
+            "Am",
+            "Gm",
+            "Am",
+            "Gm",
+            "Am",
+            "Gm"
+        ],
+        "outro": [
+            "Fmaj7",
+            "Ebmaj7",
+            "Fmaj7",
+            "Ebmaj7",
+            "Fmaj7",
+            "Ebmaj7"
+        ]
+    },
+    "all-chords": [
+        "Am",
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Am",
+        "Gm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Am",
+        "Gm",
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Gm",
+        "Am",
+        "Gm",
+        "Fmaj7",
+        "Ebmaj7",
+        "Fmaj7",
+        "Ebmaj7",
+        "Fmaj7",
+        "Ebmaj7"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "E",
+        "D",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "E",
+        "D",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "A#",
+        "C",
+        "A#",
+        "C",
+        "A#"
+    ]
+}

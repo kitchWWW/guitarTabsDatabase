@@ -1,0 +1,41 @@
+{
+    "order": [
+        "chorus",
+        "verse"
+    ],
+    "components": {
+        "chorus": [
+            "A",
+            "E",
+            "F#m",
+            "Bm",
+            "F#m",
+            "B7",
+            "E"
+        ],
+        "verse": [
+            "E"
+        ]
+    },
+    "all-chords": [
+        "A",
+        "E",
+        "F#m",
+        "Bm",
+        "F#m",
+        "B7",
+        "E",
+        "E"
+    ],
+    "key": "E",
+    "all-chords-in-c": [
+        "F",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "C"
+    ]
+}

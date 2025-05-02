@@ -1,0 +1,50 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "E",
+            "Esus4",
+            "Esus4",
+            "E",
+            "E",
+            "Esus4",
+            "Esus4",
+            "E",
+            "E",
+            "Esus4",
+            "Esus4",
+            "E"
+        ]
+    },
+    "all-chords": [
+        "E",
+        "Esus4",
+        "Esus4",
+        "E",
+        "E",
+        "Esus4",
+        "Esus4",
+        "E",
+        "E",
+        "Esus4",
+        "Esus4",
+        "E"
+    ],
+    "key": "E",
+    "all-chords-in-c": [
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C",
+        "C"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "E7",
+            "Am",
+            "Dm",
+            "Am",
+            "E7",
+            "Dm",
+            "Am",
+            "E7",
+            "Dm",
+            "Am",
+            "E7",
+            "Dm",
+            "Am",
+            "E7"
+        ]
+    },
+    "all-chords": [
+        "E7",
+        "Am",
+        "Dm",
+        "Am",
+        "E7",
+        "Dm",
+        "Am",
+        "E7",
+        "Dm",
+        "Am",
+        "E7",
+        "Dm",
+        "Am",
+        "E7"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "order": [
+        "solo",
+        "bridge"
+    ],
+    "components": {
+        "solo": [],
+        "bridge": [
+            "C7",
+            "F",
+            "C7",
+            "F",
+            "A7",
+            "Dm",
+            "Bb",
+            "A",
+            "Bb",
+            "A",
+            "Bb",
+            "A",
+            "Dm",
+            "Dmaj",
+            "Gm",
+            "Gm",
+            "Dm",
+            "A7",
+            "Dm"
+        ]
+    },
+    "all-chords": [
+        "C7",
+        "F",
+        "C7",
+        "F",
+        "A7",
+        "Dm",
+        "Bb",
+        "A",
+        "Bb",
+        "A",
+        "Bb",
+        "A",
+        "Dm",
+        "Dmaj",
+        "Gm",
+        "Gm",
+        "Dm",
+        "A7",
+        "Dm"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "E",
+        "A",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "A",
+        "A",
+        "D",
+        "D",
+        "A",
+        "E",
+        "A"
+    ]
+}

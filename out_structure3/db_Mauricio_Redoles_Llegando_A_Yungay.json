@@ -1,0 +1,35 @@
+{
+    "order": [
+        "chorus"
+    ],
+    "components": {
+        "chorus": [
+            "F#m",
+            "Bm",
+            "Bm",
+            "F#m",
+            "C#m",
+            "Bm",
+            "C#m"
+        ]
+    },
+    "all-chords": [
+        "F#m",
+        "Bm",
+        "Bm",
+        "F#m",
+        "C#m",
+        "Bm",
+        "C#m"
+    ],
+    "key": "A",
+    "all-chords-in-c": [
+        "A",
+        "D",
+        "D",
+        "A",
+        "E",
+        "D",
+        "E"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "order": [
+        "chorus-1",
+        "verse",
+        "chorus-2"
+    ],
+    "components": {
+        "chorus-1": [
+            "Ab",
+            "Cm",
+            "Ab",
+            "Cm",
+            "Ab",
+            "Cm"
+        ],
+        "chorus-2": [
+            "Ab",
+            "Cm",
+            "Ab",
+            "Cm"
+        ],
+        "verse": [
+            "Ab",
+            "Cm",
+            "Fmaj",
+            "Ab",
+            "Cm",
+            "Fmaj"
+        ]
+    },
+    "all-chords": [
+        "Ab",
+        "Cm",
+        "Ab",
+        "Cm",
+        "Ab",
+        "Cm",
+        "Ab",
+        "Cm",
+        "Fmaj",
+        "Ab",
+        "Cm",
+        "Fmaj",
+        "Ab",
+        "Cm",
+        "Ab",
+        "Cm"
+    ],
+    "key": "Eb",
+    "all-chords-in-c": [
+        "F",
+        "A",
+        "F",
+        "A",
+        "F",
+        "A",
+        "F",
+        "A",
+        "D",
+        "F",
+        "A",
+        "D",
+        "F",
+        "A",
+        "F",
+        "A"
+    ]
+}

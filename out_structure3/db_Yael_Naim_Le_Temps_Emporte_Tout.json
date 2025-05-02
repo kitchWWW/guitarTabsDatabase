@@ -1,0 +1,71 @@
+{
+    "order": [
+        "instrumental"
+    ],
+    "components": {
+        "instrumental": [
+            "Gm7",
+            "C7",
+            "F",
+            "Dm",
+            "Gm7",
+            "C7",
+            "F",
+            "Bb",
+            "A",
+            "Dm",
+            "Am",
+            "Dm",
+            "Am",
+            "Gm",
+            "F",
+            "C",
+            "Dm",
+            "Am",
+            "Dm"
+        ]
+    },
+    "all-chords": [
+        "Gm7",
+        "C7",
+        "F",
+        "Dm",
+        "Gm7",
+        "C7",
+        "F",
+        "Bb",
+        "A",
+        "Dm",
+        "Am",
+        "Dm",
+        "Am",
+        "Gm",
+        "F",
+        "C",
+        "Dm",
+        "Am",
+        "Dm"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "D",
+        "G",
+        "C",
+        "A",
+        "D",
+        "G",
+        "C",
+        "F",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "D",
+        "C",
+        "G",
+        "A",
+        "E",
+        "A"
+    ]
+}

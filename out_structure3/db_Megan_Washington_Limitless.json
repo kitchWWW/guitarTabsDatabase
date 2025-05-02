@@ -1,0 +1,52 @@
+{
+    "order": [
+        "bridge-1",
+        "bridge-2"
+    ],
+    "components": {
+        "bridge-1": [],
+        "bridge-2": [
+            "C",
+            "G",
+            "Em",
+            "F",
+            "C",
+            "F",
+            "A",
+            "G",
+            "Am",
+            "Em",
+            "F",
+            "G"
+        ]
+    },
+    "all-chords": [
+        "C",
+        "G",
+        "Em",
+        "F",
+        "C",
+        "F",
+        "A",
+        "G",
+        "Am",
+        "Em",
+        "F",
+        "G"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "C",
+        "G",
+        "E",
+        "F",
+        "C",
+        "F",
+        "A",
+        "G",
+        "A",
+        "E",
+        "F",
+        "G"
+    ]
+}

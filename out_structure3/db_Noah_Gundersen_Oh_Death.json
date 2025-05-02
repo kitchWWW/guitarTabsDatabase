@@ -1,0 +1,107 @@
+{
+    "order": [
+        "intro",
+        "verse",
+        "instrumental",
+        "chorus",
+        "bridge",
+        "outro"
+    ],
+    "components": {
+        "intro": [
+            "Am",
+            "G",
+            "Am",
+            "G"
+        ],
+        "verse": [
+            "Am",
+            "G",
+            "Am",
+            "G",
+            "F",
+            "G",
+            "Am",
+            "G",
+            "F"
+        ],
+        "instrumental": [
+            "Am",
+            "G",
+            "Am",
+            "G"
+        ],
+        "chorus": [
+            "Am",
+            "G"
+        ],
+        "bridge": [
+            "Am",
+            "G"
+        ],
+        "outro": [
+            "F",
+            "G",
+            "Am",
+            "G",
+            "F"
+        ]
+    },
+    "all-chords": [
+        "Am",
+        "G",
+        "Am",
+        "G",
+        "Am",
+        "G",
+        "Am",
+        "G",
+        "F",
+        "G",
+        "Am",
+        "G",
+        "F",
+        "Am",
+        "G",
+        "Am",
+        "G",
+        "Am",
+        "G",
+        "Am",
+        "G",
+        "F",
+        "G",
+        "Am",
+        "G",
+        "F"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "G",
+        "F",
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "G",
+        "F"
+    ]
+}

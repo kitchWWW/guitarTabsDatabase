@@ -1,0 +1,71 @@
+{
+    "order": [
+        "verse-1",
+        "verse-2",
+        "verse-3",
+        "verse-4"
+    ],
+    "components": {
+        "verse-1": [
+            "Em",
+            "D#m",
+            "G",
+            "A"
+        ],
+        "verse-2": [
+            "Em",
+            "D#m",
+            "G",
+            "A"
+        ],
+        "verse-3": [
+            "Em",
+            "D#m",
+            "G",
+            "A"
+        ],
+        "verse-4": [
+            "Em",
+            "D#m",
+            "G",
+            "A"
+        ]
+    },
+    "all-chords": [
+        "Em",
+        "D#m",
+        "G",
+        "A",
+        "Em",
+        "D#m",
+        "G",
+        "A",
+        "Em",
+        "D#m",
+        "G",
+        "A",
+        "Em",
+        "D#m",
+        "G",
+        "A"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "D",
+        "C#",
+        "F",
+        "G",
+        "D",
+        "C#",
+        "F",
+        "G",
+        "D",
+        "C#",
+        "F",
+        "G",
+        "D",
+        "C#",
+        "F",
+        "G"
+    ]
+}

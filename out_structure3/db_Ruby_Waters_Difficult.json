@@ -1,0 +1,128 @@
+{
+    "order": [
+        "intro",
+        "verse-1",
+        "chorus-1",
+        "verse-2",
+        "chorus-2",
+        "solo",
+        "outro"
+    ],
+    "components": {
+        "intro": [
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D"
+        ],
+        "verse-1": [
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D"
+        ],
+        "verse-2": [
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D"
+        ],
+        "chorus-1": [
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D"
+        ],
+        "chorus-2": [
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D"
+        ],
+        "solo": [
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D"
+        ],
+        "outro": [
+            "Cmaj7",
+            "D",
+            "Cmaj7",
+            "D"
+        ]
+    },
+    "all-chords": [
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D",
+        "Cmaj7",
+        "D"
+    ],
+    "key": "G",
+    "all-chords-in-c": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G"
+    ]
+}

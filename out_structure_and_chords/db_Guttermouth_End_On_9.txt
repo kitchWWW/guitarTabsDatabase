@@ -1,5 +1,0 @@
-{
-    "verse": [],
-    "bridge": [],
-    "outro": []
-}

@@ -1,0 +1,65 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "Gm",
+            "C",
+            "Gm",
+            "C",
+            "Gm",
+            "C",
+            "Gm",
+            "C",
+            "Gm",
+            "C",
+            "Gm",
+            "C",
+            "Gm",
+            "C",
+            "A",
+            "Gm",
+            "C"
+        ]
+    },
+    "all-chords": [
+        "Gm",
+        "C",
+        "Gm",
+        "C",
+        "Gm",
+        "C",
+        "Gm",
+        "C",
+        "Gm",
+        "C",
+        "Gm",
+        "C",
+        "Gm",
+        "C",
+        "A",
+        "Gm",
+        "C"
+    ],
+    "key": "F",
+    "all-chords-in-c": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "E",
+        "D",
+        "G"
+    ]
+}

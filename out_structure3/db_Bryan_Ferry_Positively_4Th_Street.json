@@ -1,0 +1,56 @@
+{
+    "order": [
+        "intro"
+    ],
+    "components": {
+        "intro": [
+            "D#",
+            "Bb",
+            "G#",
+            "Cm",
+            "Bb",
+            "D#",
+            "Fm",
+            "G#",
+            "D#",
+            "D#",
+            "Bb",
+            "G#",
+            "Cm",
+            "Bb"
+        ]
+    },
+    "all-chords": [
+        "D#",
+        "Bb",
+        "G#",
+        "Cm",
+        "Bb",
+        "D#",
+        "Fm",
+        "G#",
+        "D#",
+        "D#",
+        "Bb",
+        "G#",
+        "Cm",
+        "Bb"
+    ],
+    "key": "Eb",
+    "all-chords-in-c": [
+        "C",
+        "G",
+        "F",
+        "A",
+        "G",
+        "C",
+        "D",
+        "F",
+        "C",
+        "C",
+        "G",
+        "F",
+        "A",
+        "G"
+    ]
+}

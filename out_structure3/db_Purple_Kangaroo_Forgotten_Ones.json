@@ -1,0 +1,65 @@
+{
+    "order": [
+        "outro"
+    ],
+    "components": {
+        "outro": [
+            "Gmaj7",
+            "G",
+            "Gsus2",
+            "G",
+            "Gmaj7",
+            "G",
+            "Gsus2",
+            "G",
+            "G",
+            "G-5",
+            "G",
+            "G",
+            "G",
+            "Gsus2",
+            "G",
+            "Gsus2",
+            "G"
+        ]
+    },
+    "all-chords": [
+        "Gmaj7",
+        "G",
+        "Gsus2",
+        "G",
+        "Gmaj7",
+        "G",
+        "Gsus2",
+        "G",
+        "G",
+        "G-5",
+        "G",
+        "G",
+        "G",
+        "Gsus2",
+        "G",
+        "Gsus2",
+        "G"
+    ],
+    "key": "D",
+    "all-chords-in-c": [
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F",
+        "F"
+    ]
+}

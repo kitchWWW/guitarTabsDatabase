@@ -1,0 +1,83 @@
+{
+    "order": [
+        "intro-1",
+        "intro-2"
+    ],
+    "components": {
+        "intro-1": [
+            "Asus",
+            "Am",
+            "Em",
+            "Dm",
+            "G",
+            "Dm",
+            "G",
+            "Em",
+            "Am",
+            "Em",
+            "Am",
+            "C",
+            "G",
+            "Dm",
+            "Am",
+            "C",
+            "G",
+            "Dm",
+            "Am"
+        ],
+        "intro-2": [
+            "Asus",
+            "Am",
+            "Em"
+        ]
+    },
+    "all-chords": [
+        "Asus",
+        "Am",
+        "Em",
+        "Dm",
+        "G",
+        "Dm",
+        "G",
+        "Em",
+        "Am",
+        "Em",
+        "Am",
+        "C",
+        "G",
+        "Dm",
+        "Am",
+        "C",
+        "G",
+        "Dm",
+        "Am",
+        "Asus",
+        "Am",
+        "Em"
+    ],
+    "key": "C",
+    "all-chords-in-c": [
+        "A",
+        "A",
+        "E",
+        "D",
+        "G",
+        "D",
+        "G",
+        "E",
+        "A",
+        "E",
+        "A",
+        "C",
+        "G",
+        "D",
+        "A",
+        "C",
+        "G",
+        "D",
+        "A",
+        "A",
+        "A",
+        "E"
+    ]
+}

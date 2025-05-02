@@ -1,0 +1,44 @@
+{
+    "order": [
+        "intro",
+        "solo"
+    ],
+    "components": {
+        "intro": [
+            "C#m",
+            "G#m",
+            "B",
+            "A",
+            "E"
+        ],
+        "solo": [
+            "E",
+            "A",
+            "C#m",
+            "B"
+        ]
+    },
+    "all-chords": [
+        "C#m",
+        "G#m",
+        "B",
+        "A",
+        "E",
+        "E",
+        "A",
+        "C#m",
+        "B"
+    ],
+    "key": "E",
+    "all-chords-in-c": [
+        "A",
+        "E",
+        "G",
+        "F",
+        "C",
+        "C",
+        "F",
+        "A",
+        "G"
+    ]
+}
